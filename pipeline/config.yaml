@@ -1,0 +1,26 @@
+# Caspian & Black Sea Monitor Configuration
+project:
+  id: caspian-black-sea-monitor
+  name: "Caspian & Black Sea Monitor"
+  description: "Real-time vessel tracking, energy shipments, and maritime activity."
+
+openrouter:
+  model: "openrouter/free"
+  fallback_model: "openrouter/free"
+
+gdelt_query: "maritime shipping vessel port"
+include_forex: true
+
+sources:
+  - name: "GDELT"
+
+refresh:
+  interval_hours: 6
+  retry_attempts: 3
+
+scoring:
+  scale: "1-10"
+  thresholds:
+    high: 7
+    medium: 4
+    low: 0
