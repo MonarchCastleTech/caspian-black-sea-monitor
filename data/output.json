@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-05T22:54:54.408073+00:00",
+    "generated": "2026-08-11T03:20:17.833449+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -33,907 +33,456 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [
-      {
-        "title": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness",
-        "url": "https://www.theyeshivaworld.com/news/israel-news/2582738/red-sea-attack-indian-cargo-ship-sinks-off-yemen-as-israel-boosts-naval-readiness.html",
-        "domain": "theyeshivaworld.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T190000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "MEA Calls Red Sea Shipping Attacks Deeply Worrisome After Indian Flagged Vessel Sinks",
-        "url": "https://www.oneindia.com/india/india-calls-red-sea-shipping-attacks-deeply-worrisome-after-indian-flagged-vessel-sinks-8166953.html",
-        "domain": "oneindia.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T053000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  Extremely hazardou : Seafarer union urges PM Modi to deploy Navy after Indian vessel sinks",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/extremely-hazardous-seafarers-union-urges-pm-modi-to-deploy-navy-after-indian-vessel-sinks/articleshow/132908467.cms",
-        "domain": "timesofindia.indiatimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T100000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "India Condemns Red Sea Attack , 13 Sailors Rescued After Ship Sinks",
-        "url": "https://www.deccanchronicle.com/nation/world/13-indian-sailors-rescued-after-india-flagged-ship-sinks-after-attack-in-red-sea-1976691",
-        "domain": "deccanchronicle.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T031500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Hormuz , Red Sea Shipping Drops to New Lows",
-        "url": "https://www.newkerala.com/news/a/shipping-through-hormuz-declines-as-red-sea-traffic-696.htm",
-        "domain": "newkerala.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T091500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Crew rescued after India - flagged ship hit by projectile sinks",
-        "url": "https://timesofindia.indiatimes.com/india/crew-rescued-after-india-flagged-ship-hit-by-projectile-sinks/articleshow/132881092.cms",
-        "domain": "timesofindia.indiatimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T004500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "MEA condemns attack on Indian - flagged vessel that sank in Red Sea ; all 13 Indian sailors rescued",
-        "url": "https://www.ibtimes.co.in/mea-condemns-attack-indian-flagged-vessel-that-sank-red-sea-all-13-indian-sailors-rescued-904457",
-        "domain": "ibtimes.co.in",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T104500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "https://www.tribuneindia.com/news/world/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack/",
-        "domain": "tribuneindia.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T043000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Houthis Hit Saudi Tanker in Red Sea , Vow More Attacks",
-        "url": "https://www.newkerala.com/news/a/yemens-houthis-claim-missile-attack-saudi-oil-tanker-563.htm",
-        "domain": "newkerala.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T114500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "4 , 052 stranded Indian seafarers repatriated amid West Asia crisis , says Shipping Minister Sarbananda Sonowal",
-        "url": "https://economictimes.indiatimes.com/news/india/over-4000-indian-seafarers-repatriated-amid-west-asia-crisis-shipping-minister-reveals-key-measures-for-safety-and-support/articleshow/132943904.cms",
-        "domain": "economictimes.indiatimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T154500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Raudonojoje jūroje po antpuolio nuskendo Indijos laivas",
-        "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3012010/raudonojoje-juroje-po-antpuolio-nuskendo-indijos-laivas",
-        "domain": "lrt.lt",
-        "language": "Lithuanian",
-        "tone": 0,
-        "seendate": "20260805T061500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Houthis target two Saudi oil tankers within hours as Red Sea tensions flare",
-        "url": "https://www.albawaba.com/news/houthis-target-two-saudi-oil-tankers-1634506",
-        "domain": "albawaba.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T191500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Pakistan announces up to 80 % discount on transshipment cargo",
-        "url": "https://arynews.tv/pakistan-announces-up-to-80-discount-on-transshipment-cargo",
-        "domain": "arynews.tv",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T130000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "MMEA detains two unlicensed , overloaded passenger boats off Kuala Selangor waters",
-        "url": "https://www.thestar.com.my/news/nation/2026/08/05/mmea-detains-two-unlicensed-overloaded-passenger-boats-off-kuala-selangor-waters",
-        "domain": "thestar.com.my",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T054500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Yemen denounces Houthi attack on Indian cargo vessel in Red Sea",
-        "url": "https://aninews.in/news/world/middle-east/yemen-denounces-houthi-attack-on-indian-cargo-vessel-in-red-sea20260805171635/",
-        "domain": "aninews.in",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T124500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Drone strike on Turkish ship in Black Sea escalates maritime war , threatens global food supply – NaturalNews . com",
-        "url": "https://www.naturalnews.com/2026-08-04-drone-strike-in-black-sea-escalates-maritime-war.html",
-        "domain": "naturalnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T030000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Yemen condemns Houthi attack on Indian cargo vessel in Red Sea",
-        "url": "https://www.prokerala.com/news/articles/a1796623.html",
-        "domain": "prokerala.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T091500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Indian - flagged ship sinks after projectile strike in Red Sea ; MEA condemns attack",
-        "url": "https://www.theweek.in/news/middle-east/2026/08/05/indian-vessel-red-sea-attack-houthis.html",
-        "domain": "theweek.in",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T033000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  Deeply worrisome : India condemns attack on ship in Red Sea , Yemen blames Houthis for  terrorist attack  ",
-        "url": "https://www.hindustantimes.com/india-news/deeply-worrisome-india-condemns-attack-on-ship-in-red-sea-yemen-blames-houthis-for-terrorist-attack-101785895992680.html",
-        "domain": "hindustantimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T030000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran in Oman sta se dogovorila o novi plovni poti skozi Hormuško ožino",
-        "url": "https://www.rtvslo.si/svet/vojna-v-iranu/iran-in-oman-sta-se-dogovorila-o-novi-plovni-poti-skozi-hormusko-ozino/790117",
-        "domain": "rtvslo.si",
-        "language": "Slovenian",
-        "tone": 0,
-        "seendate": "20260805T203000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Shipping through Hormuz declines as Red Sea traffic drops to lowest since June 1 : S & P Global",
-        "url": "http://www.batonrougepost.com/news/279223415/shipping-through-hormuz-declines-as-red-sea-traffic-drops-to-lowest-since-june-1-sp-global",
-        "domain": "batonrougepost.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T133000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Shipping through Hormuz declines as Red Sea traffic drops to lowest since June 1 : S & P Global",
-        "url": "http://www.russiaherald.com/news/279223415/shipping-through-hormuz-declines-as-red-sea-traffic-drops-to-lowest-since-june-1-sp-global",
-        "domain": "russiaherald.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T144500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump says deal to reopen Strait of Hormuz could come as early as Wednesday",
-        "url": "https://www.wral.com/news/ap/ecdbd-trump-says-deal-to-reopen-strait-of-hormuz-could-come-as-early-as-wednesday/",
-        "domain": "wral.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T093000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Deal to reopen Strait of Hormuz could come within next two days , Trump says",
-        "url": "https://www.theglobeandmail.com/world/article-us-iran-strait-of-hormuz/",
-        "domain": "theglobeandmail.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T101500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump says deal to reopen Strait of Hormuz could come as early as Wednesday - Boston News , Weather , Sports",
-        "url": "https://whdh.com/news/trump-says-deal-to-reopen-strait-of-hormuz-could-come-as-early-as-wednesday/",
-        "domain": "whdh.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T111500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump says deal on Strait of Hormuz possible as early as Wednesday – NBC New York",
-        "url": "https://www.nbcnewyork.com/news/national-international/trump-says-deal-reopen-strait-of-hormuz-as-early-as-wednesday/6533794/",
-        "domain": "nbcnewyork.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T090000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump says deal on Strait of Hormuz possible as early as Wednesday – NBC 5 Dallas - Fort Worth",
-        "url": "https://www.nbcdfw.com/news/national-international/trump-says-deal-reopen-strait-of-hormuz-as-early-as-wednesday/4058614/",
-        "domain": "nbcdfw.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T124500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump says deal on Strait of Hormuz possible as early as Wednesday – NBC4 Washington",
-        "url": "https://www.nbcwashington.com/news/national-international/trump-says-deal-reopen-strait-of-hormuz-as-early-as-wednesday/4138637/",
-        "domain": "nbcwashington.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T114500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump says deal on Strait of Hormuz possible as early as Wednesday – NBC Los Angeles",
-        "url": "https://www.nbclosangeles.com/news/national-international/trump-says-deal-reopen-strait-of-hormuz-as-early-as-wednesday/3925805/",
-        "domain": "nbclosangeles.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T111500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump says deal on Strait of Hormuz possible as early as Wednesday – NBC Bay Area",
-        "url": "https://www.nbcbayarea.com/news/national-international/trump-says-deal-reopen-strait-of-hormuz-as-early-as-wednesday/4123884/",
-        "domain": "nbcbayarea.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T104500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.oklahomastar.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "oklahomastar.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T000000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.utahindependent.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "utahindependent.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T000000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.floridastatesman.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "floridastatesman.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T231500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.birminghamstar.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "birminghamstar.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T231500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.bruneinews.net/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "bruneinews.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T231500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.laosnews.net/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "laosnews.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T231500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.sierraleonetimes.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "sierraleonetimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T231500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.greekherald.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "greekherald.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T231500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.kenyastar.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "kenyastar.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T230000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.northkoreatimes.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "northkoreatimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T234500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.mainemirror.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "mainemirror.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T234500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.europesun.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "europesun.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T004500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.afghanistansun.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "afghanistansun.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T003000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.londonmercury.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "londonmercury.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T234500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.shanghainews.net/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "shanghainews.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T230000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.israelherald.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "israelherald.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T230000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.parisguardian.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "parisguardian.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T230000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.haitisun.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "haitisun.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T230000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-        "url": "http://www.brazilsun.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-        "domain": "brazilsun.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260804T230000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump says deal on Strait of Hormuz possible as early as Wednesday – NBC10 Philadelphia",
-        "url": "https://www.nbcphiladelphia.com/news/national-international/trump-says-deal-reopen-strait-of-hormuz-as-early-as-wednesday/4443633/",
-        "domain": "nbcphiladelphia.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260805T091500Z",
-        "source": "GDELT"
-      }
-    ],
+    "gdelt_articles": [],
     "earthquakes": [
       {
-        "place": "9 km NW of Pinnacles, CA",
-        "mag": 1.54,
-        "time": 1785970040240,
-        "lon": -121.213500976562,
-        "lat": 36.5904998779297,
-        "depth": 5.53999996185303,
+        "place": "76 km S of Ugashik, Alaska",
+        "mag": 0.9,
+        "time": 1786417738359,
+        "lon": -157.621,
+        "lat": 56.839,
+        "depth": 84.8,
         "source": "USGS"
       },
       {
-        "place": "31 km NW of Covelo, CA",
-        "mag": 4.45,
-        "time": 1785968517380,
-        "lon": -123.451835632324,
-        "lat": 40.0191650390625,
-        "depth": 4.53999996185303,
+        "place": "6 km WNW of The Geysers, CA",
+        "mag": 0.76,
+        "time": 1786414967710,
+        "lon": -122.818336486816,
+        "lat": 38.8059997558594,
+        "depth": 2.52999997138977,
         "source": "USGS"
       },
       {
-        "place": "9 km NW of Georgetown, Idaho",
-        "mag": 1.94,
-        "time": 1785968491720,
-        "lon": -111.446666666667,
-        "lat": 42.55,
-        "depth": 11.6,
+        "place": "16 km W of Anchor Point, Alaska",
+        "mag": 2.4,
+        "time": 1786414475628,
+        "lon": -152.12,
+        "lat": 59.792,
+        "depth": 71.8,
         "source": "USGS"
       },
       {
-        "place": "31 km NNW of Covelo, CA",
-        "mag": 4.07,
-        "time": 1785968458550,
-        "lon": -123.443832397461,
-        "lat": 40.0270004272461,
-        "depth": 7.76999998092651,
+        "place": "83 km SE of Atka, Alaska",
+        "mag": 3.6,
+        "time": 1786414275032,
+        "lon": -173.399,
+        "lat": 51.6378,
+        "depth": 46.5,
         "source": "USGS"
       },
       {
-        "place": "24 km SSW of Silver Gate, Montana",
-        "mag": 1.99,
-        "time": 1785967516920,
-        "lon": -110.052666666667,
-        "lat": 44.789,
-        "depth": 15.85,
+        "place": "59 km S of Whites City, New Mexico",
+        "mag": 1.5,
+        "time": 1786413903142,
+        "lon": -104.484,
+        "lat": 31.651,
+        "depth": 3.6965,
         "source": "USGS"
       },
       {
-        "place": "3 km NNW of The Geysers, CA",
-        "mag": 0.72,
-        "time": 1785967348940,
-        "lon": -122.764335632324,
-        "lat": 38.8025016784668,
-        "depth": 4.07000017166138,
+        "place": "7 km SSE of Loma Linda, CA",
+        "mag": 1.15,
+        "time": 1786413462570,
+        "lon": -117.221666666667,
+        "lat": 33.9986666666667,
+        "depth": 3.35,
         "source": "USGS"
       },
       {
-        "place": "17 km WSW of Johannesburg, CA",
-        "mag": 0.91,
-        "time": 1785966777320,
-        "lon": -117.815833333333,
-        "lat": 35.3221666666667,
-        "depth": 7.07,
+        "place": "42 km N of Larsen Bay, Alaska",
+        "mag": 2.2,
+        "time": 1786413414627,
+        "lon": -154.068,
+        "lat": 57.918,
+        "depth": 50.2,
         "source": "USGS"
       },
       {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 0.98,
-        "time": 1785966444810,
-        "lon": -117.841333333333,
-        "lat": 36.0656666666667,
-        "depth": 2.61,
+        "place": "62 km SE of Denali National Park, Alaska",
+        "mag": 1.6,
+        "time": 1786413205087,
+        "lon": -150.931,
+        "lat": 63.104,
+        "depth": 124.1,
         "source": "USGS"
       },
       {
-        "place": "32 km SW of Sarangani, Philippines",
-        "mag": 5.9,
-        "time": 1785966088262,
-        "lon": 125.2809,
-        "lat": 5.1757,
+        "place": "1 km ENE of Borrego Springs, CA",
+        "mag": 0.64,
+        "time": 1786412733280,
+        "lon": -116.364166666667,
+        "lat": 33.2613333333333,
+        "depth": 2.7,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km SE of Pinnacles, CA",
+        "mag": 2.03,
+        "time": 1786412565980,
+        "lon": -121.10050201416,
+        "lat": 36.4811668395996,
+        "depth": 3.96000003814697,
+        "source": "USGS"
+      },
+      {
+        "place": "24 km SSE of Lindsay, Texas",
+        "mag": 1.4,
+        "time": 1786412297849,
+        "lon": -103.477,
+        "lat": 31.159,
+        "depth": 5.663,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km S of Devore, CA",
+        "mag": 1.47,
+        "time": 1786411800280,
+        "lon": -117.408333333333,
+        "lat": 34.1676666666667,
+        "depth": 8.56,
+        "source": "USGS"
+      },
+      {
+        "place": "232 km ESE of Attu Station, Alaska",
+        "mag": 3.4,
+        "time": 1786411082181,
+        "lon": 176.3308,
+        "lat": 52.0186,
         "depth": 10,
         "source": "USGS"
       },
       {
-        "place": "10 km S of Princeton, Canada",
-        "mag": 1.87,
-        "time": 1785965160900,
-        "lon": -120.482333333333,
-        "lat": 49.3623333333333,
-        "depth": -0.51,
+        "place": "81 km SSE of Bengkulu, Indonesia",
+        "mag": 4.7,
+        "time": 1786410766205,
+        "lon": 102.5519,
+        "lat": -4.4801,
+        "depth": 61.94,
         "source": "USGS"
       },
       {
-        "place": "51 km SE of Egegik, Alaska",
-        "mag": 1.9,
-        "time": 1785965067207,
-        "lon": -156.714,
-        "lat": 57.915,
-        "depth": 174.6,
+        "place": "2 km NNW of The Geysers, CA",
+        "mag": 0.74,
+        "time": 1786410565250,
+        "lon": -122.76016998291,
+        "lat": 38.7906684875488,
+        "depth": 1.53999996185303,
         "source": "USGS"
       },
       {
-        "place": "30 km SE of Chickaloon, Alaska",
-        "mag": 1.1,
-        "time": 1785964574216,
-        "lon": -148.08,
-        "lat": 61.597,
+        "place": "69 km ENE of Pedro Bay, Alaska",
+        "mag": 2.3,
+        "time": 1786408310222,
+        "lon": -152.969,
+        "lat": 60.032,
+        "depth": 123.9,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km ESE of Ashland, Oklahoma",
+        "mag": 1.89,
+        "time": 1786407913044,
+        "lon": -95.99471283,
+        "lat": 34.74200058,
+        "depth": 7.920321941,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km NW of The Geysers, CA",
+        "mag": 0.99,
+        "time": 1786407652820,
+        "lon": -122.809669494629,
+        "lat": 38.8246650695801,
+        "depth": 3.38000011444092,
+        "source": "USGS"
+      },
+      {
+        "place": "66 km ENE of Pedro Bay, Alaska",
+        "mag": 1.4,
+        "time": 1786407242303,
+        "lon": -153.042,
+        "lat": 60.06,
+        "depth": 123.7,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NW of The Geysers, CA",
+        "mag": 1.3,
+        "time": 1786407222460,
+        "lon": -122.798500061035,
+        "lat": 38.8214988708496,
+        "depth": 1.98000001907349,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km E of Fox, Alaska",
+        "mag": 1,
+        "time": 1786407046588,
+        "lon": -147.367,
+        "lat": 64.974,
         "depth": 5,
         "source": "USGS"
       },
       {
-        "place": "15 km NE of Little Lake, CA",
-        "mag": 1.03,
-        "time": 1785963727300,
-        "lon": -117.777333333333,
-        "lat": 36.0196666666667,
-        "depth": 1.56,
+        "place": "19 km SW of Snyder, Texas",
+        "mag": 1.8,
+        "time": 1786406183554,
+        "lon": -101.058,
+        "lat": 32.59,
+        "depth": 8.2519,
         "source": "USGS"
       },
       {
-        "place": "99 km WSW of Houma, Tonga",
-        "mag": 4.6,
-        "time": 1785963578899,
-        "lon": -176.1885,
-        "lat": -21.5171,
-        "depth": 137.247,
+        "place": "40 km SW of Ludlow, CA",
+        "mag": 1.44,
+        "time": 1786406174460,
+        "lon": -116.484666666667,
+        "lat": 34.476,
+        "depth": 2.14,
         "source": "USGS"
       },
       {
-        "place": "12 km ENE of Pāhala, Hawaii",
-        "mag": 1.86,
-        "time": 1785963017580,
-        "lon": -155.367492675781,
-        "lat": 19.2446670532227,
-        "depth": 31.6399993896484,
+        "place": "4 km ENE of Borrego Springs, CA",
+        "mag": 0.56,
+        "time": 1786406092280,
+        "lon": -116.338166666667,
+        "lat": 33.2718333333333,
+        "depth": 2.91,
         "source": "USGS"
       },
       {
-        "place": "199 km SE of Perryville, Alaska",
-        "mag": 2.8,
-        "time": 1785962977444,
-        "lon": -156.804,
-        "lat": 54.714,
-        "depth": 20,
+        "place": "29 km ENE of Balmorhea, Texas",
+        "mag": 1.8,
+        "time": 1786405786291,
+        "lon": -103.471,
+        "lat": 31.101,
+        "depth": 5.3017,
         "source": "USGS"
       },
       {
-        "place": "8 km W of Davis, Oklahoma",
-        "mag": 1.53,
-        "time": 1785962269789,
-        "lon": -97.20966667,
-        "lat": 34.50716667,
-        "depth": 0,
+        "place": "4 km ESE of Maria Antonia, Puerto Rico",
+        "mag": 2.15,
+        "time": 1786404493150,
+        "lon": -66.8491666666667,
+        "lat": 17.9546666666667,
+        "depth": 14.69,
         "source": "USGS"
       },
       {
-        "place": "200 km SE of Perryville, Alaska",
-        "mag": 2.9,
-        "time": 1785961825430,
-        "lon": -156.775,
-        "lat": 54.727,
-        "depth": 20,
+        "place": "14 km NNW of Avenal, CA",
+        "mag": 1.64,
+        "time": 1786404406230,
+        "lon": -120.208831787109,
+        "lat": 36.1086654663086,
+        "depth": 7.8899998664856,
         "source": "USGS"
       },
       {
-        "place": "1 km NNW of The Geysers, CA",
-        "mag": 1.05,
-        "time": 1785961787890,
-        "lon": -122.759002685547,
-        "lat": 38.7851676940918,
-        "depth": 2.16000008583069,
+        "place": "2 km NNW of The Geysers, CA",
+        "mag": 1.09,
+        "time": 1786404051300,
+        "lon": -122.763664245605,
+        "lat": 38.7931671142578,
+        "depth": 3.05999994277954,
         "source": "USGS"
       },
       {
-        "place": "1 km N of The Geysers, CA",
-        "mag": 1.04,
-        "time": 1785961708100,
-        "lon": -122.757835388184,
-        "lat": 38.7841682434082,
-        "depth": 2,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km SW of Salton City, CA",
-        "mag": 0.85,
-        "time": 1785961630500,
-        "lon": -115.988833333333,
-        "lat": 33.2585,
-        "depth": 4.45,
-        "source": "USGS"
-      },
-      {
-        "place": "47 km NW of Toyah, Texas",
-        "mag": 1.6,
-        "time": 1785960869952,
-        "lon": -104.132,
-        "lat": 31.626,
-        "depth": 4.2009,
-        "source": "USGS"
-      },
-      {
-        "place": "17 km WSW of Johannesburg, CA",
-        "mag": 1.4,
-        "time": 1785960450130,
-        "lon": -117.806,
-        "lat": 35.3156666666667,
-        "depth": 7.2,
-        "source": "USGS"
-      },
-      {
-        "place": "31 km SSW of Ialibu, Papua New Guinea",
-        "mag": 5.2,
-        "time": 1785959186861,
-        "lon": 143.8444,
-        "lat": -6.5225,
-        "depth": 10.028,
-        "source": "USGS"
-      },
-      {
-        "place": "1 km WSW of Pāhala, Hawaii",
-        "mag": 2.2,
-        "time": 1785959175940,
-        "lon": -155.492172241211,
-        "lat": 19.1961669921875,
-        "depth": 29.9699993133545,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km S of Pāhala, Hawaii",
-        "mag": 1.79,
-        "time": 1785959002310,
-        "lon": -155.487503051758,
-        "lat": 19.1264991760254,
-        "depth": 32.7799987792969,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km SSW of Balmorhea, Texas",
-        "mag": 1.9,
-        "time": 1785958724974,
-        "lon": -103.794,
-        "lat": 30.896,
-        "depth": 0,
-        "source": "USGS"
-      },
-      {
-        "place": "45 km WNW of Toyah, Texas",
-        "mag": 1.6,
-        "time": 1785958429424,
-        "lon": -104.232,
-        "lat": 31.484,
-        "depth": 0.3119,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Ocotillo Wells, CA",
-        "mag": 0.79,
-        "time": 1785958381110,
-        "lon": -116.030166666667,
-        "lat": 33.1823333333333,
-        "depth": 4.83,
-        "source": "USGS"
-      },
-      {
-        "place": "23 km ESE of Anza, CA",
-        "mag": 0.5,
-        "time": 1785958336900,
-        "lon": -116.443,
-        "lat": 33.4855,
-        "depth": 2.6,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km SE of Cloverdale, CA",
-        "mag": 1.27,
-        "time": 1785958308340,
-        "lon": -122.950996398926,
-        "lat": 38.7675018310547,
-        "depth": 2.19000005722046,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km NNW of Lake Elsinore, CA",
-        "mag": 1.59,
-        "time": 1785957760030,
-        "lon": -117.342666666667,
-        "lat": 33.7095,
-        "depth": 1.35,
-        "source": "USGS"
-      },
-      {
-        "place": "23 km E of Forsan, Texas",
-        "mag": 1.7,
-        "time": 1785957627557,
-        "lon": -101.115,
-        "lat": 32.123,
-        "depth": 2.7306,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km NNE of Chickasha, Oklahoma",
-        "mag": 0.54,
-        "time": 1785956652169,
-        "lon": -97.91716667,
-        "lat": 35.09116667,
-        "depth": 9.4,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km S of Mojave, CA",
-        "mag": 1.08,
-        "time": 1785956099970,
-        "lon": -118.184,
-        "lat": 34.9893333333333,
-        "depth": 0.24,
-        "source": "USGS"
-      },
-      {
-        "place": "12 km NW of Pecos, Texas",
-        "mag": 1.6,
-        "time": 1785956072994,
-        "lon": -103.597,
-        "lat": 31.487,
-        "depth": 0,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km WSW of Johannesburg, CA",
-        "mag": 1.14,
-        "time": 1785955624700,
-        "lon": -117.805166666667,
-        "lat": 35.3233333333333,
-        "depth": 6.78,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km ESE of Santa Venetia, CA",
-        "mag": 1.33,
-        "time": 1785955456440,
-        "lon": -122.452163696289,
-        "lat": 37.9841651916504,
-        "depth": 1.23000001907349,
-        "source": "USGS"
-      },
-      {
-        "place": "1 km NNW of The Geysers, CA",
-        "mag": 1.62,
-        "time": 1785955269610,
-        "lon": -122.758163452148,
-        "lat": 38.7826652526855,
-        "depth": 1.75,
-        "source": "USGS"
-      },
-      {
-        "place": "14 km SSW of Susitna, Alaska",
-        "mag": 1.7,
-        "time": 1785955209940,
-        "lon": -150.64,
-        "lat": 61.431,
-        "depth": 0.9,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km E of Pistol River, Oregon",
-        "mag": 0.95,
-        "time": 1785954892090,
-        "lon": -124.3,
-        "lat": 42.2745,
-        "depth": 6.96,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km S of Owasso, Oklahoma",
-        "mag": 1.38,
-        "time": 1785954599100,
-        "lon": -95.84316667,
-        "lat": 36.1995,
+        "place": "20 km SE of Toyah, Texas",
+        "mag": 1.1,
+        "time": 1786403746648,
+        "lon": -103.653,
+        "lat": 31.171,
         "depth": 0,
         "source": "USGS"
       },
       {
         "place": "7 km NW of The Geysers, CA",
-        "mag": 0.76,
-        "time": 1785954576810,
-        "lon": -122.813331604004,
-        "lat": 38.818000793457,
-        "depth": 2.97000002861023,
+        "mag": 0.74,
+        "time": 1786403728950,
+        "lon": -122.814834594727,
+        "lat": 38.8264999389648,
+        "depth": 2.04999995231628,
         "source": "USGS"
       },
       {
-        "place": "42 km NNW of Petersville, Alaska",
-        "mag": 2.1,
-        "time": 1785954254137,
-        "lon": -151.119,
-        "lat": 62.846,
-        "depth": 106.6,
+        "place": "18 km ESE of Julian, CA",
+        "mag": 0.65,
+        "time": 1786403520230,
+        "lon": -116.412166666667,
+        "lat": 33.0336666666667,
+        "depth": 8.64,
         "source": "USGS"
       },
       {
-        "place": "10 km WSW of Anza, CA",
-        "mag": 0.49,
-        "time": 1785953746930,
-        "lon": -116.764833333333,
-        "lat": 33.5101666666667,
-        "depth": 4.47,
+        "place": "33 km E of Balmorhea, Texas",
+        "mag": 1.7,
+        "time": 1786402463982,
+        "lon": -103.4,
+        "lat": 31.022,
+        "depth": 14.2975,
         "source": "USGS"
       },
       {
-        "place": "17 km WSW of Johannesburg, CA",
-        "mag": 1.15,
-        "time": 1785953529730,
-        "lon": -117.807333333333,
-        "lat": 35.3155,
-        "depth": 8.04,
+        "place": "3 km N of The Geysers, CA",
+        "mag": 1.08,
+        "time": 1786402067350,
+        "lon": -122.762001037598,
+        "lat": 38.7999992370605,
+        "depth": 3.76999998092651,
         "source": "USGS"
       },
       {
-        "place": "Rat Islands, Aleutian Islands, Alaska",
-        "mag": 3.4,
-        "time": 1785953203645,
-        "lon": 178.549,
-        "lat": 51.57,
-        "depth": 65,
+        "place": "6 km E of Clam Gulch, Alaska",
+        "mag": 2,
+        "time": 1786400560203,
+        "lon": -151.28,
+        "lat": 60.242,
+        "depth": 60.9,
         "source": "USGS"
       },
       {
-        "place": "14 km NE of Hermiston, Oregon",
-        "mag": 1.52,
-        "time": 1785953034860,
-        "lon": -119.1385,
-        "lat": 45.9138333333333,
-        "depth": -0.51,
+        "place": "13 km SW of Wrightwood, CA",
+        "mag": 0.94,
+        "time": 1786400450730,
+        "lon": -117.746666666667,
+        "lat": 34.2975,
+        "depth": 2.27,
         "source": "USGS"
       },
       {
-        "place": "45 km NNW of Los Algodones, B.C., MX",
-        "mag": 1.25,
-        "time": 1785952289260,
-        "lon": -114.977333333333,
-        "lat": 33.0458333333333,
-        "depth": 3.61,
+        "place": "24 km SW of Garden City, Texas",
+        "mag": 1.5,
+        "time": 1786399838630,
+        "lon": -101.686,
+        "lat": 31.723,
+        "depth": 3.21,
         "source": "USGS"
       },
       {
-        "place": "63 km NW of San Antonio, Puerto Rico",
-        "mag": 3.09,
-        "time": 1785950723010,
-        "lon": -67.565,
-        "lat": 18.8531666666667,
-        "depth": 7.23,
+        "place": "6 km NNE of Beaumont, CA",
+        "mag": 1.33,
+        "time": 1786399041820,
+        "lon": -116.949,
+        "lat": 33.9806666666667,
+        "depth": 15.65,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km ENE of Skwentna, Alaska",
+        "mag": 1.1,
+        "time": 1786398868999,
+        "lon": -151.316,
+        "lat": 62.013,
+        "depth": 15,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km NW of The Geysers, CA",
+        "mag": 1.07,
+        "time": 1786398471020,
+        "lon": -122.806335449219,
+        "lat": 38.828498840332,
+        "depth": 1.45000004768372,
+        "source": "USGS"
+      },
+      {
+        "place": "1 km NNW of Pāhala, Hawaii",
+        "mag": 2.36,
+        "time": 1786397083980,
+        "lon": -155.48583984375,
+        "lat": 19.219165802002,
+        "depth": 28.4099998474121,
+        "source": "USGS"
+      },
+      {
+        "place": "58 km S of Whites City, New Mexico",
+        "mag": 1.5,
+        "time": 1786397053864,
+        "lon": -104.315,
+        "lat": 31.649,
+        "depth": 5.2718,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km WNW of Cobb, CA",
+        "mag": 1.22,
+        "time": 1786397005310,
+        "lon": -122.832496643066,
+        "lat": 38.8556671142578,
+        "depth": 0.939999997615814,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km WNW of Cobb, CA",
+        "mag": 1.73,
+        "time": 1786396998920,
+        "lon": -122.836502075195,
+        "lat": 38.8526649475098,
+        "depth": 0.959999978542328,
+        "source": "USGS"
+      },
+      {
+        "place": "58 km S of Whites City, New Mexico",
+        "mag": 1.6,
+        "time": 1786396449402,
+        "lon": -104.317,
+        "lat": 31.647,
+        "depth": 3.8489,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km NNW of The Geysers, CA",
+        "mag": 0.7,
+        "time": 1786395915260,
+        "lon": -122.782333374023,
+        "lat": 38.808666229248,
+        "depth": -0.140000000596046,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km SW of Idyllwild, CA",
+        "mag": 0.83,
+        "time": 1786395821870,
+        "lon": -116.755,
+        "lat": 33.7055,
+        "depth": 15.03,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km NW of The Geysers, CA",
+        "mag": 0.77,
+        "time": 1786395705320,
+        "lon": -122.80899810791,
+        "lat": 38.8233337402344,
+        "depth": 3.08999991416931,
+        "source": "USGS"
+      },
+      {
+        "place": "60 km WNW of Skwentna, Alaska",
+        "mag": 1.5,
+        "time": 1786395637031,
+        "lon": -152.399,
+        "lat": 62.256,
+        "depth": 0.4,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km NW of The Geysers, CA",
+        "mag": 0.71,
+        "time": 1786394504120,
+        "lon": -122.77116394043,
+        "lat": 38.7873344421387,
+        "depth": 2.16000008583069,
+        "source": "USGS"
+      },
+      {
+        "place": "100 km SSE of Sand Point, Alaska",
+        "mag": 1.9,
+        "time": 1786394437938,
+        "lon": -160.111,
+        "lat": 54.459,
+        "depth": 13.6,
         "source": "USGS"
       }
     ],
@@ -948,15 +497,15 @@
       },
       {
         "currency": "AFN",
-        "rate": 65.72
+        "rate": 65.51
       },
       {
         "currency": "ALL",
-        "rate": 81.07
+        "rate": 80.66
       },
       {
         "currency": "AMD",
-        "rate": 366.47
+        "rate": 366.5
       },
       {
         "currency": "ANG",
@@ -964,11 +513,11 @@
       },
       {
         "currency": "AOA",
-        "rate": 926.54
+        "rate": 925.26
       },
       {
         "currency": "ARS",
-        "rate": 1496.45
+        "rate": 1498.09
       },
       {
         "currency": "AUD",
@@ -984,7 +533,7 @@
       },
       {
         "currency": "BAM",
-        "rate": 1.7
+        "rate": 1.69
       },
       {
         "currency": "BBD",
@@ -992,11 +541,11 @@
       },
       {
         "currency": "BDT",
-        "rate": 123.71
+        "rate": 123.59
       },
       {
         "currency": "BGN",
-        "rate": 1.7
+        "rate": 1.69
       },
       {
         "currency": "BHD",
@@ -1004,7 +553,7 @@
       },
       {
         "currency": "BIF",
-        "rate": 2991.62
+        "rate": 2991.46
       },
       {
         "currency": "BMD",
@@ -1016,229 +565,12 @@
       },
       {
         "currency": "BOB",
-        "rate": 12.17
+        "rate": 11.96
       }
     ]
   },
-  "entities": [
-    {
-      "id": 1,
-      "name": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T190000Z",
-      "source": "theyeshivaworld.com"
-    },
-    {
-      "id": 2,
-      "name": "MEA Calls Red Sea Shipping Attacks Deeply Worrisome After In",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T053000Z",
-      "source": "oneindia.com"
-    },
-    {
-      "id": 3,
-      "name": "  Extremely hazardou : Seafarer union urges PM Modi to deplo",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T100000Z",
-      "source": "timesofindia.indiatimes.com"
-    },
-    {
-      "id": 4,
-      "name": "India Condemns Red Sea Attack , 13 Sailors Rescued After Shi",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T031500Z",
-      "source": "deccanchronicle.com"
-    },
-    {
-      "id": 5,
-      "name": "Hormuz , Red Sea Shipping Drops to New Lows",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T091500Z",
-      "source": "newkerala.com"
-    },
-    {
-      "id": 6,
-      "name": "Crew rescued after India - flagged ship hit by projectile si",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T004500Z",
-      "source": "timesofindia.indiatimes.com"
-    },
-    {
-      "id": 7,
-      "name": "MEA condemns attack on Indian - flagged vessel that sank in ",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T104500Z",
-      "source": "ibtimes.co.in"
-    },
-    {
-      "id": 8,
-      "name": "  All 13 Indian nationals have been rescued : MEA after Indi",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T043000Z",
-      "source": "tribuneindia.com"
-    },
-    {
-      "id": 9,
-      "name": "Houthis Hit Saudi Tanker in Red Sea , Vow More Attacks",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T114500Z",
-      "source": "newkerala.com"
-    },
-    {
-      "id": 10,
-      "name": "4 , 052 stranded Indian seafarers repatriated amid West Asia",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260805T154500Z",
-      "source": "economictimes.indiatimes.com"
-    }
-  ],
-  "events": [
-    {
-      "title": "RED SEA ATTACK : Indian Cargo Ship Sinks Off Yemen as Israel Boosts Naval Readiness",
-      "url": "https://www.theyeshivaworld.com/news/israel-news/2582738/red-sea-attack-indian-cargo-ship-sinks-off-yemen-as-israel-boosts-naval-readiness.html",
-      "domain": "theyeshivaworld.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T190000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "MEA Calls Red Sea Shipping Attacks Deeply Worrisome After Indian Flagged Vessel Sinks",
-      "url": "https://www.oneindia.com/india/india-calls-red-sea-shipping-attacks-deeply-worrisome-after-indian-flagged-vessel-sinks-8166953.html",
-      "domain": "oneindia.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T053000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "  Extremely hazardou : Seafarer union urges PM Modi to deploy Navy after Indian vessel sinks",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/extremely-hazardous-seafarers-union-urges-pm-modi-to-deploy-navy-after-indian-vessel-sinks/articleshow/132908467.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T100000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "India Condemns Red Sea Attack , 13 Sailors Rescued After Ship Sinks",
-      "url": "https://www.deccanchronicle.com/nation/world/13-indian-sailors-rescued-after-india-flagged-ship-sinks-after-attack-in-red-sea-1976691",
-      "domain": "deccanchronicle.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T031500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Hormuz , Red Sea Shipping Drops to New Lows",
-      "url": "https://www.newkerala.com/news/a/shipping-through-hormuz-declines-as-red-sea-traffic-696.htm",
-      "domain": "newkerala.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T091500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Crew rescued after India - flagged ship hit by projectile sinks",
-      "url": "https://timesofindia.indiatimes.com/india/crew-rescued-after-india-flagged-ship-hit-by-projectile-sinks/articleshow/132881092.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T004500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "MEA condemns attack on Indian - flagged vessel that sank in Red Sea ; all 13 Indian sailors rescued",
-      "url": "https://www.ibtimes.co.in/mea-condemns-attack-indian-flagged-vessel-that-sank-red-sea-all-13-indian-sailors-rescued-904457",
-      "domain": "ibtimes.co.in",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T104500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "  All 13 Indian nationals have been rescued : MEA after Indian vessel sinks off Yemen after attack",
-      "url": "https://www.tribuneindia.com/news/world/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack/",
-      "domain": "tribuneindia.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T043000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Houthis Hit Saudi Tanker in Red Sea , Vow More Attacks",
-      "url": "https://www.newkerala.com/news/a/yemens-houthis-claim-missile-attack-saudi-oil-tanker-563.htm",
-      "domain": "newkerala.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T114500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "4 , 052 stranded Indian seafarers repatriated amid West Asia crisis , says Shipping Minister Sarbananda Sonowal",
-      "url": "https://economictimes.indiatimes.com/news/india/over-4000-indian-seafarers-repatriated-amid-west-asia-crisis-shipping-minister-reveals-key-measures-for-safety-and-support/articleshow/132943904.cms",
-      "domain": "economictimes.indiatimes.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T154500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Raudonojoje jūroje po antpuolio nuskendo Indijos laivas",
-      "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3012010/raudonojoje-juroje-po-antpuolio-nuskendo-indijos-laivas",
-      "domain": "lrt.lt",
-      "language": "Lithuanian",
-      "tone": 0,
-      "seendate": "20260805T061500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Houthis target two Saudi oil tankers within hours as Red Sea tensions flare",
-      "url": "https://www.albawaba.com/news/houthis-target-two-saudi-oil-tankers-1634506",
-      "domain": "albawaba.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T191500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Pakistan announces up to 80 % discount on transshipment cargo",
-      "url": "https://arynews.tv/pakistan-announces-up-to-80-discount-on-transshipment-cargo",
-      "domain": "arynews.tv",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T130000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "MMEA detains two unlicensed , overloaded passenger boats off Kuala Selangor waters",
-      "url": "https://www.thestar.com.my/news/nation/2026/08/05/mmea-detains-two-unlicensed-overloaded-passenger-boats-off-kuala-selangor-waters",
-      "domain": "thestar.com.my",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T054500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Yemen denounces Houthi attack on Indian cargo vessel in Red Sea",
-      "url": "https://aninews.in/news/world/middle-east/yemen-denounces-houthi-attack-on-indian-cargo-vessel-in-red-sea20260805171635/",
-      "domain": "aninews.in",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260805T124500Z",
-      "source": "GDELT"
-    }
-  ],
+  "entities": [],
+  "events": [],
   "timeseries": [],
-  "llm_summary": "**INTELLIGENCE BRIEF: RED SEA MARITIME SECURITY ESCALATION**\n\n**SUMMARY:** Recent kinetic activity in the Red Sea has resulted in the sinking of an Indian-flagged cargo ship off the coast of Yemen, signaling a heightened threat level for commercial maritime transit. This escalation has prompted urgent calls from seafarer unions for Indian naval deployment and has triggered significant declines in shipping volumes through both the Red Sea and the Strait of Hormuz. The convergence of these attacks and shifting trade routes indicates a sustained period of maritime instability that threatens global supply chain continuity."
+  "llm_summary": "Pending API key..."
 }
