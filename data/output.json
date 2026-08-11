@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-11T07:22:13.902234+00:00",
+    "generated": "2026-08-11T13:26:05.782727+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -36,453 +36,453 @@
     "gdelt_articles": [],
     "earthquakes": [
       {
-        "place": "13 km SW of Volcano, Hawaii",
-        "mag": 2.12,
-        "time": 1786432646150,
-        "lon": -155.330337524414,
-        "lat": 19.3563327789307,
-        "depth": 25.7299995422363,
-        "source": "USGS"
-      },
-      {
-        "place": "81 km ESE of Denali Park, Alaska",
-        "mag": 1.6,
-        "time": 1786432585334,
-        "lon": -147.322,
-        "lat": 63.553,
-        "depth": 1.2,
-        "source": "USGS"
-      },
-      {
-        "place": "Rat Islands, Aleutian Islands, Alaska",
-        "mag": 3.1,
-        "time": 1786432097728,
-        "lon": 176.864,
-        "lat": 50.38,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km SSW of Willow, Alaska",
-        "mag": 1.2,
-        "time": 1786431658819,
-        "lon": -150.068,
-        "lat": 61.676,
-        "depth": 9.4,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km NNE of Cabazon, CA",
-        "mag": 0.89,
-        "time": 1786431521370,
-        "lon": -116.748166666667,
-        "lat": 33.9683333333333,
-        "depth": 17.18,
-        "source": "USGS"
-      },
-      {
-        "place": "105 km WNW of Yakutat, Alaska",
-        "mag": 1.5,
-        "time": 1786430662674,
-        "lon": -141.529,
-        "lat": 59.787,
-        "depth": 2.5,
-        "source": "USGS"
-      },
-      {
-        "place": "69 km E of Ugashik, Alaska",
-        "mag": 1.2,
-        "time": 1786430475141,
-        "lon": -156.247,
-        "lat": 57.46,
-        "depth": 10.7,
-        "source": "USGS"
-      },
-      {
-        "place": "233 km ESE of Attu Station, Alaska",
-        "mag": 2.7,
-        "time": 1786430182425,
-        "lon": 176.31,
-        "lat": 51.969,
-        "depth": 8.2,
-        "source": "USGS"
-      },
-      {
-        "place": "85 km N of Karluk, Alaska",
-        "mag": 0.5,
-        "time": 1786429129200,
-        "lon": -154.687,
-        "lat": 58.329,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km SSE of Llano, CA",
-        "mag": 1.69,
-        "time": 1786428891990,
-        "lon": -117.751166666667,
-        "lat": 34.415,
-        "depth": 5.52,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km WNW of Cobb, CA",
-        "mag": 1.07,
-        "time": 1786428759790,
-        "lon": -122.799331665039,
-        "lat": 38.8358345031738,
-        "depth": 2.11999988555908,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km NNE of Tecate, B.C., MX",
-        "mag": 1.25,
-        "time": 1786428537090,
-        "lon": -116.5785,
-        "lat": 32.6495,
-        "depth": -0.75,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km SW of Hilo, Hawaii",
-        "mag": 1.8,
-        "time": 1786428493570,
-        "lon": -155.15950012207,
-        "lat": 19.6673336029053,
-        "depth": 9.25,
-        "source": "USGS"
-      },
-      {
-        "place": "12 km S of Olancha, CA",
-        "mag": 1.23,
-        "time": 1786428293040,
-        "lon": -118.023833333333,
-        "lat": 36.1765,
-        "depth": 3.73,
-        "source": "USGS"
-      },
-      {
-        "place": "41 km NW of Toyah, Texas",
-        "mag": 1.7,
-        "time": 1786428019972,
-        "lon": -104.156,
-        "lat": 31.529,
-        "depth": 4.4547,
-        "source": "USGS"
-      },
-      {
-        "place": "30 km NNW of Pāhala, Hawaii",
-        "mag": 1.48,
-        "time": 1786427722230,
-        "lon": -155.571833333333,
-        "lat": 19.4638333333333,
-        "depth": 41.75,
-        "source": "USGS"
-      },
-      {
-        "place": "66 km SSE of Atka, Alaska",
-        "mag": 3.8,
-        "time": 1786427599109,
-        "lon": -173.733,
-        "lat": 51.678,
-        "depth": 58.7,
-        "source": "USGS"
-      },
-      {
-        "place": "85 km NW of Karluk, Alaska",
-        "mag": 0.4,
-        "time": 1786427567971,
-        "lon": -155.366,
-        "lat": 58.168,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km NNE of Lake Henshaw, CA",
-        "mag": 0.27,
-        "time": 1786427011760,
-        "lon": -116.735,
-        "lat": 33.2908333333333,
-        "depth": 13.3,
-        "source": "USGS"
-      },
-      {
-        "place": "34 km SE of Malaga, New Mexico",
-        "mag": 1.6,
-        "time": 1786426161168,
-        "lon": -103.814,
-        "lat": 32.008,
-        "depth": 8.6313,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km NW of The Geysers, CA",
-        "mag": 0.74,
-        "time": 1786425326470,
-        "lon": -122.841331481934,
-        "lat": 38.8383331298828,
-        "depth": 1.97000002861023,
-        "source": "USGS"
-      },
-      {
-        "place": "25 km SSW of Petersville, Alaska",
-        "mag": 1.5,
-        "time": 1786424769749,
-        "lon": -150.892,
-        "lat": 62.279,
-        "depth": 77,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km SE of San Ramon, CA",
-        "mag": 1.48,
-        "time": 1786424471980,
-        "lon": -121.93766784668,
-        "lat": 37.7546653747559,
-        "depth": 6.03000020980835,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km WNW of Corning, CA",
-        "mag": 2.63,
-        "time": 1786424241470,
-        "lon": -122.25366973877,
-        "lat": 39.958667755127,
-        "depth": 35.5099983215332,
-        "source": "USGS"
-      },
-      {
-        "place": "13 km NW of The Geysers, CA",
-        "mag": 1.19,
-        "time": 1786423978570,
-        "lon": -122.877166748047,
-        "lat": 38.8409996032715,
-        "depth": 2.48000001907349,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km ESE of Cloverdale, CA",
-        "mag": 0.88,
-        "time": 1786423203120,
-        "lon": -122.929832458496,
-        "lat": 38.7639999389648,
-        "depth": 4.92000007629395,
-        "source": "USGS"
-      },
-      {
-        "place": "60 km N of Petersville, Alaska",
-        "mag": 2.4,
-        "time": 1786421456948,
-        "lon": -150.927,
-        "lat": 63.034,
-        "depth": 129.5,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km ENE of Borrego Springs, CA",
-        "mag": 0.98,
-        "time": 1786420360980,
-        "lon": -116.339333333333,
-        "lat": 33.2666666666667,
-        "depth": 2.55,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km SSE of Palomar Observatory, CA",
-        "mag": 0.39,
-        "time": 1786419530070,
-        "lon": -116.831833333333,
-        "lat": 33.3045,
-        "depth": 13.62,
-        "source": "USGS"
-      },
-      {
-        "place": "85 km NW of Karluk, Alaska",
-        "mag": 0.3,
-        "time": 1786419382802,
-        "lon": -155.366,
-        "lat": 58.168,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "18 km NNE of Yerington, Nevada",
-        "mag": 1.93,
-        "time": 1786419038069,
-        "lon": -119.0496,
-        "lat": 39.1265,
-        "depth": 10.7865,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km SSW of Pāhala, Hawaii",
-        "mag": 1.44,
-        "time": 1786418280720,
-        "lon": -155.498,
-        "lat": 19.1743333333333,
-        "depth": 29.83,
-        "source": "USGS"
-      },
-      {
-        "place": "south of the Fiji Islands",
-        "mag": 4.5,
-        "time": 1786417879919,
-        "lon": -179.7759,
-        "lat": -23.5978,
-        "depth": 548.449,
-        "source": "USGS"
-      },
-      {
-        "place": "76 km S of Ugashik, Alaska",
-        "mag": 0.9,
-        "time": 1786417738359,
-        "lon": -157.621,
-        "lat": 56.839,
-        "depth": 84.8,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km WNW of The Geysers, CA",
-        "mag": 0.76,
-        "time": 1786414967710,
-        "lon": -122.818336486816,
-        "lat": 38.8059997558594,
-        "depth": 2.52999997138977,
-        "source": "USGS"
-      },
-      {
-        "place": "28 km E of Honaunau-Napoopoo, Hawaii",
+        "place": "49 km SE of Naalehu, Hawaii",
         "mag": 1.89,
-        "time": 1786414923290,
-        "lon": -155.594,
-        "lat": 19.4453333333333,
-        "depth": 41.7,
+        "time": 1786453653230,
+        "lon": -155.191833496094,
+        "lat": 18.8193340301514,
+        "depth": 7.23000001907349,
         "source": "USGS"
       },
       {
-        "place": "16 km W of Anchor Point, Alaska",
-        "mag": 2.4,
-        "time": 1786414475628,
-        "lon": -152.12,
-        "lat": 59.792,
-        "depth": 71.8,
+        "place": "19 km NE of Susitna North, Alaska",
+        "mag": 1.4,
+        "time": 1786453346327,
+        "lon": -149.549,
+        "lat": 62.262,
+        "depth": 71.5,
         "source": "USGS"
       },
       {
-        "place": "83 km SE of Atka, Alaska",
-        "mag": 3.6,
-        "time": 1786414275032,
-        "lon": -173.399,
-        "lat": 51.6378,
-        "depth": 46.5,
+        "place": "8 km N of Covelo, CA",
+        "mag": 1.85,
+        "time": 1786452819000,
+        "lon": -123.236167907715,
+        "lat": 39.8671684265137,
+        "depth": 7.59000015258789,
         "source": "USGS"
       },
       {
-        "place": "59 km S of Whites City, New Mexico",
-        "mag": 1.5,
-        "time": 1786413903142,
-        "lon": -104.484,
-        "lat": 31.651,
-        "depth": 3.6965,
+        "place": "4 km WSW of Aguanga, CA",
+        "mag": 0.5,
+        "time": 1786452403200,
+        "lon": -116.899,
+        "lat": 33.4288333333333,
+        "depth": 11.01,
         "source": "USGS"
       },
       {
-        "place": "7 km SSE of Loma Linda, CA",
-        "mag": 1.15,
-        "time": 1786413462570,
-        "lon": -117.221666666667,
-        "lat": 33.9986666666667,
-        "depth": 3.35,
+        "place": "6 km W of Cobb, CA",
+        "mag": 0.71,
+        "time": 1786451981660,
+        "lon": -122.792999267578,
+        "lat": 38.8246650695801,
+        "depth": 2.74000000953674,
         "source": "USGS"
       },
       {
-        "place": "42 km N of Larsen Bay, Alaska",
-        "mag": 2.2,
-        "time": 1786413414627,
-        "lon": -154.068,
-        "lat": 57.918,
-        "depth": 50.2,
+        "place": "5 km NW of The Geysers, CA",
+        "mag": 0.76,
+        "time": 1786451890820,
+        "lon": -122.796165466309,
+        "lat": 38.810001373291,
+        "depth": 3.5699999332428,
         "source": "USGS"
       },
       {
-        "place": "62 km SE of Denali National Park, Alaska",
-        "mag": 1.6,
-        "time": 1786413205087,
-        "lon": -150.931,
-        "lat": 63.104,
-        "depth": 124.1,
+        "place": "2 km NW of Fontana, CA",
+        "mag": 0.8,
+        "time": 1786451582290,
+        "lon": -117.474333333333,
+        "lat": 34.1131666666667,
+        "depth": 6.75,
         "source": "USGS"
       },
       {
-        "place": "155 km W of Adak, Alaska",
-        "mag": 1.76,
-        "time": 1786413035100,
-        "lon": -178.887,
-        "lat": 51.786,
-        "depth": 4.45,
+        "place": "58 km S of Whites City, New Mexico",
+        "mag": 2.3,
+        "time": 1786451482380,
+        "lon": -104.345,
+        "lat": 31.652,
+        "depth": 2.967,
         "source": "USGS"
       },
       {
-        "place": "1 km ENE of Borrego Springs, CA",
-        "mag": 0.64,
-        "time": 1786412733280,
-        "lon": -116.364166666667,
-        "lat": 33.2613333333333,
-        "depth": 2.7,
+        "place": "13 km ENE of Borrego Springs, CA",
+        "mag": 0.66,
+        "time": 1786451341250,
+        "lon": -116.248833333333,
+        "lat": 33.2991666666667,
+        "depth": 9.54,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km N of Moreno Valley, CA",
+        "mag": 0.86,
+        "time": 1786450592930,
+        "lon": -117.223,
+        "lat": 33.9495,
+        "depth": 12.92,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ESE of Pearsall, Texas",
+        "mag": 1.9,
+        "time": 1786450458924,
+        "lon": -98.992,
+        "lat": 28.874,
+        "depth": 7.64,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NW of Pinnacles, CA",
+        "mag": 2.66,
+        "time": 1786450169580,
+        "lon": -121.175003051758,
+        "lat": 36.5691680908203,
+        "depth": 0.509999990463257,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km W of Cobb, CA",
+        "mag": 0.7,
+        "time": 1786449833490,
+        "lon": -122.791496276855,
+        "lat": 38.8235015869141,
+        "depth": 2,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km N of Moreno Valley, CA",
+        "mag": 0.77,
+        "time": 1786449753690,
+        "lon": -117.225,
+        "lat": 33.9483333333333,
+        "depth": 12.83,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NW of Pinnacles, CA",
+        "mag": 1.91,
+        "time": 1786449600880,
+        "lon": -121.179664611816,
+        "lat": 36.564998626709,
+        "depth": 5.53000020980835,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km NNW of Warner Springs, CA",
+        "mag": 0.19,
+        "time": 1786449568080,
+        "lon": -116.692166666667,
+        "lat": 33.3736666666667,
+        "depth": 12.54,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NNW of Pinnacles, CA",
+        "mag": 1.29,
+        "time": 1786449038520,
+        "lon": -121.168334960938,
+        "lat": 36.5706672668457,
+        "depth": 3.26999998092651,
         "source": "USGS"
       },
       {
         "place": "7 km SE of Pinnacles, CA",
-        "mag": 2.03,
-        "time": 1786412565980,
-        "lon": -121.10050201416,
-        "lat": 36.4811668395996,
-        "depth": 3.96000003814697,
+        "mag": 1.92,
+        "time": 1786448466420,
+        "lon": -121.092002868652,
+        "lat": 36.478832244873,
+        "depth": 6.57000017166138,
         "source": "USGS"
       },
       {
-        "place": "24 km SSE of Lindsay, Texas",
-        "mag": 1.4,
-        "time": 1786412297849,
-        "lon": -103.477,
-        "lat": 31.159,
-        "depth": 5.663,
+        "place": "9 km WSW of Shafter, CA",
+        "mag": 1.41,
+        "time": 1786448101470,
+        "lon": -119.364166666667,
+        "lat": 35.474,
+        "depth": 26.12,
         "source": "USGS"
       },
       {
-        "place": "6 km S of Devore, CA",
+        "place": "11 km WNW of Pyote, Texas",
+        "mag": 1.6,
+        "time": 1786447922569,
+        "lon": -103.242,
+        "lat": 31.557,
+        "depth": 5.1206,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NW of Pinnacles, CA",
+        "mag": 1.21,
+        "time": 1786447869600,
+        "lon": -121.17733001709,
+        "lat": 36.5688323974609,
+        "depth": 3.41000008583069,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km NW of Pinnacles, CA",
         "mag": 1.47,
-        "time": 1786411800280,
-        "lon": -117.408333333333,
-        "lat": 34.1676666666667,
-        "depth": 8.56,
+        "time": 1786447797530,
+        "lon": -121.181167602539,
+        "lat": 36.5568351745605,
+        "depth": -0.239999994635582,
         "source": "USGS"
       },
       {
-        "place": "232 km ESE of Attu Station, Alaska",
-        "mag": 3.4,
-        "time": 1786411082181,
-        "lon": 176.3308,
-        "lat": 52.0186,
-        "depth": 10,
+        "place": "4 km ENE of Borrego Springs, CA",
+        "mag": 0.46,
+        "time": 1786447622580,
+        "lon": -116.335,
+        "lat": 33.269,
+        "depth": 2.61,
         "source": "USGS"
       },
       {
-        "place": "81 km SSE of Bengkulu, Indonesia",
-        "mag": 4.7,
-        "time": 1786410766205,
-        "lon": 102.5519,
-        "lat": -4.4801,
-        "depth": 61.94,
+        "place": "53 km WNW of Skwentna, Alaska",
+        "mag": 1.6,
+        "time": 1786447346809,
+        "lon": -152.28,
+        "lat": 62.242,
+        "depth": 5,
         "source": "USGS"
       },
       {
-        "place": "2 km NNW of The Geysers, CA",
-        "mag": 0.74,
-        "time": 1786410565250,
-        "lon": -122.76016998291,
-        "lat": 38.7906684875488,
-        "depth": 1.53999996185303,
+        "place": "6 km NW of Pinnacles, CA",
+        "mag": 1.9,
+        "time": 1786445858820,
+        "lon": -121.183166503906,
+        "lat": 36.5719985961914,
+        "depth": 0.280000001192093,
+        "source": "USGS"
+      },
+      {
+        "place": "36 km WSW of Ackerly, Texas",
+        "mag": 1,
+        "time": 1786445631068,
+        "lon": -102.078,
+        "lat": 32.399,
+        "depth": 6.4918,
+        "source": "USGS"
+      },
+      {
+        "place": "Banda Sea",
+        "mag": 4.6,
+        "time": 1786445392149,
+        "lon": 129.7317,
+        "lat": -6.7252,
+        "depth": 170.699,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km NNW of Pinnacles, CA",
+        "mag": 0.99,
+        "time": 1786445219870,
+        "lon": -121.160003662109,
+        "lat": 36.5591659545898,
+        "depth": 2.63000011444092,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km SE of Pearsall, Texas",
+        "mag": 1.6,
+        "time": 1786445067501,
+        "lon": -98.99,
+        "lat": 28.83,
+        "depth": 7.5504,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km NW of Pinnacles, CA",
+        "mag": 1.58,
+        "time": 1786444498740,
+        "lon": -121.201499938965,
+        "lat": 36.568000793457,
+        "depth": 0.949999988079071,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NW of Pinnacles, CA",
+        "mag": 1.77,
+        "time": 1786444323860,
+        "lon": -121.189666748047,
+        "lat": 36.5719985961914,
+        "depth": 3.16000008583069,
+        "source": "USGS"
+      },
+      {
+        "place": "37 km ESE of Pedro Bay, Alaska",
+        "mag": 1.4,
+        "time": 1786444068617,
+        "lon": -153.454,
+        "lat": 59.703,
+        "depth": 128.2,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NNW of Pinnacles, CA",
+        "mag": 2.14,
+        "time": 1786443728990,
+        "lon": -121.176330566406,
+        "lat": 36.5794982910156,
+        "depth": 4.88000011444092,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NNW of Pinnacles, CA",
+        "mag": 2.6,
+        "time": 1786443661710,
+        "lon": -121.171165466309,
+        "lat": 36.5670013427734,
+        "depth": 4.23000001907349,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NW of Pinnacles, CA",
+        "mag": 2.57,
+        "time": 1786443641080,
+        "lon": -121.200500488281,
+        "lat": 36.5651664733887,
+        "depth": 2.64000010490417,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NW of Pinnacles, CA",
+        "mag": 3.94,
+        "time": 1786443548260,
+        "lon": -121.182998657227,
+        "lat": 36.5690002441406,
+        "depth": 5.3600001335144,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km ENE of Borrego Springs, CA",
+        "mag": 0.37,
+        "time": 1786442775250,
+        "lon": -116.3375,
+        "lat": 33.2658333333333,
+        "depth": 2.9,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km N of Pāhala, Hawaii",
+        "mag": 2.16,
+        "time": 1786442582380,
+        "lon": -155.471664428711,
+        "lat": 19.2738342285156,
+        "depth": 32.0099983215332,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km ENE of Borrego Springs, CA",
+        "mag": 1.09,
+        "time": 1786442407270,
+        "lon": -116.341666666667,
+        "lat": 33.263,
+        "depth": 2.93,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km ENE of Borrego Springs, CA",
+        "mag": 0.46,
+        "time": 1786442112130,
+        "lon": -116.333666666667,
+        "lat": 33.2666666666667,
+        "depth": 2.77,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km ENE of Borrego Springs, CA",
+        "mag": 0.92,
+        "time": 1786442032210,
+        "lon": -116.340833333333,
+        "lat": 33.2666666666667,
+        "depth": 2.62,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km ENE of Borrego Springs, CA",
+        "mag": 1.22,
+        "time": 1786442007550,
+        "lon": -116.343166666667,
+        "lat": 33.262,
+        "depth": 2.75,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km S of Borrego Springs, CA",
+        "mag": 0.5,
+        "time": 1786441903980,
+        "lon": -116.3785,
+        "lat": 33.1775,
+        "depth": 9.18,
+        "source": "USGS"
+      },
+      {
+        "place": "98 km SSE of Sand Point, Alaska",
+        "mag": 4.4,
+        "time": 1786441001508,
+        "lon": -159.9604,
+        "lat": 54.5029,
+        "depth": 34.39,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km NW of The Geysers, CA",
+        "mag": 0.72,
+        "time": 1786440951270,
+        "lon": -122.817497253418,
+        "lat": 38.8303337097168,
+        "depth": 1.47000002861023,
+        "source": "USGS"
+      },
+      {
+        "place": "26 km WNW of Ocotillo, CA",
+        "mag": 0.85,
+        "time": 1786440501750,
+        "lon": -116.223166666667,
+        "lat": 32.8605,
+        "depth": 11.1,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km W of Anza, CA",
+        "mag": 0.65,
+        "time": 1786439556160,
+        "lon": -116.806333333333,
+        "lat": 33.5656666666667,
+        "depth": 6.54,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NE of Wardville, Oklahoma",
+        "mag": 1.67,
+        "time": 1786439034149,
+        "lon": -95.98466667,
+        "lat": 34.682,
+        "depth": 5,
+        "source": "USGS"
+      },
+      {
+        "place": "64 km SSW of Pelican, Alaska",
+        "mag": 2.1,
+        "time": 1786438343268,
+        "lon": -136.781,
+        "lat": 57.458,
+        "depth": 11.2,
+        "source": "USGS"
+      },
+      {
+        "place": "99 km SSE of Sand Point, Alaska",
+        "mag": 4.6,
+        "time": 1786438164635,
+        "lon": -159.9971,
+        "lat": 54.4899,
+        "depth": 36.925,
         "source": "USGS"
       }
     ],
