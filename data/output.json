@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-12T07:45:38.105794+00:00",
+    "generated": "2026-08-12T13:37:15.241557+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -36,453 +36,453 @@
     "gdelt_articles": [],
     "earthquakes": [
       {
-        "place": "7 km E of Ashland, Oklahoma",
-        "mag": 1.82,
-        "time": 1786520548243,
-        "lon": -95.98416901,
-        "lat": 34.75847244,
-        "depth": 11.96662045,
+        "place": "16 km NNW of Mina, Nevada",
+        "mag": 1.59,
+        "time": 1786541526458,
+        "lon": -118.1569,
+        "lat": 38.534,
+        "depth": 10.1626,
         "source": "USGS"
       },
       {
-        "place": "47 km ESE of Naalehu, Hawaii",
-        "mag": 2.57,
-        "time": 1786519789880,
-        "lon": -155.172836303711,
-        "lat": 18.8780002593994,
-        "depth": 10.7700004577637,
+        "place": "19 km WSW of Johannesburg, CA",
+        "mag": 0.95,
+        "time": 1786541278200,
+        "lon": -117.830833333333,
+        "lat": 35.3131666666667,
+        "depth": 9.26,
         "source": "USGS"
       },
       {
-        "place": "103 km NNW of Karluk, Alaska",
-        "mag": 1.2,
-        "time": 1786519125147,
-        "lon": -154.844,
-        "lat": 58.472,
-        "depth": 113.8,
+        "place": "7 km NE of Ivanof Bay, Alaska",
+        "mag": 2.1,
+        "time": 1786540374230,
+        "lon": -159.406,
+        "lat": 55.951,
+        "depth": 107.1,
         "source": "USGS"
       },
       {
-        "place": "66 km E of Chayek, Kyrgyzstan",
-        "mag": 5,
-        "time": 1786518892581,
-        "lon": 75.3037,
-        "lat": 42.0411,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km NW of The Geysers, CA",
-        "mag": 0.69,
-        "time": 1786518209380,
-        "lon": -122.81266784668,
-        "lat": 38.8223342895508,
-        "depth": 2.92000007629395,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km NW of The Geysers, CA",
-        "mag": 0.26,
-        "time": 1786518174460,
-        "lon": -122.81950378418,
-        "lat": 38.8133316040039,
-        "depth": 3.21000003814697,
-        "source": "USGS"
-      },
-      {
-        "place": "40 km NNW of Toyah, Texas",
-        "mag": 1.9,
-        "time": 1786518142872,
-        "lon": -104.02,
-        "lat": 31.624,
-        "depth": 5.3639,
-        "source": "USGS"
-      },
-      {
-        "place": "22 km ESE of Naalehu, Hawaii",
+        "place": "20 km NNW of Pāhala, Hawaii",
         "mag": 1.87,
-        "time": 1786517752820,
-        "lon": -155.375503540039,
-        "lat": 19.0224990844727,
-        "depth": 28.5,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km W of Cobb, CA",
-        "mag": 1.06,
-        "time": 1786517399740,
-        "lon": -122.785835266113,
-        "lat": 38.8221664428711,
-        "depth": 1.35000002384186,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km WSW of Corona, CA",
-        "mag": 1.32,
-        "time": 1786517253760,
-        "lon": -117.664166666667,
-        "lat": 33.833,
-        "depth": 3.03,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km N of Moreno Valley, CA",
-        "mag": 1.55,
-        "time": 1786516004670,
-        "lon": -117.219166666667,
-        "lat": 33.9696666666667,
-        "depth": 11.36,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km NNW of Pinnacles, CA",
-        "mag": 1.89,
-        "time": 1786515811570,
-        "lon": -121.176498413086,
-        "lat": 36.5764999389648,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km WSW of Corona, CA",
-        "mag": 1.62,
-        "time": 1786515570770,
-        "lon": -117.664666666667,
-        "lat": 33.8321666666667,
-        "depth": 3.11,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km WSW of Corona, CA",
-        "mag": 2.71,
-        "time": 1786515453170,
-        "lon": -117.662666666667,
-        "lat": 33.8335,
-        "depth": 2.96,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km WSW of Corona, CA",
-        "mag": 3.10943572112956,
-        "time": 1786515426410,
-        "lon": -117.656997680664,
-        "lat": 33.8306655883789,
-        "depth": 2.4300000667572,
-        "source": "USGS"
-      },
-      {
-        "place": "45 km ESE of Naalehu, Hawaii",
-        "mag": 2.25,
-        "time": 1786514604310,
-        "lon": -155.196838378906,
-        "lat": 18.8806667327881,
-        "depth": 3.39000010490417,
-        "source": "USGS"
-      },
-      {
-        "place": "45 km ESE of Naalehu, Hawaii",
-        "mag": 1.88,
-        "time": 1786514179540,
-        "lon": -155.201995849609,
-        "lat": 18.8761672973633,
-        "depth": 7.59000015258789,
-        "source": "USGS"
-      },
-      {
-        "place": "29 km SSE of Mina, Nevada",
-        "mag": 2.23,
-        "time": 1786512909849,
-        "lon": -117.9754,
-        "lat": 38.1473,
-        "depth": 1.7957,
-        "source": "USGS"
-      },
-      {
-        "place": "60 km SE of Pedro Bay, Alaska",
-        "mag": 1.2,
-        "time": 1786512611191,
-        "lon": -153.431,
-        "lat": 59.371,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km NW of The Geysers, CA",
-        "mag": 0.76,
-        "time": 1786512079740,
-        "lon": -122.794334411621,
-        "lat": 38.8103332519531,
-        "depth": 2.98000001907349,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km NNE of Cabazon, CA",
-        "mag": 0.63,
-        "time": 1786511884710,
-        "lon": -116.750833333333,
-        "lat": 34.0153333333333,
-        "depth": 15.22,
-        "source": "USGS"
-      },
-      {
-        "place": "Pacific-Antarctic Ridge",
-        "mag": 5.1,
-        "time": 1786511487487,
-        "lon": -143.4933,
-        "lat": -55.9202,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "22 km ENE of Ashford, Washington",
-        "mag": 0.629999995,
-        "time": 1786510174490,
-        "lon": -121.763336181641,
-        "lat": 46.8525009155273,
-        "depth": 0.270000010728836,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km ENE of Borrego Springs, CA",
-        "mag": 0.73,
-        "time": 1786509796480,
-        "lon": -116.339833333333,
-        "lat": 33.2696666666667,
-        "depth": 2.73,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km W of Wrightwood, CA",
-        "mag": 0.94,
-        "time": 1786509601090,
-        "lon": -117.652333333333,
-        "lat": 34.3638333333333,
-        "depth": 9.32,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km NW of Pinnacles, CA",
-        "mag": 1.13,
-        "time": 1786509214600,
-        "lon": -121.176330566406,
-        "lat": 36.5648345947266,
-        "depth": 3.15000009536743,
-        "source": "USGS"
-      },
-      {
-        "place": "43 km ESE of Naalehu, Hawaii",
-        "mag": 1.95,
-        "time": 1786508495760,
-        "lon": -155.223663330078,
-        "lat": 18.8763332366943,
-        "depth": 10.5699996948242,
-        "source": "USGS"
-      },
-      {
-        "place": "24 km W of Kalifornsky, Alaska",
-        "mag": 1.7,
-        "time": 1786508096442,
-        "lon": -151.739,
-        "lat": 60.445,
-        "depth": 76.2,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km WNW of Cobb, CA",
-        "mag": 0.75,
-        "time": 1786507862300,
-        "lon": -122.797996520996,
-        "lat": 38.8341674804688,
-        "depth": 1.83000004291534,
-        "source": "USGS"
-      },
-      {
-        "place": "29 km SSE of Mina, Nevada",
-        "mag": 2.62,
-        "time": 1786507830329,
-        "lon": -117.9664,
-        "lat": 38.1496,
-        "depth": 0.0349,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km ESE of Anza, CA",
-        "mag": 0.35,
-        "time": 1786507563270,
-        "lon": -116.5075,
-        "lat": 33.5193333333333,
-        "depth": 12.84,
-        "source": "USGS"
-      },
-      {
-        "place": "24 km NW of Parkfield, CA",
-        "mag": 2.34,
-        "time": 1786507556750,
-        "lon": -120.611503601074,
-        "lat": 36.0518341064453,
-        "depth": 8.97999954223633,
-        "source": "USGS"
-      },
-      {
-        "place": "14 km WSW of Honmachi, Japan",
-        "mag": 4.9,
-        "time": 1786507551903,
-        "lon": 130.4504,
-        "lat": 32.4564,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "46 km SSE of King Salmon, Alaska",
-        "mag": 0.9,
-        "time": 1786507245148,
-        "lon": -156.22,
-        "lat": 58.341,
-        "depth": 145.1,
-        "source": "USGS"
-      },
-      {
-        "place": "36 km SSW of Skwentna, Alaska",
-        "mag": 1.6,
-        "time": 1786507154499,
-        "lon": -151.733,
-        "lat": 61.699,
-        "depth": 94.2,
-        "source": "USGS"
-      },
-      {
-        "place": "12 km W of Anza, CA",
-        "mag": 1.25,
-        "time": 1786506581290,
-        "lon": -116.798666666667,
-        "lat": 33.5731666666667,
-        "depth": 7.59,
-        "source": "USGS"
-      },
-      {
-        "place": "42 km ESE of Naalehu, Hawaii",
-        "mag": 5.2,
-        "time": 1786506513980,
-        "lon": -155.233333333333,
-        "lat": 18.879,
-        "depth": 10.73,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km WSW of Corona, CA",
-        "mag": 1.98,
-        "time": 1786506396790,
-        "lon": -117.668333333333,
-        "lat": 33.8336666666667,
-        "depth": 2.52,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km WSW of Corona, CA",
-        "mag": 2.02141679868801,
-        "time": 1786506396700,
-        "lon": -117.665000915527,
-        "lat": 33.8294982910156,
-        "depth": 2.74000000953674,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km WNW of Radwanice, Poland",
-        "mag": 4.2,
-        "time": 1786506316110,
-        "lon": 15.8885,
-        "lat": 51.5853,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km WSW of Corona, CA",
-        "mag": 1.58,
-        "time": 1786505913030,
-        "lon": -117.662333333333,
-        "lat": 33.8318333333333,
-        "depth": 2.96,
-        "source": "USGS"
-      },
-      {
-        "place": "31 km SSW of Pondaguitan, Philippines",
-        "mag": 4.4,
-        "time": 1786505893678,
-        "lon": 126.105,
-        "lat": 6.0864,
-        "depth": 146.743,
+        "time": 1786540229620,
+        "lon": -155.567169189453,
+        "lat": 19.371000289917,
+        "depth": 48.0299987792969,
         "source": "USGS"
       },
       {
         "place": "7 km NW of The Geysers, CA",
-        "mag": 0.24,
-        "time": 1786505630440,
-        "lon": -122.80583190918,
-        "lat": 38.8255004882812,
+        "mag": 0.75,
+        "time": 1786540136950,
+        "lon": -122.818496704102,
+        "lat": 38.8106651306152,
+        "depth": 3.30999994277954,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km WNW of The Geysers, CA",
+        "mag": 1.08,
+        "time": 1786540075540,
+        "lon": -122.84716796875,
+        "lat": 38.8128318786621,
+        "depth": 5.05999994277954,
+        "source": "USGS"
+      },
+      {
+        "place": "17 km NW of San Antonio, Puerto Rico",
+        "mag": 2.82,
+        "time": 1786539576650,
+        "lon": -67.2101666666667,
+        "lat": 18.614,
+        "depth": 82.29,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km ESE of The Geysers, CA",
+        "mag": 0.8,
+        "time": 1786539480040,
+        "lon": -122.735832214355,
+        "lat": 38.7706680297852,
+        "depth": 0.860000014305115,
+        "source": "USGS"
+      },
+      {
+        "place": "16 km NE of Milford, Utah",
+        "mag": 1.12,
+        "time": 1786539001740,
+        "lon": -112.8835,
+        "lat": 38.5126666666667,
+        "depth": 2.04,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km SW of Idyllwild, CA",
+        "mag": 0.36,
+        "time": 1786538677800,
+        "lon": -116.746,
+        "lat": 33.7108333333333,
+        "depth": 16.09,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km NE of Magas Arriba, Puerto Rico",
+        "mag": 2.46,
+        "time": 1786538673400,
+        "lon": -66.7521666666667,
+        "lat": 18.0298333333333,
+        "depth": 11.77,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km NW of The Geysers, CA",
+        "mag": 1,
+        "time": 1786538559880,
+        "lon": -122.811164855957,
+        "lat": 38.8211669921875,
+        "depth": 2.94000005722046,
+        "source": "USGS"
+      },
+      {
+        "place": "south of the Fiji Islands",
+        "mag": 4.3,
+        "time": 1786538546674,
+        "lon": -179.7774,
+        "lat": -23.4416,
+        "depth": 526.828,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km SSW of Borrego Springs, CA",
+        "mag": 0.59,
+        "time": 1786538083390,
+        "lon": -116.408833333333,
+        "lat": 33.1771666666667,
+        "depth": 13.17,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km WNW of The Geysers, CA",
+        "mag": 0.76,
+        "time": 1786537815850,
+        "lon": -122.819831848145,
+        "lat": 38.8093338012695,
+        "depth": 3.3199999332428,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km SSE of Anza, CA",
+        "mag": 0.18,
+        "time": 1786537745380,
+        "lon": -116.6155,
+        "lat": 33.4261666666667,
+        "depth": 9.3,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km WNW of Ivanof Bay, Alaska",
+        "mag": 1.1,
+        "time": 1786536334415,
+        "lon": -159.626,
+        "lat": 55.949,
+        "depth": 5,
+        "source": "USGS"
+      },
+      {
+        "place": "44 km NW of Toyah, Texas",
+        "mag": 1.6,
+        "time": 1786536121381,
+        "lon": -104.117,
+        "lat": 31.611,
+        "depth": 4.1383,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km NW of The Geysers, CA",
+        "mag": 0.73,
+        "time": 1786535808430,
+        "lon": -122.817665100098,
+        "lat": 38.818000793457,
+        "depth": 4.34000015258789,
+        "source": "USGS"
+      },
+      {
+        "place": "South Sandwich Islands region",
+        "mag": 6,
+        "time": 1786535232117,
+        "lon": -28.9899,
+        "lat": -60.2445,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WNW of The Geysers, CA",
+        "mag": 0.75,
+        "time": 1786534809460,
+        "lon": -122.81950378418,
+        "lat": 38.8073348999023,
+        "depth": 2.97000002861023,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km WNW of The Geysers, CA",
+        "mag": 1.1,
+        "time": 1786534753070,
+        "lon": -122.854667663574,
+        "lat": 38.8261680603027,
+        "depth": 2.72000002861023,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km NW of The Geysers, CA",
+        "mag": 1.69,
+        "time": 1786534536810,
+        "lon": -122.810501098633,
+        "lat": 38.8214988708496,
+        "depth": 2.91000008583069,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NW of The Geysers, CA",
+        "mag": 1.57,
+        "time": 1786532356360,
+        "lon": -122.811668395996,
+        "lat": 38.8129997253418,
+        "depth": 3.30999994277954,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NW of The Geysers, CA",
+        "mag": 0.78,
+        "time": 1786532057300,
+        "lon": -122.807998657227,
+        "lat": 38.8128318786621,
+        "depth": 3.4300000667572,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km S of Olancha, CA",
+        "mag": 1.03,
+        "time": 1786532013210,
+        "lon": -118.021166666667,
+        "lat": 36.1745,
+        "depth": 3.5,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NNE of Lake Henshaw, CA",
+        "mag": 0.38,
+        "time": 1786531599900,
+        "lon": -116.7385,
+        "lat": 33.2878333333333,
+        "depth": 13.17,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km NW of The Geysers, CA",
+        "mag": 1.02,
+        "time": 1786531291680,
+        "lon": -122.807662963867,
+        "lat": 38.8203315734863,
+        "depth": 3.07999992370605,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NW of The Geysers, CA",
+        "mag": 1.65,
+        "time": 1786531105720,
+        "lon": -122.808334350586,
+        "lat": 38.8191680908203,
+        "depth": 3,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NW of The Geysers, CA",
+        "mag": 0.82,
+        "time": 1786531090940,
+        "lon": -122.807167053223,
+        "lat": 38.8113327026367,
         "depth": 2.5699999332428,
         "source": "USGS"
       },
       {
-        "place": "20 km S of Lindsay, Texas",
-        "mag": 1.5,
-        "time": 1786505339583,
-        "lon": -103.5,
-        "lat": 31.191,
-        "depth": 8.5738,
+        "place": "6 km WNW of The Geysers, CA",
+        "mag": 2.41,
+        "time": 1786531086410,
+        "lon": -122.813163757324,
+        "lat": 38.8063316345215,
+        "depth": 2.39000010490417,
         "source": "USGS"
       },
       {
-        "place": "0 km WNW of Pleasant Hill, CA",
-        "mag": 1.9,
-        "time": 1786504908470,
-        "lon": -122.065170288086,
-        "lat": 37.9498329162598,
-        "depth": 12.2399997711182,
+        "place": "64 km SE of Denali National Park, Alaska",
+        "mag": 1.7,
+        "time": 1786531022732,
+        "lon": -150.924,
+        "lat": 63.082,
+        "depth": 129.6,
         "source": "USGS"
       },
       {
-        "place": "2 km WSW of Hermosa Beach, CA",
-        "mag": 1.54,
-        "time": 1786504820280,
-        "lon": -118.425666666667,
-        "lat": 33.8578333333333,
-        "depth": 10.96,
+        "place": "86 km NW of Karluk, Alaska",
+        "mag": 0.6,
+        "time": 1786531020777,
+        "lon": -155.35,
+        "lat": 58.177,
+        "depth": 5,
         "source": "USGS"
       },
       {
-        "place": "40 km ESE of Naalehu, Hawaii",
-        "mag": 3.25,
-        "time": 1786504615850,
-        "lon": -155.2425,
-        "lat": 18.8843333333333,
-        "depth": 13.09,
+        "place": "7 km NW of The Geysers, CA",
+        "mag": 0.25,
+        "time": 1786530970480,
+        "lon": -122.818832397461,
+        "lat": 38.8110008239746,
+        "depth": 3.6800000667572,
         "source": "USGS"
       },
       {
-        "place": "3 km ESE of Cloverdale, CA",
-        "mag": 1.44,
-        "time": 1786504186730,
-        "lon": -122.98217010498,
-        "lat": 38.7996673583984,
-        "depth": 4.82999992370605,
+        "place": "44 km ESE of Naalehu, Hawaii",
+        "mag": 1.78,
+        "time": 1786530844700,
+        "lon": -155.218338012695,
+        "lat": 18.8636665344238,
+        "depth": 10.4200000762939,
         "source": "USGS"
       },
       {
-        "place": "51 km ENE of Pedro Bay, Alaska",
-        "mag": 1.8,
-        "time": 1786503435615,
-        "lon": -153.201,
-        "lat": 59.883,
-        "depth": 150.3,
+        "place": "1 km NNW of The Geysers, CA",
+        "mag": 1.45,
+        "time": 1786530737320,
+        "lon": -122.759834289551,
+        "lat": 38.7849998474121,
+        "depth": 8.78999996185303,
         "source": "USGS"
       },
       {
-        "place": "3 km NNW of Pinnacles, CA",
-        "mag": 0.78,
-        "time": 1786502161120,
-        "lon": -121.15633392334,
-        "lat": 36.5591659545898,
-        "depth": 1.99000000953674,
+        "place": "6 km NW of The Geysers, CA",
+        "mag": 0.74,
+        "time": 1786530707380,
+        "lon": -122.806503295898,
+        "lat": 38.8161659240723,
+        "depth": 3.27999997138977,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km NNW of Fontana, CA",
+        "mag": 0.81,
+        "time": 1786530652680,
+        "lon": -117.480666666667,
+        "lat": 34.1668333333333,
+        "depth": 6.65,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NW of The Geysers, CA",
+        "mag": 3.22,
+        "time": 1786530610120,
+        "lon": -122.808166503906,
+        "lat": 38.8121681213379,
+        "depth": 2.89000010490417,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NW of The Geysers, CA",
+        "mag": 3.2,
+        "time": 1786530501440,
+        "lon": -122.806335449219,
+        "lat": 38.813835144043,
+        "depth": 2.78999996185303,
+        "source": "USGS"
+      },
+      {
+        "place": "37 km WSW of Mentone, Texas",
+        "mag": 1.6,
+        "time": 1786529923510,
+        "lon": -103.989,
+        "lat": 31.636,
+        "depth": 6.0999,
+        "source": "USGS"
+      },
+      {
+        "place": "125 km NNW of Ambon, Indonesia",
+        "mag": 4.5,
+        "time": 1786529728554,
+        "lon": 127.7768,
+        "lat": -2.6342,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km ESE of Pāhala, Hawaii",
+        "mag": 1.81,
+        "time": 1786528567590,
+        "lon": -155.371002197266,
+        "lat": 19.1604995727539,
+        "depth": 29.9500007629395,
+        "source": "USGS"
+      },
+      {
+        "place": "1 km N of Marston, Missouri",
+        "mag": 1.93,
+        "time": 1786528447730,
+        "lon": -89.6138333333333,
+        "lat": 36.5333333333333,
+        "depth": 9.02,
+        "source": "USGS"
+      },
+      {
+        "place": "11 km ESE of Pearsall, Texas",
+        "mag": 2,
+        "time": 1786528421900,
+        "lon": -98.994,
+        "lat": 28.834,
+        "depth": 7.3859,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km NW of Pinnacles, CA",
+        "mag": 1.39,
+        "time": 1786528054090,
+        "lon": -121.169830322266,
+        "lat": 36.5616683959961,
+        "depth": 1.44000005722046,
+        "source": "USGS"
+      },
+      {
+        "place": "16 km E of Twentynine Palms, CA",
+        "mag": 0.96,
+        "time": 1786527966900,
+        "lon": -115.9,
+        "lat": 34.118,
+        "depth": 7.84,
+        "source": "USGS"
+      },
+      {
+        "place": "13 km SSE of Volcano, Hawaii",
+        "mag": 1.86,
+        "time": 1786526620270,
+        "lon": -155.198669433594,
+        "lat": 19.3288326263428,
+        "depth": 1.32000005245209,
+        "source": "USGS"
+      },
+      {
+        "place": "52 km SSW of Whites City, New Mexico",
+        "mag": 2,
+        "time": 1786526073516,
+        "lon": -104.52,
+        "lat": 31.714,
+        "depth": 4.6643,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km NE of Coso Junction, CA",
+        "mag": 1.08,
+        "time": 1786525989130,
+        "lon": -117.865833333333,
+        "lat": 36.0921666666667,
+        "depth": 5.3,
         "source": "USGS"
       }
     ],
