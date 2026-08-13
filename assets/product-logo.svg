@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 64" role="img" aria-labelledby="title desc">
+  <title id="title">Caspian &amp; Black Sea Monitor</title>
+  <desc id="desc">Caspian &amp; Black Sea Monitor product logo</desc>
+  <g fill="none" stroke="#2dd4bf" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M13 43c9-8 15-19 20-33 5 15 13 27 24 35"/><path d="M10 53c13-6 27-6 42 0"/><circle cx="33" cy="27" r="5"/></g>
+  <text x="70" y="30" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing=".2">Caspian &amp; Black</text>
+  <text x="70" y="51" fill="#2dd4bf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing=".2">Sea Monitor</text>
+</svg>
