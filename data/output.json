@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-13T07:47:43.222738+00:00",
+    "generated": "2026-08-13T13:38:12.906208+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -33,466 +33,420 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [
-      {
-        "title": "Four crew , two rescuers killed in Red Sea attack",
-        "url": "https://arynews.tv/four-crew-two-rescuers-killed-in-red-sea-attack-us-strikes-ship-in-gulf-of-oman",
-        "domain": "arynews.tv",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T101500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "4 killed in Houthi attack on Red Sea cargo ship ; US strikes vessel bound for Iran",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/4-killed-in-houthi-attack-on-red-sea-cargo-ship-us-strikes-vessel-bound-for-iran/articleshow/133173176.cms",
-        "domain": "timesofindia.indiatimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T094500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran - Backed Houthi Terrorists Launch Missile and Drone Attacks in Red Sea",
-        "url": "https://www.breitbart.com/middle-east/2026/08/12/iran-backed-houthi-terrorists-launch-missile-and-drone-attacks-in-red-sea/",
-        "domain": "breitbart.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260813T004500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Από τον « σκιώδη στόλο » στις κατασχέσεις πλοίων - Πού οδηγεί η νέα απειλή της Ρωσίας",
-        "url": "https://www.tothemaonline.com/Article/469683/apo-ton-skiwdh-stolo-stis-katasheseis-ploiwn---poy-odhgei-h-nea-apeilh-ths-rwsias",
-        "domain": "tothemaonline.com",
-        "language": "Greek",
-        "tone": 0,
-        "seendate": "20260812T214500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Singapore - registered container ship crashes into Hooghly riverbank in India",
-        "url": "https://www.asiaone.com/singapore/nawata-bhum-sinapore-container-ship-crash-hooghly-river-india",
-        "domain": "asiaone.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260813T070000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Shipping professionals urge port resilience to weather global headwinds",
-        "url": "https://www.standardmedia.co.ke/business/shipping-logistics/article/2001555201/shipping-professionals-urge-ports-resilience-to-weather-global-headwinds",
-        "domain": "standardmedia.co.ke",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260813T041500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Buque BYD Changzhou descarga casi 2 . 000 vehículos en San Antonio , el mayor envío de nuevas energías recibido en Chile",
-        "url": "https://www.cnnchile.com/negocios/buque-byd-changzhou-descarga-casi-2000-vehiculos-en-san-antonio-mayor-envio-nuevas-energias-recibido-chile/",
-        "domain": "cnnchile.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260812T220000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Two Tourist Boats Collide Off Greek Island of Antipaxos , Injuries Reported",
-        "url": "https://www.iefimerida.gr/english/two-tourist-boats-collide-greek-island-antipaxos-injuries-reported",
-        "domain": "iefimerida.gr",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T211500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "NÁUTICA EN IBIZA : Un fallo eléctrico deja en tierra al ferry Barcelona - Ibiza",
-        "url": "https://www.diariodeibiza.es/ibiza/2026/08/12/ibiza-barcelona-electrico-tierra-ferry-133288181.html",
-        "domain": "diariodeibiza.es",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260812T114500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Claims US Has  Total Control  of Hormuz as Ship Traffic Falls to One - week Low – THISDAYLIVE",
-        "url": "https://www.thisdaylive.com/2026/08/13/trump-claims-us-has-total-control-of-hormuz-as-ship-traffic-falls-to-one-week-low/",
-        "domain": "thisdaylive.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260813T050000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "A US Helicopter Disabled a Panama - Flagged Ship Off Pakistan",
-        "url": "https://www.riotimesonline.com/panama-flagged-ship-vela-nova-us-2026/",
-        "domain": "riotimesonline.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T094500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Axpo and Vitol launch LNG bunkering at Italy largest cruise port | Hellenic Shipping News Worldwide",
-        "url": "https://www.hellenicshippingnews.com/axpo-and-vitol-launch-lng-bunkering-at-italys-largest-cruise-port/",
-        "domain": "hellenicshippingnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T213000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "At least 6 Killed In Red Sea Shipping Attack ; US Fires On Cargo Vessel",
-        "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260811-rferl02.htm",
-        "domain": "globalsecurity.org",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T100000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Attacks in Middle East seas escalate tensions",
-        "url": "http://usa.chinadaily.com.cn/a/202608/13/WS6a7d2290a31073853ec5317d.html",
-        "domain": "usa.chinadaily.com.cn",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260813T031500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "El Canal de Suez apuesta por una logística más verde , pero los peajes siguen bajo otras reglas",
-        "url": "https://www.hsbnoticias.com/logistica-carga-canal-suez-biocombustibles-peajes-4/",
-        "domain": "hsbnoticias.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260813T030000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "رويترز : استهداف سفينة تديرها شركة مصرية في مــضيــق باب المنــدب ومـــقـتــل وإصــابــة طاقمها – شبكة رصد الإخبارية",
-        "url": "https://rassd.com/546598.htm",
-        "domain": "rassd.com",
-        "language": "Arabic",
-        "tone": 0,
-        "seendate": "20260812T091500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Gulf oil spill fast becoming worst in years , agencies warn",
-        "url": "https://www.arabnews.com/node/2654401/middle-east",
-        "domain": "arabnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T161500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Greenland Port Communities Exposed to High Levels of Toxic Pollution From Shipping",
-        "url": "https://www.hellenicshippingnews.com/greenlands-port-communities-exposed-to-high-levels-of-toxic-pollution-from-shipping/",
-        "domain": "hellenicshippingnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T213000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Regional conflicts and their implications for charterparties | Hellenic Shipping News Worldwide",
-        "url": "https://www.hellenicshippingnews.com/regional-conflicts-and-their-implications-for-charterparties/",
-        "domain": "hellenicshippingnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T213000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "US forces disable Iran - bound ship with Hellfire missiles",
-        "url": "https://signalscv.com/2026/08/us-forces-disable-iran-bound-ship-with-hellfire-missiles/",
-        "domain": "signalscv.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260813T000000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Houthis target Saudi energy assets again | Hellenic Shipping News Worldwide",
-        "url": "https://www.hellenicshippingnews.com/houthis-target-saudi-energy-assets-again/",
-        "domain": "hellenicshippingnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T213000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "The secret supply route Russia is using to sustain the Iran war",
-        "url": "https://www.theage.com.au/world/europe/the-secret-supply-route-russia-is-using-to-sustain-the-iran-war-20260813-p60nxc.html",
-        "domain": "theage.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260813T063000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "The secret supply route Russia is using to sustain the Iran war",
-        "url": "https://www.brisbanetimes.com.au/world/europe/the-secret-supply-route-russia-is-using-to-sustain-the-iran-war-20260813-p60nxc.html",
-        "domain": "brisbanetimes.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260813T061500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "How Russian attacks , European protectionism and drought are trapping Ukraine vital grain – POLITICO",
-        "url": "https://www.politico.eu/article/ukraine-russia-war-grain-europe-protectionism-drought/",
-        "domain": "politico.eu",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260813T031500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "El mundo se estrangula por sus estrechos",
-        "url": "https://www.ultimahora.com/el-mundo-se-estrangula-por-sus-estrechos",
-        "domain": "ultimahora.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260812T100000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "SeaARCTOS receives Lloyd Register Type Approval for CO2 emissions monitoring | Hellenic Shipping News Worldwide",
-        "url": "https://www.hellenicshippingnews.com/seaarctos-receives-lloyds-register-type-approval-for-co2-emissions-monitoring/",
-        "domain": "hellenicshippingnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T213000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "US opens fire on cargo ship as Strait of Hormuz crisis worsens and Trump claims  total control  ",
-        "url": "https://www.aol.co.uk/articles/us-opens-fire-cargo-ship-145745000.html",
-        "domain": "aol.co.uk",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T153000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "PLA Navy 49th escort taskforce departs for Gulf of Aden , Somalia waters",
-        "url": "https://www.globaltimes.cn/page/202608/1368045.shtml",
-        "domain": "globaltimes.cn",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T104500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran refutes Trump claim to  control  Hormuz : What the latest in talks ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-        "url": "https://dominicanrepublicpost.com/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks/",
-        "domain": "dominicanrepublicpost.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T121500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "With US talks frozen , Iran takes more aggressive military stance | Politics and Government",
-        "url": "https://www.reviewjournal.com/news/politics-and-government/iran-takes-more-aggressive-military-stance-with-us-talks-frozen-3862790/",
-        "domain": "reviewjournal.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T204500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran takes more robust military stance with US talks frozen",
-        "url": "https://www.unionleader.com/news/business/economy/iran-takes-more-robust-military-stance-with-us-talks-frozen/article_74abe7e3-9b2c-4f5f-8ddb-8bc1aacfd41d.html",
-        "domain": "unionleader.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260813T024500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Peña refuerza la hidrovía con la súper draga japonesa ante la indefinición de Lula y Milei",
-        "url": "https://www.lapoliticaonline.com:443/paraguay/hidrovia-py/pena-refuerza-la-hidrovia-con-la-super-draga-japonesa-ante-la-indefinicion-de-lula-y-milei/",
-        "domain": "lapoliticaonline.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260812T174500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Ομάν : Πετρελαιοκηλίδα απειλεί να μετατραπεί στη χειρότερη οικολογική καταστροφή των τελευταίων ετών",
-        "url": "https://www.emakedonia.gr/oman-petrelaiokilida-apeilei-na-metatrapei-sti-cheiroteri-oikologiki-katastrofi-ton-teleytaion-eton-821623",
-        "domain": "emakedonia.gr",
-        "language": "Greek",
-        "tone": 0,
-        "seendate": "20260812T211500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Pakistan Condemns Houthi Attack That Killed Three Of Its Citizens",
-        "url": "http://www.parisguardian.com/news/279236748/pakistan-condemns-houthi-attack-that-killed-three-of-its-citizens",
-        "domain": "parisguardian.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T170000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Pakistan Condemns Houthi Attack That Killed Three Of Its Citizens",
-        "url": "http://www.mexicostar.com/news/279236748/pakistan-condemns-houthi-attack-that-killed-three-of-its-citizens",
-        "domain": "mexicostar.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T153000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Pakistan Condemns Houthi Attack That Killed Three Of Its Citizens",
-        "url": "http://www.milwaukeesun.com/news/279236748/pakistan-condemns-houthi-attack-that-killed-three-of-its-citizens",
-        "domain": "milwaukeesun.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T141500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Pakistan Condemns Houthi Attack That Killed Three Of Its Citizens",
-        "url": "http://www.chinanationalnews.com/news/279236748/pakistan-condemns-houthi-attack-that-killed-three-of-its-citizens",
-        "domain": "chinanationalnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T161500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Pakistan Condemns Houthi Attack That Killed Three Of Its Citizens",
-        "url": "http://www.southeastasiapost.com/news/279236748/pakistan-condemns-houthi-attack-that-killed-three-of-its-citizens",
-        "domain": "southeastasiapost.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T170000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "EU , Western States Condemn Iranian Executions In  Strongest Terms  ",
-        "url": "http://www.parisguardian.com/news/279237316/eu-western-states-condemn-iranian-executions-in-strongest-terms",
-        "domain": "parisguardian.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T170000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "EU , Western States Condemn Iranian Executions In  Strongest Terms  ",
-        "url": "http://www.arabherald.com/news/279237316/eu-western-states-condemn-iranian-executions-in-strongest-terms",
-        "domain": "arabherald.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T211500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "EU , Western States Condemn Iranian Executions In  Strongest Terms  ",
-        "url": "http://www.chinanationalnews.com/news/279237316/eu-western-states-condemn-iranian-executions-in-strongest-terms",
-        "domain": "chinanationalnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T210000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "EU , Western States Condemn Iranian Executions In  Strongest Terms  ",
-        "url": "http://www.middleeaststar.com/news/279237316/eu-western-states-condemn-iranian-executions-in-strongest-terms",
-        "domain": "middleeaststar.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T210000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "EU , Western States Condemn Iranian Executions In  Strongest Terms  ",
-        "url": "http://www.southeastasiapost.com/news/279237316/eu-western-states-condemn-iranian-executions-in-strongest-terms",
-        "domain": "southeastasiapost.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T213000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "EU , Western States Condemn Iranian Executions In  Strongest Terms  ",
-        "url": "http://www.russiaherald.com/news/279237316/eu-western-states-condemn-iranian-executions-in-strongest-terms",
-        "domain": "russiaherald.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T233000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "EU , Western States Condemn Iranian Executions In  Strongest Terms  ",
-        "url": "http://www.iranherald.com/news/279237316/eu-western-states-condemn-iranian-executions-in-strongest-terms",
-        "domain": "iranherald.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T170000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "EU , Western States Condemn Iranian Executions In  Strongest Terms  ",
-        "url": "http://www.calcuttanews.net/news/279237316/eu-western-states-condemn-iranian-executions-in-strongest-terms",
-        "domain": "calcuttanews.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T161500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "EU , Western States Condemn Iranian Executions In  Strongest Terms  ",
-        "url": "http://www.theuknews.com/news/279237316/eu-western-states-condemn-iranian-executions-in-strongest-terms",
-        "domain": "theuknews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T214500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Huge oil slick hitting Oman shoreline as agencies warn of disaster | 104 . 1 WIKY",
-        "url": "https://wiky.com/2026/08/12/gulf-oil-spill-fast-becoming-worst-in-years-agencies-warn/",
-        "domain": "wiky.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T191500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Huge oil slick hitting Oman shoreline as agencies warn of disaster | 1450 AM 99 . 7 FM WHTC",
-        "url": "https://whtc.com/2026/08/12/gulf-oil-spill-fast-becoming-worst-in-years-agencies-warn/",
-        "domain": "whtc.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T183000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Huge oil slick hitting Oman shoreline as agencies warn of disaster",
-        "url": "https://kelo.com/2026/08/12/gulf-oil-spill-fast-becoming-worst-in-years-agencies-warn/",
-        "domain": "kelo.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T200000Z",
-        "source": "GDELT"
-      }
-    ],
+    "gdelt_articles": [],
     "earthquakes": [
       {
-        "place": "17 km SSW of Balmorhea, Texas",
-        "mag": 2.1,
-        "time": 1786606883679,
-        "lon": -103.804,
-        "lat": 30.838,
-        "depth": 0,
+        "place": "55 km NW of Kalaoa, Hawaii",
+        "mag": 2.51,
+        "time": 1786627009310,
+        "lon": -156.355163574219,
+        "lat": 20.0791664123535,
+        "depth": 4.73999977111816,
+        "source": "USGS"
+      },
+      {
+        "place": "25 km SW of Bodfish, CA",
+        "mag": 1.34,
+        "time": 1786625451390,
+        "lon": -118.6495,
+        "lat": 35.4065,
+        "depth": 3.58,
+        "source": "USGS"
+      },
+      {
+        "place": "29 km SE of Minto, Alaska",
+        "mag": 1.6,
+        "time": 1786625312167,
+        "lon": -148.855,
+        "lat": 64.994,
+        "depth": 1.9,
+        "source": "USGS"
+      },
+      {
+        "place": "60 km S of Whites City, New Mexico",
+        "mag": 1.5,
+        "time": 1786625229677,
+        "lon": -104.432,
+        "lat": 31.635,
+        "depth": 3.165,
+        "source": "USGS"
+      },
+      {
+        "place": "45 km SSW of Angoram, Papua New Guinea",
+        "mag": 5,
+        "time": 1786625099102,
+        "lon": 143.8885,
+        "lat": -4.4318,
+        "depth": 134.025,
+        "source": "USGS"
+      },
+      {
+        "place": "17 km ESE of Little Lake, CA",
+        "mag": 1.04,
+        "time": 1786625058630,
+        "lon": -117.726666666667,
+        "lat": 35.8941666666667,
+        "depth": 4.64,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km NNW of The Geysers, CA",
+        "mag": 0.73,
+        "time": 1786621827400,
+        "lon": -122.763664245605,
+        "lat": 38.7991676330566,
+        "depth": 2.46000003814697,
+        "source": "USGS"
+      },
+      {
+        "place": "30 km E of Rio Dell, CA",
+        "mag": 1.99,
+        "time": 1786621390190,
+        "lon": -123.75016784668,
+        "lat": 40.4626655578613,
+        "depth": 20.1399993896484,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km WSW of Grapevine, CA",
+        "mag": 0.99,
+        "time": 1786620832710,
+        "lon": -119.028666666667,
+        "lat": 34.913,
+        "depth": 8.66,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km N of Orinda, CA",
+        "mag": 0.73,
+        "time": 1786620452360,
+        "lon": -122.184501647949,
+        "lat": 37.9174995422363,
+        "depth": 6.03000020980835,
+        "source": "USGS"
+      },
+      {
+        "place": "57 km ENE of Pedro Bay, Alaska",
+        "mag": 2.4,
+        "time": 1786620352437,
+        "lon": -153.192,
+        "lat": 60.013,
+        "depth": 137.8,
+        "source": "USGS"
+      },
+      {
+        "place": "22 km NE of Pine Valley, CA",
+        "mag": 0.74,
+        "time": 1786620240170,
+        "lon": -116.3355,
+        "lat": 32.9361666666667,
+        "depth": 8.14,
+        "source": "USGS"
+      },
+      {
+        "place": "16 km NE of Milford, Utah",
+        "mag": 2.56,
+        "time": 1786618646460,
+        "lon": -112.885666666667,
+        "lat": 38.5138333333333,
+        "depth": 3.71,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km NE of Prattville, CA",
+        "mag": 1.99,
+        "time": 1786617927660,
+        "lon": -121.129333496094,
+        "lat": 40.2249984741211,
+        "depth": 11.25,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WNW of Cobb, CA",
+        "mag": 1.02,
+        "time": 1786617385570,
+        "lon": -122.788665771484,
+        "lat": 38.836498260498,
+        "depth": 1.83000004291534,
+        "source": "USGS"
+      },
+      {
+        "place": "25 km SW of Ocotillo Wells, CA",
+        "mag": 0.98,
+        "time": 1786617103420,
+        "lon": -116.316666666667,
+        "lat": 32.9785,
+        "depth": 9.06,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km E of Calimesa, CA",
+        "mag": 0.73,
+        "time": 1786617070210,
+        "lon": -116.993166666667,
+        "lat": 33.9886666666667,
+        "depth": 8.53,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km SW of Pāhala, Hawaii",
+        "mag": 1.88,
+        "time": 1786616957600,
+        "lon": -155.496166666667,
+        "lat": 19.1876666666667,
+        "depth": 29.44,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km E of Coso Junction, CA",
+        "mag": 0.48,
+        "time": 1786616799990,
+        "lon": -117.777,
+        "lat": 36.0335,
+        "depth": 2.25,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km ESE of Gambiran Satu, Indonesia",
+        "mag": 4.6,
+        "time": 1786616599536,
+        "lon": 114.1762,
+        "lat": -8.4115,
+        "depth": 145.679,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km ENE of Susitna North, Alaska",
+        "mag": 1.3,
+        "time": 1786616491284,
+        "lon": -149.715,
+        "lat": 62.198,
+        "depth": 1.3,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km NW of The Geysers, CA",
+        "mag": 0.98,
+        "time": 1786616011310,
+        "lon": -122.847999572754,
+        "lat": 38.8310012817383,
+        "depth": 1.78999996185303,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km SSE of Floriston, California",
+        "mag": 1.64,
+        "time": 1786615855156,
+        "lon": -119.9911,
+        "lat": 39.3579,
+        "depth": 1.8791,
+        "source": "USGS"
+      },
+      {
+        "place": "45 km NW of Toyah, Texas",
+        "mag": 1.7,
+        "time": 1786615644646,
+        "lon": -104.125,
+        "lat": 31.613,
+        "depth": 4.5385,
+        "source": "USGS"
+      },
+      {
+        "place": "16 km SW of Anchorage, Alaska",
+        "mag": 1.8,
+        "time": 1786615640282,
+        "lon": -150.091,
+        "lat": 61.1,
+        "depth": 43.1,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km E of Coso Junction, CA",
+        "mag": 0.92,
+        "time": 1786615583740,
+        "lon": -117.779166666667,
+        "lat": 36.0343333333333,
+        "depth": 1.95,
+        "source": "USGS"
+      },
+      {
+        "place": "19 km S of Eureka Roadhouse, Alaska",
+        "mag": 1.8,
+        "time": 1786615276866,
+        "lon": -147.221,
+        "lat": 61.769,
+        "depth": 9.5,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km ENE of Borrego Springs, CA",
+        "mag": 0.48,
+        "time": 1786614815700,
+        "lon": -116.328333333333,
+        "lat": 33.2675,
+        "depth": 2.36,
+        "source": "USGS"
+      },
+      {
+        "place": "28 km SSW of Ocotillo Wells, CA",
+        "mag": 2.53,
+        "time": 1786613478030,
+        "lon": -116.251166666667,
+        "lat": 32.914,
+        "depth": 5.61,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NNW of Pinnacles, CA",
+        "mag": 1.92,
+        "time": 1786613187460,
+        "lon": -121.173332214355,
+        "lat": 36.5736656188965,
+        "depth": 4.09999990463257,
+        "source": "USGS"
+      },
+      {
+        "place": "36 km WSW of Mentone, Texas",
+        "mag": 2.2,
+        "time": 1786613061432,
+        "lon": -103.968,
+        "lat": 31.613,
+        "depth": 8.2916,
+        "source": "USGS"
+      },
+      {
+        "place": "22 km ENE of Lapuan, Philippines",
+        "mag": 5.1,
+        "time": 1786612978999,
+        "lon": 125.8789,
+        "lat": 6.2479,
+        "depth": 91.206,
+        "source": "USGS"
+      },
+      {
+        "place": "13 km ENE of Cloverdale, CA",
+        "mag": 0.63,
+        "time": 1786612946020,
+        "lon": -122.880668640137,
+        "lat": 38.8428344726562,
+        "depth": 2.50999999046326,
+        "source": "USGS"
+      },
+      {
+        "place": "21 km NNE of Shasta Lake, CA",
+        "mag": 1.88,
+        "time": 1786612799260,
+        "lon": -122.255668640137,
+        "lat": 40.8448333740234,
+        "depth": 13.1099996566772,
+        "source": "USGS"
+      },
+      {
+        "place": "1 km SSE of Indios, Puerto Rico",
+        "mag": 2.2,
+        "time": 1786612774440,
+        "lon": -66.8171666666667,
+        "lat": 17.9841666666667,
+        "depth": 18.04,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km ENE of Badger, Alaska",
+        "mag": 1.2,
+        "time": 1786612559687,
+        "lon": -147.361,
+        "lat": 64.832,
+        "depth": 5,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km SSW of Pāhala, Hawaii",
+        "mag": 2.33,
+        "time": 1786611250290,
+        "lon": -155.492492675781,
+        "lat": 19.1648330688477,
+        "depth": 29.4599990844727,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km WNW of The Geysers, CA",
+        "mag": 0.87,
+        "time": 1786610981890,
+        "lon": -122.853500366211,
+        "lat": 38.8214988708496,
+        "depth": 2.71000003814697,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km NW of The Geysers, CA",
+        "mag": 1.05,
+        "time": 1786610834530,
+        "lon": -122.815170288086,
+        "lat": 38.8311653137207,
+        "depth": 1.60000002384186,
+        "source": "USGS"
+      },
+      {
+        "place": "19 km WSW of Stella, Puerto Rico",
+        "mag": 2.48,
+        "time": 1786610425300,
+        "lon": -67.4248333333333,
+        "lat": 18.2861666666667,
+        "depth": 14.39,
+        "source": "USGS"
+      },
+      {
+        "place": "14 km WSW of Greenfield, CA",
+        "mag": 1.58,
+        "time": 1786610197810,
+        "lon": -121.388664245605,
+        "lat": 36.2775001525879,
+        "depth": 7.92999982833862,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km ESE of Little Lake, CA",
+        "mag": 0.69,
+        "time": 1786609861620,
+        "lon": -117.741,
+        "lat": 35.9021666666667,
+        "depth": 9.05,
+        "source": "USGS"
+      },
+      {
+        "place": "37 km WSW of Mentone, Texas",
+        "mag": 1.3,
+        "time": 1786609333068,
+        "lon": -103.975,
+        "lat": 31.615,
+        "depth": 5.6191,
+        "source": "USGS"
+      },
+      {
+        "place": "35 km WSW of Mentone, Texas",
+        "mag": 2.9,
+        "time": 1786609062181,
+        "lon": -103.962,
+        "lat": 31.612,
+        "depth": 8.5095,
+        "source": "USGS"
+      },
+      {
+        "place": "36 km WSW of Mentone, Texas",
+        "mag": 1.8,
+        "time": 1786608971648,
+        "lon": -103.97,
+        "lat": 31.611,
+        "depth": 8.4198,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km W of Cobb, CA",
+        "mag": 1.06,
+        "time": 1786608427220,
+        "lon": -122.809829711914,
+        "lat": 38.8333320617676,
+        "depth": 2.10999989509583,
         "source": "USGS"
       },
       {
@@ -529,411 +483,6 @@
         "lon": -122.796165466309,
         "lat": 38.8363342285156,
         "depth": 2.10999989509583,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km N of Almanor, CA",
-        "mag": 2.33,
-        "time": 1786605934240,
-        "lon": -121.174003601074,
-        "lat": 40.2428321838379,
-        "depth": 5.28999996185303,
-        "source": "USGS"
-      },
-      {
-        "place": "131 km SW of Yakutat, Alaska",
-        "mag": 3,
-        "time": 1786605653817,
-        "lon": -141.565,
-        "lat": 58.842,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "44 km NW of Toyah, Texas",
-        "mag": 1.5,
-        "time": 1786604528833,
-        "lon": -104.113,
-        "lat": 31.611,
-        "depth": 4.2937,
-        "source": "USGS"
-      },
-      {
-        "place": "39 km ESE of Naalehu, Hawaii",
-        "mag": 2.03,
-        "time": 1786604395400,
-        "lon": -155.252838134766,
-        "lat": 18.8838329315186,
-        "depth": 8.85999965667725,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km WNW of Cobb, CA",
-        "mag": 0.41,
-        "time": 1786604307030,
-        "lon": -122.797668457031,
-        "lat": 38.835334777832,
-        "depth": 1.70000004768372,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km E of Hayward, CA",
-        "mag": 1.41,
-        "time": 1786603485560,
-        "lon": -122.052833557129,
-        "lat": 37.6446647644043,
-        "depth": 4.3899998664856,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km SE of Pyote, Texas",
-        "mag": 2.1,
-        "time": 1786602645992,
-        "lon": -103.065,
-        "lat": 31.462,
-        "depth": 4.3939,
-        "source": "USGS"
-      },
-      {
-        "place": "21 km W of Garden City, Texas",
-        "mag": 2.6,
-        "time": 1786602625884,
-        "lon": -101.703,
-        "lat": 31.852,
-        "depth": 2.8548,
-        "source": "USGS"
-      },
-      {
-        "place": "43 km SE of Nelchina, Alaska",
-        "mag": 1.5,
-        "time": 1786602060298,
-        "lon": -146.277,
-        "lat": 61.674,
-        "depth": 19.3,
-        "source": "USGS"
-      },
-      {
-        "place": "37 km WNW of Karluk, Alaska",
-        "mag": 1.7,
-        "time": 1786601900377,
-        "lon": -154.982,
-        "lat": 57.758,
-        "depth": 70.6,
-        "source": "USGS"
-      },
-      {
-        "place": "34 km SSW of Pa‘auilo, Hawaii",
-        "mag": 2.16,
-        "time": 1786601744040,
-        "lon": -155.491333007812,
-        "lat": 19.7551670074463,
-        "depth": 29.3799991607666,
-        "source": "USGS"
-      },
-      {
-        "place": "20 km NNW of Pāhala, Hawaii",
-        "mag": 1.86,
-        "time": 1786600351980,
-        "lon": -155.540161132812,
-        "lat": 19.3759994506836,
-        "depth": 0.959999978542328,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km WNW of Wrightwood, CA",
-        "mag": 1.07,
-        "time": 1786599812830,
-        "lon": -117.652333333333,
-        "lat": 34.366,
-        "depth": 8.29,
-        "source": "USGS"
-      },
-      {
-        "place": "47 km NW of Toyah, Texas",
-        "mag": 1.6,
-        "time": 1786598170140,
-        "lon": -104.173,
-        "lat": 31.59,
-        "depth": 7.2278,
-        "source": "USGS"
-      },
-      {
-        "place": "24 km SW of Ocotillo Wells, CA",
-        "mag": 0.76,
-        "time": 1786598088880,
-        "lon": -116.338666666667,
-        "lat": 33.0096666666667,
-        "depth": 8.78,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km NW of Point MacKenzie, Alaska",
-        "mag": 1.6,
-        "time": 1786597993639,
-        "lon": -150.085,
-        "lat": 61.415,
-        "depth": 29.2,
-        "source": "USGS"
-      },
-      {
-        "place": "59 km S of Whites City, New Mexico",
-        "mag": 0.7,
-        "time": 1786597330829,
-        "lon": -104.442,
-        "lat": 31.639,
-        "depth": 3.9525,
-        "source": "USGS"
-      },
-      {
-        "place": "17 km S of Cuyutlán, Mexico",
-        "mag": 4.4,
-        "time": 1786597328232,
-        "lon": -104.0691,
-        "lat": 18.7632,
-        "depth": 59.642,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km SE of Balmorhea, Texas",
-        "mag": 1.6,
-        "time": 1786597001130,
-        "lon": -103.657,
-        "lat": 30.907,
-        "depth": 2.1406,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km SW of Volcano, Hawaii",
-        "mag": 2.05,
-        "time": 1786596234950,
-        "lon": -155.277328491211,
-        "lat": 19.3968334197998,
-        "depth": 0.270000010728836,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km E of Captain Cook, Hawaii",
-        "mag": 1.73,
-        "time": 1786595900930,
-        "lon": -155.883331298828,
-        "lat": 19.5030002593994,
-        "depth": 6.92999982833862,
-        "source": "USGS"
-      },
-      {
-        "place": "81 km SSE of Port Graham, Alaska",
-        "mag": 1.8,
-        "time": 1786595303017,
-        "lon": -151.405,
-        "lat": 58.654,
-        "depth": 28,
-        "source": "USGS"
-      },
-      {
-        "place": "19 km NE of Arvin, CA",
-        "mag": 1.33,
-        "time": 1786595054720,
-        "lon": -118.665666666667,
-        "lat": 35.3193333333333,
-        "depth": 6.97,
-        "source": "USGS"
-      },
-      {
-        "place": "70 km NNW of Barishal, Pakistan",
-        "mag": 4.3,
-        "time": 1786595053980,
-        "lon": 74.2629,
-        "lat": 36.8572,
-        "depth": 57.968,
-        "source": "USGS"
-      },
-      {
-        "place": "13 km NE of Milford, Utah",
-        "mag": 1.97,
-        "time": 1786594166580,
-        "lon": -112.906833333333,
-        "lat": 38.4926666666667,
-        "depth": 0.74,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km SE of Loma Linda, CA",
-        "mag": 0.84,
-        "time": 1786593828560,
-        "lon": -117.219,
-        "lat": 34.0095,
-        "depth": 7.06,
-        "source": "USGS"
-      },
-      {
-        "place": "43 km E of Whittier, Alaska",
-        "mag": 2.1,
-        "time": 1786593195447,
-        "lon": -147.882,
-        "lat": 60.751,
-        "depth": 24.9,
-        "source": "USGS"
-      },
-      {
-        "place": "24 km SSW of Manley Hot Springs, Alaska",
-        "mag": 2.4,
-        "time": 1786592278021,
-        "lon": -150.767,
-        "lat": 64.786,
-        "depth": 14.6,
-        "source": "USGS"
-      },
-      {
-        "place": "25 km SSW of Manley Hot Springs, Alaska",
-        "mag": 2.4,
-        "time": 1786592261053,
-        "lon": -150.838,
-        "lat": 64.786,
-        "depth": 19.8,
-        "source": "USGS"
-      },
-      {
-        "place": "25 km W of Johannesburg, CA",
-        "mag": 1.14,
-        "time": 1786591741460,
-        "lon": -117.9055,
-        "lat": 35.3953333333333,
-        "depth": 24.13,
-        "source": "USGS"
-      },
-      {
-        "place": "25 km ESE of Skwentna, Alaska",
-        "mag": 1.7,
-        "time": 1786591605376,
-        "lon": -150.938,
-        "lat": 61.909,
-        "depth": 73.9,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km NNE of San Leandro, CA",
-        "mag": 2.17,
-        "time": 1786591590060,
-        "lon": -122.145668029785,
-        "lat": 37.7506675720215,
-        "depth": 4.28999996185303,
-        "source": "USGS"
-      },
-      {
-        "place": "15 km S of Anza, CA",
-        "mag": 0.51,
-        "time": 1786591552510,
-        "lon": -116.6535,
-        "lat": 33.4241666666667,
-        "depth": 4.88,
-        "source": "USGS"
-      },
-      {
-        "place": "14 km E of Pāhala, Hawaii",
-        "mag": 2.46,
-        "time": 1786591535860,
-        "lon": -155.343994140625,
-        "lat": 19.195333480835,
-        "depth": 27.2900009155273,
-        "source": "USGS"
-      },
-      {
-        "place": "72 km SSE of Akutan, Alaska",
-        "mag": 1.9,
-        "time": 1786591235497,
-        "lon": -165.442,
-        "lat": 53.516,
-        "depth": 20,
-        "source": "USGS"
-      },
-      {
-        "place": "1 km ESE of The Geysers, CA",
-        "mag": 0.79,
-        "time": 1786590406240,
-        "lon": -122.744667053223,
-        "lat": 38.7736663818359,
-        "depth": 2.53999996185303,
-        "source": "USGS"
-      },
-      {
-        "place": "105 km N of Yakutat, Alaska",
-        "mag": 1.7,
-        "time": 1786589393243,
-        "lon": -139.57,
-        "lat": 60.487,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km WNW of Pāhala, Hawaii",
-        "mag": 1.99,
-        "time": 1786587897690,
-        "lon": -155.583831787109,
-        "lat": 19.2308330535889,
-        "depth": 5.98000001907349,
-        "source": "USGS"
-      },
-      {
-        "place": "51 km ESE of Naalehu, Hawaii",
-        "mag": 1.95,
-        "time": 1786587658350,
-        "lon": -155.142166137695,
-        "lat": 18.8703327178955,
-        "depth": 4.86999988555908,
-        "source": "USGS"
-      },
-      {
-        "place": "221 km ESE of Attu Station, Alaska",
-        "mag": 3.4,
-        "time": 1786585603220,
-        "lon": 176.173,
-        "lat": 52.048,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "15 km SW of Floresville, Texas",
-        "mag": 1.7,
-        "time": 1786585206054,
-        "lon": -98.249,
-        "lat": 29.019,
-        "depth": 0,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km E of Yucaipa, CA",
-        "mag": 1.91,
-        "time": 1786584997610,
-        "lon": -116.999333333333,
-        "lat": 34.0313333333333,
-        "depth": 10.19,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km WSW of Fuig, Puerto Rico",
-        "mag": 2.56,
-        "time": 1786584711020,
-        "lon": -66.9413333333333,
-        "lat": 17.9826666666667,
-        "depth": 10.73,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Rockport, CA",
-        "mag": 1.64,
-        "time": 1786584172110,
-        "lon": -123.704002380371,
-        "lat": 39.7751655578613,
-        "depth": 4.13000011444092,
-        "source": "USGS"
-      },
-      {
-        "place": "96 km S of King Cove, Alaska",
-        "mag": 2.5,
-        "time": 1786584134622,
-        "lon": -162.387,
-        "lat": 54.197,
-        "depth": 11.4,
         "source": "USGS"
       }
     ],
@@ -1020,225 +569,8 @@
       }
     ]
   },
-  "entities": [
-    {
-      "id": 1,
-      "name": "Four crew , two rescuers killed in Red Sea attack",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260812T101500Z",
-      "source": "arynews.tv"
-    },
-    {
-      "id": 2,
-      "name": "4 killed in Houthi attack on Red Sea cargo ship ; US strikes",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260812T094500Z",
-      "source": "timesofindia.indiatimes.com"
-    },
-    {
-      "id": 3,
-      "name": "Iran - Backed Houthi Terrorists Launch Missile and Drone Att",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260813T004500Z",
-      "source": "breitbart.com"
-    },
-    {
-      "id": 4,
-      "name": "Από τον « σκιώδη στόλο » στις κατασχέσεις πλοίων - Πού οδηγε",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260812T214500Z",
-      "source": "tothemaonline.com"
-    },
-    {
-      "id": 5,
-      "name": "Singapore - registered container ship crashes into Hooghly r",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260813T070000Z",
-      "source": "asiaone.com"
-    },
-    {
-      "id": 6,
-      "name": "Shipping professionals urge port resilience to weather globa",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260813T041500Z",
-      "source": "standardmedia.co.ke"
-    },
-    {
-      "id": 7,
-      "name": "Buque BYD Changzhou descarga casi 2 . 000 vehículos en San A",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260812T220000Z",
-      "source": "cnnchile.com"
-    },
-    {
-      "id": 8,
-      "name": "Two Tourist Boats Collide Off Greek Island of Antipaxos , In",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260812T211500Z",
-      "source": "iefimerida.gr"
-    },
-    {
-      "id": 9,
-      "name": "NÁUTICA EN IBIZA : Un fallo eléctrico deja en tierra al ferr",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260812T114500Z",
-      "source": "diariodeibiza.es"
-    },
-    {
-      "id": 10,
-      "name": "Trump Claims US Has  Total Control  of Hormuz as Ship Traffi",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260813T050000Z",
-      "source": "thisdaylive.com"
-    }
-  ],
-  "events": [
-    {
-      "title": "Four crew , two rescuers killed in Red Sea attack",
-      "url": "https://arynews.tv/four-crew-two-rescuers-killed-in-red-sea-attack-us-strikes-ship-in-gulf-of-oman",
-      "domain": "arynews.tv",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260812T101500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "4 killed in Houthi attack on Red Sea cargo ship ; US strikes vessel bound for Iran",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/4-killed-in-houthi-attack-on-red-sea-cargo-ship-us-strikes-vessel-bound-for-iran/articleshow/133173176.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260812T094500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Iran - Backed Houthi Terrorists Launch Missile and Drone Attacks in Red Sea",
-      "url": "https://www.breitbart.com/middle-east/2026/08/12/iran-backed-houthi-terrorists-launch-missile-and-drone-attacks-in-red-sea/",
-      "domain": "breitbart.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260813T004500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Από τον « σκιώδη στόλο » στις κατασχέσεις πλοίων - Πού οδηγεί η νέα απειλή της Ρωσίας",
-      "url": "https://www.tothemaonline.com/Article/469683/apo-ton-skiwdh-stolo-stis-katasheseis-ploiwn---poy-odhgei-h-nea-apeilh-ths-rwsias",
-      "domain": "tothemaonline.com",
-      "language": "Greek",
-      "tone": 0,
-      "seendate": "20260812T214500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Singapore - registered container ship crashes into Hooghly riverbank in India",
-      "url": "https://www.asiaone.com/singapore/nawata-bhum-sinapore-container-ship-crash-hooghly-river-india",
-      "domain": "asiaone.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260813T070000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Shipping professionals urge port resilience to weather global headwinds",
-      "url": "https://www.standardmedia.co.ke/business/shipping-logistics/article/2001555201/shipping-professionals-urge-ports-resilience-to-weather-global-headwinds",
-      "domain": "standardmedia.co.ke",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260813T041500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Buque BYD Changzhou descarga casi 2 . 000 vehículos en San Antonio , el mayor envío de nuevas energías recibido en Chile",
-      "url": "https://www.cnnchile.com/negocios/buque-byd-changzhou-descarga-casi-2000-vehiculos-en-san-antonio-mayor-envio-nuevas-energias-recibido-chile/",
-      "domain": "cnnchile.com",
-      "language": "Spanish",
-      "tone": 0,
-      "seendate": "20260812T220000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Two Tourist Boats Collide Off Greek Island of Antipaxos , Injuries Reported",
-      "url": "https://www.iefimerida.gr/english/two-tourist-boats-collide-greek-island-antipaxos-injuries-reported",
-      "domain": "iefimerida.gr",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260812T211500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "NÁUTICA EN IBIZA : Un fallo eléctrico deja en tierra al ferry Barcelona - Ibiza",
-      "url": "https://www.diariodeibiza.es/ibiza/2026/08/12/ibiza-barcelona-electrico-tierra-ferry-133288181.html",
-      "domain": "diariodeibiza.es",
-      "language": "Spanish",
-      "tone": 0,
-      "seendate": "20260812T114500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Trump Claims US Has  Total Control  of Hormuz as Ship Traffic Falls to One - week Low – THISDAYLIVE",
-      "url": "https://www.thisdaylive.com/2026/08/13/trump-claims-us-has-total-control-of-hormuz-as-ship-traffic-falls-to-one-week-low/",
-      "domain": "thisdaylive.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260813T050000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "A US Helicopter Disabled a Panama - Flagged Ship Off Pakistan",
-      "url": "https://www.riotimesonline.com/panama-flagged-ship-vela-nova-us-2026/",
-      "domain": "riotimesonline.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260812T094500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Axpo and Vitol launch LNG bunkering at Italy largest cruise port | Hellenic Shipping News Worldwide",
-      "url": "https://www.hellenicshippingnews.com/axpo-and-vitol-launch-lng-bunkering-at-italys-largest-cruise-port/",
-      "domain": "hellenicshippingnews.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260812T213000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "At least 6 Killed In Red Sea Shipping Attack ; US Fires On Cargo Vessel",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260811-rferl02.htm",
-      "domain": "globalsecurity.org",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260812T100000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Attacks in Middle East seas escalate tensions",
-      "url": "http://usa.chinadaily.com.cn/a/202608/13/WS6a7d2290a31073853ec5317d.html",
-      "domain": "usa.chinadaily.com.cn",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260813T031500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "El Canal de Suez apuesta por una logística más verde , pero los peajes siguen bajo otras reglas",
-      "url": "https://www.hsbnoticias.com/logistica-carga-canal-suez-biocombustibles-peajes-4/",
-      "domain": "hsbnoticias.com",
-      "language": "Spanish",
-      "tone": 0,
-      "seendate": "20260813T030000Z",
-      "source": "GDELT"
-    }
-  ],
+  "entities": [],
+  "events": [],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
