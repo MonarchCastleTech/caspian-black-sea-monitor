@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-13T19:15:36.652726+00:00",
+    "generated": "2026-08-14T02:36:58.788853+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -36,453 +36,453 @@
     "gdelt_articles": [],
     "earthquakes": [
       {
-        "place": "23 km ESE of Little Lake, CA",
-        "mag": 0.85,
-        "time": 1786647850750,
-        "lon": -117.665,
-        "lat": 35.8713333333333,
-        "depth": 12.23,
+        "place": "13 km NNW of Angwin, CA",
+        "mag": 1.12,
+        "time": 1786674791550,
+        "lon": -122.499496459961,
+        "lat": 38.681999206543,
+        "depth": 6.67999982833862,
         "source": "USGS"
       },
       {
-        "place": "23 km ESE of Little Lake, CA",
-        "mag": 0.31,
-        "time": 1786647621620,
-        "lon": -117.665,
-        "lat": 35.8713333333333,
-        "depth": 10.41,
+        "place": "5 km WNW of Cobb, CA",
+        "mag": 1.09,
+        "time": 1786674774520,
+        "lon": -122.783836364746,
+        "lat": 38.8341674804688,
+        "depth": 2.10999989509583,
         "source": "USGS"
       },
       {
-        "place": "10 km WNW of Cobb, CA",
-        "mag": 1,
-        "time": 1786647551030,
-        "lon": -122.832000732422,
-        "lat": 38.8491668701172,
-        "depth": 0.310000002384186,
+        "place": "8 km SSW of Pāhala, Hawaii",
+        "mag": 2.01,
+        "time": 1786673265990,
+        "lon": -155.496170043945,
+        "lat": 19.128999710083,
+        "depth": 31.1700000762939,
         "source": "USGS"
       },
       {
-        "place": "6 km WNW of The Geysers, CA",
-        "mag": 0.76,
-        "time": 1786647075960,
-        "lon": -122.817497253418,
-        "lat": 38.7973327636719,
-        "depth": 3.46000003814697,
+        "place": "14 km SSW of Ackerly, Texas",
+        "mag": 1.2,
+        "time": 1786672920457,
+        "lon": -101.756,
+        "lat": 32.396,
+        "depth": 4.1453,
         "source": "USGS"
       },
       {
-        "place": "14 km SSE of Trapper Creek, Alaska",
-        "mag": 2,
-        "time": 1786646542806,
-        "lon": -150.156,
-        "lat": 62.187,
-        "depth": 17.2,
+        "place": "5 km SSE of Banning, CA",
+        "mag": 0.77,
+        "time": 1786672538540,
+        "lon": -116.863833333333,
+        "lat": 33.8831666666667,
+        "depth": 15.09,
         "source": "USGS"
       },
       {
-        "place": "11 km S of Sarangani, Philippines",
-        "mag": 5.3,
-        "time": 1786646371327,
-        "lon": 125.4836,
-        "lat": 5.3002,
-        "depth": 66.312,
+        "place": "3 km NNW of The Geysers, CA",
+        "mag": 0.24,
+        "time": 1786672346000,
+        "lon": -122.768669128418,
+        "lat": 38.8011665344238,
+        "depth": 4.8899998664856,
         "source": "USGS"
       },
       {
-        "place": "5 km WSW of Devore, CA",
-        "mag": 0.56,
-        "time": 1786646093990,
-        "lon": -117.449,
-        "lat": 34.2086666666667,
-        "depth": 8.48,
+        "place": "29 km SW of Balangonan, Philippines",
+        "mag": 4.9,
+        "time": 1786670093627,
+        "lon": 125.1585,
+        "lat": 5.3865,
+        "depth": 92.559,
         "source": "USGS"
       },
       {
-        "place": "3 km NNE of San Leandro, CA",
-        "mag": 2.21,
-        "time": 1786646066150,
-        "lon": -122.144668579102,
-        "lat": 37.7518348693848,
-        "depth": 5.01999998092651,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km WSW of Bombay Beach, CA",
-        "mag": 1.08,
-        "time": 1786644686040,
-        "lon": -115.8215,
-        "lat": 33.3075,
-        "depth": 11.26,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km NNW of Orcas, Washington",
-        "mag": 0.11,
-        "time": 1786644655360,
-        "lon": -122.9865,
-        "lat": 48.6533333333333,
-        "depth": 17.32,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km W of Merrill, Oregon",
-        "mag": 2.03,
-        "time": 1786644194430,
-        "lon": -121.680166666667,
-        "lat": 42.0293333333333,
-        "depth": -1.57,
-        "source": "USGS"
-      },
-      {
-        "place": "25 km SE of Balmorhea, Texas",
+        "place": "30 km WNW of Toyah, Texas",
         "mag": 1.5,
-        "time": 1786644101278,
-        "lon": -103.543,
-        "lat": 30.832,
-        "depth": 0.9069,
+        "time": 1786669562858,
+        "lon": -104.073,
+        "lat": 31.456,
+        "depth": 0,
         "source": "USGS"
       },
       {
-        "place": "10 km SSE of Hemet, CA",
-        "mag": 0.62,
-        "time": 1786643367280,
-        "lon": -116.94,
-        "lat": 33.6615,
-        "depth": 11.57,
+        "place": "60 km S of Whites City, New Mexico",
+        "mag": 1.2,
+        "time": 1786669551428,
+        "lon": -104.444,
+        "lat": 31.632,
+        "depth": 3.5565,
         "source": "USGS"
       },
       {
-        "place": "11 km WSW of Stanton, Texas",
-        "mag": 0.5,
-        "time": 1786642870373,
-        "lon": -101.903,
-        "lat": 32.097,
-        "depth": 8.9111,
-        "source": "USGS"
-      },
-      {
-        "place": "west of Macquarie Island",
-        "mag": 5.1,
-        "time": 1786642769650,
-        "lon": 147.2281,
-        "lat": -56.8562,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km WNW of Salamatof, Alaska",
-        "mag": 1.7,
-        "time": 1786642670086,
-        "lon": -151.521,
-        "lat": 60.649,
-        "depth": 71.2,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km SSW of Redlands, CA",
-        "mag": 0.9,
-        "time": 1786642666420,
-        "lon": -117.191666666667,
-        "lat": 34.041,
-        "depth": 5.25,
-        "source": "USGS"
-      },
-      {
-        "place": "20 km NNE of Pāhala, Hawaii",
-        "mag": 1.73,
-        "time": 1786641649480,
-        "lon": -155.415161132812,
-        "lat": 19.3764991760254,
-        "depth": 9.48999977111816,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km N of San Germán, Puerto Rico",
-        "mag": 2.81,
-        "time": 1786641565330,
-        "lon": -67.0443333333333,
-        "lat": 18.1223333333333,
-        "depth": 20.12,
-        "source": "USGS"
-      },
-      {
-        "place": "1 km SW of Redlands, CA",
-        "mag": 0.95,
-        "time": 1786641500700,
-        "lon": -117.193,
-        "lat": 34.0461666666667,
-        "depth": 6.53,
-        "source": "USGS"
-      },
-      {
-        "place": "1 km WSW of Redlands, CA",
-        "mag": 0.95,
-        "time": 1786641293860,
-        "lon": -117.194333333333,
-        "lat": 34.05,
-        "depth": 6.6,
-        "source": "USGS"
-      },
-      {
-        "place": "1 km SW of Redlands, CA",
-        "mag": 1.19,
-        "time": 1786641270550,
-        "lon": -117.193666666667,
-        "lat": 34.0465,
-        "depth": 5.71,
-        "source": "USGS"
-      },
-      {
-        "place": "15 km SSW of Borrego Springs, CA",
-        "mag": 1.11,
-        "time": 1786640324750,
-        "lon": -116.457,
-        "lat": 33.1408333333333,
-        "depth": 11.81,
-        "source": "USGS"
-      },
-      {
-        "place": "12 km ENE of Pāhala, Hawaii",
+        "place": "10 km ENE of Ocotillo Wells, CA",
         "mag": 1.98,
-        "time": 1786639962880,
-        "lon": -155.363833333333,
-        "lat": 19.239,
-        "depth": 32.75,
+        "time": 1786669256110,
+        "lon": -116.031,
+        "lat": 33.1621666666667,
+        "depth": 0.02,
         "source": "USGS"
       },
       {
-        "place": "3 km NE of Brea, CA",
-        "mag": 1.96,
-        "time": 1786639943540,
-        "lon": -117.882833333333,
-        "lat": 33.9356666666667,
-        "depth": 6.23,
+        "place": "6 km NNW of Pinnacles, CA",
+        "mag": 1.86,
+        "time": 1786668946370,
+        "lon": -121.17749786377,
+        "lat": 36.5730018615723,
+        "depth": 5.03999996185303,
         "source": "USGS"
       },
       {
-        "place": "4 km NNE of San Leandro, CA",
-        "mag": 1.66,
-        "time": 1786639095400,
-        "lon": -122.144500732422,
-        "lat": 37.7566680908203,
-        "depth": 4.69000005722046,
+        "place": "56 km NW of Toyah, Texas",
+        "mag": 1.8,
+        "time": 1786668914590,
+        "lon": -104.228,
+        "lat": 31.656,
+        "depth": 5.787,
         "source": "USGS"
       },
       {
-        "place": "24 km SSW of Westbrook, Texas",
+        "place": "13 km SE of Middletown, CA",
+        "mag": 1.5,
+        "time": 1786668076550,
+        "lon": -122.501831054688,
+        "lat": 38.6816673278809,
+        "depth": 5.78999996185303,
+        "source": "USGS"
+      },
+      {
+        "place": "17 km WNW of Ninilchik, Alaska",
+        "mag": 1.9,
+        "time": 1786666844771,
+        "lon": -151.98,
+        "lat": 60.083,
+        "depth": 85.3,
+        "source": "USGS"
+      },
+      {
+        "place": "13 km S of Honaunau-Napoopoo, Hawaii",
+        "mag": 1.95,
+        "time": 1786666742550,
+        "lon": -155.862503051758,
+        "lat": 19.3383331298828,
+        "depth": 18.5900001525879,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km NNE of Burney, CA",
+        "mag": 1.74,
+        "time": 1786666707970,
+        "lon": -121.634330749512,
+        "lat": 40.938835144043,
+        "depth": 12.7299995422363,
+        "source": "USGS"
+      },
+      {
+        "place": "46 km W of Nanwalek, Alaska",
         "mag": 1.6,
-        "time": 1786639030638,
-        "lon": -101.085,
-        "lat": 32.141,
-        "depth": 8.9355,
+        "time": 1786666437497,
+        "lon": -152.742,
+        "lat": 59.348,
+        "depth": 74.8,
         "source": "USGS"
       },
       {
-        "place": "Kermadec Islands region",
-        "mag": 5.6,
-        "time": 1786637505826,
-        "lon": -176.3124,
-        "lat": -28.6742,
-        "depth": 10,
+        "place": "55 km NW of Toyah, Texas",
+        "mag": 1.7,
+        "time": 1786666022008,
+        "lon": -104.228,
+        "lat": 31.652,
+        "depth": 4.2752,
         "source": "USGS"
       },
       {
-        "place": "12 km SE of Pinnacles, CA",
-        "mag": 1.35,
-        "time": 1786637398780,
-        "lon": -121.042831420898,
-        "lat": 36.46533203125,
-        "depth": 7.94000005722046,
+        "place": "44 km NW of Toyah, Texas",
+        "mag": 1.8,
+        "time": 1786665867302,
+        "lon": -104.113,
+        "lat": 31.612,
+        "depth": 3.9434,
         "source": "USGS"
       },
       {
-        "place": "3 km N of San Leandro, CA",
-        "mag": 2.82,
-        "time": 1786637242660,
-        "lon": -122.15599822998,
-        "lat": 37.755500793457,
-        "depth": 6.30000019073486,
+        "place": "44 km NW of Toyah, Texas",
+        "mag": 1.8,
+        "time": 1786665867266,
+        "lon": -104.114,
+        "lat": 31.611,
+        "depth": 3.9962,
         "source": "USGS"
       },
       {
-        "place": "3 km NNE of San Leandro, CA",
-        "mag": 2.99,
-        "time": 1786637238710,
-        "lon": -122.144668579102,
-        "lat": 37.7545013427734,
-        "depth": 4.98999977111816,
+        "place": "45 km NW of Toyah, Texas",
+        "mag": 1.8,
+        "time": 1786665223867,
+        "lon": -104.119,
+        "lat": 31.61,
+        "depth": 3.6916,
         "source": "USGS"
       },
       {
-        "place": "4 km N of San Leandro, CA",
-        "mag": 3.84,
-        "time": 1786635004660,
-        "lon": -122.151168823242,
-        "lat": 37.7591667175293,
-        "depth": 5.15000009536743,
+        "place": "41 km WNW of Toyah, Texas",
+        "mag": 1.6,
+        "time": 1786665124274,
+        "lon": -104.163,
+        "lat": 31.521,
+        "depth": 4.2319,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km ESE of Pearsall, Texas",
+        "mag": 2.5,
+        "time": 1786664406519,
+        "lon": -98.9998,
+        "lat": 28.8602,
+        "depth": 5,
+        "source": "USGS"
+      },
+      {
+        "place": "32 km SW of Anchor Point, Alaska",
+        "mag": 1.7,
+        "time": 1786663699609,
+        "lon": -152.281,
+        "lat": 59.6,
+        "depth": 82,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NE of Wardville, Oklahoma",
+        "mag": 2.67,
+        "time": 1786663577980,
+        "lon": -95.984,
+        "lat": 34.6805,
+        "depth": 7,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km NW of Pinnacles, CA",
+        "mag": 0.7,
+        "time": 1786663350760,
+        "lon": -121.189002990723,
+        "lat": 36.5776672363281,
+        "depth": 3.61999988555908,
+        "source": "USGS"
+      },
+      {
+        "place": "23 km NE of Jurm, Afghanistan",
+        "mag": 4.2,
+        "time": 1786662717925,
+        "lon": 71.0489,
+        "lat": 36.9807,
+        "depth": 110.31,
+        "source": "USGS"
+      },
+      {
+        "place": "64 km NE of Nikolski, Alaska",
+        "mag": -0.27,
+        "time": 1786662496360,
+        "lon": -168.203166666667,
+        "lat": 53.3576666666667,
+        "depth": 7.92,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km WNW of Cobb, CA",
+        "mag": 0.75,
+        "time": 1786662227410,
+        "lon": -122.814834594727,
+        "lat": 38.8424987792969,
+        "depth": 1.63999998569489,
         "source": "USGS"
       },
       {
         "place": "11 km WNW of Cobb, CA",
-        "mag": 0.47,
-        "time": 1786634112650,
-        "lon": -122.835670471191,
-        "lat": 38.8605003356934,
-        "depth": 0.400000005960464,
+        "mag": 0.27,
+        "time": 1786661224530,
+        "lon": -122.844833374023,
+        "lat": 38.8473320007324,
+        "depth": 1.95000004768372,
         "source": "USGS"
       },
       {
-        "place": "7 km WSW of Byron, CA",
+        "place": "4 km SE of The Geysers, CA",
+        "mag": 1.19,
+        "time": 1786661145620,
+        "lon": -122.730003356934,
+        "lat": 38.7501678466797,
+        "depth": 0.189999997615814,
+        "source": "USGS"
+      },
+      {
+        "place": "70 km WNW of Tyonek, Alaska",
+        "mag": 0.53,
+        "time": 1786661071210,
+        "lon": -152.364166666667,
+        "lat": 61.2823333333333,
+        "depth": 5.93,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Ocotillo Wells, CA",
+        "mag": 0.85,
+        "time": 1786660409200,
+        "lon": -116.031166666667,
+        "lat": 33.174,
+        "depth": 5.7,
+        "source": "USGS"
+      },
+      {
+        "place": "57 km NE of Nikolski, Alaska",
+        "mag": 1.07,
+        "time": 1786660221530,
+        "lon": -168.277833333333,
+        "lat": 53.3211666666667,
+        "depth": 9.75,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km S of Pāhala, Hawaii",
+        "mag": 2.07,
+        "time": 1786658523930,
+        "lon": -155.483001708984,
+        "lat": 19.1596660614014,
+        "depth": 27.4599990844727,
+        "source": "USGS"
+      },
+      {
+        "place": "13 km SE of Pāhala, Hawaii",
         "mag": 1.95,
-        "time": 1786633138940,
-        "lon": -121.708168029785,
-        "lat": 37.836498260498,
-        "depth": 2.02999997138977,
+        "time": 1786657150620,
+        "lon": -155.373001098633,
+        "lat": 19.1280002593994,
+        "depth": 27.3700008392334,
         "source": "USGS"
       },
       {
-        "place": "14 km SSW of Ester, Alaska",
-        "mag": 2,
-        "time": 1786632664072,
-        "lon": -148.17,
-        "lat": 64.731,
-        "depth": 8.4,
+        "place": "3 km SSW of Pāhala, Hawaii",
+        "mag": 1.72,
+        "time": 1786656997750,
+        "lon": -155.488006591797,
+        "lat": 19.1753330230713,
+        "depth": 26.2000007629395,
         "source": "USGS"
       },
       {
-        "place": "13 km WSW of San José del Palmar, Colombia",
-        "mag": 4.3,
-        "time": 1786632152192,
-        "lon": -76.3547,
-        "lat": 4.8666,
-        "depth": 105.616,
+        "place": "16 km NE of Milford, Utah",
+        "mag": 1.24,
+        "time": 1786656892370,
+        "lon": -112.89,
+        "lat": 38.5153333333333,
+        "depth": 1.79,
         "source": "USGS"
       },
       {
-        "place": "222 km ENE of Levuka, Fiji",
-        "mag": 4.3,
-        "time": 1786631977774,
-        "lon": -178.6261,
-        "lat": -17.6737,
-        "depth": 561.836,
+        "place": "63 km NE of Nikolski, Alaska",
+        "mag": 0.29,
+        "time": 1786656196750,
+        "lon": -168.2135,
+        "lat": 53.3528333333333,
+        "depth": 6.82,
         "source": "USGS"
       },
       {
-        "place": "9 km WSW of Ocotillo Wells, CA",
-        "mag": 0.97,
-        "time": 1786631869250,
-        "lon": -116.221666666667,
-        "lat": 33.1198333333333,
-        "depth": 14.91,
+        "place": "85 km NW of Karluk, Alaska",
+        "mag": 0.15,
+        "time": 1786655696520,
+        "lon": -155.365166666667,
+        "lat": 58.1656666666667,
+        "depth": 0.56,
         "source": "USGS"
       },
       {
-        "place": "7 km NE of Penngrove, CA",
-        "mag": 1.23,
-        "time": 1786631531490,
-        "lon": -122.606834411621,
-        "lat": 38.3373336791992,
-        "depth": 4.23999977111816,
+        "place": "7 km SSW of Pāhala, Hawaii",
+        "mag": 2.14,
+        "time": 1786655657610,
+        "lon": -155.495666503906,
+        "lat": 19.1356658935547,
+        "depth": 30.4200000762939,
         "source": "USGS"
       },
       {
-        "place": "3 km SE of The Geysers, CA",
-        "mag": 0.75,
-        "time": 1786631434940,
-        "lon": -122.732002258301,
-        "lat": 38.7588348388672,
-        "depth": 0.899999976158142,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km E of The Geysers, CA",
-        "mag": 0.47,
-        "time": 1786631423820,
-        "lon": -122.735168457031,
-        "lat": 38.7771682739258,
-        "depth": 8.06999969482422,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km SSE of Llano, CA",
-        "mag": 0.6,
-        "time": 1786631321530,
-        "lon": -117.752333333333,
-        "lat": 34.4151666666667,
-        "depth": 8.05,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km ENE of Borrego Springs, CA",
+        "place": "87 km NNW of Karluk, Alaska",
         "mag": 0.8,
-        "time": 1786631206790,
-        "lon": -116.344666666667,
-        "lat": 33.268,
-        "depth": 2.51,
+        "time": 1786655635045,
+        "lon": -155.151,
+        "lat": 58.258,
+        "depth": 5,
         "source": "USGS"
       },
       {
-        "place": "12 km W of Anza, CA",
-        "mag": 1.34,
-        "time": 1786630722090,
-        "lon": -116.799833333333,
-        "lat": 33.569,
-        "depth": 8.03,
+        "place": "2 km NNW of The Geysers, CA",
+        "mag": 0.41,
+        "time": 1786655412890,
+        "lon": -122.76782989502,
+        "lat": 38.7908325195312,
+        "depth": 1.63999998569489,
         "source": "USGS"
       },
       {
-        "place": "7 km N of Claremont, CA",
-        "mag": 0.93,
-        "time": 1786630457250,
-        "lon": -117.721666666667,
-        "lat": 34.1636666666667,
-        "depth": 9.98,
+        "place": "5 km SSW of Pāhala, Hawaii",
+        "mag": 1.85,
+        "time": 1786655060370,
+        "lon": -155.494166666667,
+        "lat": 19.1571666666667,
+        "depth": 35.95,
         "source": "USGS"
       },
       {
-        "place": "11 km NNW of Warner Springs, CA",
-        "mag": 0.63,
-        "time": 1786630430030,
-        "lon": -116.693666666667,
-        "lat": 33.3725,
-        "depth": 12.07,
+        "place": "10 km NNW of Klamath Falls, Oregon",
+        "mag": 1.87,
+        "time": 1786654701400,
+        "lon": -121.825,
+        "lat": 42.3135,
+        "depth": -1.82,
         "source": "USGS"
       },
       {
-        "place": "55 km NW of Kalaoa, Hawaii",
-        "mag": 2.51,
-        "time": 1786627009310,
-        "lon": -156.355163574219,
-        "lat": 20.0791664123535,
-        "depth": 4.73999977111816,
+        "place": "42 km NW of Akhiok, Alaska",
+        "mag": 2.2,
+        "time": 1786653600142,
+        "lon": -154.727,
+        "lat": 57.177,
+        "depth": 54.8,
         "source": "USGS"
       },
       {
-        "place": "40 km WSW of Ackerly, Texas",
-        "mag": 0.6,
-        "time": 1786626229301,
-        "lon": -102.111,
-        "lat": 32.39,
-        "depth": 8.374,
+        "place": "2 km ENE of The Geysers, CA",
+        "mag": 0.75,
+        "time": 1786653238370,
+        "lon": -122.733665466309,
+        "lat": 38.7890014648438,
+        "depth": 1.78999996185303,
         "source": "USGS"
       },
       {
-        "place": "25 km SW of Bodfish, CA",
-        "mag": 1.34,
-        "time": 1786625451390,
-        "lon": -118.6495,
-        "lat": 35.4065,
-        "depth": 3.58,
+        "place": "42 km NW of Toyah, Texas",
+        "mag": 1.5,
+        "time": 1786653185988,
+        "lon": -104.141,
+        "lat": 31.55,
+        "depth": 9.317,
         "source": "USGS"
       },
       {
-        "place": "29 km SE of Minto, Alaska",
-        "mag": 1.6,
-        "time": 1786625312167,
-        "lon": -148.855,
-        "lat": 64.994,
-        "depth": 1.9,
+        "place": "92 km SE of King Cove, Alaska",
+        "mag": 2.7,
+        "time": 1786652967378,
+        "lon": -161.504,
+        "lat": 54.379,
+        "depth": 5.4,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km SE of Bonita, CA",
+        "mag": 1.33,
+        "time": 1786652942380,
+        "lon": -116.973333333333,
+        "lat": 32.6153333333333,
+        "depth": 2.27,
         "source": "USGS"
       }
     ],
@@ -497,7 +497,7 @@
       },
       {
         "currency": "AFN",
-        "rate": 65.11
+        "rate": 65.28
       },
       {
         "currency": "ALL",
@@ -505,7 +505,7 @@
       },
       {
         "currency": "AMD",
-        "rate": 366.02
+        "rate": 365.98
       },
       {
         "currency": "ANG",
@@ -513,11 +513,11 @@
       },
       {
         "currency": "AOA",
-        "rate": 923.71
+        "rate": 925.58
       },
       {
         "currency": "ARS",
-        "rate": 1492.55
+        "rate": 1491.84
       },
       {
         "currency": "AUD",
@@ -541,7 +541,7 @@
       },
       {
         "currency": "BDT",
-        "rate": 123.23
+        "rate": 122.89
       },
       {
         "currency": "BGN",
@@ -553,7 +553,7 @@
       },
       {
         "currency": "BIF",
-        "rate": 2990.55
+        "rate": 2991.47
       },
       {
         "currency": "BMD",
@@ -565,7 +565,7 @@
       },
       {
         "currency": "BOB",
-        "rate": 11.87
+        "rate": 11.78
       }
     ]
   },
