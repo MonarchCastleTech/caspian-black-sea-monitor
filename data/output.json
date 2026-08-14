@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-14T02:36:58.788853+00:00",
+    "generated": "2026-08-14T07:45:15.418751+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -33,8 +33,810 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
+    "gdelt_articles": [
+      {
+        "title": "Hormuz bottleneck : Could Middle East crisis change Gwadar fortunes ? ",
+        "url": "https://www.geo.tv/latest/677397-hormuz-bottleneck-could-middle-east-crisis-change-gwadars-fortunes",
+        "domain": "geo.tv",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T104500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Grotos , narvai ir tinklai : ko griebėsi Rusija savo tanklaiviams išgelbėti",
+        "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/grotos-narvai-ir-tinklai-ko-griebesi-rusija-savo-tanklaiviams-isgelbeti-57-2742612",
+        "domain": "15min.lt",
+        "language": "Lithuanian",
+        "tone": 0,
+        "seendate": "20260813T124500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Klaipėdos uostas stiprina kibernetinį saugumą : kas naujo ? ",
+        "url": "https://www.15min.lt/naujiena/aktualu/lietuva/stiprinama-visapuse-klaipedos-uosto-apsauga-nepertraukiamai-stebima-kibernetine-erdve-56-2742146",
+        "domain": "15min.lt",
+        "language": "Lithuanian",
+        "tone": 0,
+        "seendate": "20260813T074500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Klaipėdos uoste nepertraukiamai stebima kibernetinė erdvė",
+        "url": "https://ve.lt/aktualijos/klaipeda/klaipedos-uoste-nepertraukiamai-stebima-kibernetine-erdve",
+        "domain": "ve.lt",
+        "language": "Lithuanian",
+        "tone": 0,
+        "seendate": "20260813T084500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "UK and Kenya step up maritime security ties",
+        "url": "https://www.the-star.co.ke/counties/coast/2026-08-13-uk-and-kenya-step-up-maritime-security-ties",
+        "domain": "the-star.co.ke",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T074500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Egypt denies link to ship targeted off Yemen , condemns Red Sea attacks",
+        "url": "https://tribune.com.pk/story/2623749/egypt-denies-link-to-ship-targeted-off-yemen-condemns-red-sea-attacks",
+        "domain": "tribune.com.pk",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T211500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": " « Μεταξύ σφύρας και άκμονος » παραμένει η ναυσιπλοΐα σε Ορμούζ και Ερυθρά",
+        "url": "https://www.naftemporiki.gr/maritime/2149798/metaxy-sfyras-kai-akmonos-paramenei-i-naysiploia-se-ormoyz-kai-erythra/",
+        "domain": "naftemporiki.gr",
+        "language": "Greek",
+        "tone": 0,
+        "seendate": "20260813T111500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Salvors work to secure ship leaking oil off Oman , risk firm Ambrey says",
+        "url": "https://www.jpost.com/middle-east/article-905478",
+        "domain": "jpost.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T200000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "DHS Extends Jones Act Waiver Again And Adds Substantial Procedural Requirements",
+        "url": "https://www.mondaq.com:443/unitedstates/marine-shipping/1830890/dhs-extends-jones-act-waiver-again-and-adds-substantial-procedural-requirements",
+        "domain": "mondaq.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260814T051500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Gulf oil spill fast becoming worst in years , agencies warn",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260812-azertac01.htm",
+        "domain": "globalsecurity.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T141500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "A Romanian Captain on Leadership , Risk and the Human Side of Global Shipping",
+        "url": "https://www.stiripesurse.ro/a-romanian-captain-on-leadership-risk-and-the-human-side-of-global-shipping_3911953",
+        "domain": "stiripesurse.ro",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T154500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Saudi Arabia considers supporting Yemeni ground push against Houthi forces",
+        "url": "http://www.jpost.com/middle-east/article-905414",
+        "domain": "jpost.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T103000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Egan - Jones Examines Concentration Risk Across Middle East Sovereigns",
+        "url": "http://www.prnewswire.com/news-releases/egan-jones-examines-concentration-risk-across-middle-east-sovereigns-302849769.html",
+        "domain": "prnewswire.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Consecuencias del cierre de Ormuz y el fenómeno de El Niño : Buque paga 4 millones de dólares para saltarse la fila en el Canal de Panamá",
+        "url": "https://www.latercera.com/mundo/noticia/consecuencias-del-cierre-de-ormuz-y-el-fenomeno-de-el-nino-buque-paga-4-millones-de-dolares-para-saltarse-la-fila-en-el-canal-de-panama/",
+        "domain": "latercera.com",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260813T144500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "PLA Navy 49th escort taskforce departs for Gulf of Aden , Somalia waters",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/08/china-260812-globaltimes05.htm",
+        "domain": "globalsecurity.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T141500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Cereale captive între Rusia , secetă și barierele Europei",
+        "url": "https://www.dw.com/ro/cerealele-ucrainei-captive-%C3%AEntre-rusia-secet%C4%83-%C8%99i-barierele-europei/a-78348166",
+        "domain": "dw.com",
+        "language": "Romanian",
+        "tone": 0,
+        "seendate": "20260813T100000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "The 4 fronts that will tear NATO apart – Putin ",
+        "url": "https://www.bankingnews.gr/diethni/articles/893551/the-4-fronts-that-will-tear-nato-apart-putin-s-red-line-in-the-north-sea-baltic-pacific-and-mediterranean",
+        "domain": "bankingnews.gr",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T123000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Egypt Disavows Association with Cargo Ship Attacked by Houthis",
+        "url": "https://maritime-executive.com/article/egypt-disavows-association-with-cargo-ship-attacked-by-houthis",
+        "domain": "maritime-executive.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260814T011500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran Boosts Military Posturing as Talks Hit Deadlock",
+        "url": "https://www.rigzone.com/news/wire/iran_boosts_military_posturing_as_talks_hit_deadlock-13-aug-2026-184365-article/",
+        "domain": "rigzone.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T094500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Εφιάλτης στη Μαύρη Θάλασσα : Ο « πόλεμος των σιτηρών » απειλεί την παγκόσμια επισιτιστική ασφάλεια",
+        "url": "https://www.newsbomb.gr/kosmos/story/1756172/efialtis-sti-mayri-thalassa-o-polemos-ton-sitiron-apeilei-tin-pagkosmia-episitistiki-asfaleia",
+        "domain": "newsbomb.gr",
+        "language": "Greek",
+        "tone": 0,
+        "seendate": "20260813T111500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Historic Ship Embarks on Final Marine Life Mission",
+        "url": "https://www.miragenews.com/historic-ship-embarks-on-final-marine-life-1726713/",
+        "domain": "miragenews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T080000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Politico : Οι τρεις παράγοντες που μπλοκάρουν τα ουκρανικά σιτηρά - « Άσχημα νέα για τις παγκόσμιες τιμές τροφίμων » ",
+        "url": "https://www.efsyn.gr/kosmos/1447452/politico-oi-treis-paragontes-poy-mplokaroyn-ta-oykranika-sitira-ashima-nea-gia-tis-pagkosmies-times-trofimon/",
+        "domain": "efsyn.gr",
+        "language": "Greek",
+        "tone": 0,
+        "seendate": "20260813T154500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Εφιάλτης ... Τα 4 μέτωπα που θα διαλύσουν το ΝΑΤΟ - Η « κόκκινη γραμμή » Putin σε Βόρεια Θάλασσα , Βαλτική , Ειρηνικό και Μεσόγειο",
+        "url": "https://www.bankingnews.gr/diethni/articles/893530/synagermos-sti-dysi-poy-tha-xtypisei-i-rosia-meta-tis-proeidopoiiseis-putin-valtiki-i-mesogeio",
+        "domain": "bankingnews.gr",
+        "language": "Greek",
+        "tone": 0,
+        "seendate": "20260813T123000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Gulf states scramble for Strait of Hormuz alternatives",
+        "url": "https://www.dw.com/en/iran-war-strait-of-hormuz-gulf-states-oil-shipping-pipelines-alternatives-graphics/a-78336679",
+        "domain": "dw.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T093000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "India to send first ship along Arctic route next year official",
+        "url": "http://www.asiabulletin.com/news/279239781/india-to-send-first-ship-along-arctic-route-next-year-official",
+        "domain": "asiabulletin.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T144500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "India to send first ship along Arctic route next year",
+        "url": "http://www.indiagazette.com/news/279239785/india-to-send-first-ship-along-arctic-route-next-year-official",
+        "domain": "indiagazette.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T141500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "India to send first ship along Arctic route next year official",
+        "url": "http://www.chinanationalnews.com/news/279239781/india-to-send-first-ship-along-arctic-route-next-year-official",
+        "domain": "chinanationalnews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T211500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "India to send first ship along Arctic route next year official",
+        "url": "http://www.europesun.com/news/279239781/india-to-send-first-ship-along-arctic-route-next-year-official",
+        "domain": "europesun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T143000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "India to send first ship along Arctic route next year official",
+        "url": "http://www.russiaherald.com/news/279239781/india-to-send-first-ship-along-arctic-route-next-year-official",
+        "domain": "russiaherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T154500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "India to send first ship along Arctic route next year official",
+        "url": "http://www.cambodiantimes.com/news/279239781/india-to-send-first-ship-along-arctic-route-next-year-official",
+        "domain": "cambodiantimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T143000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran - backed Houthis clash with Yemeni forces and other Mideast developments",
+        "url": "https://abcnews.com/International/wireStory/iran-backed-houthis-clash-yemeni-forces-mideast-developments-135605001",
+        "domain": "abcnews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260814T070000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran - backed Houthis clash with Yemeni forces and other Mideast developments",
+        "url": "https://wtop.com/world/2026/08/iran-backed-houthi-rebels-clash-with-yemeni-government-forces-and-other-mideast-developments/",
+        "domain": "wtop.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260814T033000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Las primeras unidades del LEPAS L8 Súper híbrido desembarcaron en el Puerto de Barcelona a mediados del pasado mes de junio",
+        "url": "https://www.diariosigloxxi.com/texto-diario/mostrar/5982889/primeras-unidades-lepas-l8-super-hibrido-desembarcaron-puerto-barcelona-mediados-pasado-mes-junio",
+        "domain": "diariosigloxxi.com",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260813T090000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
+        "url": "http://www.iranherald.com/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
+        "domain": "iranherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T124500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
+        "url": "http://www.parisguardian.com/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
+        "domain": "parisguardian.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T113000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
+        "url": "http://www.torontotelegraph.com/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
+        "domain": "torontotelegraph.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T143000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
+        "url": "http://www.calcuttanews.net/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
+        "domain": "calcuttanews.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T123000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
+        "url": "http://www.milwaukeesun.com/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
+        "domain": "milwaukeesun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T141500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran , Trump Clash Over Who Controls The Strait Of Hormuz",
+        "url": "http://www.southeastasiapost.com/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz",
+        "domain": "southeastasiapost.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T163000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran - backed Houthis clash with Yemeni forces and other Mideast developments",
+        "url": "https://isp.netscape.com:443/news/world/story/0001/20260814/42eb6af678a8f16d3a2cb14bd7918a12",
+        "domain": "isp.netscape.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260814T060000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran takes more aggressive military stance with US talks frozen",
+        "url": "https://www.decaturdaily.com/news/other_news/international/iran-takes-more-aggressive-military-stance-with-us-talks-frozen/article_0c7d55c2-7b04-4c93-a203-d7af1afa3183.html",
+        "domain": "decaturdaily.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T090000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Politico : Οι τρεις παράγοντες που μπλοκάρουν τα ουκρανικά σιτηρά – « Άσχημα νέα για τις παγκόσμιες τιμές τροφίμων » ",
+        "url": "https://www.inewsgr.com/351/Politico-oi-treis-paragontes-pou-blokaroun-ta-oukranika-sitira--aschima-nea-gia-tis-pagkosmies-times-trofimon.htm",
+        "domain": "inewsgr.com",
+        "language": "Greek",
+        "tone": 0,
+        "seendate": "20260813T154500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Tehran says Strait of Hormuz  under Iran control  after Trump threat",
+        "url": "https://www.yahoo.com/news/politics/articles/tehran-says-strait-hormuz-under-103352169.html",
+        "domain": "yahoo.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T180000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Will all - out war in Yemen reignite as the Houthis escalate attacks ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+        "url": "https://dominicanrepublicpost.com/will-all-out-war-in-yemen-reignite-as-the-houthis-escalate-attacks/",
+        "domain": "dominicanrepublicpost.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T181500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Oman says massive oil spill reaches coastline : What damage could it do ? - Grenada Chronicle – Daily Grenada And Caribbean News",
+        "url": "https://grenadachronicle.com/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do/",
+        "domain": "grenadachronicle.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T171500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Oman says massive oil spill reaches coastline : What damage could it do ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+        "url": "https://dominicanrepublicpost.com/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do/",
+        "domain": "dominicanrepublicpost.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T164500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Operación Pilgrim",
+        "url": "https://www.lahaine.org/est_espanol.php/operacion-pilgrim",
+        "domain": "lahaine.org",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260814T024500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran - backed Houthis clash with Yemeni forces and other Mideast developments",
+        "url": "https://www.2news.com/news/national/iran-backed-houthis-clash-with-yemeni-forces-and-other-mideast-developments/article_f9a5ed12-7773-5d6c-be3f-65a7bddc0412.html",
+        "domain": "2news.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260814T024500Z",
+        "source": "GDELT"
+      }
+    ],
     "earthquakes": [
+      {
+        "place": "54 km WNW of Skwentna, Alaska",
+        "mag": 1.4,
+        "time": 1786693252930,
+        "lon": -152.278,
+        "lat": 62.249,
+        "depth": 5,
+        "source": "USGS"
+      },
+      {
+        "place": "22 km NE of Pine Valley, CA",
+        "mag": 0.67,
+        "time": 1786693135120,
+        "lon": -116.334166666667,
+        "lat": 32.9376666666667,
+        "depth": 8.86,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km SE of Velma, Oklahoma",
+        "mag": 2.06,
+        "time": 1786693119737,
+        "lon": -97.65078735,
+        "lat": 34.43511581,
+        "depth": 9.18959713,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Ocotillo Wells, CA",
+        "mag": 0.72,
+        "time": 1786692741670,
+        "lon": -116.031166666667,
+        "lat": 33.1803333333333,
+        "depth": 4.52,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Ocotillo Wells, CA",
+        "mag": 1,
+        "time": 1786692536730,
+        "lon": -116.028333333333,
+        "lat": 33.178,
+        "depth": 6.06,
+        "source": "USGS"
+      },
+      {
+        "place": "41 km W of Mentone, Texas",
+        "mag": 1.6,
+        "time": 1786691264904,
+        "lon": -104.035,
+        "lat": 31.665,
+        "depth": 4.3564,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WNW of The Geysers, CA",
+        "mag": 1.2,
+        "time": 1786691206510,
+        "lon": -122.818168640137,
+        "lat": 38.8071670532227,
+        "depth": 2.90000009536743,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km WNW of Cobb, CA",
+        "mag": 0.44,
+        "time": 1786690982680,
+        "lon": -122.807830810547,
+        "lat": 38.8361663818359,
+        "depth": 2.22000002861023,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km E of Seven Trees, CA",
+        "mag": 1.46,
+        "time": 1786690944050,
+        "lon": -121.668502807617,
+        "lat": 37.2939987182617,
+        "depth": 2.27999997138977,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km SSW of Pāhala, Hawaii",
+        "mag": 2.17,
+        "time": 1786690603860,
+        "lon": -155.492660522461,
+        "lat": 19.1399993896484,
+        "depth": 32.3199996948242,
+        "source": "USGS"
+      },
+      {
+        "place": "44 km WNW of Akhiok, Alaska",
+        "mag": 2.2,
+        "time": 1786690479811,
+        "lon": -154.884,
+        "lat": 57.036,
+        "depth": 5,
+        "source": "USGS"
+      },
+      {
+        "place": "17 km WSW of Johannesburg, CA",
+        "mag": 1.09,
+        "time": 1786690117110,
+        "lon": -117.801166666667,
+        "lat": 35.3108333333333,
+        "depth": 6.75,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km NE of Pāhala, Hawaii",
+        "mag": 2.01,
+        "time": 1786690070120,
+        "lon": -155.401336669922,
+        "lat": 19.2674999237061,
+        "depth": 31.25,
+        "source": "USGS"
+      },
+      {
+        "place": "19 km NW of Willow, Alaska",
+        "mag": 1.8,
+        "time": 1786689984307,
+        "lon": -150.29,
+        "lat": 61.872,
+        "depth": 0.3,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km W of Anza, CA",
+        "mag": -0.22,
+        "time": 1786689829480,
+        "lon": -116.802,
+        "lat": 33.5741666666667,
+        "depth": 6.12,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km NE of Pāhala, Hawaii",
+        "mag": 1.87,
+        "time": 1786689010690,
+        "lon": -155.408660888672,
+        "lat": 19.2643337249756,
+        "depth": 30.9899997711182,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km WSW of Morongo Valley, CA",
+        "mag": 0.91,
+        "time": 1786688805710,
+        "lon": -116.6225,
+        "lat": 34.0288333333333,
+        "depth": 10.43,
+        "source": "USGS"
+      },
+      {
+        "place": "41 km NNW of Petersville, Alaska",
+        "mag": 2,
+        "time": 1786688633898,
+        "lon": -151.107,
+        "lat": 62.83,
+        "depth": 106.9,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km NW of Pinnacles, CA",
+        "mag": 1.77,
+        "time": 1786688512550,
+        "lon": -121.177833557129,
+        "lat": 36.5563316345215,
+        "depth": 0.119999997317791,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km NE of Balmorhea, Texas",
+        "mag": 1.7,
+        "time": 1786687195058,
+        "lon": -103.688,
+        "lat": 31.035,
+        "depth": 0,
+        "source": "USGS"
+      },
+      {
+        "place": "31 km WNW of Susitna, Alaska",
+        "mag": 1.9,
+        "time": 1786686942458,
+        "lon": -151.044,
+        "lat": 61.665,
+        "depth": 77.7,
+        "source": "USGS"
+      },
+      {
+        "place": "29 km SE of Waikoloa, Hawaii",
+        "mag": 2.31,
+        "time": 1786686774120,
+        "lon": -155.600830078125,
+        "lat": 19.7355003356934,
+        "depth": 30.2299995422363,
+        "source": "USGS"
+      },
+      {
+        "place": "55 km NW of Toyah, Texas",
+        "mag": 1.6,
+        "time": 1786686609358,
+        "lon": -104.228,
+        "lat": 31.65,
+        "depth": 4.658,
+        "source": "USGS"
+      },
+      {
+        "place": "22 km SE of Caliente, Nevada",
+        "mag": 1.99,
+        "time": 1786686115272,
+        "lon": -114.3603,
+        "lat": 37.4561,
+        "depth": 10.5265,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km WNW of Wrightwood, CA",
+        "mag": 1.5,
+        "time": 1786685805350,
+        "lon": -117.654,
+        "lat": 34.3683333333333,
+        "depth": 7.86,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km NE of Beaumont, CA",
+        "mag": 0.86,
+        "time": 1786685032420,
+        "lon": -116.9375,
+        "lat": 33.9515,
+        "depth": 17.27,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km WNW of Wrightwood, CA",
+        "mag": 1.61,
+        "time": 1786683799660,
+        "lon": -117.655333333333,
+        "lat": 34.3685,
+        "depth": 7.61,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km W of Malibu, CA",
+        "mag": 2.48,
+        "time": 1786683528870,
+        "lon": -118.868,
+        "lat": 33.9981666666667,
+        "depth": 14.4,
+        "source": "USGS"
+      },
+      {
+        "place": "Bonin Islands, Japan region",
+        "mag": 4.8,
+        "time": 1786683195378,
+        "lon": 139.5875,
+        "lat": 27.6391,
+        "depth": 516.445,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km W of Concord, CA",
+        "mag": 1.47,
+        "time": 1786680953950,
+        "lon": -122.042167663574,
+        "lat": 37.9706649780273,
+        "depth": 14.5,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NW of The Geysers, CA",
+        "mag": 1.11,
+        "time": 1786680322430,
+        "lon": -122.79133605957,
+        "lat": 38.8091659545898,
+        "depth": 3.15000009536743,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km SE of Cloverdale, CA",
+        "mag": 1.06,
+        "time": 1786678678900,
+        "lon": -122.952003479004,
+        "lat": 38.7671661376953,
+        "depth": 1.87999999523163,
+        "source": "USGS"
+      },
+      {
+        "place": "69 km S of Alcan Border, Alaska",
+        "mag": 2.3,
+        "time": 1786678587862,
+        "lon": -141.015,
+        "lat": 62.058,
+        "depth": 5,
+        "source": "USGS"
+      },
+      {
+        "place": "14 km ENE of Borrego Springs, CA",
+        "mag": 2.32,
+        "time": 1786678345780,
+        "lon": -116.2295,
+        "lat": 33.2981666666667,
+        "depth": 11.19,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km ESE of Julian, CA",
+        "mag": 1.31,
+        "time": 1786677698820,
+        "lon": -116.452333333333,
+        "lat": 33.041,
+        "depth": 15.01,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km NE of Little Lake, CA",
+        "mag": 1.13,
+        "time": 1786676870420,
+        "lon": -117.803833333333,
+        "lat": 36.0103333333333,
+        "depth": 1.51,
+        "source": "USGS"
+      },
+      {
+        "place": "66 km NNE of Van Horn, Texas",
+        "mag": 1.5,
+        "time": 1786676527865,
+        "lon": -104.579,
+        "lat": 31.595,
+        "depth": 0,
+        "source": "USGS"
+      },
+      {
+        "place": "56 km S of Whites City, New Mexico",
+        "mag": 2,
+        "time": 1786676159744,
+        "lon": -104.475,
+        "lat": 31.676,
+        "depth": 5.2283,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km WNW of Cobb, CA",
+        "mag": 1.09,
+        "time": 1786675483270,
+        "lon": -122.7431640625,
+        "lat": 38.8269996643066,
+        "depth": 0.419999986886978,
+        "source": "USGS"
+      },
+      {
+        "place": "45 km NW of Toyah, Texas",
+        "mag": 1.7,
+        "time": 1786675468549,
+        "lon": -104.123,
+        "lat": 31.611,
+        "depth": 3.866,
+        "source": "USGS"
+      },
+      {
+        "place": "54 km S of Whites City, New Mexico",
+        "mag": 1.7,
+        "time": 1786674956579,
+        "lon": -104.309,
+        "lat": 31.687,
+        "depth": 4.2439,
+        "source": "USGS"
+      },
       {
         "place": "13 km NNW of Angwin, CA",
         "mag": 1.12,
@@ -114,375 +916,6 @@
         "lon": -104.444,
         "lat": 31.632,
         "depth": 3.5565,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Ocotillo Wells, CA",
-        "mag": 1.98,
-        "time": 1786669256110,
-        "lon": -116.031,
-        "lat": 33.1621666666667,
-        "depth": 0.02,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km NNW of Pinnacles, CA",
-        "mag": 1.86,
-        "time": 1786668946370,
-        "lon": -121.17749786377,
-        "lat": 36.5730018615723,
-        "depth": 5.03999996185303,
-        "source": "USGS"
-      },
-      {
-        "place": "56 km NW of Toyah, Texas",
-        "mag": 1.8,
-        "time": 1786668914590,
-        "lon": -104.228,
-        "lat": 31.656,
-        "depth": 5.787,
-        "source": "USGS"
-      },
-      {
-        "place": "13 km SE of Middletown, CA",
-        "mag": 1.5,
-        "time": 1786668076550,
-        "lon": -122.501831054688,
-        "lat": 38.6816673278809,
-        "depth": 5.78999996185303,
-        "source": "USGS"
-      },
-      {
-        "place": "17 km WNW of Ninilchik, Alaska",
-        "mag": 1.9,
-        "time": 1786666844771,
-        "lon": -151.98,
-        "lat": 60.083,
-        "depth": 85.3,
-        "source": "USGS"
-      },
-      {
-        "place": "13 km S of Honaunau-Napoopoo, Hawaii",
-        "mag": 1.95,
-        "time": 1786666742550,
-        "lon": -155.862503051758,
-        "lat": 19.3383331298828,
-        "depth": 18.5900001525879,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km NNE of Burney, CA",
-        "mag": 1.74,
-        "time": 1786666707970,
-        "lon": -121.634330749512,
-        "lat": 40.938835144043,
-        "depth": 12.7299995422363,
-        "source": "USGS"
-      },
-      {
-        "place": "46 km W of Nanwalek, Alaska",
-        "mag": 1.6,
-        "time": 1786666437497,
-        "lon": -152.742,
-        "lat": 59.348,
-        "depth": 74.8,
-        "source": "USGS"
-      },
-      {
-        "place": "55 km NW of Toyah, Texas",
-        "mag": 1.7,
-        "time": 1786666022008,
-        "lon": -104.228,
-        "lat": 31.652,
-        "depth": 4.2752,
-        "source": "USGS"
-      },
-      {
-        "place": "44 km NW of Toyah, Texas",
-        "mag": 1.8,
-        "time": 1786665867302,
-        "lon": -104.113,
-        "lat": 31.612,
-        "depth": 3.9434,
-        "source": "USGS"
-      },
-      {
-        "place": "44 km NW of Toyah, Texas",
-        "mag": 1.8,
-        "time": 1786665867266,
-        "lon": -104.114,
-        "lat": 31.611,
-        "depth": 3.9962,
-        "source": "USGS"
-      },
-      {
-        "place": "45 km NW of Toyah, Texas",
-        "mag": 1.8,
-        "time": 1786665223867,
-        "lon": -104.119,
-        "lat": 31.61,
-        "depth": 3.6916,
-        "source": "USGS"
-      },
-      {
-        "place": "41 km WNW of Toyah, Texas",
-        "mag": 1.6,
-        "time": 1786665124274,
-        "lon": -104.163,
-        "lat": 31.521,
-        "depth": 4.2319,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km ESE of Pearsall, Texas",
-        "mag": 2.5,
-        "time": 1786664406519,
-        "lon": -98.9998,
-        "lat": 28.8602,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "32 km SW of Anchor Point, Alaska",
-        "mag": 1.7,
-        "time": 1786663699609,
-        "lon": -152.281,
-        "lat": 59.6,
-        "depth": 82,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km NE of Wardville, Oklahoma",
-        "mag": 2.67,
-        "time": 1786663577980,
-        "lon": -95.984,
-        "lat": 34.6805,
-        "depth": 7,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km NW of Pinnacles, CA",
-        "mag": 0.7,
-        "time": 1786663350760,
-        "lon": -121.189002990723,
-        "lat": 36.5776672363281,
-        "depth": 3.61999988555908,
-        "source": "USGS"
-      },
-      {
-        "place": "23 km NE of Jurm, Afghanistan",
-        "mag": 4.2,
-        "time": 1786662717925,
-        "lon": 71.0489,
-        "lat": 36.9807,
-        "depth": 110.31,
-        "source": "USGS"
-      },
-      {
-        "place": "64 km NE of Nikolski, Alaska",
-        "mag": -0.27,
-        "time": 1786662496360,
-        "lon": -168.203166666667,
-        "lat": 53.3576666666667,
-        "depth": 7.92,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km WNW of Cobb, CA",
-        "mag": 0.75,
-        "time": 1786662227410,
-        "lon": -122.814834594727,
-        "lat": 38.8424987792969,
-        "depth": 1.63999998569489,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km WNW of Cobb, CA",
-        "mag": 0.27,
-        "time": 1786661224530,
-        "lon": -122.844833374023,
-        "lat": 38.8473320007324,
-        "depth": 1.95000004768372,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km SE of The Geysers, CA",
-        "mag": 1.19,
-        "time": 1786661145620,
-        "lon": -122.730003356934,
-        "lat": 38.7501678466797,
-        "depth": 0.189999997615814,
-        "source": "USGS"
-      },
-      {
-        "place": "70 km WNW of Tyonek, Alaska",
-        "mag": 0.53,
-        "time": 1786661071210,
-        "lon": -152.364166666667,
-        "lat": 61.2823333333333,
-        "depth": 5.93,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Ocotillo Wells, CA",
-        "mag": 0.85,
-        "time": 1786660409200,
-        "lon": -116.031166666667,
-        "lat": 33.174,
-        "depth": 5.7,
-        "source": "USGS"
-      },
-      {
-        "place": "57 km NE of Nikolski, Alaska",
-        "mag": 1.07,
-        "time": 1786660221530,
-        "lon": -168.277833333333,
-        "lat": 53.3211666666667,
-        "depth": 9.75,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km S of Pāhala, Hawaii",
-        "mag": 2.07,
-        "time": 1786658523930,
-        "lon": -155.483001708984,
-        "lat": 19.1596660614014,
-        "depth": 27.4599990844727,
-        "source": "USGS"
-      },
-      {
-        "place": "13 km SE of Pāhala, Hawaii",
-        "mag": 1.95,
-        "time": 1786657150620,
-        "lon": -155.373001098633,
-        "lat": 19.1280002593994,
-        "depth": 27.3700008392334,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km SSW of Pāhala, Hawaii",
-        "mag": 1.72,
-        "time": 1786656997750,
-        "lon": -155.488006591797,
-        "lat": 19.1753330230713,
-        "depth": 26.2000007629395,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km NE of Milford, Utah",
-        "mag": 1.24,
-        "time": 1786656892370,
-        "lon": -112.89,
-        "lat": 38.5153333333333,
-        "depth": 1.79,
-        "source": "USGS"
-      },
-      {
-        "place": "63 km NE of Nikolski, Alaska",
-        "mag": 0.29,
-        "time": 1786656196750,
-        "lon": -168.2135,
-        "lat": 53.3528333333333,
-        "depth": 6.82,
-        "source": "USGS"
-      },
-      {
-        "place": "85 km NW of Karluk, Alaska",
-        "mag": 0.15,
-        "time": 1786655696520,
-        "lon": -155.365166666667,
-        "lat": 58.1656666666667,
-        "depth": 0.56,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km SSW of Pāhala, Hawaii",
-        "mag": 2.14,
-        "time": 1786655657610,
-        "lon": -155.495666503906,
-        "lat": 19.1356658935547,
-        "depth": 30.4200000762939,
-        "source": "USGS"
-      },
-      {
-        "place": "87 km NNW of Karluk, Alaska",
-        "mag": 0.8,
-        "time": 1786655635045,
-        "lon": -155.151,
-        "lat": 58.258,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km NNW of The Geysers, CA",
-        "mag": 0.41,
-        "time": 1786655412890,
-        "lon": -122.76782989502,
-        "lat": 38.7908325195312,
-        "depth": 1.63999998569489,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km SSW of Pāhala, Hawaii",
-        "mag": 1.85,
-        "time": 1786655060370,
-        "lon": -155.494166666667,
-        "lat": 19.1571666666667,
-        "depth": 35.95,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km NNW of Klamath Falls, Oregon",
-        "mag": 1.87,
-        "time": 1786654701400,
-        "lon": -121.825,
-        "lat": 42.3135,
-        "depth": -1.82,
-        "source": "USGS"
-      },
-      {
-        "place": "42 km NW of Akhiok, Alaska",
-        "mag": 2.2,
-        "time": 1786653600142,
-        "lon": -154.727,
-        "lat": 57.177,
-        "depth": 54.8,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km ENE of The Geysers, CA",
-        "mag": 0.75,
-        "time": 1786653238370,
-        "lon": -122.733665466309,
-        "lat": 38.7890014648438,
-        "depth": 1.78999996185303,
-        "source": "USGS"
-      },
-      {
-        "place": "42 km NW of Toyah, Texas",
-        "mag": 1.5,
-        "time": 1786653185988,
-        "lon": -104.141,
-        "lat": 31.55,
-        "depth": 9.317,
-        "source": "USGS"
-      },
-      {
-        "place": "92 km SE of King Cove, Alaska",
-        "mag": 2.7,
-        "time": 1786652967378,
-        "lon": -161.504,
-        "lat": 54.379,
-        "depth": 5.4,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km SE of Bonita, CA",
-        "mag": 1.33,
-        "time": 1786652942380,
-        "lon": -116.973333333333,
-        "lat": 32.6153333333333,
-        "depth": 2.27,
         "source": "USGS"
       }
     ],
@@ -569,8 +1002,225 @@
       }
     ]
   },
-  "entities": [],
-  "events": [],
+  "entities": [
+    {
+      "id": 1,
+      "name": "Hormuz bottleneck : Could Middle East crisis change Gwadar f",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T104500Z",
+      "source": "geo.tv"
+    },
+    {
+      "id": 2,
+      "name": "Grotos , narvai ir tinklai : ko griebėsi Rusija savo tanklai",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T124500Z",
+      "source": "15min.lt"
+    },
+    {
+      "id": 3,
+      "name": "Klaipėdos uostas stiprina kibernetinį saugumą : kas naujo ? ",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T074500Z",
+      "source": "15min.lt"
+    },
+    {
+      "id": 4,
+      "name": "Klaipėdos uoste nepertraukiamai stebima kibernetinė erdvė",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T084500Z",
+      "source": "ve.lt"
+    },
+    {
+      "id": 5,
+      "name": "UK and Kenya step up maritime security ties",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T074500Z",
+      "source": "the-star.co.ke"
+    },
+    {
+      "id": 6,
+      "name": "Egypt denies link to ship targeted off Yemen , condemns Red ",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T211500Z",
+      "source": "tribune.com.pk"
+    },
+    {
+      "id": 7,
+      "name": " « Μεταξύ σφύρας και άκμονος » παραμένει η ναυσιπλοΐα σε Ορμ",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T111500Z",
+      "source": "naftemporiki.gr"
+    },
+    {
+      "id": 8,
+      "name": "Salvors work to secure ship leaking oil off Oman , risk firm",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T200000Z",
+      "source": "jpost.com"
+    },
+    {
+      "id": 9,
+      "name": "DHS Extends Jones Act Waiver Again And Adds Substantial Proc",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260814T051500Z",
+      "source": "mondaq.com"
+    },
+    {
+      "id": 10,
+      "name": "Gulf oil spill fast becoming worst in years , agencies warn",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T141500Z",
+      "source": "globalsecurity.org"
+    }
+  ],
+  "events": [
+    {
+      "title": "Hormuz bottleneck : Could Middle East crisis change Gwadar fortunes ? ",
+      "url": "https://www.geo.tv/latest/677397-hormuz-bottleneck-could-middle-east-crisis-change-gwadars-fortunes",
+      "domain": "geo.tv",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T104500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Grotos , narvai ir tinklai : ko griebėsi Rusija savo tanklaiviams išgelbėti",
+      "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/grotos-narvai-ir-tinklai-ko-griebesi-rusija-savo-tanklaiviams-isgelbeti-57-2742612",
+      "domain": "15min.lt",
+      "language": "Lithuanian",
+      "tone": 0,
+      "seendate": "20260813T124500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Klaipėdos uostas stiprina kibernetinį saugumą : kas naujo ? ",
+      "url": "https://www.15min.lt/naujiena/aktualu/lietuva/stiprinama-visapuse-klaipedos-uosto-apsauga-nepertraukiamai-stebima-kibernetine-erdve-56-2742146",
+      "domain": "15min.lt",
+      "language": "Lithuanian",
+      "tone": 0,
+      "seendate": "20260813T074500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Klaipėdos uoste nepertraukiamai stebima kibernetinė erdvė",
+      "url": "https://ve.lt/aktualijos/klaipeda/klaipedos-uoste-nepertraukiamai-stebima-kibernetine-erdve",
+      "domain": "ve.lt",
+      "language": "Lithuanian",
+      "tone": 0,
+      "seendate": "20260813T084500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "UK and Kenya step up maritime security ties",
+      "url": "https://www.the-star.co.ke/counties/coast/2026-08-13-uk-and-kenya-step-up-maritime-security-ties",
+      "domain": "the-star.co.ke",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T074500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Egypt denies link to ship targeted off Yemen , condemns Red Sea attacks",
+      "url": "https://tribune.com.pk/story/2623749/egypt-denies-link-to-ship-targeted-off-yemen-condemns-red-sea-attacks",
+      "domain": "tribune.com.pk",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T211500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": " « Μεταξύ σφύρας και άκμονος » παραμένει η ναυσιπλοΐα σε Ορμούζ και Ερυθρά",
+      "url": "https://www.naftemporiki.gr/maritime/2149798/metaxy-sfyras-kai-akmonos-paramenei-i-naysiploia-se-ormoyz-kai-erythra/",
+      "domain": "naftemporiki.gr",
+      "language": "Greek",
+      "tone": 0,
+      "seendate": "20260813T111500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Salvors work to secure ship leaking oil off Oman , risk firm Ambrey says",
+      "url": "https://www.jpost.com/middle-east/article-905478",
+      "domain": "jpost.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T200000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "DHS Extends Jones Act Waiver Again And Adds Substantial Procedural Requirements",
+      "url": "https://www.mondaq.com:443/unitedstates/marine-shipping/1830890/dhs-extends-jones-act-waiver-again-and-adds-substantial-procedural-requirements",
+      "domain": "mondaq.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260814T051500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Gulf oil spill fast becoming worst in years , agencies warn",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260812-azertac01.htm",
+      "domain": "globalsecurity.org",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T141500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "A Romanian Captain on Leadership , Risk and the Human Side of Global Shipping",
+      "url": "https://www.stiripesurse.ro/a-romanian-captain-on-leadership-risk-and-the-human-side-of-global-shipping_3911953",
+      "domain": "stiripesurse.ro",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T154500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Saudi Arabia considers supporting Yemeni ground push against Houthi forces",
+      "url": "http://www.jpost.com/middle-east/article-905414",
+      "domain": "jpost.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T103000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Egan - Jones Examines Concentration Risk Across Middle East Sovereigns",
+      "url": "http://www.prnewswire.com/news-releases/egan-jones-examines-concentration-risk-across-middle-east-sovereigns-302849769.html",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T173000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Consecuencias del cierre de Ormuz y el fenómeno de El Niño : Buque paga 4 millones de dólares para saltarse la fila en el Canal de Panamá",
+      "url": "https://www.latercera.com/mundo/noticia/consecuencias-del-cierre-de-ormuz-y-el-fenomeno-de-el-nino-buque-paga-4-millones-de-dolares-para-saltarse-la-fila-en-el-canal-de-panama/",
+      "domain": "latercera.com",
+      "language": "Spanish",
+      "tone": 0,
+      "seendate": "20260813T144500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "PLA Navy 49th escort taskforce departs for Gulf of Aden , Somalia waters",
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/08/china-260812-globaltimes05.htm",
+      "domain": "globalsecurity.org",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T141500Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
