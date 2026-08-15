@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-14T19:07:18.841773+00:00",
+    "generated": "2026-08-15T01:44:53.967937+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -36,453 +36,453 @@
     "gdelt_articles": [],
     "earthquakes": [
       {
-        "place": "24 km NW of Ocotillo, CA",
-        "mag": 1.17,
-        "time": 1786734139510,
-        "lon": -116.199666666667,
-        "lat": 32.8608333333333,
-        "depth": 28.54,
+        "place": "46 km SSW of Nabesna, Alaska",
+        "mag": 2,
+        "time": 1786758059160,
+        "lon": -143.48,
+        "lat": 62.013,
+        "depth": 0.5,
         "source": "USGS"
       },
       {
-        "place": "2 km N of The Geysers, CA",
-        "mag": 1.26,
-        "time": 1786733989910,
-        "lon": -122.754501342773,
-        "lat": 38.7939987182617,
-        "depth": 3.59999990463257,
+        "place": "9 km ESE of Willits, CA",
+        "mag": 1.44,
+        "time": 1786757546230,
+        "lon": -123.259834289551,
+        "lat": 39.375,
+        "depth": 2.42000007629395,
         "source": "USGS"
       },
       {
-        "place": "25 km SW of Anchor Point, Alaska",
-        "mag": 2.5,
-        "time": 1786733828792,
-        "lon": -152.197,
-        "lat": 59.639,
-        "depth": 72.9,
+        "place": "2 km WNW of Wrightwood, CA",
+        "mag": 1.61,
+        "time": 1786756764480,
+        "lon": -117.652833333333,
+        "lat": 34.3678333333333,
+        "depth": 8.73,
         "source": "USGS"
       },
       {
-        "place": "13 km SE of Tehachapi, CA",
-        "mag": 1.51,
-        "time": 1786733373960,
-        "lon": -118.3445,
-        "lat": 35.0556666666667,
-        "depth": -0.98,
-        "source": "USGS"
-      },
-      {
-        "place": "38 km SSE of Mammoth, Wyoming",
-        "mag": 0.76,
-        "time": 1786733158660,
-        "lon": -110.451166666667,
-        "lat": 44.6775,
-        "depth": 4.66,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km NW of Balmorhea, Texas",
-        "mag": 1.6,
-        "time": 1786732969083,
-        "lon": -103.783,
-        "lat": 31.022,
-        "depth": 0,
-        "source": "USGS"
-      },
-      {
-        "place": "31 km W of Petersville, Alaska",
-        "mag": 1.9,
-        "time": 1786732467552,
-        "lon": -151.374,
-        "lat": 62.548,
-        "depth": 90.3,
-        "source": "USGS"
-      },
-      {
-        "place": "165 km N of Sola, Vanuatu",
-        "mag": 4.5,
-        "time": 1786732405499,
-        "lon": 167.4799,
-        "lat": -12.3805,
-        "depth": 369.326,
-        "source": "USGS"
-      },
-      {
-        "place": "25 km ESE of Naalehu, Hawaii",
-        "mag": 1.9,
-        "time": 1786732101220,
-        "lon": -155.351837158203,
-        "lat": 18.9993324279785,
-        "depth": 16.5100002288818,
-        "source": "USGS"
-      },
-      {
-        "place": "58 km WNW of Skwentna, Alaska",
-        "mag": 2.7,
-        "time": 1786731624800,
-        "lon": -152.36,
-        "lat": 62.254,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "15 km E of Coso Junction, CA",
-        "mag": 0.8,
-        "time": 1786731116950,
-        "lon": -117.780833333333,
-        "lat": 36.0313333333333,
-        "depth": 2.11,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km SE of Sunnyside, Utah",
-        "mag": 0.83,
-        "time": 1786730928240,
-        "lon": -110.339666666667,
-        "lat": 39.5103333333333,
-        "depth": -1.93,
-        "source": "USGS"
-      },
-      {
-        "place": "283 km N of Tobelo, Indonesia",
-        "mag": 4.7,
-        "time": 1786730634327,
-        "lon": 128.0475,
-        "lat": 4.2883,
+        "place": "71 km NNE of Ruteng, Indonesia",
+        "mag": 5.1,
+        "time": 1786756640014,
+        "lon": 120.6888,
+        "lat": -8.0088,
         "depth": 10,
         "source": "USGS"
       },
       {
-        "place": "50 km NW of Toyah, Texas",
-        "mag": 1.5,
-        "time": 1786730122749,
-        "lon": -104.176,
-        "lat": 31.637,
-        "depth": 6.1127,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km NNW of Mojave, CA",
-        "mag": 0.88,
-        "time": 1786729936690,
-        "lon": -118.207833333333,
-        "lat": 35.1216666666667,
-        "depth": 6.64,
-        "source": "USGS"
-      },
-      {
-        "place": "74 km E of Cruz Bay, U.S. Virgin Islands",
-        "mag": 3.03,
-        "time": 1786729860190,
-        "lon": -64.1005,
-        "lat": 18.4435,
-        "depth": 73.97,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km W of Imperial, CA",
+        "place": "7 km N of Moreno Valley, CA",
         "mag": 1.05,
-        "time": 1786729767240,
-        "lon": -115.630166666667,
-        "lat": 32.8426666666667,
-        "depth": 9.86,
+        "time": 1786756514300,
+        "lon": -117.238333333333,
+        "lat": 33.9875,
+        "depth": 14.37,
         "source": "USGS"
       },
       {
-        "place": "165 km E of Ozernovskiy, Russia",
-        "mag": 4.5,
-        "time": 1786729662334,
-        "lon": 158.869,
-        "lat": 51.371,
-        "depth": 35,
-        "source": "USGS"
-      },
-      {
-        "place": "28 km SSW of Ocotillo Wells, CA",
-        "mag": 1.46,
-        "time": 1786728958210,
-        "lon": -116.243166666667,
-        "lat": 32.9141666666667,
-        "depth": 7.41,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km S of Redlands, CA",
-        "mag": 1.15,
-        "time": 1786728736440,
-        "lon": -117.176333333333,
-        "lat": 34.0268333333333,
-        "depth": 4.16,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km SSE of Redlands, CA",
-        "mag": 1.34,
-        "time": 1786728442370,
-        "lon": -117.175166666667,
-        "lat": 34.0326666666667,
-        "depth": 4.73,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km SSE of Redlands, CA",
-        "mag": 0.99,
-        "time": 1786728414500,
-        "lon": -117.175666666667,
-        "lat": 34.0295,
-        "depth": 3.58,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km SSE of Redlands, CA",
-        "mag": 1.7,
-        "time": 1786728329010,
-        "lon": -117.175166666667,
-        "lat": 34.0275,
-        "depth": 3.9,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km ESE of Cloverdale, CA",
-        "mag": 1.31,
-        "time": 1786727472190,
-        "lon": -122.929664611816,
-        "lat": 38.779167175293,
-        "depth": 4.09000015258789,
-        "source": "USGS"
-      },
-      {
-        "place": "19 km WSW of Divichibazar, Azerbaijan",
-        "mag": 4.9,
-        "time": 1786726574767,
-        "lon": 48.7787,
-        "lat": 41.1279,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "21 km SE of Kasilof, Alaska",
-        "mag": 2.5,
-        "time": 1786725761191,
-        "lon": -150.959,
-        "lat": 60.232,
-        "depth": 67.1,
-        "source": "USGS"
-      },
-      {
-        "place": "18 km NW of Toyah, Texas",
-        "mag": 1.5,
-        "time": 1786725652225,
-        "lon": -103.932,
-        "lat": 31.428,
-        "depth": 4.895,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km NE of Milford, Utah",
-        "mag": 1.52,
-        "time": 1786725446870,
-        "lon": -112.884333333333,
-        "lat": 38.5128333333333,
-        "depth": 1.67,
-        "source": "USGS"
-      },
-      {
-        "place": "14 km W of Glacier View, Alaska",
-        "mag": 1.4,
-        "time": 1786725047254,
-        "lon": -147.92,
-        "lat": 61.819,
-        "depth": 33.9,
-        "source": "USGS"
-      },
-      {
-        "place": "20 km S of Honaunau-Napoopoo, Hawaii",
-        "mag": 2.07,
-        "time": 1786724779130,
-        "lon": -155.878997802734,
-        "lat": 19.2686672210693,
-        "depth": 39.6500015258789,
-        "source": "USGS"
-      },
-      {
-        "place": "17 km NE of Milford, Utah",
-        "mag": 0.88,
-        "time": 1786724434590,
-        "lon": -112.888833333333,
-        "lat": 38.517,
-        "depth": 2.39,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km NE of Milford, Utah",
-        "mag": 1.24,
-        "time": 1786724368120,
-        "lon": -112.884333333333,
-        "lat": 38.5085,
-        "depth": 2.33,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km WSW of Idyllwild, CA",
-        "mag": 0.92,
-        "time": 1786724348240,
-        "lon": -116.772666666667,
-        "lat": 33.7218333333333,
-        "depth": 15.98,
-        "source": "USGS"
-      },
-      {
-        "place": "79 km NNW of Karluk, Alaska",
-        "mag": 1.1,
-        "time": 1786724259571,
-        "lon": -154.897,
-        "lat": 58.246,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "27 km E of Honaunau-Napoopoo, Hawaii",
-        "mag": 2.08,
-        "time": 1786723830140,
-        "lon": -155.602005004883,
-        "lat": 19.4333324432373,
-        "depth": 32.3899993896484,
-        "source": "USGS"
-      },
-      {
-        "place": "14 km NE of Pāhala, Hawaii",
-        "mag": 1.77,
-        "time": 1786723615550,
-        "lon": -155.372665405273,
-        "lat": 19.2919998168945,
-        "depth": 30.2099990844727,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km SSW of Four Lakes, Washington",
-        "mag": 1.16,
-        "time": 1786723243540,
-        "lon": -117.618,
-        "lat": 47.5298333333333,
-        "depth": -0.71,
+        "place": "16 km SSE of Tomioka, Japan",
+        "mag": 4.7,
+        "time": 1786756251635,
+        "lon": 141.1138,
+        "lat": 37.2084,
+        "depth": 50.197,
         "source": "USGS"
       },
       {
         "place": "7 km NW of The Geysers, CA",
-        "mag": 0.7,
-        "time": 1786722136280,
-        "lon": -122.811332702637,
-        "lat": 38.8230018615723,
-        "depth": 3,
+        "mag": 0.93,
+        "time": 1786755714460,
+        "lon": -122.811500549316,
+        "lat": 38.8213348388672,
+        "depth": 2.88000011444092,
         "source": "USGS"
       },
       {
-        "place": "53 km WNW of Skwentna, Alaska",
-        "mag": 1.6,
-        "time": 1786721883660,
-        "lon": -152.283,
-        "lat": 62.24,
+        "place": "2 km N of The Geysers, CA",
+        "mag": 0.75,
+        "time": 1786754869290,
+        "lon": -122.754165649414,
+        "lat": 38.7943344116211,
+        "depth": 1.27999997138977,
+        "source": "USGS"
+      },
+      {
+        "place": "38 km SSE of Severo-Kuril’sk, Russia",
+        "mag": 5.4,
+        "time": 1786754609640,
+        "lon": 156.3863,
+        "lat": 50.3745,
+        "depth": 78.982,
+        "source": "USGS"
+      },
+      {
+        "place": "71 km NNW of Ende, Indonesia",
+        "mag": 5.1,
+        "time": 1786754418406,
+        "lon": 121.4162,
+        "lat": -8.248,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "Balleny Islands region",
+        "mag": 5.3,
+        "time": 1786754413397,
+        "lon": 165.89,
+        "lat": -62.9125,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "14 km WSW of Nenana, Alaska",
+        "mag": 1.8,
+        "time": 1786753438646,
+        "lon": -149.379,
+        "lat": 64.525,
+        "depth": 1.8,
+        "source": "USGS"
+      },
+      {
+        "place": "80 km SE of King Salmon, Alaska",
+        "mag": 1.4,
+        "time": 1786751496554,
+        "lon": -155.558,
+        "lat": 58.249,
         "depth": 5,
         "source": "USGS"
       },
       {
-        "place": "16 km E of Little Lake, CA",
-        "mag": 1.11,
-        "time": 1786721730550,
-        "lon": -117.733,
-        "lat": 35.92,
-        "depth": 7.81,
+        "place": "76 km NNW of Ende, Indonesia",
+        "mag": 4.5,
+        "time": 1786751398157,
+        "lon": 121.3939,
+        "lat": -8.2074,
+        "depth": 10,
         "source": "USGS"
       },
       {
-        "place": "49 km WNW of Nanwalek, Alaska",
-        "mag": 2.1,
-        "time": 1786721646574,
-        "lon": -152.771,
-        "lat": 59.464,
-        "depth": 80.2,
+        "place": "145 km W of Adak, Alaska",
+        "mag": 1.23,
+        "time": 1786750907120,
+        "lon": -178.725666666667,
+        "lat": 51.6908333333333,
+        "depth": 13,
         "source": "USGS"
       },
       {
-        "place": "4 km S of Honaunau-Napoopoo, Hawaii",
-        "mag": 1.94,
-        "time": 1786721378370,
-        "lon": -155.867828369141,
-        "lat": 19.4148330688477,
-        "depth": 8.07999992370605,
+        "place": "46 km NW of Toyah, Texas",
+        "mag": 0.9,
+        "time": 1786750843003,
+        "lon": -104.122,
+        "lat": 31.63,
+        "depth": 2.595,
         "source": "USGS"
       },
       {
-        "place": "67 km WNW of Anchor Point, Alaska",
+        "place": "25 km SE of Lindsay, Texas",
+        "mag": 2.9,
+        "time": 1786750489885,
+        "lon": -103.333,
+        "lat": 31.225,
+        "depth": 3.6902,
+        "source": "USGS"
+      },
+      {
+        "place": "40 km NE of Adak, Alaska",
+        "mag": 0.99,
+        "time": 1786749836910,
+        "lon": -176.152333333333,
+        "lat": 52.0813333333333,
+        "depth": 2.09,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NNW of The Geysers, CA",
+        "mag": 1.13,
+        "time": 1786749749810,
+        "lon": -122.794166564941,
+        "lat": 38.8230018615723,
+        "depth": 2.67000007629395,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km E of Port Lions, Alaska",
+        "mag": 2.6,
+        "time": 1786749432156,
+        "lon": -152.848,
+        "lat": 57.871,
+        "depth": 37.1,
+        "source": "USGS"
+      },
+      {
+        "place": "65 km NNW of Ende, Indonesia",
+        "mag": 5,
+        "time": 1786749425284,
+        "lon": 121.359,
+        "lat": -8.3348,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "55 km SSW of Whites City, New Mexico",
+        "mag": 1.6,
+        "time": 1786749220599,
+        "lon": -104.571,
+        "lat": 31.7,
+        "depth": 2.8452,
+        "source": "USGS"
+      },
+      {
+        "place": "49 km N of Ruteng, Indonesia",
+        "mag": 5.1,
+        "time": 1786749151091,
+        "lon": 120.4166,
+        "lat": -8.1694,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km E of Fox, Alaska",
         "mag": 2.4,
-        "time": 1786720703331,
-        "lon": -152.956,
-        "lat": 59.987,
-        "depth": 121.4,
+        "time": 1786748720124,
+        "lon": -147.516,
+        "lat": 64.964,
+        "depth": 0.2,
+        "source": "USGS"
+      },
+      {
+        "place": "1 km SW of Otura, Spain",
+        "mag": 5.2,
+        "time": 1786748680797,
+        "lon": -3.6486,
+        "lat": 37.0789,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km NNW of Toyah, Texas",
+        "mag": 1.5,
+        "time": 1786748574074,
+        "lon": -103.849,
+        "lat": 31.412,
+        "depth": 7.8609,
+        "source": "USGS"
+      },
+      {
+        "place": "41 km ESE of Naalehu, Hawaii",
+        "mag": 1.91,
+        "time": 1786748136430,
+        "lon": -155.240829467773,
+        "lat": 18.8803329467773,
+        "depth": 10.5200004577637,
+        "source": "USGS"
+      },
+      {
+        "place": "69 km SSE of King Cove, Alaska",
+        "mag": 3.4,
+        "time": 1786748094655,
+        "lon": -161.763,
+        "lat": 54.5268,
+        "depth": 35,
+        "source": "USGS"
+      },
+      {
+        "place": "49 km NE of Labuan Bajo, Indonesia",
+        "mag": 5.3,
+        "time": 1786747991834,
+        "lon": 120.2253,
+        "lat": -8.2053,
+        "depth": 10,
         "source": "USGS"
       },
       {
         "place": "16 km NE of Milford, Utah",
-        "mag": 1.4,
-        "time": 1786720551510,
-        "lon": -112.889833333333,
-        "lat": 38.516,
-        "depth": 2.07,
+        "mag": 1.54,
+        "time": 1786747078040,
+        "lon": -112.881,
+        "lat": 38.5083333333333,
+        "depth": 2.37,
+        "source": "USGS"
+      },
+      {
+        "place": "49 km NE of Labuan Bajo, Indonesia",
+        "mag": 5.5,
+        "time": 1786747037172,
+        "lon": 120.1908,
+        "lat": -8.1604,
+        "depth": 10,
         "source": "USGS"
       },
       {
         "place": "16 km NE of Milford, Utah",
-        "mag": 1.24,
-        "time": 1786719958220,
-        "lon": -112.883,
-        "lat": 38.5106666666667,
-        "depth": 2.31,
+        "mag": 1.35,
+        "time": 1786746883280,
+        "lon": -112.887166666667,
+        "lat": 38.51,
+        "depth": 2.3,
         "source": "USGS"
       },
       {
-        "place": "9 km ESE of Borrego Springs, CA",
-        "mag": 0.54,
-        "time": 1786718483570,
-        "lon": -116.281833333333,
-        "lat": 33.2271666666667,
-        "depth": 7.35,
+        "place": "29 km SW of Hope, Alaska",
+        "mag": 2.9,
+        "time": 1786746693892,
+        "lon": -150.053,
+        "lat": 60.741,
+        "depth": 32.1,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km NNW of Toyah, Texas",
+        "mag": 1.6,
+        "time": 1786746537092,
+        "lon": -103.848,
+        "lat": 31.444,
+        "depth": 0.2525,
+        "source": "USGS"
+      },
+      {
+        "place": "58 km N of Ende, Indonesia",
+        "mag": 6.1,
+        "time": 1786746517550,
+        "lon": 121.5717,
+        "lat": -8.3186,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "16 km NE of Milford, Utah",
+        "mag": 2.18,
+        "time": 1786746140650,
+        "lon": -112.883333333333,
+        "lat": 38.5076666666667,
+        "depth": 2.14,
+        "source": "USGS"
+      },
+      {
+        "place": "61 km NNW of Ende, Indonesia",
+        "mag": 5.6,
+        "time": 1786745886706,
+        "lon": 121.4284,
+        "lat": -8.3406,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "36 km NE of Labuan Bajo, Indonesia",
+        "mag": 5.9,
+        "time": 1786745630869,
+        "lon": 120.1465,
+        "lat": -8.2849,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "37 km WNW of Nikiski, Alaska",
+        "mag": 2.2,
+        "time": 1786745613701,
+        "lon": -151.872,
+        "lat": 60.871,
+        "depth": 101,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NNW of Murrieta Hot Springs, CA",
+        "mag": 0.29,
+        "time": 1786745434660,
+        "lon": -117.175333333333,
+        "lat": 33.6015,
+        "depth": 12.85,
+        "source": "USGS"
+      },
+      {
+        "place": "1 km SW of Honaunau-Napoopoo, Hawaii",
+        "mag": 1.86,
+        "time": 1786745411190,
+        "lon": -155.876495361328,
+        "lat": 19.4471664428711,
+        "depth": 7.42000007629395,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km SSW of Tumalo, Oregon",
+        "mag": 2.05628895759583,
+        "time": 1786744935420,
+        "lon": -121.35050201416,
+        "lat": 44.1254997253418,
+        "depth": 1.3400000333786,
+        "source": "USGS"
+      },
+      {
+        "place": "68 km NNW of Ende, Indonesia",
+        "mag": 7.7,
+        "time": 1786744701564,
+        "lon": 121.3517,
+        "lat": -8.3101,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "56 km S of Whites City, New Mexico",
+        "mag": 1.1,
+        "time": 1786744545183,
+        "lon": -104.434,
+        "lat": 31.671,
+        "depth": 5.0053,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km N of Cabazon, CA",
+        "mag": 1.14,
+        "time": 1786744109860,
+        "lon": -116.79,
+        "lat": 33.9961666666667,
+        "depth": 14.31,
+        "source": "USGS"
+      },
+      {
+        "place": "27 km N of San Simeon, CA",
+        "mag": 0.94,
+        "time": 1786743990020,
+        "lon": -121.24683380127,
+        "lat": 35.8810005187988,
+        "depth": 9.77999973297119,
+        "source": "USGS"
+      },
+      {
+        "place": "17 km NE of Milford, Utah",
+        "mag": 1.58,
+        "time": 1786742928970,
+        "lon": -112.8895,
+        "lat": 38.5171666666667,
+        "depth": 2.78,
         "source": "USGS"
       },
       {
         "place": "4 km W of Cobb, CA",
-        "mag": 1.21,
-        "time": 1786718207120,
+        "mag": 1.58,
+        "time": 1786742653830,
         "lon": -122.766998291016,
-        "lat": 38.8246650695801,
-        "depth": 2.09999990463257,
+        "lat": 38.8245010375977,
+        "depth": 1.70000004768372,
         "source": "USGS"
       },
       {
-        "place": "0 km W of Duvall, Washington",
+        "place": "10 km WNW of Corona, CA",
+        "mag": 0.53,
+        "time": 1786742341960,
+        "lon": -117.668,
+        "lat": 33.8946666666667,
+        "depth": 6.77,
+        "source": "USGS"
+      },
+      {
+        "place": "45 km NE of Holtville, CA",
         "mag": 1.2,
-        "time": 1786717986740,
-        "lon": -121.993333333333,
-        "lat": 47.7413333333333,
-        "depth": 16.47,
-        "source": "USGS"
-      },
-      {
-        "place": "12 km ENE of Desert Hot Springs, CA",
-        "mag": 0.71,
-        "time": 1786717572530,
-        "lon": -116.3795,
-        "lat": 33.9913333333333,
-        "depth": 4.56,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km NW of The Geysers, CA",
-        "mag": 0.89,
-        "time": 1786715089650,
-        "lon": -122.818168640137,
-        "lat": 38.8293342590332,
-        "depth": 1.99000000953674,
+        "time": 1786742246340,
+        "lon": -114.990833333333,
+        "lat": 33.0515,
+        "depth": -0.2,
         "source": "USGS"
       }
     ],
@@ -497,15 +497,15 @@
       },
       {
         "currency": "AFN",
-        "rate": 65.28
+        "rate": 65.23
       },
       {
         "currency": "ALL",
-        "rate": 80.62
+        "rate": 80.61
       },
       {
         "currency": "AMD",
-        "rate": 365.98
+        "rate": 366
       },
       {
         "currency": "ANG",
@@ -513,15 +513,15 @@
       },
       {
         "currency": "AOA",
-        "rate": 925.58
+        "rate": 929.12
       },
       {
         "currency": "ARS",
-        "rate": 1491.84
+        "rate": 1488.7
       },
       {
         "currency": "AUD",
-        "rate": 1.42
+        "rate": 1.41
       },
       {
         "currency": "AWG",
@@ -533,7 +533,7 @@
       },
       {
         "currency": "BAM",
-        "rate": 1.7
+        "rate": 1.69
       },
       {
         "currency": "BBD",
@@ -541,11 +541,11 @@
       },
       {
         "currency": "BDT",
-        "rate": 122.89
+        "rate": 122.81
       },
       {
         "currency": "BGN",
-        "rate": 1.7
+        "rate": 1.69
       },
       {
         "currency": "BHD",
@@ -553,7 +553,7 @@
       },
       {
         "currency": "BIF",
-        "rate": 2991.47
+        "rate": 2995.18
       },
       {
         "currency": "BMD",
@@ -565,7 +565,7 @@
       },
       {
         "currency": "BOB",
-        "rate": 11.78
+        "rate": 11.77
       }
     ]
   },
