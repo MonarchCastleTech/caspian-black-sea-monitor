@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-17T07:11:23.948700+00:00",
+    "generated": "2026-08-17T13:01:33.535313+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -33,709 +33,456 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [
-      {
-        "title": "Strait of Hormuz Standoff : Three Vessels Attacked in 72 Hours as Maritime Threat Level Stays Severe",
-        "url": "https://gulfnews.com/world/mena/strait-of-hormuz-standoff-three-vessels-attacked-in-72-hours-as-threat-stays-severe-1.500642826",
-        "domain": "gulfnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T174500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Una naviera china abre la  Ruta de la Seda  por el Ártico para esquivar los misiles de Oriente Medio",
-        "url": "https://www.heraldo.es/noticias/internacional/2026/08/17/una-naviera-china-abre-ruta-seda-por-artico-para-esquivar-los-misiles-oriente-medio-2045206.html",
-        "domain": "heraldo.es",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260817T060000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Ερυθρά Θάλασσα : Σταμάτησε πλήρως η λειτουργία του λιμανιού Μόχα μετά από περισσότερα από 25 πλήγματα των Χούθι",
-        "url": "https://www.protothema.gr/world/article/1865445/eruthra-thalassa-stamatise-pliros-i-leitourgia-tou-limaniou-moha-meta-apo-perissotera-apo-25-pligmata-ton-houthi/",
-        "domain": "protothema.gr",
-        "language": "Greek",
-        "tone": 0,
-        "seendate": "20260816T080000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Shipping Tribune",
-        "url": "https://www.shippingtribune.com/news/shipping/Vizhinjam+port+prepares+for+historic+EXIM+launch+tomorrow",
-        "domain": "shippingtribune.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260817T044500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Shipping Tribune",
-        "url": "https://www.shippingtribune.com/index.php/news/shipping/Vizhinjam+port+prepares+for+historic+EXIM+launch+tomorrow",
-        "domain": "shippingtribune.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260817T044500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Китайський НПЗ звинуватили у фінансуванні Ірану",
-        "url": "https://news.bigmir.net/ua/world/10411744-kitajskij-npz-zvinuvatili-u-finansuvanni-iranu",
-        "domain": "news.bigmir.net",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260816T094500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Ερυθρά Θάλασσα : Σταμάτησε πλήρως η λειτουργία του λιμανιού Μόχα μετά από περισσότερα από 25 πλήγματα των Χούθι",
-        "url": "https://sofokleous10.gr/2026/08/16/%CE%B5%CF%81%CF%85%CE%B8%CF%81%CE%AC-%CE%B8%CE%AC%CE%BB%CE%B1%CF%83%CF%83%CE%B1-%CF%83%CF%84%CE%B1%CE%BC%CE%AC%CF%84%CE%B7%CF%83%CE%B5-%CF%80%CE%BB%CE%AE%CF%81%CF%89%CF%82-%CE%B7-%CE%BB%CE%B5%CE%B9/",
-        "domain": "sofokleous10.gr",
-        "language": "Greek",
-        "tone": 0,
-        "seendate": "20260816T113000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Israeli strikes kill 9 in Lebanon , tanker attacked in Hormuz",
-        "url": "https://www.bostonglobe.com/2026/08/15/world/us-iran-war-israeli-strike-kills-7-in-lebanon-tanker-attacked-in-hormuz/",
-        "domain": "bostonglobe.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T081500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Comparing Clarkson ( CKNHF ) and The Competition",
-        "url": "https://www.themarketsdaily.com/2026/08/16/comparing-clarkson-cknhf-and-the-competition.html",
-        "domain": "themarketsdaily.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T101500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran Tells US :  Stop Indulging In Fantasies  ",
-        "url": "https://www.marinelink.com/news/iran-tells-us-stop-indulging-fantasies-542138",
-        "domain": "marinelink.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260817T040000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Port Cabo Rojo es finalista a Puerto del Año en los Seatrade Cruise Awards 2026 • Periódico Digital Centroamericano y del Caribe",
-        "url": "https://newsinamerica.com/pdcc/turismo/2026/port-cabo-rojo-es-finalista-a-puerto-del-ano-en-los-seatrade-cruise-awards-2026/",
-        "domain": "newsinamerica.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260816T203000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices | The Asahi Shimbun : Breaking News , Japan News and Analysis",
-        "url": "https://www.asahi.com/ajw/articles/16811471",
-        "domain": "asahi.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260817T030000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Houthis Fire Six Missiles Into Marib Displacement Camps as Yemen War Risk Peaks",
-        "url": "https://jp.ibtimes.com/houthis-fire-six-missiles-maribs-displacement-camps-yemen-war-risk-peaks-103727",
-        "domain": "jp.ibtimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T161500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Romanian - Turkish Naval Ties Take Centre Stage as Turkish Warships Visit Constanta for Navy Day",
-        "url": "https://nineoclock.ro/romanian-turkish-naval-ties-take-centre-stage-as-turkish-warships-visit-constanta-for-navy-day/",
-        "domain": "nineoclock.ro",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T131500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran challenges US over Hormuz as war economic costs mount",
-        "url": "https://www.middle-east-online.com/en/iran-challenges-us-over-hormuz-war%E2%80%99s-economic-costs-mount",
-        "domain": "middle-east-online.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T084500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran calls on US to accept defeat as Trump tells Americans to accept high gasoline prices",
-        "url": "https://www.newstribune.com/news/2026/aug/16/iran-calls-on-us-to-accept-defeat-as-trump-tells/",
-        "domain": "newstribune.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T114500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran calls on US to accept defeat as Trump tells Americans to accept high gasoline prices",
-        "url": "https://www.fultonsun.com/news/2026/aug/16/iran-calls-on-us-to-accept-defeat-as-trump-tells/",
-        "domain": "fultonsun.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T134500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices",
-        "url": "https://www.mvariety.com/news/national/iran-defiant-on-strait-as-trump-tells-americans-to-accept-high-gasoline-prices/article_c674cdb4-735e-41d0-99cb-0f0aded23795.html",
-        "domain": "mvariety.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T174500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Houthis Fire Six Missiles Into Marib Displacement Camps as Yemen War Risk Peaks",
-        "url": "https://www.hngn.com/articles/272756/20260815/yemens-civil-war-reignites-houthi-forces-escalate-attacks-government-positions-taiz.htm",
-        "domain": "hngn.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T154500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran Demands Access To Qatar In Dispute Over Downed Pilots",
-        "url": "http://www.newyorkstatesman.com/news/279244938/iran-demands-access-to-qatar-in-dispute-over-downed-pilots",
-        "domain": "newyorkstatesman.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T120000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran Demands Access To Qatar In Dispute Over Downed Pilots",
-        "url": "http://www.southeastasiapost.com/news/279244938/iran-demands-access-to-qatar-in-dispute-over-downed-pilots",
-        "domain": "southeastasiapost.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T120000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran Demands Access To Qatar In Dispute Over Downed Pilots",
-        "url": "http://www.beijingbulletin.com/news/279244938/iran-demands-access-to-qatar-in-dispute-over-downed-pilots",
-        "domain": "beijingbulletin.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T140000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran Demands Access To Qatar In Dispute Over Downed Pilots",
-        "url": "http://www.iranherald.com/news/279244938/iran-demands-access-to-qatar-in-dispute-over-downed-pilots",
-        "domain": "iranherald.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T130000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran Demands Access To Qatar In Dispute Over Downed Pilots",
-        "url": "http://www.newyorktelegraph.com/news/279244938/iran-demands-access-to-qatar-in-dispute-over-downed-pilots",
-        "domain": "newyorktelegraph.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T134500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Welcomes Saudi , Turkey , Pakistan Defense Pact",
-        "url": "http://www.pakistantelegraph.com/news/279245809/trump-welcomes-saudi-turkey-pakistan-defense-pact",
-        "domain": "pakistantelegraph.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260817T004500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Welcomes Saudi , Turkey , Pakistan Defense Pact",
-        "url": "http://www.beijingbulletin.com/news/279245809/trump-welcomes-saudi-turkey-pakistan-defense-pact",
-        "domain": "beijingbulletin.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260817T040000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Welcomes Saudi , Turkey , Pakistan Defense Pact",
-        "url": "http://www.chinanationalnews.com/news/279245809/trump-welcomes-saudi-turkey-pakistan-defense-pact",
-        "domain": "chinanationalnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260817T053000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "How India built new infrastructure , digital & strategic capability",
-        "url": "https://organiser.org/2026/08/16/375486/bharat/twelve-years-of-transformation-how-india-built-new-infrastructure-digital-strategic-capability/",
-        "domain": "organiser.org",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T160000Z",
-        "source": "GDELT"
-      }
-    ],
+    "gdelt_articles": [],
     "earthquakes": [
       {
-        "place": "12 km W of Little Lake, CA",
-        "mag": 0.97,
-        "time": 1786949425060,
-        "lon": -118.044333333333,
-        "lat": 35.9496666666667,
-        "depth": 3.79,
+        "place": "3 km SE of The Geysers, CA",
+        "mag": 0.84,
+        "time": 1786970596440,
+        "lon": -122.726669311523,
+        "lat": 38.757999420166,
+        "depth": 1.96000003814697,
         "source": "USGS"
       },
       {
-        "place": "10 km NE of Fox River, Alaska",
-        "mag": 2.4,
-        "time": 1786949405323,
-        "lon": -150.841,
-        "lat": 59.932,
-        "depth": 20.8,
+        "place": "14 km N of Tecate, B.C., MX",
+        "mag": 1.39,
+        "time": 1786970518080,
+        "lon": -116.632833333333,
+        "lat": 32.6905,
+        "depth": 22.26,
         "source": "USGS"
       },
       {
-        "place": "0 km NNW of Manhattan Beach, CA",
-        "mag": 1.47,
-        "time": 1786949224750,
-        "lon": -118.413666666667,
-        "lat": 33.8883333333333,
-        "depth": 13.93,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km WNW of Cobb, CA",
-        "mag": 0.9,
-        "time": 1786948705930,
-        "lon": -122.783668518066,
-        "lat": 38.8346672058105,
-        "depth": 2.66000008583069,
-        "source": "USGS"
-      },
-      {
-        "place": "0 km WSW of Pedley, CA",
-        "mag": 0.7,
-        "time": 1786948045120,
-        "lon": -117.481,
-        "lat": 33.9738333333333,
-        "depth": 2.27,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km WNW of Cobb, CA",
-        "mag": 0.69,
-        "time": 1786947949800,
-        "lon": -122.811500549316,
-        "lat": 38.8366661071777,
-        "depth": 1.78999996185303,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km WNW of Cobb, CA",
-        "mag": 1.46,
-        "time": 1786947828670,
-        "lon": -122.810668945312,
-        "lat": 38.8359985351562,
-        "depth": 2.02999997138977,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km NW of The Geysers, CA",
-        "mag": 0.49,
-        "time": 1786947754420,
-        "lon": -122.81233215332,
-        "lat": 38.8228340148926,
-        "depth": 2.79999995231628,
-        "source": "USGS"
-      },
-      {
-        "place": "1 km ESE of The Geysers, CA",
-        "mag": 0.71,
-        "time": 1786947062470,
-        "lon": -122.750503540039,
-        "lat": 38.7750015258789,
-        "depth": 1.79999995231628,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km NE of Coso Junction, CA",
-        "mag": 0.81,
-        "time": 1786946853140,
-        "lon": -117.8895,
-        "lat": 36.104,
-        "depth": 2.72,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 0.41,
-        "time": 1786946485680,
-        "lon": -117.838166666667,
-        "lat": 36.0653333333333,
-        "depth": 2.18,
-        "source": "USGS"
-      },
-      {
-        "place": "58 km E of Denali National Park, Alaska",
-        "mag": 1.8,
-        "time": 1786946436312,
-        "lon": -150.555,
-        "lat": 63.597,
-        "depth": 1,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km SSW of Idyllwild, CA",
-        "mag": 0.38,
-        "time": 1786945917870,
-        "lon": -116.778666666667,
-        "lat": 33.6575,
-        "depth": 12.78,
-        "source": "USGS"
-      },
-      {
-        "place": "25 km SE of Lindsay, Texas",
-        "mag": 1.9,
-        "time": 1786945748043,
-        "lon": -103.369,
-        "lat": 31.191,
-        "depth": 5.1876,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 1.63,
-        "time": 1786944408670,
-        "lon": -117.840666666667,
-        "lat": 36.0648333333333,
-        "depth": 2.58,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km S of Volcano, Hawaii",
-        "mag": 1.89,
-        "time": 1786944213550,
-        "lon": -155.245498657227,
-        "lat": 19.3543338775635,
-        "depth": 29,
-        "source": "USGS"
-      },
-      {
-        "place": "32 km E of Halibut Cove, Alaska",
-        "mag": 3.8,
-        "time": 1786943269191,
-        "lon": -150.655,
-        "lat": 59.604,
-        "depth": 34.9,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km E of Cloverdale, CA",
-        "mag": 1.14,
-        "time": 1786941868710,
-        "lon": -122.936332702637,
-        "lat": 38.7963333129883,
-        "depth": 5.19000005722046,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km WNW of The Geysers, CA",
-        "mag": 0.77,
-        "time": 1786941513700,
-        "lon": -122.81266784668,
-        "lat": 38.7993316650391,
-        "depth": 3.75,
-        "source": "USGS"
-      },
-      {
-        "place": "18 km WSW of Falls City, Texas",
-        "mag": 1.6,
-        "time": 1786941177986,
-        "lon": -98.191,
-        "lat": 28.914,
-        "depth": 5.9743,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km NNE of Lake Henshaw, CA",
-        "mag": 2.01,
-        "time": 1786940058400,
-        "lon": -116.733666666667,
-        "lat": 33.2878333333333,
-        "depth": 14.71,
-        "source": "USGS"
-      },
-      {
-        "place": "24 km SSW of La Quinta, CA",
-        "mag": 0.38,
-        "time": 1786939377680,
-        "lon": -116.429166666667,
-        "lat": 33.4743333333333,
-        "depth": 11.88,
-        "source": "USGS"
-      },
-      {
-        "place": "70 km NNW of Ende, Indonesia",
-        "mag": 5.2,
-        "time": 1786938484873,
-        "lon": 121.327,
-        "lat": -8.2999,
-        "depth": 16.335,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km SE of Lake Pillsbury, CA",
-        "mag": 1.72,
-        "time": 1786938453880,
-        "lon": -122.873336791992,
-        "lat": 39.3520011901855,
-        "depth": 6.90000009536743,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km NNW of Pinnacles, CA",
-        "mag": 1.28,
-        "time": 1786937991490,
-        "lon": -121.172996520996,
-        "lat": 36.5791664123535,
-        "depth": 4.8600001335144,
-        "source": "USGS"
-      },
-      {
-        "place": "68 km NNW of Ende, Indonesia",
+        "place": "75 km ESE of Petropavlovsk-Kamchatsky, Russia",
         "mag": 5.3,
-        "time": 1786937799370,
-        "lon": 121.407,
-        "lat": -8.278,
-        "depth": 10,
+        "time": 1786970284600,
+        "lon": 159.7259,
+        "lat": 52.9129,
+        "depth": 67.497,
         "source": "USGS"
       },
       {
-        "place": "90 km NE of Ruteng, Indonesia",
-        "mag": 4.9,
-        "time": 1786937633507,
-        "lon": 121.0947,
-        "lat": -8.0913,
-        "depth": 10,
+        "place": "11 km S of Honaunau-Napoopoo, Hawaii",
+        "mag": 2.05,
+        "time": 1786969854360,
+        "lon": -155.86083984375,
+        "lat": 19.3519992828369,
+        "depth": 6.30999994277954,
         "source": "USGS"
       },
       {
-        "place": "11 km WNW of Cobb, CA",
-        "mag": 0.71,
-        "time": 1786937089720,
-        "lon": -122.846336364746,
-        "lat": 38.8479995727539,
-        "depth": 1.55999994277954,
+        "place": "89 km SW of Kaktovik, Alaska",
+        "mag": 3.6,
+        "time": 1786969100943,
+        "lon": -145.499,
+        "lat": 69.653,
+        "depth": 8.3,
         "source": "USGS"
       },
       {
-        "place": "62 km SE of Denali National Park, Alaska",
-        "mag": 2.9,
-        "time": 1786935658270,
-        "lon": -150.737,
-        "lat": 63.2,
-        "depth": 134.1,
-        "source": "USGS"
-      },
-      {
-        "place": "43 km NNW of Ende, Indonesia",
-        "mag": 4.2,
-        "time": 1786935508488,
-        "lon": 121.5676,
-        "lat": -8.4617,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km SSW of Hemet, CA",
-        "mag": 0.34,
-        "time": 1786934897930,
-        "lon": -116.989833333333,
-        "lat": 33.6845,
-        "depth": 11.93,
-        "source": "USGS"
-      },
-      {
-        "place": "84 km NNE of Labuan Bajo, Indonesia",
-        "mag": 4.8,
-        "time": 1786934360044,
-        "lon": 120.2556,
-        "lat": -7.8295,
-        "depth": 29.528,
-        "source": "USGS"
-      },
-      {
-        "place": "21 km SSW of Tyonek, Alaska",
-        "mag": 2.7,
-        "time": 1786934314832,
-        "lon": -151.33,
-        "lat": 60.902,
-        "depth": 94.4,
-        "source": "USGS"
-      },
-      {
-        "place": "137 km S of McCarthy, Alaska",
-        "mag": 2.3,
-        "time": 1786933209503,
-        "lon": -143.229,
-        "lat": 60.208,
-        "depth": 2.6,
-        "source": "USGS"
-      },
-      {
-        "place": "141 km ESE of Cordova, Alaska",
-        "mag": 3.7,
-        "time": 1786932666348,
-        "lon": -143.315,
-        "lat": 60.164,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "1 km E of Magas Arriba, Puerto Rico",
+        "place": "42 km NW of Toyah, Texas",
         "mag": 2,
-        "time": 1786932079470,
-        "lon": -66.7523333333333,
-        "lat": 18.0145,
-        "depth": 15.79,
+        "time": 1786969070844,
+        "lon": -104.156,
+        "lat": 31.532,
+        "depth": 4.6292,
         "source": "USGS"
       },
       {
-        "place": "2 km W of The Geysers, CA",
-        "mag": 0.35,
-        "time": 1786931588060,
-        "lon": -122.778335571289,
-        "lat": 38.7804985046387,
-        "depth": 3.36999988555908,
+        "place": "11 km ENE of Ridgecrest, CA",
+        "mag": 0.53,
+        "time": 1786968908200,
+        "lon": -117.571833333333,
+        "lat": 35.677,
+        "depth": 7.3,
+        "source": "USGS"
+      },
+      {
+        "place": "1 km E of Loma Linda, CA",
+        "mag": 1.07,
+        "time": 1786968808220,
+        "lon": -117.251166666667,
+        "lat": 34.0486666666667,
+        "depth": 16.18,
+        "source": "USGS"
+      },
+      {
+        "place": "24 km SE of Balmorhea, Texas",
+        "mag": 1.6,
+        "time": 1786968724904,
+        "lon": -103.58,
+        "lat": 30.82,
+        "depth": 0,
+        "source": "USGS"
+      },
+      {
+        "place": "41 km WNW of Toyah, Texas",
+        "mag": 1.8,
+        "time": 1786968700616,
+        "lon": -104.16,
+        "lat": 31.524,
+        "depth": 3.9548,
+        "source": "USGS"
+      },
+      {
+        "place": "11 km S of Lompoc, CA",
+        "mag": 2.54,
+        "time": 1786968503740,
+        "lon": -120.479333333333,
+        "lat": 34.5406666666667,
+        "depth": 4.59,
         "source": "USGS"
       },
       {
         "place": "40 km NW of Toyah, Texas",
+        "mag": 1.7,
+        "time": 1786967696939,
+        "lon": -104.147,
+        "lat": 31.524,
+        "depth": 5.0551,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NW of The Geysers, CA",
+        "mag": 0.83,
+        "time": 1786967534130,
+        "lon": -122.804664611816,
+        "lat": 38.8219985961914,
+        "depth": 3.11999988555908,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NW of The Geysers, CA",
+        "mag": 1.54,
+        "time": 1786967518500,
+        "lon": -122.804168701172,
+        "lat": 38.8223342895508,
+        "depth": 3.13000011444092,
+        "source": "USGS"
+      },
+      {
+        "place": "23 km SSE of Tecate, B.C., MX",
+        "mag": 1.37,
+        "time": 1786966583650,
+        "lon": -116.538833333333,
+        "lat": 32.3786666666667,
+        "depth": 16.99,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WSW of Anza, CA",
+        "mag": 0.32,
+        "time": 1786965895390,
+        "lon": -116.7315,
+        "lat": 33.5325,
+        "depth": 2.91,
+        "source": "USGS"
+      },
+      {
+        "place": "41 km NW of Toyah, Texas",
+        "mag": 1.8,
+        "time": 1786965724720,
+        "lon": -104.153,
+        "lat": 31.524,
+        "depth": 4.0242,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km NNW of Pinnacles, CA",
+        "mag": 2.13,
+        "time": 1786965078000,
+        "lon": -121.159164428711,
+        "lat": 36.5606651306152,
+        "depth": 2.20000004768372,
+        "source": "USGS"
+      },
+      {
+        "place": "28 km SW of Kandrian, Papua New Guinea",
+        "mag": 5.1,
+        "time": 1786964423022,
+        "lon": 149.3577,
+        "lat": -6.3769,
+        "depth": 35,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km S of Brawley, CA",
+        "mag": 2.14,
+        "time": 1786963854870,
+        "lon": -115.529833333333,
+        "lat": 32.9476666666667,
+        "depth": 9.55,
+        "source": "USGS"
+      },
+      {
+        "place": "25 km SE of Pāhala, Hawaii",
+        "mag": 1.72,
+        "time": 1786963825820,
+        "lon": -155.33366394043,
+        "lat": 19.0141658782959,
+        "depth": 24.8500003814697,
+        "source": "USGS"
+      },
+      {
+        "place": "75 km N of Ruteng, Indonesia",
+        "mag": 5.4,
+        "time": 1786963489886,
+        "lon": 120.4324,
+        "lat": -7.9289,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "81 km N of Ruteng, Indonesia",
+        "mag": 5.2,
+        "time": 1786963361971,
+        "lon": 120.5019,
+        "lat": -7.8762,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "11 km NNW of Hollister, CA",
+        "mag": 1.28,
+        "time": 1786962893900,
+        "lon": -121.430999755859,
+        "lat": 36.9411659240723,
+        "depth": 7.46999979019165,
+        "source": "USGS"
+      },
+      {
+        "place": "22 km NE of Pine Valley, CA",
+        "mag": 0.78,
+        "time": 1786962131240,
+        "lon": -116.335166666667,
+        "lat": 32.9386666666667,
+        "depth": 8.13,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km NNW of Fontana, CA",
+        "mag": 0.57,
+        "time": 1786961750460,
+        "lon": -117.477833333333,
+        "lat": 34.1286666666667,
+        "depth": 4.51,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km NE of Borrego Springs, CA",
+        "mag": 0.34,
+        "time": 1786961586820,
+        "lon": -116.252833333333,
+        "lat": 33.349,
+        "depth": 10.57,
+        "source": "USGS"
+      },
+      {
+        "place": "28 km SE of Lindsay, Texas",
         "mag": 1.6,
-        "time": 1786931190870,
-        "lon": -104.138,
-        "lat": 31.531,
-        "depth": 6.828,
+        "time": 1786961131593,
+        "lon": -103.351,
+        "lat": 31.169,
+        "depth": 6.0453,
         "source": "USGS"
       },
       {
-        "place": "46 km N of Charlotte Amalie, U.S. Virgin Islands",
-        "mag": 3.55,
-        "time": 1786930821380,
-        "lon": -64.9306,
-        "lat": 18.7603,
-        "depth": 18,
+        "place": "39 km NW of Toyah, Texas",
+        "mag": 2.2,
+        "time": 1786960574637,
+        "lon": -104.134,
+        "lat": 31.513,
+        "depth": 6.2383,
         "source": "USGS"
       },
       {
-        "place": "3 km SSE of Redlands, CA",
-        "mag": 0.94,
-        "time": 1786930550180,
-        "lon": -117.173666666667,
-        "lat": 34.0285,
-        "depth": 3.82,
+        "place": "41 km NW of Toyah, Texas",
+        "mag": 2.2,
+        "time": 1786960574602,
+        "lon": -104.155,
+        "lat": 31.524,
+        "depth": 4.1568,
         "source": "USGS"
       },
       {
-        "place": "9 km S of Volcano, Hawaii",
-        "mag": 1.78,
-        "time": 1786929639530,
-        "lon": -155.236328125,
-        "lat": 19.3546657562256,
-        "depth": 27.7800006866455,
+        "place": "11 km S of Lompoc, CA",
+        "mag": 2.64,
+        "time": 1786959766960,
+        "lon": -120.470833333333,
+        "lat": 34.5378333333333,
+        "depth": 3.56,
         "source": "USGS"
       },
       {
-        "place": "24 km ESE of Norak, Tajikistan",
-        "mag": 4.2,
-        "time": 1786928491312,
-        "lon": 69.5974,
-        "lat": 38.3307,
+        "place": "7 km ESE of Valle Vista, CA",
+        "mag": 0.54,
+        "time": 1786959748660,
+        "lon": -116.8255,
+        "lat": 33.7243333333333,
+        "depth": 14.52,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NE of Wardville, Oklahoma",
+        "mag": 1.21,
+        "time": 1786959199109,
+        "lon": -95.982,
+        "lat": 34.685,
+        "depth": 16,
+        "source": "USGS"
+      },
+      {
+        "place": "55 km W of Anchor Point, Alaska",
+        "mag": 2.7,
+        "time": 1786958635859,
+        "lon": -152.822,
+        "lat": 59.828,
+        "depth": 102.6,
+        "source": "USGS"
+      },
+      {
+        "place": "52 km NNW of Ende, Indonesia",
+        "mag": 4.8,
+        "time": 1786958165268,
+        "lon": 121.5192,
+        "lat": -8.3911,
         "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "35 km E of Poso, Indonesia",
-        "mag": 4.5,
-        "time": 1786928489183,
-        "lon": 121.0709,
-        "lat": -1.3664,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km SSE of Redlands, CA",
-        "mag": 0.97,
-        "time": 1786928096650,
-        "lon": -117.1755,
-        "lat": 34.0278333333333,
-        "depth": 4.79,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km SE of Amber, Oklahoma",
-        "mag": 1.56,
-        "time": 1786927872228,
-        "lon": -97.83156586,
-        "lat": 35.1145668,
-        "depth": 4.613502979,
-        "source": "USGS"
-      },
-      {
-        "place": "65 km NNW of Ende, Indonesia",
-        "mag": 5.7,
-        "time": 1786927605640,
-        "lon": 121.5148,
-        "lat": -8.2665,
-        "depth": 48.947,
         "source": "USGS"
       },
       {
         "place": "2 km N of The Geysers, CA",
-        "mag": 0.75,
-        "time": 1786927031320,
-        "lon": -122.76000213623,
-        "lat": 38.7915000915527,
-        "depth": 2.80999994277954,
+        "mag": 0.45,
+        "time": 1786957736470,
+        "lon": -122.758499145508,
+        "lat": 38.7939987182617,
+        "depth": 0.959999978542328,
         "source": "USGS"
       },
       {
-        "place": "123 km W of Yakutat, Alaska",
-        "mag": 1.9,
-        "time": 1786926888510,
-        "lon": -141.872,
-        "lat": 59.76,
-        "depth": 22.2,
+        "place": "6 km WNW of Cobb, CA",
+        "mag": 1.02,
+        "time": 1786956235820,
+        "lon": -122.790168762207,
+        "lat": 38.8371658325195,
+        "depth": 1.89999997615814,
         "source": "USGS"
       },
       {
-        "place": "12 km N of Pāhala, Hawaii",
-        "mag": 2.26,
-        "time": 1786926740500,
-        "lon": -155.490173339844,
-        "lat": 19.3146667480469,
-        "depth": 2.25999999046326,
+        "place": "south of the Fiji Islands",
+        "mag": 4.4,
+        "time": 1786955938769,
+        "lon": -179.6951,
+        "lat": -23.9232,
+        "depth": 516.333,
         "source": "USGS"
       },
       {
-        "place": "71 km NNE of Labuan Bajo, Indonesia",
-        "mag": 4.5,
-        "time": 1786926456214,
-        "lon": 120.2426,
-        "lat": -7.9505,
-        "depth": 35,
+        "place": "11 km S of Lompoc, CA",
+        "mag": 1.8,
+        "time": 1786955886350,
+        "lon": -120.469333333333,
+        "lat": 34.537,
+        "depth": 3.9,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km SSE of Julian, CA",
+        "mag": 0.89,
+        "time": 1786955659790,
+        "lon": -116.582333333333,
+        "lat": 33.0368333333333,
+        "depth": 12.83,
+        "source": "USGS"
+      },
+      {
+        "place": "27 km SSW of Ocotillo Wells, CA",
+        "mag": 1.72434455940354,
+        "time": 1786955231510,
+        "lon": -116.255500793457,
+        "lat": 32.9193344116211,
+        "depth": 4.90999984741211,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km SE of Concord, CA",
+        "mag": 1.12,
+        "time": 1786954928900,
+        "lon": -121.998832702637,
+        "lat": 37.9566650390625,
+        "depth": 15.8000001907349,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km NE of Wardville, Oklahoma",
+        "mag": 1.31,
+        "time": 1786954833060,
+        "lon": -95.9915,
+        "lat": 34.68383333,
+        "depth": 5,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km SE of Concord, CA",
+        "mag": 2.61,
+        "time": 1786954721880,
+        "lon": -121.996170043945,
+        "lat": 37.9486656188965,
+        "depth": 14.6300001144409,
+        "source": "USGS"
+      },
+      {
+        "place": "76 km NNE of Cruz Bay, U.S. Virgin Islands",
+        "mag": 3.76,
+        "time": 1786953776680,
+        "lon": -64.4056,
+        "lat": 18.9161,
+        "depth": 14,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km NNE of Borrego Springs, CA",
+        "mag": 0.54,
+        "time": 1786953696670,
+        "lon": -116.347666666667,
+        "lat": 33.323,
+        "depth": 10.51,
+        "source": "USGS"
+      },
+      {
+        "place": "28 km SSW of Ocotillo Wells, CA",
+        "mag": 0.7,
+        "time": 1786953647330,
+        "lon": -116.244166666667,
+        "lat": 32.9118333333333,
+        "depth": 7.94,
+        "source": "USGS"
+      },
+      {
+        "place": "42 km WNW of Toyah, Texas",
+        "mag": 1.6,
+        "time": 1786953357424,
+        "lon": -104.168,
+        "lat": 31.52,
+        "depth": 4.1074,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km NW of The Geysers, CA",
+        "mag": 0.97,
+        "time": 1786952755930,
+        "lon": -122.792831420898,
+        "lat": 38.7993316650391,
+        "depth": 3.45000004768372,
+        "source": "USGS"
+      },
+      {
+        "place": "14 km NE of Fruita, Colorado",
+        "mag": 2,
+        "time": 1786952687769,
+        "lon": -108.6188,
+        "lat": 39.2582,
+        "depth": 1.264,
         "source": "USGS"
       }
     ],
@@ -822,225 +569,8 @@
       }
     ]
   },
-  "entities": [
-    {
-      "id": 1,
-      "name": "Strait of Hormuz Standoff : Three Vessels Attacked in 72 Hou",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260816T174500Z",
-      "source": "gulfnews.com"
-    },
-    {
-      "id": 2,
-      "name": "Una naviera china abre la  Ruta de la Seda  por el Ártico pa",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260817T060000Z",
-      "source": "heraldo.es"
-    },
-    {
-      "id": 3,
-      "name": "Ερυθρά Θάλασσα : Σταμάτησε πλήρως η λειτουργία του λιμανιού ",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260816T080000Z",
-      "source": "protothema.gr"
-    },
-    {
-      "id": 4,
-      "name": "Shipping Tribune",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260817T044500Z",
-      "source": "shippingtribune.com"
-    },
-    {
-      "id": 5,
-      "name": "Shipping Tribune",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260817T044500Z",
-      "source": "shippingtribune.com"
-    },
-    {
-      "id": 6,
-      "name": "Китайський НПЗ звинуватили у фінансуванні Ірану",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260816T094500Z",
-      "source": "news.bigmir.net"
-    },
-    {
-      "id": 7,
-      "name": "Ερυθρά Θάλασσα : Σταμάτησε πλήρως η λειτουργία του λιμανιού ",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260816T113000Z",
-      "source": "sofokleous10.gr"
-    },
-    {
-      "id": 8,
-      "name": "Israeli strikes kill 9 in Lebanon , tanker attacked in Hormu",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260816T081500Z",
-      "source": "bostonglobe.com"
-    },
-    {
-      "id": 9,
-      "name": "Comparing Clarkson ( CKNHF ) and The Competition",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260816T101500Z",
-      "source": "themarketsdaily.com"
-    },
-    {
-      "id": 10,
-      "name": "Iran Tells US :  Stop Indulging In Fantasies  ",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260817T040000Z",
-      "source": "marinelink.com"
-    }
-  ],
-  "events": [
-    {
-      "title": "Strait of Hormuz Standoff : Three Vessels Attacked in 72 Hours as Maritime Threat Level Stays Severe",
-      "url": "https://gulfnews.com/world/mena/strait-of-hormuz-standoff-three-vessels-attacked-in-72-hours-as-threat-stays-severe-1.500642826",
-      "domain": "gulfnews.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260816T174500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Una naviera china abre la  Ruta de la Seda  por el Ártico para esquivar los misiles de Oriente Medio",
-      "url": "https://www.heraldo.es/noticias/internacional/2026/08/17/una-naviera-china-abre-ruta-seda-por-artico-para-esquivar-los-misiles-oriente-medio-2045206.html",
-      "domain": "heraldo.es",
-      "language": "Spanish",
-      "tone": 0,
-      "seendate": "20260817T060000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Ερυθρά Θάλασσα : Σταμάτησε πλήρως η λειτουργία του λιμανιού Μόχα μετά από περισσότερα από 25 πλήγματα των Χούθι",
-      "url": "https://www.protothema.gr/world/article/1865445/eruthra-thalassa-stamatise-pliros-i-leitourgia-tou-limaniou-moha-meta-apo-perissotera-apo-25-pligmata-ton-houthi/",
-      "domain": "protothema.gr",
-      "language": "Greek",
-      "tone": 0,
-      "seendate": "20260816T080000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Shipping Tribune",
-      "url": "https://www.shippingtribune.com/news/shipping/Vizhinjam+port+prepares+for+historic+EXIM+launch+tomorrow",
-      "domain": "shippingtribune.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260817T044500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Shipping Tribune",
-      "url": "https://www.shippingtribune.com/index.php/news/shipping/Vizhinjam+port+prepares+for+historic+EXIM+launch+tomorrow",
-      "domain": "shippingtribune.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260817T044500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Китайський НПЗ звинуватили у фінансуванні Ірану",
-      "url": "https://news.bigmir.net/ua/world/10411744-kitajskij-npz-zvinuvatili-u-finansuvanni-iranu",
-      "domain": "news.bigmir.net",
-      "language": "Ukrainian",
-      "tone": 0,
-      "seendate": "20260816T094500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Ερυθρά Θάλασσα : Σταμάτησε πλήρως η λειτουργία του λιμανιού Μόχα μετά από περισσότερα από 25 πλήγματα των Χούθι",
-      "url": "https://sofokleous10.gr/2026/08/16/%CE%B5%CF%81%CF%85%CE%B8%CF%81%CE%AC-%CE%B8%CE%AC%CE%BB%CE%B1%CF%83%CF%83%CE%B1-%CF%83%CF%84%CE%B1%CE%BC%CE%AC%CF%84%CE%B7%CF%83%CE%B5-%CF%80%CE%BB%CE%AE%CF%81%CF%89%CF%82-%CE%B7-%CE%BB%CE%B5%CE%B9/",
-      "domain": "sofokleous10.gr",
-      "language": "Greek",
-      "tone": 0,
-      "seendate": "20260816T113000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Israeli strikes kill 9 in Lebanon , tanker attacked in Hormuz",
-      "url": "https://www.bostonglobe.com/2026/08/15/world/us-iran-war-israeli-strike-kills-7-in-lebanon-tanker-attacked-in-hormuz/",
-      "domain": "bostonglobe.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260816T081500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Comparing Clarkson ( CKNHF ) and The Competition",
-      "url": "https://www.themarketsdaily.com/2026/08/16/comparing-clarkson-cknhf-and-the-competition.html",
-      "domain": "themarketsdaily.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260816T101500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Iran Tells US :  Stop Indulging In Fantasies  ",
-      "url": "https://www.marinelink.com/news/iran-tells-us-stop-indulging-fantasies-542138",
-      "domain": "marinelink.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260817T040000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Port Cabo Rojo es finalista a Puerto del Año en los Seatrade Cruise Awards 2026 • Periódico Digital Centroamericano y del Caribe",
-      "url": "https://newsinamerica.com/pdcc/turismo/2026/port-cabo-rojo-es-finalista-a-puerto-del-ano-en-los-seatrade-cruise-awards-2026/",
-      "domain": "newsinamerica.com",
-      "language": "Spanish",
-      "tone": 0,
-      "seendate": "20260816T203000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices | The Asahi Shimbun : Breaking News , Japan News and Analysis",
-      "url": "https://www.asahi.com/ajw/articles/16811471",
-      "domain": "asahi.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260817T030000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Houthis Fire Six Missiles Into Marib Displacement Camps as Yemen War Risk Peaks",
-      "url": "https://jp.ibtimes.com/houthis-fire-six-missiles-maribs-displacement-camps-yemen-war-risk-peaks-103727",
-      "domain": "jp.ibtimes.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260816T161500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Romanian - Turkish Naval Ties Take Centre Stage as Turkish Warships Visit Constanta for Navy Day",
-      "url": "https://nineoclock.ro/romanian-turkish-naval-ties-take-centre-stage-as-turkish-warships-visit-constanta-for-navy-day/",
-      "domain": "nineoclock.ro",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260816T131500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Iran challenges US over Hormuz as war economic costs mount",
-      "url": "https://www.middle-east-online.com/en/iran-challenges-us-over-hormuz-war%E2%80%99s-economic-costs-mount",
-      "domain": "middle-east-online.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260816T084500Z",
-      "source": "GDELT"
-    }
-  ],
+  "entities": [],
+  "events": [],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
