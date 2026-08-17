@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-17T13:01:33.535313+00:00",
+    "generated": "2026-08-17T18:52:40.781679+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -36,6 +36,411 @@
     "gdelt_articles": [],
     "earthquakes": [
       {
+        "place": "2 km NNW of Diamond Ridge, Alaska",
+        "mag": 2.7,
+        "time": 1786991638989,
+        "lon": -151.585,
+        "lat": 59.699,
+        "depth": 63.4,
+        "source": "USGS"
+      },
+      {
+        "place": "20 km ESE of Little Lake, CA",
+        "mag": 1.13,
+        "time": 1786991246160,
+        "lon": -117.691,
+        "lat": 35.8993333333333,
+        "depth": 4.39,
+        "source": "USGS"
+      },
+      {
+        "place": "11 km NNW of Warner Springs, CA",
+        "mag": 0.85,
+        "time": 1786990982570,
+        "lon": -116.694833333333,
+        "lat": 33.372,
+        "depth": 11.63,
+        "source": "USGS"
+      },
+      {
+        "place": "24 km SSW of Westbrook, Texas",
+        "mag": 1.9,
+        "time": 1786990649897,
+        "lon": -101.092,
+        "lat": 32.14,
+        "depth": 2.4738,
+        "source": "USGS"
+      },
+      {
+        "place": "45 km NE of Holtville, CA",
+        "mag": 1.18,
+        "time": 1786990477620,
+        "lon": -114.9965,
+        "lat": 33.055,
+        "depth": -0.2,
+        "source": "USGS"
+      },
+      {
+        "place": "155 km N of Pototano, Indonesia",
+        "mag": 4.6,
+        "time": 1786990205545,
+        "lon": 117.2457,
+        "lat": -7.0242,
+        "depth": 496.552,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km WSW of Pinon Hills, CA",
+        "mag": 0.44,
+        "time": 1786990139570,
+        "lon": -117.749833333333,
+        "lat": 34.4085,
+        "depth": 8.42,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km SW of Half Moon Bay, CA",
+        "mag": 1.3,
+        "time": 1786990018830,
+        "lon": -122.462997436523,
+        "lat": 37.4348335266113,
+        "depth": 7.01000022888184,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NE of Orlando, Oklahoma",
+        "mag": 1.43,
+        "time": 1786988506039,
+        "lon": -97.32866667,
+        "lat": 36.18516667,
+        "depth": 7.84,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km NW of The Geysers, CA",
+        "mag": 0.96,
+        "time": 1786988136140,
+        "lon": -122.810333251953,
+        "lat": 38.824333190918,
+        "depth": 2.26999998092651,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km WSW of Anza, CA",
+        "mag": 0.58,
+        "time": 1786988065320,
+        "lon": -116.742666666667,
+        "lat": 33.5221666666667,
+        "depth": 4.31,
+        "source": "USGS"
+      },
+      {
+        "place": "11 km NNW of Anza, CA",
+        "mag": 0.75,
+        "time": 1786987525300,
+        "lon": -116.712166666667,
+        "lat": 33.6441666666667,
+        "depth": 12.8,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km SSE of Anza, CA",
+        "mag": 0.64,
+        "time": 1786987009920,
+        "lon": -116.619,
+        "lat": 33.4581666666667,
+        "depth": 8.49,
+        "source": "USGS"
+      },
+      {
+        "place": "18 km SW of Toms Place, CA",
+        "mag": 2.44,
+        "time": 1786986718210,
+        "lon": -118.832496643066,
+        "lat": 37.4478340148926,
+        "depth": 2.46000003814697,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km SSE of Idyllwild, CA",
+        "mag": 0.48,
+        "time": 1786985672530,
+        "lon": -116.692333333333,
+        "lat": 33.6826666666667,
+        "depth": 15.59,
+        "source": "USGS"
+      },
+      {
+        "place": "13 km W of Forsan, Texas",
+        "mag": 1,
+        "time": 1786985193456,
+        "lon": -101.513,
+        "lat": 32.105,
+        "depth": 2.203,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km SSE of Idyllwild, CA",
+        "mag": 0.65,
+        "time": 1786985105780,
+        "lon": -116.680666666667,
+        "lat": 33.6903333333333,
+        "depth": 17.44,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km SSE of Idyllwild, CA",
+        "mag": 0.63,
+        "time": 1786984706990,
+        "lon": -116.694166666667,
+        "lat": 33.6825,
+        "depth": 16.23,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km SW of Forsan, Texas",
+        "mag": 1.3,
+        "time": 1786984117714,
+        "lon": -101.395,
+        "lat": 32.09,
+        "depth": 9.7412,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km W of Tecate, B.C., MX",
+        "mag": 1.03,
+        "time": 1786983953240,
+        "lon": -116.715333333333,
+        "lat": 32.5776666666667,
+        "depth": 4.72,
+        "source": "USGS"
+      },
+      {
+        "place": "13 km NW of Pinnacles, CA",
+        "mag": 1.28,
+        "time": 1786983613650,
+        "lon": -121.23983001709,
+        "lat": 36.6238327026367,
+        "depth": 6.96000003814697,
+        "source": "USGS"
+      },
+      {
+        "place": "13 km NE of West Yellowstone, Montana",
+        "mag": 1.42,
+        "time": 1786983151060,
+        "lon": -110.9995,
+        "lat": 44.7605,
+        "depth": 9.94,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NE of Wardville, Oklahoma",
+        "mag": 1.26,
+        "time": 1786982926759,
+        "lon": -95.97416667,
+        "lat": 34.68966667,
+        "depth": 7.5,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km WNW of The Geysers, CA",
+        "mag": 0.76,
+        "time": 1786982740120,
+        "lon": -122.851333618164,
+        "lat": 38.8219985961914,
+        "depth": 2.5,
+        "source": "USGS"
+      },
+      {
+        "place": "53 km SSE of Whites City, New Mexico",
+        "mag": 1.9,
+        "time": 1786981566180,
+        "lon": -104.215,
+        "lat": 31.717,
+        "depth": 0,
+        "source": "USGS"
+      },
+      {
+        "place": "0 km WSW of Guánica, Puerto Rico",
+        "mag": 2.28,
+        "time": 1786981260740,
+        "lon": -66.9155,
+        "lat": 17.9688333333333,
+        "depth": 14.84,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km WNW of Lindsay, Texas",
+        "mag": 1.5,
+        "time": 1786980167812,
+        "lon": -103.605,
+        "lat": 31.401,
+        "depth": 1.806,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WNW of Wickett, Texas",
+        "mag": 2,
+        "time": 1786980042585,
+        "lon": -103.072,
+        "lat": 31.587,
+        "depth": 0,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Coso Junction, CA",
+        "mag": 0.73,
+        "time": 1786978244790,
+        "lon": -117.841833333333,
+        "lat": 36.0675,
+        "depth": 2.47,
+        "source": "USGS"
+      },
+      {
+        "place": "60 km W of Cantwell, Alaska",
+        "mag": 1.9,
+        "time": 1786976200431,
+        "lon": -150.164,
+        "lat": 63.408,
+        "depth": 118,
+        "source": "USGS"
+      },
+      {
+        "place": "14 km WSW of Toms Place, CA",
+        "mag": 1.55,
+        "time": 1786976124170,
+        "lon": -118.833831787109,
+        "lat": 37.5306663513184,
+        "depth": 4.01999998092651,
+        "source": "USGS"
+      },
+      {
+        "place": "13 km SW of Olancha, CA",
+        "mag": 1.77,
+        "time": 1786976016930,
+        "lon": -118.091166666667,
+        "lat": 36.1858333333333,
+        "depth": 4.11,
+        "source": "USGS"
+      },
+      {
+        "place": "59 km NNW of Ende, Indonesia",
+        "mag": 4.4,
+        "time": 1786975948370,
+        "lon": 121.3679,
+        "lat": -8.3871,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WNW of The Geysers, CA",
+        "mag": 0.71,
+        "time": 1786975777020,
+        "lon": -122.814666748047,
+        "lat": 38.8074989318848,
+        "depth": 3.47000002861023,
+        "source": "USGS"
+      },
+      {
+        "place": "32 km N of Ruteng, Indonesia",
+        "mag": 5,
+        "time": 1786975114474,
+        "lon": 120.4472,
+        "lat": -8.3182,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "16 km NE of Milford, Utah",
+        "mag": 1.09,
+        "time": 1786974093440,
+        "lon": -112.886166666667,
+        "lat": 38.5066666666667,
+        "depth": 1.7,
+        "source": "USGS"
+      },
+      {
+        "place": "118 km NW of Yakutat, Alaska",
+        "mag": 2.4,
+        "time": 1786973969349,
+        "lon": -141.21,
+        "lat": 60.313,
+        "depth": 8.3,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km N of The Geysers, CA",
+        "mag": 0.76,
+        "time": 1786972609410,
+        "lon": -122.757835388184,
+        "lat": 38.7933349609375,
+        "depth": 0.180000007152557,
+        "source": "USGS"
+      },
+      {
+        "place": "17 km ESE of Livengood, Alaska",
+        "mag": 1.1,
+        "time": 1786972494824,
+        "lon": -148.223,
+        "lat": 65.44,
+        "depth": 12.7,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NNW of Pinnacles, CA",
+        "mag": 1.89,
+        "time": 1786972423590,
+        "lon": -121.167663574219,
+        "lat": 36.583667755127,
+        "depth": 4.17000007629395,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km NW of The Geysers, CA",
+        "mag": 0.41,
+        "time": 1786972348480,
+        "lon": -122.768669128418,
+        "lat": 38.7878341674805,
+        "depth": 1.44000005722046,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km W of Cobb, CA",
+        "mag": 1.12,
+        "time": 1786972173670,
+        "lon": -122.765502929688,
+        "lat": 38.8231658935547,
+        "depth": 2.16000008583069,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WSW of Fuig, Puerto Rico",
+        "mag": 2.38,
+        "time": 1786971813720,
+        "lon": -66.976,
+        "lat": 17.9645,
+        "depth": 8.74,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km WNW of The Geysers, CA",
+        "mag": 0.28,
+        "time": 1786971626640,
+        "lon": -122.853332519531,
+        "lat": 38.8250007629395,
+        "depth": 2.42000007629395,
+        "source": "USGS"
+      },
+      {
+        "place": "44 km NNE of Ruteng, Indonesia",
+        "mag": 4.9,
+        "time": 1786971065572,
+        "lon": 120.6721,
+        "lat": -8.2712,
+        "depth": 30.025,
+        "source": "USGS"
+      },
+      {
         "place": "3 km SE of The Geysers, CA",
         "mag": 0.84,
         "time": 1786970596440,
@@ -54,12 +459,21 @@
         "source": "USGS"
       },
       {
-        "place": "75 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "mag": 5.3,
-        "time": 1786970284600,
-        "lon": 159.7259,
-        "lat": 52.9129,
-        "depth": 67.497,
+        "place": "68 km N of Ruteng, Indonesia",
+        "mag": 4.9,
+        "time": 1786970375566,
+        "lon": 120.3701,
+        "lat": -8.0024,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "72 km E of Petropavlovsk-Kamchatsky, Russia",
+        "mag": 5.8,
+        "time": 1786970283466,
+        "lon": 159.7106,
+        "lat": 53.024,
+        "depth": 54.741,
         "source": "USGS"
       },
       {
@@ -69,420 +483,6 @@
         "lon": -155.86083984375,
         "lat": 19.3519992828369,
         "depth": 6.30999994277954,
-        "source": "USGS"
-      },
-      {
-        "place": "89 km SW of Kaktovik, Alaska",
-        "mag": 3.6,
-        "time": 1786969100943,
-        "lon": -145.499,
-        "lat": 69.653,
-        "depth": 8.3,
-        "source": "USGS"
-      },
-      {
-        "place": "42 km NW of Toyah, Texas",
-        "mag": 2,
-        "time": 1786969070844,
-        "lon": -104.156,
-        "lat": 31.532,
-        "depth": 4.6292,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km ENE of Ridgecrest, CA",
-        "mag": 0.53,
-        "time": 1786968908200,
-        "lon": -117.571833333333,
-        "lat": 35.677,
-        "depth": 7.3,
-        "source": "USGS"
-      },
-      {
-        "place": "1 km E of Loma Linda, CA",
-        "mag": 1.07,
-        "time": 1786968808220,
-        "lon": -117.251166666667,
-        "lat": 34.0486666666667,
-        "depth": 16.18,
-        "source": "USGS"
-      },
-      {
-        "place": "24 km SE of Balmorhea, Texas",
-        "mag": 1.6,
-        "time": 1786968724904,
-        "lon": -103.58,
-        "lat": 30.82,
-        "depth": 0,
-        "source": "USGS"
-      },
-      {
-        "place": "41 km WNW of Toyah, Texas",
-        "mag": 1.8,
-        "time": 1786968700616,
-        "lon": -104.16,
-        "lat": 31.524,
-        "depth": 3.9548,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km S of Lompoc, CA",
-        "mag": 2.54,
-        "time": 1786968503740,
-        "lon": -120.479333333333,
-        "lat": 34.5406666666667,
-        "depth": 4.59,
-        "source": "USGS"
-      },
-      {
-        "place": "40 km NW of Toyah, Texas",
-        "mag": 1.7,
-        "time": 1786967696939,
-        "lon": -104.147,
-        "lat": 31.524,
-        "depth": 5.0551,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km NW of The Geysers, CA",
-        "mag": 0.83,
-        "time": 1786967534130,
-        "lon": -122.804664611816,
-        "lat": 38.8219985961914,
-        "depth": 3.11999988555908,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km NW of The Geysers, CA",
-        "mag": 1.54,
-        "time": 1786967518500,
-        "lon": -122.804168701172,
-        "lat": 38.8223342895508,
-        "depth": 3.13000011444092,
-        "source": "USGS"
-      },
-      {
-        "place": "23 km SSE of Tecate, B.C., MX",
-        "mag": 1.37,
-        "time": 1786966583650,
-        "lon": -116.538833333333,
-        "lat": 32.3786666666667,
-        "depth": 16.99,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km WSW of Anza, CA",
-        "mag": 0.32,
-        "time": 1786965895390,
-        "lon": -116.7315,
-        "lat": 33.5325,
-        "depth": 2.91,
-        "source": "USGS"
-      },
-      {
-        "place": "41 km NW of Toyah, Texas",
-        "mag": 1.8,
-        "time": 1786965724720,
-        "lon": -104.153,
-        "lat": 31.524,
-        "depth": 4.0242,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km NNW of Pinnacles, CA",
-        "mag": 2.13,
-        "time": 1786965078000,
-        "lon": -121.159164428711,
-        "lat": 36.5606651306152,
-        "depth": 2.20000004768372,
-        "source": "USGS"
-      },
-      {
-        "place": "28 km SW of Kandrian, Papua New Guinea",
-        "mag": 5.1,
-        "time": 1786964423022,
-        "lon": 149.3577,
-        "lat": -6.3769,
-        "depth": 35,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km S of Brawley, CA",
-        "mag": 2.14,
-        "time": 1786963854870,
-        "lon": -115.529833333333,
-        "lat": 32.9476666666667,
-        "depth": 9.55,
-        "source": "USGS"
-      },
-      {
-        "place": "25 km SE of Pāhala, Hawaii",
-        "mag": 1.72,
-        "time": 1786963825820,
-        "lon": -155.33366394043,
-        "lat": 19.0141658782959,
-        "depth": 24.8500003814697,
-        "source": "USGS"
-      },
-      {
-        "place": "75 km N of Ruteng, Indonesia",
-        "mag": 5.4,
-        "time": 1786963489886,
-        "lon": 120.4324,
-        "lat": -7.9289,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "81 km N of Ruteng, Indonesia",
-        "mag": 5.2,
-        "time": 1786963361971,
-        "lon": 120.5019,
-        "lat": -7.8762,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km NNW of Hollister, CA",
-        "mag": 1.28,
-        "time": 1786962893900,
-        "lon": -121.430999755859,
-        "lat": 36.9411659240723,
-        "depth": 7.46999979019165,
-        "source": "USGS"
-      },
-      {
-        "place": "22 km NE of Pine Valley, CA",
-        "mag": 0.78,
-        "time": 1786962131240,
-        "lon": -116.335166666667,
-        "lat": 32.9386666666667,
-        "depth": 8.13,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km NNW of Fontana, CA",
-        "mag": 0.57,
-        "time": 1786961750460,
-        "lon": -117.477833333333,
-        "lat": 34.1286666666667,
-        "depth": 4.51,
-        "source": "USGS"
-      },
-      {
-        "place": "15 km NE of Borrego Springs, CA",
-        "mag": 0.34,
-        "time": 1786961586820,
-        "lon": -116.252833333333,
-        "lat": 33.349,
-        "depth": 10.57,
-        "source": "USGS"
-      },
-      {
-        "place": "28 km SE of Lindsay, Texas",
-        "mag": 1.6,
-        "time": 1786961131593,
-        "lon": -103.351,
-        "lat": 31.169,
-        "depth": 6.0453,
-        "source": "USGS"
-      },
-      {
-        "place": "39 km NW of Toyah, Texas",
-        "mag": 2.2,
-        "time": 1786960574637,
-        "lon": -104.134,
-        "lat": 31.513,
-        "depth": 6.2383,
-        "source": "USGS"
-      },
-      {
-        "place": "41 km NW of Toyah, Texas",
-        "mag": 2.2,
-        "time": 1786960574602,
-        "lon": -104.155,
-        "lat": 31.524,
-        "depth": 4.1568,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km S of Lompoc, CA",
-        "mag": 2.64,
-        "time": 1786959766960,
-        "lon": -120.470833333333,
-        "lat": 34.5378333333333,
-        "depth": 3.56,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km ESE of Valle Vista, CA",
-        "mag": 0.54,
-        "time": 1786959748660,
-        "lon": -116.8255,
-        "lat": 33.7243333333333,
-        "depth": 14.52,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km NE of Wardville, Oklahoma",
-        "mag": 1.21,
-        "time": 1786959199109,
-        "lon": -95.982,
-        "lat": 34.685,
-        "depth": 16,
-        "source": "USGS"
-      },
-      {
-        "place": "55 km W of Anchor Point, Alaska",
-        "mag": 2.7,
-        "time": 1786958635859,
-        "lon": -152.822,
-        "lat": 59.828,
-        "depth": 102.6,
-        "source": "USGS"
-      },
-      {
-        "place": "52 km NNW of Ende, Indonesia",
-        "mag": 4.8,
-        "time": 1786958165268,
-        "lon": 121.5192,
-        "lat": -8.3911,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km N of The Geysers, CA",
-        "mag": 0.45,
-        "time": 1786957736470,
-        "lon": -122.758499145508,
-        "lat": 38.7939987182617,
-        "depth": 0.959999978542328,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km WNW of Cobb, CA",
-        "mag": 1.02,
-        "time": 1786956235820,
-        "lon": -122.790168762207,
-        "lat": 38.8371658325195,
-        "depth": 1.89999997615814,
-        "source": "USGS"
-      },
-      {
-        "place": "south of the Fiji Islands",
-        "mag": 4.4,
-        "time": 1786955938769,
-        "lon": -179.6951,
-        "lat": -23.9232,
-        "depth": 516.333,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km S of Lompoc, CA",
-        "mag": 1.8,
-        "time": 1786955886350,
-        "lon": -120.469333333333,
-        "lat": 34.537,
-        "depth": 3.9,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km SSE of Julian, CA",
-        "mag": 0.89,
-        "time": 1786955659790,
-        "lon": -116.582333333333,
-        "lat": 33.0368333333333,
-        "depth": 12.83,
-        "source": "USGS"
-      },
-      {
-        "place": "27 km SSW of Ocotillo Wells, CA",
-        "mag": 1.72434455940354,
-        "time": 1786955231510,
-        "lon": -116.255500793457,
-        "lat": 32.9193344116211,
-        "depth": 4.90999984741211,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km SE of Concord, CA",
-        "mag": 1.12,
-        "time": 1786954928900,
-        "lon": -121.998832702637,
-        "lat": 37.9566650390625,
-        "depth": 15.8000001907349,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km NE of Wardville, Oklahoma",
-        "mag": 1.31,
-        "time": 1786954833060,
-        "lon": -95.9915,
-        "lat": 34.68383333,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km SE of Concord, CA",
-        "mag": 2.61,
-        "time": 1786954721880,
-        "lon": -121.996170043945,
-        "lat": 37.9486656188965,
-        "depth": 14.6300001144409,
-        "source": "USGS"
-      },
-      {
-        "place": "76 km NNE of Cruz Bay, U.S. Virgin Islands",
-        "mag": 3.76,
-        "time": 1786953776680,
-        "lon": -64.4056,
-        "lat": 18.9161,
-        "depth": 14,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km NNE of Borrego Springs, CA",
-        "mag": 0.54,
-        "time": 1786953696670,
-        "lon": -116.347666666667,
-        "lat": 33.323,
-        "depth": 10.51,
-        "source": "USGS"
-      },
-      {
-        "place": "28 km SSW of Ocotillo Wells, CA",
-        "mag": 0.7,
-        "time": 1786953647330,
-        "lon": -116.244166666667,
-        "lat": 32.9118333333333,
-        "depth": 7.94,
-        "source": "USGS"
-      },
-      {
-        "place": "42 km WNW of Toyah, Texas",
-        "mag": 1.6,
-        "time": 1786953357424,
-        "lon": -104.168,
-        "lat": 31.52,
-        "depth": 4.1074,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km NW of The Geysers, CA",
-        "mag": 0.97,
-        "time": 1786952755930,
-        "lon": -122.792831420898,
-        "lat": 38.7993316650391,
-        "depth": 3.45000004768372,
-        "source": "USGS"
-      },
-      {
-        "place": "14 km NE of Fruita, Colorado",
-        "mag": 2,
-        "time": 1786952687769,
-        "lon": -108.6188,
-        "lat": 39.2582,
-        "depth": 1.264,
         "source": "USGS"
       }
     ],
