@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-18T01:45:36.740492+00:00",
+    "generated": "2026-08-18T06:59:21.796895+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -33,456 +33,619 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
+    "gdelt_articles": [
+      {
+        "title": "BUQUES ÁRTICO | Se dispara el número de buques que navegan por el Ártico debido al derretimiento causado por el cambio climático",
+        "url": "https://www.laopiniondemurcia.es/medio-ambiente/2026/08/17/dispara-numero-buques-navegan-artico-133422610.html",
+        "domain": "laopiniondemurcia.es",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260817T124500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "BUQUES ÁRTICO | Se dispara el número de buques que navegan por el Ártico debido al derretimiento causado por el cambio climático",
+        "url": "https://www.laopiniondemalaga.es/medio-ambiente/2026/08/17/dispara-numero-buques-navegan-artico-133422615.html",
+        "domain": "laopiniondemalaga.es",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260817T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Houthi attacks on shipping return to Red Sea as multiple seafarers killed",
+        "url": "https://defenceweb.co.za/sea/sea-sea/houthi-attacks-on-shipping-return-to-red-sea-as-multiple-seafarers-killed/",
+        "domain": "defenceweb.co.za",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T104500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Walton Royal Navy officer leads ship into Harwich port | Clacton and Frinton Gazette",
+        "url": "https://www.clactonandfrintongazette.co.uk/news/26471856.walton-royal-navy-officer-leads-ship-harwich-port/",
+        "domain": "clactonandfrintongazette.co.uk",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T160000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Port of Tyne , Ambipar target pellet spill clean - up",
+        "url": "https://www.porttechnology.org/news/incident-reports/port-of-tyne-ambipar-target-pellet-spill-clean-up/",
+        "domain": "porttechnology.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran seizes UAE - owned tanker near Qeshm island",
+        "url": "https://www.albawaba.com/news/iran-seizes-uae-owned-tanker-near-qeshm-1635246",
+        "domain": "albawaba.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T183000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Bloomberg : Un petrolero con bandera griega es atacado en el mar Negro",
+        "url": "https://actualidad.rt.com/actualidad/622810-petrolero-bandera-griega-atacado-mar-negro",
+        "domain": "actualidad.rt.com",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260818T043000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Hormuz Dilemma : It neither fully open nor closed which is driving economic uncertainty",
+        "url": "https://www.moneycontrol.com/news/opinion/hormuz-dilemma-it-s-neither-fully-open-nor-closed-which-is-driving-economic-uncertainty-14008050.html",
+        "domain": "moneycontrol.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T024500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ansar Allah Announces Attacks on Saudi Ship in Red Sea , Saudi - Backed Forces in Yemen Marib Province",
+        "url": "https://news.antiwar.com/2026/08/17/ansar-allah-announces-attacks-on-saudi-ship-in-red-sea-saudi-backed-forces-in-yemens-marib-province/",
+        "domain": "news.antiwar.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T231500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Red Sea blockade threat : Why India trade faces a wider supply - chain shock",
+        "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/red-sea-blockade-threat-why-indias-trade-faces-a-wider-supply-chain-shock/articleshow/133312145.cms",
+        "domain": "economictimes.indiatimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T054500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran seizes UAE - owned tanker near Qeshm island",
+        "url": "https://www.albawaba.net/news/iran-seizes-uae-owned-tanker-near-qeshm-1635246",
+        "domain": "albawaba.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T194500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Φοβού τα drones : Ρωσικά τάνκερ μοιάζουν με εικόνες από το « Mad Max » ",
+        "url": "https://www.protagon.gr/epikairotita/fovou-ta-drones-rwsika-tanker-moiazoun-me-eikones-apo-to-mad-max-44343421747",
+        "domain": "protagon.gr",
+        "language": "Greek",
+        "tone": 0,
+        "seendate": "20260817T071500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Mazatlán recibe cuarto crucero de agosto con más de 3 mil pasajeros",
+        "url": "https://almomento.mx/mazatlan-recibe-cuarto-crucero-de-agosto-con-mas-de-3-mil-pasajeros/",
+        "domain": "almomento.mx",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260817T213000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "X - Press Feeders Partners With Portchain to Cut Fuel Burn Through Better Berth Planning",
+        "url": "https://shipandbunker.com/news/world/980518-x-press-feeders-partners-with-portchain-to-cut-fuel-burn-through-better-berth-planning",
+        "domain": "shipandbunker.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260818T063000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Україна знищує логістику Росії на морі - Снєгирьов про наслідки для економіки РФ",
+        "url": "https://news.telegraf.com.ua/ukr/blogi-mnenija/5947926-ukrainska-kampaniya-paralizuvala-rosiysku-morsku-logistiku-rosiya-vtrachae-milyardi",
+        "domain": "news.telegraf.com.ua",
+        "language": "Ukrainian",
+        "tone": 0,
+        "seendate": "20260817T073000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Portchain and X - Press Feeders Partner to Enhance Feeder Market Efficiency and Sustainability",
+        "url": "https://www.hellenicshippingnews.com/portchain-and-x-press-feeders-partner-to-enhance-feeder-market-efficiency-and-sustainability/",
+        "domain": "hellenicshippingnews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T213000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trump Threatens to Bomb US Ally Oman as Iran Deadline Expires While Kushner Presses Netanyahu on Gaza Plan",
+        "url": "https://www.ibtimes.com.au/trump-threatens-oman-iran-peace-talks-expire-1874222",
+        "domain": "ibtimes.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T181500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Houthis Kill Four in Overnight Mokha Strike as Marib Missile Barrage Escalates Yemen War Risk",
+        "url": "https://www.hngn.com/articles/272756/20260816/yemens-civil-war-reignites-houthi-forces-escalate-attacks-government-positions-taiz.htm",
+        "domain": "hngn.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T201500Z",
+        "source": "GDELT"
+      }
+    ],
     "earthquakes": [
       {
-        "place": "58 km S of Whites City, New Mexico",
-        "mag": 1.5,
-        "time": 1787016998682,
-        "lon": -104.442,
-        "lat": 31.653,
-        "depth": 4.4322,
+        "place": "8 km SW of Anza, CA",
+        "mag": 0.55,
+        "time": 1787035959780,
+        "lon": -116.7395,
+        "lat": 33.5123333333333,
+        "depth": 3.82,
         "source": "USGS"
       },
       {
-        "place": "5 km NNE of Borrego Springs, CA",
-        "mag": 0.54,
-        "time": 1787016208610,
-        "lon": -116.3605,
-        "lat": 33.2991666666667,
-        "depth": 9.96,
+        "place": "6 km WSW of Anza, CA",
+        "mag": 0.94,
+        "time": 1787035779350,
+        "lon": -116.732,
+        "lat": 33.527,
+        "depth": 2.76,
         "source": "USGS"
       },
       {
-        "place": "8 km SE of San Pedro, CA",
+        "place": "17 km WSW of Johannesburg, CA",
+        "mag": 0.86,
+        "time": 1787035745120,
+        "lon": -117.812,
+        "lat": 35.3203333333333,
+        "depth": 7.2,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km ESE of The Geysers, CA",
         "mag": 2.04,
-        "time": 1787015752140,
-        "lon": -118.2265,
-        "lat": 33.6835,
-        "depth": 5.56,
+        "time": 1787035632960,
+        "lon": -122.730834960938,
+        "lat": 38.764331817627,
+        "depth": 1.46000003814697,
         "source": "USGS"
       },
       {
-        "place": "south of the Fiji Islands",
-        "mag": 4.8,
-        "time": 1787015403872,
-        "lon": -179.0793,
-        "lat": -22.0411,
-        "depth": 576.355,
+        "place": "6 km NNW of Redwood Valley, CA",
+        "mag": 1.47,
+        "time": 1787035503150,
+        "lon": -123.233497619629,
+        "lat": 39.3133316040039,
+        "depth": 4.23999977111816,
         "source": "USGS"
       },
       {
-        "place": "9 km S of Volcano, Hawaii",
-        "mag": 1.77,
-        "time": 1787013571360,
-        "lon": -155.243835449219,
-        "lat": 19.3600006103516,
-        "depth": 28.7099990844727,
+        "place": "46 km NW of Toyah, Texas",
+        "mag": 1.7,
+        "time": 1787034538012,
+        "lon": -104.194,
+        "lat": 31.555,
+        "depth": 4.1547,
         "source": "USGS"
       },
       {
-        "place": "7 km W of Cobb, CA",
-        "mag": 1.06,
-        "time": 1787013520420,
-        "lon": -122.799835205078,
+        "place": "8 km S of Volcano, Hawaii",
+        "mag": 1.81,
+        "time": 1787034317540,
+        "lon": -155.25016784668,
+        "lat": 19.3641662597656,
+        "depth": 29.8700008392334,
+        "source": "USGS"
+      },
+      {
+        "place": "17 km WSW of Johannesburg, CA",
+        "mag": 1.02,
+        "time": 1787033788950,
+        "lon": -117.8135,
+        "lat": 35.3271666666667,
+        "depth": 7.44,
+        "source": "USGS"
+      },
+      {
+        "place": "34 km SW of Karluk, Alaska",
+        "mag": 1.7,
+        "time": 1787033551156,
+        "lon": -154.874,
+        "lat": 57.356,
+        "depth": 57.5,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km NNE of Ocotillo Wells, CA",
+        "mag": 1.05,
+        "time": 1787033375330,
+        "lon": -116.115666666667,
+        "lat": 33.1656666666667,
+        "depth": 9.6,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km W of Honomu, Hawaii",
+        "mag": 1.96,
+        "time": 1787033303890,
+        "lon": -155.168670654297,
+        "lat": 19.8735008239746,
+        "depth": 40.060001373291,
+        "source": "USGS"
+      },
+      {
+        "place": "154 km SSE of Teluk Dalam, Indonesia",
+        "mag": 5.6,
+        "time": 1787032940229,
+        "lon": 98.416,
+        "lat": -0.6858,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km ESE of Wrightwood, CA",
+        "mag": 0.86,
+        "time": 1787032590520,
+        "lon": -117.6015,
+        "lat": 34.3435,
+        "depth": 9.73,
+        "source": "USGS"
+      },
+      {
+        "place": "19 km SSW of Ocotillo Wells, CA",
+        "mag": 1.35,
+        "time": 1787031321650,
+        "lon": -116.236333333333,
+        "lat": 32.9978333333333,
+        "depth": 7.61,
+        "source": "USGS"
+      },
+      {
+        "place": "73 km ESE of Ugashik, Alaska",
+        "mag": 1.6,
+        "time": 1787031218636,
+        "lon": -156.329,
+        "lat": 57.191,
+        "depth": 86.8,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WNW of Cobb, CA",
+        "mag": 1.28,
+        "time": 1787031007260,
+        "lon": -122.784164428711,
+        "lat": 38.8359985351562,
+        "depth": 1.26999998092651,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km E of Ojai, CA",
+        "mag": 1.16,
+        "time": 1787030364640,
+        "lon": -119.166,
+        "lat": 34.4481666666667,
+        "depth": 3.42,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WSW of Anza, CA",
+        "mag": 0.13,
+        "time": 1787029565970,
+        "lon": -116.729,
+        "lat": 33.5331666666667,
+        "depth": 2.72,
+        "source": "USGS"
+      },
+      {
+        "place": "95 km SW of Puerto Madero, Mexico",
+        "mag": 5.7,
+        "time": 1787029352244,
+        "lon": -93.1475,
+        "lat": 14.2298,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km ENE of North Tustin, CA",
+        "mag": 1.31,
+        "time": 1787029292990,
+        "lon": -117.712166666667,
+        "lat": 33.8028333333333,
+        "depth": 7.53,
+        "source": "USGS"
+      },
+      {
+        "place": "21 km W of Volcano, Hawaii",
+        "mag": 2.25,
+        "time": 1787028270400,
+        "lon": -155.434494018555,
+        "lat": 19.4181671142578,
+        "depth": 1.0900000333786,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km SSW of Pāhala, Hawaii",
+        "mag": 1.72,
+        "time": 1787026370640,
+        "lon": -155.496673583984,
+        "lat": 19.1284999847412,
+        "depth": 29.4099998474121,
+        "source": "USGS"
+      },
+      {
+        "place": "47 km WNW of Nanwalek, Alaska",
+        "mag": 1.8,
+        "time": 1787026354532,
+        "lon": -152.718,
+        "lat": 59.481,
+        "depth": 79.7,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km S of Idyllwild, CA",
+        "mag": 0.76,
+        "time": 1787026170580,
+        "lon": -116.725833333333,
+        "lat": 33.6466666666667,
+        "depth": 12.13,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km S of Idyllwild, CA",
+        "mag": 0.54,
+        "time": 1787025973190,
+        "lon": -116.723,
+        "lat": 33.649,
+        "depth": 12.5,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km NW of The Geysers, CA",
+        "mag": 1.21,
+        "time": 1787025305280,
+        "lon": -122.820335388184,
         "lat": 38.8283348083496,
-        "depth": 1.76999998092651,
+        "depth": 1.63999998569489,
         "source": "USGS"
       },
       {
-        "place": "12 km N of Borrego Springs, CA",
-        "mag": 0.97,
-        "time": 1787013459150,
-        "lon": -116.383333333333,
-        "lat": 33.3641666666667,
-        "depth": 11.1,
+        "place": "6 km NNW of Pinnacles, CA",
+        "mag": 1.12,
+        "time": 1787024451550,
+        "lon": -121.172668457031,
+        "lat": 36.5848350524902,
+        "depth": 5.6100001335144,
         "source": "USGS"
       },
       {
-        "place": "9 km S of Volcano, Hawaii",
-        "mag": 1.59,
-        "time": 1787013452470,
-        "lon": -155.240833333333,
-        "lat": 19.3543333333333,
-        "depth": 29.16,
+        "place": "15 km WSW of Pueblitos, New Mexico",
+        "mag": 3.1,
+        "time": 1787024413636,
+        "lon": -106.9376,
+        "lat": 34.5679,
+        "depth": 5,
         "source": "USGS"
       },
       {
-        "place": "38 km N of Chickaloon, Alaska",
+        "place": "6 km SSW of Volcano, Hawaii",
+        "mag": 1.93,
+        "time": 1787024136020,
+        "lon": -155.252502441406,
+        "lat": 19.3853340148926,
+        "depth": 29.4699993133545,
+        "source": "USGS"
+      },
+      {
+        "place": "54 km S of Whites City, New Mexico",
+        "mag": 2.2,
+        "time": 1787024024008,
+        "lon": -104.424,
+        "lat": 31.683,
+        "depth": 6.9202,
+        "source": "USGS"
+      },
+      {
+        "place": "48 km ENE of Miches, Dominican Republic",
+        "mag": 2.8,
+        "time": 1787023988783,
+        "lon": -68.6594,
+        "lat": 19.2141,
+        "depth": 35,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WSW of Four Mile Road, Alaska",
+        "mag": 1,
+        "time": 1787023827852,
+        "lon": -149.244,
+        "lat": 64.585,
+        "depth": 5,
+        "source": "USGS"
+      },
+      {
+        "place": "57 km S of Whites City, New Mexico",
+        "mag": 1.8,
+        "time": 1787023678568,
+        "lon": -104.434,
+        "lat": 31.657,
+        "depth": 3.1578,
+        "source": "USGS"
+      },
+      {
+        "place": "56 km S of Whites City, New Mexico",
+        "mag": 2.3,
+        "time": 1787023629623,
+        "lon": -104.437,
+        "lat": 31.666,
+        "depth": 5.9193,
+        "source": "USGS"
+      },
+      {
+        "place": "57 km S of Whites City, New Mexico",
         "mag": 2.1,
-        "time": 1787013188697,
-        "lon": -148.586,
-        "lat": 62.139,
-        "depth": 27.1,
+        "time": 1787023455434,
+        "lon": -104.438,
+        "lat": 31.661,
+        "depth": 4.0242,
+        "source": "USGS"
+      },
+      {
+        "place": "57 km S of Whites City, New Mexico",
+        "mag": 2.1,
+        "time": 1787023046147,
+        "lon": -104.439,
+        "lat": 31.662,
+        "depth": 4.4371,
         "source": "USGS"
       },
       {
         "place": "57 km S of Whites City, New Mexico",
         "mag": 1.6,
-        "time": 1787012587136,
-        "lon": -104.337,
-        "lat": 31.662,
-        "depth": 5.5132,
+        "time": 1787022818487,
+        "lon": -104.437,
+        "lat": 31.657,
+        "depth": 4.503,
         "source": "USGS"
       },
       {
-        "place": "6 km SE of Loma Linda, CA",
-        "mag": 0.9,
-        "time": 1787012440170,
-        "lon": -117.216,
-        "lat": 34.0036666666667,
-        "depth": 5.22,
+        "place": "16 km NNE of Ridgecrest, CA",
+        "mag": 0.42,
+        "time": 1787022736990,
+        "lon": -117.592166666667,
+        "lat": 35.7515,
+        "depth": 10.24,
         "source": "USGS"
       },
       {
-        "place": "6 km SSW of Redlands, CA",
-        "mag": 1.51,
-        "time": 1787012139890,
-        "lon": -117.207,
-        "lat": 34.0048333333333,
-        "depth": 13.46,
+        "place": "8 km NNW of Borrego Springs, CA",
+        "mag": 1.38,
+        "time": 1787022634510,
+        "lon": -116.395666666667,
+        "lat": 33.3233333333333,
+        "depth": 8.2,
         "source": "USGS"
       },
       {
-        "place": "6 km SSW of Redlands, CA",
-        "mag": 1.57,
-        "time": 1787011988430,
-        "lon": -117.202333333333,
-        "lat": 34.0083333333333,
-        "depth": 13.41,
+        "place": "28 km NNW of Pāhala, Hawaii",
+        "mag": 2.31,
+        "time": 1787021408960,
+        "lon": -155.595001220703,
+        "lat": 19.4309997558594,
+        "depth": 40.5099983215332,
         "source": "USGS"
       },
       {
-        "place": "4 km SW of Volcano, Hawaii",
-        "mag": 1.75,
-        "time": 1787011745030,
-        "lon": -155.272506713867,
-        "lat": 19.4171657562256,
-        "depth": 0.589999973773956,
+        "place": "11 km S of Volcano, Hawaii",
+        "mag": 1.71,
+        "time": 1787021238060,
+        "lon": -155.240997314453,
+        "lat": 19.343334197998,
+        "depth": 29.8799991607666,
         "source": "USGS"
       },
       {
-        "place": "1 km E of The Geysers, CA",
-        "mag": 1.29,
-        "time": 1787011225850,
-        "lon": -122.744834899902,
-        "lat": 38.7756652832031,
-        "depth": 2.02999997138977,
+        "place": "46 km NNW of Ruteng, Indonesia",
+        "mag": 4.8,
+        "time": 1787020958032,
+        "lon": 120.2573,
+        "lat": -8.2434,
+        "depth": 34.063,
         "source": "USGS"
       },
       {
-        "place": "9 km WNW of Templeton, CA",
+        "place": "99 km W of Anaktuvuk Pass, Alaska",
+        "mag": 2.8,
+        "time": 1787020300558,
+        "lon": -154.122,
+        "lat": 68.044,
+        "depth": 0.4,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km WNW of Farmers Loop, Alaska",
+        "mag": 0.7,
+        "time": 1787019613607,
+        "lon": -147.759,
+        "lat": 64.916,
+        "depth": 5,
+        "source": "USGS"
+      },
+      {
+        "place": "44 km NW of Toyah, Texas",
+        "mag": 1.5,
+        "time": 1787019606262,
+        "lon": -104.107,
+        "lat": 31.616,
+        "depth": 4.8124,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WNW of The Geysers, CA",
         "mag": 1.08,
-        "time": 1787010733650,
-        "lon": -120.796669006348,
-        "lat": 35.5771675109863,
-        "depth": 4.40999984741211,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km WNW of Templeton, CA",
-        "mag": 1.57,
-        "time": 1787010432120,
-        "lon": -120.794830322266,
-        "lat": 35.5716667175293,
-        "depth": 4.69000005722046,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km SE of Chickasha, Oklahoma",
-        "mag": 1.82,
-        "time": 1787009589769,
-        "lon": -97.87766667,
-        "lat": 35.01916667,
-        "depth": 9.65,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km NNW of Black Point-Green Point, CA",
-        "mag": 1.84,
-        "time": 1787009474680,
-        "lon": -122.539833068848,
-        "lat": 38.1561660766602,
-        "depth": 4.40999984741211,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km NNW of Boron, CA",
-        "mag": 1.44,
-        "time": 1787009441550,
-        "lon": -117.671166666667,
-        "lat": 35.04,
-        "depth": -0.73,
+        "time": 1787019400130,
+        "lon": -122.819000244141,
+        "lat": 38.8001670837402,
+        "depth": 2.75999999046326,
         "source": "USGS"
       },
       {
         "place": "9 km S of Volcano, Hawaii",
-        "mag": 2.08,
-        "time": 1787009054640,
-        "lon": -155.242492675781,
-        "lat": 19.3565006256104,
-        "depth": 31.1599998474121,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km NNW of Lake Henshaw, CA",
-        "mag": 0.92,
-        "time": 1787008579610,
-        "lon": -116.783666666667,
-        "lat": 33.292,
-        "depth": 14.33,
-        "source": "USGS"
-      },
-      {
-        "place": "28 km SSE of Halibut Cove, Alaska",
-        "mag": 2,
-        "time": 1787007665773,
-        "lon": -150.949,
-        "lat": 59.381,
-        "depth": 34,
-        "source": "USGS"
-      },
-      {
-        "place": "59 km ENE of Colonia, Micronesia",
-        "mag": 5.3,
-        "time": 1787007191009,
-        "lon": 138.6056,
-        "lat": 9.7621,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "118 km SE of Akutan, Alaska",
-        "mag": 2.5,
-        "time": 1787006382493,
-        "lon": -164.443,
-        "lat": 53.423,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km ESE of Palomar Observatory, CA",
-        "mag": 1.29,
-        "time": 1787006297800,
-        "lon": -116.7895,
-        "lat": 33.3313333333333,
-        "depth": 17.28,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km ESE of Palomar Observatory, CA",
-        "mag": 0.52,
-        "time": 1787006133210,
-        "lon": -116.7855,
-        "lat": 33.3321666666667,
-        "depth": 17.71,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km WSW of Venetie, Alaska",
-        "mag": 3,
-        "time": 1787006116843,
-        "lon": -146.648,
-        "lat": 66.967,
-        "depth": 13,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km W of Cobb, CA",
-        "mag": 1.54,
-        "time": 1787005785580,
-        "lon": -122.800003051758,
-        "lat": 38.8271675109863,
-        "depth": 1.72000002861023,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km ESE of Palomar Observatory, CA",
-        "mag": 0.93,
-        "time": 1787005639560,
-        "lon": -116.7845,
-        "lat": 33.3321666666667,
-        "depth": 17.47,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km W of Cobb, CA",
-        "mag": 0.47,
-        "time": 1787005304180,
-        "lon": -122.798667907715,
-        "lat": 38.8325004577637,
-        "depth": 2.25999999046326,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km ESE of Palomar Observatory, CA",
-        "mag": 2.42,
-        "time": 1787004968300,
-        "lon": -116.798666666667,
-        "lat": 33.3253333333333,
-        "depth": 16.02,
-        "source": "USGS"
-      },
-      {
-        "place": "49 km W of Petrolia, CA",
-        "mag": 3.17,
-        "time": 1787004790050,
-        "lon": -124.85717010498,
-        "lat": 40.3349990844727,
-        "depth": 14.6700000762939,
-        "source": "USGS"
-      },
-      {
-        "place": "73 km SE of Adak, Alaska",
-        "mag": 2.2,
-        "time": 1787004116146,
-        "lon": -176.031,
-        "lat": 51.334,
-        "depth": 32,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km S of Volcano, Hawaii",
-        "mag": 1.98,
-        "time": 1787004045410,
-        "lon": -155.243667602539,
-        "lat": 19.3554992675781,
-        "depth": 29.2800006866455,
-        "source": "USGS"
-      },
-      {
-        "place": "Kuril Islands",
-        "mag": 5.1,
-        "time": 1787002595887,
-        "lon": 151.3834,
-        "lat": 46.4341,
-        "depth": 90.992,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km SW of Hulbert, Oklahoma",
-        "mag": 1.4,
-        "time": 1787002055270,
-        "lon": -95.17166667,
-        "lat": 35.91016667,
-        "depth": 0,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km NNE of Lake Henshaw, CA",
-        "mag": 0.76,
-        "time": 1787001540770,
-        "lon": -116.741333333333,
-        "lat": 33.2895,
-        "depth": 12.8,
+        "mag": 1.23,
+        "time": 1787019071830,
+        "lon": -155.244833333333,
+        "lat": 19.3541666666667,
+        "depth": 27.96,
         "source": "USGS"
       },
       {
         "place": "8 km WNW of Cobb, CA",
-        "mag": 0.23,
-        "time": 1787001351660,
-        "lon": -122.810997009277,
-        "lat": 38.8386650085449,
-        "depth": 1.69000005722046,
+        "mag": 0.66,
+        "time": 1787018434670,
+        "lon": -122.807830810547,
+        "lat": 38.8368339538574,
+        "depth": 2.05999994277954,
         "source": "USGS"
       },
       {
-        "place": "17 km W of Glacier View, Alaska",
-        "mag": 1.5,
-        "time": 1787001216337,
-        "lon": -147.977,
-        "lat": 61.779,
-        "depth": 32.5,
+        "place": "67 km NNW of Venetie, Alaska",
+        "mag": 3,
+        "time": 1787018303098,
+        "lon": -147.003,
+        "lat": 67.574,
+        "depth": 3.4,
         "source": "USGS"
       },
       {
-        "place": "57 km S of Whites City, New Mexico",
-        "mag": 1.7,
-        "time": 1787001053081,
-        "lon": -104.301,
-        "lat": 31.661,
-        "depth": 6.7151,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km ESE of Coso Junction, CA",
-        "mag": 0.89,
-        "time": 1787000579810,
-        "lon": -117.847833333333,
-        "lat": 36.0256666666667,
-        "depth": 2.47,
-        "source": "USGS"
-      },
-      {
-        "place": "20 km ESE of Anza, CA",
-        "mag": 0.72,
-        "time": 1787000245290,
-        "lon": -116.475833333333,
-        "lat": 33.4928333333333,
-        "depth": 14.42,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km ESE of Cloverdale, CA",
-        "mag": 1.26,
-        "time": 1787000165660,
-        "lon": -122.941497802734,
-        "lat": 38.7815017700195,
-        "depth": 4.44999980926514,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km S of Cabo Rojo, Puerto Rico",
-        "mag": 2.37,
-        "time": 1786999213270,
-        "lon": -67.148,
-        "lat": 18.0575,
-        "depth": 6.09,
-        "source": "USGS"
-      },
-      {
-        "place": "41 km SW of Karluk, Alaska",
-        "mag": 4.5,
-        "time": 1786998910038,
-        "lon": -154.894,
-        "lat": 57.279,
-        "depth": 57.9,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km ENE of Bonadelle Ranchos-Madera Ranchos, CA",
-        "mag": 1.74,
-        "time": 1786998161970,
-        "lon": -119.7985,
-        "lat": 37.0056666666667,
-        "depth": -0.39,
-        "source": "USGS"
-      },
-      {
-        "place": "1 km NE of Pāhala, Hawaii",
-        "mag": 1.57,
-        "time": 1786997885980,
-        "lon": -155.468166666667,
-        "lat": 19.211,
-        "depth": 29.47,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km E of Granite Falls, Washington",
-        "mag": 1.5,
-        "time": 1786996458380,
-        "lon": -121.941666666667,
-        "lat": 48.085,
-        "depth": -0.41,
-        "source": "USGS"
-      },
-      {
-        "place": "37 km NNE of Amboy, Washington",
-        "mag": 0.24,
-        "time": 1786996449280,
-        "lon": -122.199166666667,
-        "lat": 46.2013333333333,
-        "depth": -1.08,
+        "place": "49 km W of Mentone, Texas",
+        "mag": 2.2,
+        "time": 1787017551206,
+        "lon": -104.124,
+        "lat": 31.737,
+        "depth": 4.2222,
         "source": "USGS"
       }
     ],
@@ -569,8 +732,225 @@
       }
     ]
   },
-  "entities": [],
-  "events": [],
+  "entities": [
+    {
+      "id": 1,
+      "name": "BUQUES ÁRTICO | Se dispara el número de buques que navegan p",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T124500Z",
+      "source": "laopiniondemurcia.es"
+    },
+    {
+      "id": 2,
+      "name": "BUQUES ÁRTICO | Se dispara el número de buques que navegan p",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T110000Z",
+      "source": "laopiniondemalaga.es"
+    },
+    {
+      "id": 3,
+      "name": "Houthi attacks on shipping return to Red Sea as multiple sea",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T104500Z",
+      "source": "defenceweb.co.za"
+    },
+    {
+      "id": 4,
+      "name": "Walton Royal Navy officer leads ship into Harwich port | Cla",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T160000Z",
+      "source": "clactonandfrintongazette.co.uk"
+    },
+    {
+      "id": 5,
+      "name": "Port of Tyne , Ambipar target pellet spill clean - up",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T110000Z",
+      "source": "porttechnology.org"
+    },
+    {
+      "id": 6,
+      "name": "Iran seizes UAE - owned tanker near Qeshm island",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T183000Z",
+      "source": "albawaba.com"
+    },
+    {
+      "id": 7,
+      "name": "Bloomberg : Un petrolero con bandera griega es atacado en el",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260818T043000Z",
+      "source": "actualidad.rt.com"
+    },
+    {
+      "id": 8,
+      "name": "Hormuz Dilemma : It neither fully open nor closed which is d",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260818T024500Z",
+      "source": "moneycontrol.com"
+    },
+    {
+      "id": 9,
+      "name": "Ansar Allah Announces Attacks on Saudi Ship in Red Sea , Sau",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T231500Z",
+      "source": "news.antiwar.com"
+    },
+    {
+      "id": 10,
+      "name": "Red Sea blockade threat : Why India trade faces a wider supp",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260818T054500Z",
+      "source": "economictimes.indiatimes.com"
+    }
+  ],
+  "events": [
+    {
+      "title": "BUQUES ÁRTICO | Se dispara el número de buques que navegan por el Ártico debido al derretimiento causado por el cambio climático",
+      "url": "https://www.laopiniondemurcia.es/medio-ambiente/2026/08/17/dispara-numero-buques-navegan-artico-133422610.html",
+      "domain": "laopiniondemurcia.es",
+      "language": "Spanish",
+      "tone": 0,
+      "seendate": "20260817T124500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "BUQUES ÁRTICO | Se dispara el número de buques que navegan por el Ártico debido al derretimiento causado por el cambio climático",
+      "url": "https://www.laopiniondemalaga.es/medio-ambiente/2026/08/17/dispara-numero-buques-navegan-artico-133422615.html",
+      "domain": "laopiniondemalaga.es",
+      "language": "Spanish",
+      "tone": 0,
+      "seendate": "20260817T110000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Houthi attacks on shipping return to Red Sea as multiple seafarers killed",
+      "url": "https://defenceweb.co.za/sea/sea-sea/houthi-attacks-on-shipping-return-to-red-sea-as-multiple-seafarers-killed/",
+      "domain": "defenceweb.co.za",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260817T104500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Walton Royal Navy officer leads ship into Harwich port | Clacton and Frinton Gazette",
+      "url": "https://www.clactonandfrintongazette.co.uk/news/26471856.walton-royal-navy-officer-leads-ship-harwich-port/",
+      "domain": "clactonandfrintongazette.co.uk",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260817T160000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Port of Tyne , Ambipar target pellet spill clean - up",
+      "url": "https://www.porttechnology.org/news/incident-reports/port-of-tyne-ambipar-target-pellet-spill-clean-up/",
+      "domain": "porttechnology.org",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260817T110000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Iran seizes UAE - owned tanker near Qeshm island",
+      "url": "https://www.albawaba.com/news/iran-seizes-uae-owned-tanker-near-qeshm-1635246",
+      "domain": "albawaba.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260817T183000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Bloomberg : Un petrolero con bandera griega es atacado en el mar Negro",
+      "url": "https://actualidad.rt.com/actualidad/622810-petrolero-bandera-griega-atacado-mar-negro",
+      "domain": "actualidad.rt.com",
+      "language": "Spanish",
+      "tone": 0,
+      "seendate": "20260818T043000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Hormuz Dilemma : It neither fully open nor closed which is driving economic uncertainty",
+      "url": "https://www.moneycontrol.com/news/opinion/hormuz-dilemma-it-s-neither-fully-open-nor-closed-which-is-driving-economic-uncertainty-14008050.html",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260818T024500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Ansar Allah Announces Attacks on Saudi Ship in Red Sea , Saudi - Backed Forces in Yemen Marib Province",
+      "url": "https://news.antiwar.com/2026/08/17/ansar-allah-announces-attacks-on-saudi-ship-in-red-sea-saudi-backed-forces-in-yemens-marib-province/",
+      "domain": "news.antiwar.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260817T231500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Red Sea blockade threat : Why India trade faces a wider supply - chain shock",
+      "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/red-sea-blockade-threat-why-indias-trade-faces-a-wider-supply-chain-shock/articleshow/133312145.cms",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260818T054500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Iran seizes UAE - owned tanker near Qeshm island",
+      "url": "https://www.albawaba.net/news/iran-seizes-uae-owned-tanker-near-qeshm-1635246",
+      "domain": "albawaba.net",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260817T194500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Φοβού τα drones : Ρωσικά τάνκερ μοιάζουν με εικόνες από το « Mad Max » ",
+      "url": "https://www.protagon.gr/epikairotita/fovou-ta-drones-rwsika-tanker-moiazoun-me-eikones-apo-to-mad-max-44343421747",
+      "domain": "protagon.gr",
+      "language": "Greek",
+      "tone": 0,
+      "seendate": "20260817T071500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Mazatlán recibe cuarto crucero de agosto con más de 3 mil pasajeros",
+      "url": "https://almomento.mx/mazatlan-recibe-cuarto-crucero-de-agosto-con-mas-de-3-mil-pasajeros/",
+      "domain": "almomento.mx",
+      "language": "Spanish",
+      "tone": 0,
+      "seendate": "20260817T213000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "X - Press Feeders Partners With Portchain to Cut Fuel Burn Through Better Berth Planning",
+      "url": "https://shipandbunker.com/news/world/980518-x-press-feeders-partners-with-portchain-to-cut-fuel-burn-through-better-berth-planning",
+      "domain": "shipandbunker.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260818T063000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Україна знищує логістику Росії на морі - Снєгирьов про наслідки для економіки РФ",
+      "url": "https://news.telegraf.com.ua/ukr/blogi-mnenija/5947926-ukrainska-kampaniya-paralizuvala-rosiysku-morsku-logistiku-rosiya-vtrachae-milyardi",
+      "domain": "news.telegraf.com.ua",
+      "language": "Ukrainian",
+      "tone": 0,
+      "seendate": "20260817T073000Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
