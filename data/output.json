@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-20T01:46:25.863174+00:00",
+    "generated": "2026-08-20T07:00:40.180358+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -33,456 +33,781 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
+    "gdelt_articles": [
+      {
+        "title": "US Coast Guard lifts 12 - year condition of entry on vessels from Nigeria",
+        "url": "https://www.premiumtimesng.com/business/business-news/904029-us-coast-guard-lifts-12-year-condition-of-entry-on-vessels-from-nigeria.html",
+        "domain": "premiumtimesng.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T171500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "US Lifts Longstanding Maritime Restriction on Nigeria",
+        "url": "https://www.africa.com/top-10-news/us-lifts-longstanding-maritime-restriction-on-nigeria",
+        "domain": "africa.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T211500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Indonesia foils major drug smuggling attempt at sea",
+        "url": "https://www.standard.net.au/story/9333781/indonesia-foils-major-drug-smuggling-attempt-at-sea/",
+        "domain": "standard.net.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T160000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Indonesia foils major drug smuggling attempt at sea",
+        "url": "https://www.examiner.com.au/story/9333781/indonesia-foils-major-drug-smuggling-attempt-at-sea/",
+        "domain": "examiner.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T170000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Nigeria Upbeat Over Maritime Competitiveness After US Lifts 12 - Year Ban",
+        "url": "https://maritime-executive.com/article/nigeria-upbeat-over-maritime-competitiveness-after-us-lifts-12-year-ban",
+        "domain": "maritime-executive.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260820T003000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Indonesia foils major drug smuggling attempt at sea",
+        "url": "https://www.bendigoadvertiser.com.au/story/9333781/indonesia-foils-major-drug-smuggling-attempt-at-sea/",
+        "domain": "bendigoadvertiser.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T160000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran seizes Emirati tanker and diverts it to Bandar Abbas",
+        "url": "https://www.albawaba.com/news/iran-seizes-emirati-tanker-and-diverts-1635392",
+        "domain": "albawaba.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T183000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Baltic Shipping Adds Wind - Assisted Hybrid Coasters",
+        "url": "http://www.maritimeprofessional.com/news/baltic-shipping-adds-wind-assisted-422178",
+        "domain": "maritimeprofessional.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T164500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Indonesia foils major drug smuggling attempt at sea",
+        "url": "https://www.thecourier.com.au/story/9333781/indonesia-foils-major-drug-smuggling-attempt-at-sea/",
+        "domain": "thecourier.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T170000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Indonesia foils major drug smuggling attempt at sea",
+        "url": "https://www.westernadvocate.com.au/story/9333781/indonesia-foils-major-drug-smuggling-attempt-at-sea/",
+        "domain": "westernadvocate.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T161500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Indonesia foils major drug smuggling attempt at sea",
+        "url": "https://www.bordermail.com.au/story/9333781/indonesia-foils-major-drug-smuggling-attempt-at-sea/",
+        "domain": "bordermail.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T154500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "South Korean container ship will test Arctic route to Europe amid Western concern",
+        "url": "https://www.koreaherald.com/article/10846131",
+        "domain": "koreaherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260820T001500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "South Korean Container Ship Will Test Arctic Route",
+        "url": "https://www.marinelink.com/news/south-korean-container-ship-test-arctic-542255",
+        "domain": "marinelink.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260820T003000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "World News : Container ship from Seoul will test Arctic route to Europe",
+        "url": "https://www.gdnonline.com:443/Details/1403958",
+        "domain": "gdnonline.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T234500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Blow as China declines to sign pact on illegal fishing",
+        "url": "https://www.standardmedia.co.ke/business/shipping-logistics/article/2001555703/blow-as-china-declines-to-sign-pact-on-illegal-fishing",
+        "domain": "standardmedia.co.ke",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T153000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Αυξάνονται οι νεκροί ναυτεργάτες σε Κόλπο και Μαύρη Θάλασσα στον βωμό",
+        "url": "https://prin.gr/2026/08/persikos-kolpos-mavri-thalassa-afxanontai-oi-nekroi-naftergates-ston-vomo-ton-efoplistikon-kerdon/",
+        "domain": "prin.gr",
+        "language": "Greek",
+        "tone": 0,
+        "seendate": "20260819T161500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "SKorean container ship to test Arctic route to Europe",
+        "url": "https://www.standard.net.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
+        "domain": "standard.net.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T204500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "SKorean container ship to test Arctic route to Europe",
+        "url": "https://www.bendigoadvertiser.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
+        "domain": "bendigoadvertiser.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "SKorean container ship to test Arctic route to Europe",
+        "url": "https://www.theadvocate.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
+        "domain": "theadvocate.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T211500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "A Fatal Strike and the First Seizure Since June as Iran Transit Rules Take Effect",
+        "url": "https://www.hellenicshippingnews.com/a-fatal-strike-and-the-first-seizure-since-june-as-irans-transit-rules-take-effect/",
+        "domain": "hellenicshippingnews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T221500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "South Korean container ship will test Arctic route to Europe amid Western concern",
+        "url": "https://whbl.com/2026/08/19/south-korean-container-ship-will-test-arctic-route-to-europe-amid-western-concern/",
+        "domain": "whbl.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T180000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Fiscal advierte : Estrecho de Magallanes podría convertirse en ruta del crimen organizado global",
+        "url": "https://www.elmostrador.cl/aqui-magallanes/2026/08/19/fiscal-advierte-estrecho-de-magallanes-podria-convertirse-en-ruta-del-crimen-organizado-global/",
+        "domain": "elmostrador.cl",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260819T180000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "How can Zimbabwean authorities absolve themselves of the Kariba disaster before an investigation even begins ? ",
+        "url": "https://www.thezimbabwean.co/2026/08/how-can-zimbabwean-authorities-absolve-themselves-of-the-kariba-disaster-before-an-investigation-even-begins/",
+        "domain": "thezimbabwean.co",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T153000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "NAVELE COMERCIALE NU MAI INTRĂ ÎN PORTURILE DIN ODESA",
+        "url": "https://moldova-suverana.md/article/navele-comerciale-nu-mai-intr-n-porturile-din-odesa_56680",
+        "domain": "moldova-suverana.md",
+        "language": "Romanian",
+        "tone": 0,
+        "seendate": "20260819T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "SKorean container ship to test Arctic route to Europe",
+        "url": "https://www.queanbeyanage.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
+        "domain": "queanbeyanage.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T213000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "SKorean container ship to test Arctic route to Europe",
+        "url": "https://www.dailyadvertiser.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
+        "domain": "dailyadvertiser.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T211500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "SKorean container ship to test Arctic route to Europe",
+        "url": "https://www.singletonargus.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
+        "domain": "singletonargus.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T204500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "SKorean container ship to test Arctic route to Europe",
+        "url": "https://www.crookwellgazette.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
+        "domain": "crookwellgazette.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T201500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "SKorean container ship to test Arctic route to Europe",
+        "url": "https://www.juneesoutherncross.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
+        "domain": "juneesoutherncross.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T204500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "SKorean container ship to test Arctic route to Europe",
+        "url": "https://www.maitlandmercury.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
+        "domain": "maitlandmercury.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T203000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "SKorean container ship to test Arctic route to Europe",
+        "url": "https://www.westernadvocate.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
+        "domain": "westernadvocate.com.au",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "UAE says two missiles detected earlier were launched from Iran",
+        "url": "https://tribune.com.pk/story/2624694/uae-says-two-missiles-detected-earlier-launched-from-iran",
+        "domain": "tribune.com.pk",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T080000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Japan jitters over Chinese fishing vessels reveal a guilty mind : Global Times editorial",
+        "url": "http://en.people.cn/n3/2026/0819/c90000-20490134.html",
+        "domain": "en.people.cn",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T074500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trump Declares  Economic D - Day  on Iran as UAE Cuts All Trade Ties and Hormuz Attacks Continue",
+        "url": "https://www.hngn.com/articles/272831/20260819/trump-declares-economic-d-day-iran-uae-cuts-all-trade-ties-hormuz-attacks-continue.htm",
+        "domain": "hngn.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260820T051500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran Fires Missiles Into UAE Territorial Waters as Gulf Conflict Enters Dangerous New Phase",
+        "url": "https://www.hngn.com/articles/272820/20260819/iran-fires-missiles-uae-territorial-waters-gulf-conflict-enters-dangerous-new-phase.htm",
+        "domain": "hngn.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260819T203000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Treasuries gained and stocks were predominantly in the green , while the dollar weakened after US Treasury doubled buybacks of long - term bonds - Newsquawk Daily Asia - Pac Market Open",
+        "url": "https://www.zerohedge.com/markets/treasuries-gained-and-stocks-were-predominantly-green-while-dollar-weakened-after-us",
+        "domain": "zerohedge.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260820T020000Z",
+        "source": "GDELT"
+      }
+    ],
     "earthquakes": [
       {
-        "place": "24 km NE of Willow, Alaska",
-        "mag": 2.3,
-        "time": 1787189591561,
-        "lon": -149.645,
-        "lat": 61.873,
-        "depth": 16.5,
+        "place": "10 km NNW of Anza, CA",
+        "mag": 1.05195198761216,
+        "time": 1787208786320,
+        "lon": -116.711166381836,
+        "lat": 33.6418342590332,
+        "depth": 9.78999996185303,
         "source": "USGS"
       },
       {
-        "place": "16 km E of Pine Valley, CA",
-        "mag": 1.7,
-        "time": 1787189312310,
-        "lon": -116.3565,
-        "lat": 32.828,
-        "depth": 5.52,
+        "place": "8 km N of Borrego Springs, CA",
+        "mag": 1.58,
+        "time": 1787208602500,
+        "lon": -116.365333333333,
+        "lat": 33.3288333333333,
+        "depth": 10.52,
         "source": "USGS"
       },
       {
-        "place": "15 km NE of Ridgecrest, CA",
-        "mag": 0.54,
-        "time": 1787189151190,
-        "lon": -117.555166666667,
-        "lat": 35.7126666666667,
-        "depth": 8.93,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km NNW of Anza, CA",
-        "mag": 0.76,
-        "time": 1787188733810,
-        "lon": -116.6925,
-        "lat": 33.6276666666667,
-        "depth": 13.6,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km ESE of East Los Angeles, CA",
-        "mag": 1.23,
-        "time": 1787188536470,
-        "lon": -118.145666666667,
-        "lat": 34.0198333333333,
-        "depth": 12.04,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km NE of Coso Junction, CA",
-        "mag": 0.83,
-        "time": 1787188176750,
-        "lon": -117.880666666667,
-        "lat": 36.0996666666667,
-        "depth": 2.86,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km NE of Coso Junction, CA",
-        "mag": 0.96,
-        "time": 1787187880960,
-        "lon": -117.881666666667,
-        "lat": 36.0985,
-        "depth": 2.58,
-        "source": "USGS"
-      },
-      {
-        "place": "17 km NNW of Indian Springs, Nevada",
-        "mag": 1.6,
-        "time": 1787187839357,
-        "lon": -115.7431,
-        "lat": 36.7197,
-        "depth": 0.6971,
-        "source": "USGS"
-      },
-      {
-        "place": "17 km WSW of Johannesburg, CA",
-        "mag": 0.87,
-        "time": 1787187603610,
-        "lon": -117.816833333333,
-        "lat": 35.33,
-        "depth": 6.63,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km WNW of Cobb, CA",
-        "mag": 0.73,
-        "time": 1787185476370,
-        "lon": -122.846664428711,
-        "lat": 38.8486671447754,
-        "depth": 1.29999995231628,
-        "source": "USGS"
-      },
-      {
-        "place": "87 km S of Isangel, Vanuatu",
-        "mag": 5,
-        "time": 1787185224938,
-        "lon": 169.1514,
-        "lat": -20.324,
-        "depth": 72.946,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km S of Volcano, Hawaii",
-        "mag": 2.09,
-        "time": 1787183390600,
-        "lon": -155.240829467773,
-        "lat": 19.3444995880127,
-        "depth": 29.75,
-        "source": "USGS"
-      },
-      {
-        "place": "22 km NE of Pine Valley, CA",
-        "mag": 1.39,
-        "time": 1787183269140,
-        "lon": -116.332333333333,
-        "lat": 32.9373333333333,
-        "depth": 7.46,
-        "source": "USGS"
-      },
-      {
-        "place": "54 km WNW of Ninilchik, Alaska",
-        "mag": 1.9,
-        "time": 1787182781096,
-        "lon": -152.53,
-        "lat": 60.277,
-        "depth": 111.5,
-        "source": "USGS"
-      },
-      {
-        "place": "46 km NE of Ruteng, Indonesia",
-        "mag": 4.5,
-        "time": 1787181614116,
-        "lon": 120.7214,
-        "lat": -8.2733,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km WNW of The Geysers, CA",
-        "mag": 1.02,
-        "time": 1787181500900,
-        "lon": -122.856163024902,
-        "lat": 38.826000213623,
-        "depth": 2.00999999046326,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km E of Fox, Alaska",
-        "mag": 1,
-        "time": 1787181096030,
-        "lon": -147.516,
-        "lat": 64.964,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "17 km WSW of Johannesburg, CA",
-        "mag": 2.23,
-        "time": 1787180314190,
-        "lon": -117.812,
-        "lat": 35.332,
-        "depth": 6.87,
-        "source": "USGS"
-      },
-      {
-        "place": "45 km E of Port Alsworth, Alaska",
-        "mag": 1.2,
-        "time": 1787179628263,
-        "lon": -153.501,
-        "lat": 60.16,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "25 km NNE of Ruteng, Indonesia",
-        "mag": 5.8,
-        "time": 1787179517395,
-        "lon": 120.5278,
-        "lat": -8.3922,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "76 km NE of Tonopah, Nevada",
-        "mag": 1.7,
-        "time": 1787179003969,
-        "lon": -116.5089,
-        "lat": 38.4515,
-        "depth": 5.3606,
-        "source": "USGS"
-      },
-      {
-        "place": "33 km N of Ruteng, Indonesia",
-        "mag": 5.2,
-        "time": 1787178488388,
-        "lon": 120.4718,
-        "lat": -8.3101,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km NNE of Borrego Springs, CA",
-        "mag": 0.96,
-        "time": 1787178364860,
-        "lon": -116.353166666667,
-        "lat": 33.3333333333333,
-        "depth": 10.27,
-        "source": "USGS"
-      },
-      {
-        "place": "12 km NNE of Borrego Springs, CA",
-        "mag": 0.72,
-        "time": 1787178033220,
-        "lon": -116.337833333333,
-        "lat": 33.3588333333333,
-        "depth": 11.14,
-        "source": "USGS"
-      },
-      {
-        "place": "22 km ESE of Little Lake, CA",
-        "mag": 0.48,
-        "time": 1787177009450,
-        "lon": -117.680833333333,
-        "lat": 35.865,
-        "depth": 4.68,
-        "source": "USGS"
-      },
-      {
-        "place": "60 km WSW of Nikolski, Alaska",
-        "mag": 2.2,
-        "time": 1787177004295,
-        "lon": -169.691,
-        "lat": 52.735,
-        "depth": 12.8,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km WNW of Cobb, CA",
+        "place": "26 km SSW of Ocotillo Wells, CA",
         "mag": 0.75,
-        "time": 1787176726570,
-        "lon": -122.810165405273,
-        "lat": 38.8375015258789,
-        "depth": 2.23000001907349,
+        "time": 1787206556060,
+        "lon": -116.2705,
+        "lat": 32.943,
+        "depth": 11.83,
         "source": "USGS"
       },
       {
-        "place": "80 km SE of Kokhanok, Alaska",
-        "mag": 2.1,
-        "time": 1787176710251,
-        "lon": -153.834,
-        "lat": 58.906,
-        "depth": 13,
-        "source": "USGS"
-      },
-      {
-        "place": "23 km SE of Glacier View, Alaska",
-        "mag": 1.2,
-        "time": 1787176640944,
-        "lon": -147.331,
-        "lat": 61.66,
-        "depth": 23.5,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km WNW of Cobb, CA",
-        "mag": 0.77,
-        "time": 1787176633160,
-        "lon": -122.807334899902,
-        "lat": 38.8388328552246,
-        "depth": 1.66999995708466,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km WNW of Cobb, CA",
-        "mag": 2.02,
-        "time": 1787176553840,
-        "lon": -122.807998657227,
-        "lat": 38.8385009765625,
-        "depth": 1.94000005722046,
-        "source": "USGS"
-      },
-      {
-        "place": "38 km ENE of McKinney Acres, Texas",
+        "place": "4 km NW of Pinnacles, CA",
         "mag": 1.3,
-        "time": 1787176539505,
-        "lon": -102.132,
-        "lat": 32.4,
-        "depth": 4.7159,
+        "time": 1787206296740,
+        "lon": -121.172996520996,
+        "lat": 36.5606651306152,
+        "depth": 1.95000004768372,
         "source": "USGS"
       },
       {
-        "place": "10 km WNW of The Geysers, CA",
+        "place": "39 km NE of Tonopah, Nevada",
+        "mag": 1.69,
+        "time": 1787205172864,
+        "lon": -116.8591,
+        "lat": 38.2738,
+        "depth": 1.9678,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km S of Honaunau-Napoopoo, Hawaii",
+        "mag": 1.78,
+        "time": 1787204980560,
+        "lon": -155.857666015625,
+        "lat": 19.3451671600342,
+        "depth": 16.6800003051758,
+        "source": "USGS"
+      },
+      {
+        "place": "21 km E of Julian, CA",
+        "mag": 0.33,
+        "time": 1787204720660,
+        "lon": -116.384166666667,
+        "lat": 33.0461666666667,
+        "depth": 13.5,
+        "source": "USGS"
+      },
+      {
+        "place": "13 km SE of Tehachapi, CA",
+        "mag": 0.85,
+        "time": 1787204412860,
+        "lon": -118.365333333333,
+        "lat": 35.0351666666667,
+        "depth": 5.06,
+        "source": "USGS"
+      },
+      {
+        "place": "60 km NNW of Petersville, Alaska",
+        "mag": 2.9,
+        "time": 1787204389696,
+        "lon": -151.043,
+        "lat": 63.022,
+        "depth": 128.8,
+        "source": "USGS"
+      },
+      {
+        "place": "19 km NNW of Indian Springs, Nevada",
+        "mag": 2.61,
+        "time": 1787204245330,
+        "lon": -115.7397,
+        "lat": 36.7316,
+        "depth": 4.0535,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km WNW of Anza, CA",
+        "mag": -0.04,
+        "time": 1787204095430,
+        "lon": -116.797,
+        "lat": 33.578,
+        "depth": 8.18,
+        "source": "USGS"
+      },
+      {
+        "place": "11 km NNE of Borrego Springs, CA",
+        "mag": 0.62,
+        "time": 1787204057230,
+        "lon": -116.3445,
+        "lat": 33.3525,
+        "depth": 11.25,
+        "source": "USGS"
+      },
+      {
+        "place": "52 km S of Whites City, New Mexico",
+        "mag": 1.4,
+        "time": 1787203888027,
+        "lon": -104.27,
+        "lat": 31.713,
+        "depth": 0,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km N of Hitachi, Japan",
+        "mag": 4.3,
+        "time": 1787203721414,
+        "lon": 140.6399,
+        "lat": 36.651,
+        "depth": 47.772,
+        "source": "USGS"
+      },
+      {
+        "place": "17 km WSW of Johannesburg, CA",
+        "mag": 2.13,
+        "time": 1787203704680,
+        "lon": -117.811333333333,
+        "lat": 35.3191666666667,
+        "depth": 7.42,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km W of Cobb, CA",
         "mag": 0.75,
-        "time": 1787176302920,
-        "lon": -122.856498718262,
-        "lat": 38.8255004882812,
-        "depth": 2.35999989509583,
+        "time": 1787203239850,
+        "lon": -122.758666992188,
+        "lat": 38.8203315734863,
+        "depth": 1.6599999666214,
         "source": "USGS"
       },
       {
-        "place": "150 km SW of Adak, Alaska",
-        "mag": 2,
-        "time": 1787176024040,
-        "lon": -178.448,
-        "lat": 51.131,
-        "depth": 30.3,
+        "place": "52 km S of Whites City, New Mexico",
+        "mag": 2.1,
+        "time": 1787203073805,
+        "lon": -104.294,
+        "lat": 31.704,
+        "depth": 4.5856,
         "source": "USGS"
       },
       {
-        "place": "10 km WNW of The Geysers, CA",
-        "mag": 1.25,
-        "time": 1787175933710,
-        "lon": -122.855499267578,
-        "lat": 38.8251647949219,
-        "depth": 2.4300000667572,
+        "place": "85 km S of Kokhanok, Alaska",
+        "mag": 0.3,
+        "time": 1787202683281,
+        "lon": -154.695,
+        "lat": 58.673,
+        "depth": 5,
         "source": "USGS"
       },
       {
-        "place": "46 km NW of Akhiok, Alaska",
-        "mag": 1.7,
-        "time": 1787175883586,
-        "lon": -154.808,
-        "lat": 57.183,
-        "depth": 53.2,
+        "place": "9 km WNW of The Geysers, CA",
+        "mag": 0.67,
+        "time": 1787201827100,
+        "lon": -122.844169616699,
+        "lat": 38.8214988708496,
+        "depth": 1.67999994754791,
         "source": "USGS"
       },
       {
-        "place": "10 km WNW of The Geysers, CA",
-        "mag": 2.02,
-        "time": 1787175864060,
-        "lon": -122.855163574219,
-        "lat": 38.8238334655762,
-        "depth": 2.13000011444092,
+        "place": "21 km ENE of Arvin, CA",
+        "mag": 1.01,
+        "time": 1787201572400,
+        "lon": -118.614833333333,
+        "lat": 35.2808333333333,
+        "depth": 5.55,
         "source": "USGS"
       },
       {
-        "place": "14 km N of Warner Springs, CA",
-        "mag": 1.38,
-        "time": 1787175817870,
-        "lon": -116.649833333333,
-        "lat": 33.4115,
-        "depth": 4.65,
+        "place": "85 km S of Antofagasta, Chile",
+        "mag": 4.7,
+        "time": 1787201571796,
+        "lon": -70.4642,
+        "lat": -24.4187,
+        "depth": 35.275,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NW of Massac, Kentucky",
+        "mag": 2.3499999,
+        "time": 1787200516450,
+        "lon": -88.7783355712891,
+        "lat": 37.0641670227051,
+        "depth": 13.9200000762939,
+        "source": "USGS"
+      },
+      {
+        "place": "71 km N of Ruteng, Indonesia",
+        "mag": 4.6,
+        "time": 1787200403405,
+        "lon": 120.3917,
+        "lat": -7.9704,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "24 km WNW of Petersville, Alaska",
+        "mag": 1.8,
+        "time": 1787200144328,
+        "lon": -151.21,
+        "lat": 62.573,
+        "depth": 1,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NW of The Geysers, CA",
+        "mag": 0.76,
+        "time": 1787200139430,
+        "lon": -122.798835754395,
+        "lat": 38.8064994812012,
+        "depth": 3.4300000667572,
+        "source": "USGS"
+      },
+      {
+        "place": "26 km NNW of Ruteng, Indonesia",
+        "mag": 4.6,
+        "time": 1787199837331,
+        "lon": 120.3951,
+        "lat": -8.386,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km NNE of Healy, Alaska",
+        "mag": 1.1,
+        "time": 1787199715851,
+        "lon": -148.95,
+        "lat": 63.882,
+        "depth": 3.5,
+        "source": "USGS"
+      },
+      {
+        "place": "23 km S of Westbrook, Texas",
+        "mag": 1.9,
+        "time": 1787199469586,
+        "lon": -101.056,
+        "lat": 32.147,
+        "depth": 1.2308,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km NNW of The Geysers, CA",
+        "mag": 0.8,
+        "time": 1787198796760,
+        "lon": -122.761497497559,
+        "lat": 38.7943344116211,
+        "depth": 0.319999992847443,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km N of The Geysers, CA",
+        "mag": 2.27,
+        "time": 1787198738550,
+        "lon": -122.759498596191,
+        "lat": 38.7928352355957,
+        "depth": 0.899999976158142,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Coso Junction, CA",
+        "mag": 0.82,
+        "time": 1787198618530,
+        "lon": -117.836166666667,
+        "lat": 36.0656666666667,
+        "depth": 2.8,
+        "source": "USGS"
+      },
+      {
+        "place": "18 km NNW of Indian Springs, Nevada",
+        "mag": 2.1,
+        "time": 1787198444338,
+        "lon": -115.7573,
+        "lat": 36.7208,
+        "depth": 0.0378,
+        "source": "USGS"
+      },
+      {
+        "place": "26 km NNW of Pāhala, Hawaii",
+        "mag": 2.11,
+        "time": 1787198092450,
+        "lon": -155.587326049805,
+        "lat": 19.4183330535889,
+        "depth": 40.6699981689453,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km SE of Mossyrock, Washington",
+        "mag": 1.61845803260803,
+        "time": 1787197920140,
+        "lon": -122.417335510254,
+        "lat": 46.4706649780273,
+        "depth": 21.8999996185303,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km N of Warner Springs, CA",
+        "mag": 0.76,
+        "time": 1787196677320,
+        "lon": -116.640833333333,
+        "lat": 33.4166666666667,
+        "depth": 6.55,
+        "source": "USGS"
+      },
+      {
+        "place": "21 km ENE of Arvin, CA",
+        "mag": 1.46,
+        "time": 1787195609660,
+        "lon": -118.611666666667,
+        "lat": 35.2821666666667,
+        "depth": 3.37,
+        "source": "USGS"
+      },
+      {
+        "place": "81 km W of San Antonio de los Cobres, Argentina",
+        "mag": 4.7,
+        "time": 1787195346998,
+        "lon": -67.1154,
+        "lat": -24.3365,
+        "depth": 166.707,
+        "source": "USGS"
+      },
+      {
+        "place": "45 km NNE of Ruteng, Indonesia",
+        "mag": 4.7,
+        "time": 1787194857597,
+        "lon": 120.662,
+        "lat": -8.2547,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "56 km NNW of Petersville, Alaska",
+        "mag": 2.6,
+        "time": 1787194736527,
+        "lon": -151.01,
+        "lat": 62.994,
+        "depth": 118.5,
         "source": "USGS"
       },
       {
         "place": "7 km NW of The Geysers, CA",
-        "mag": 0.9,
-        "time": 1787175392660,
-        "lon": -122.811996459961,
-        "lat": 38.8233337402344,
-        "depth": 2.64000010490417,
+        "mag": 1.11,
+        "time": 1787194322580,
+        "lon": -122.821334838867,
+        "lat": 38.8176651000977,
+        "depth": 2.19000005722046,
         "source": "USGS"
       },
       {
-        "place": "23 km ENE of Coachella, CA",
-        "mag": 1.06,
-        "time": 1787175389340,
-        "lon": -115.960833333333,
-        "lat": 33.7865,
-        "depth": 8.47,
-        "source": "USGS"
-      },
-      {
-        "place": "32 km S of Perryville, Alaska",
-        "mag": 1.6,
-        "time": 1787175352412,
-        "lon": -159.182,
-        "lat": 55.622,
-        "depth": 86.2,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km N of Borrego Springs, CA",
-        "mag": 0.88,
-        "time": 1787175316950,
-        "lon": -116.361333333333,
-        "lat": 33.3338333333333,
-        "depth": 9.77,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km NW of Georgetown, Idaho",
-        "mag": 1.56,
-        "time": 1787174243950,
-        "lon": -111.446333333333,
-        "lat": 42.5445,
-        "depth": 8.22,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km WNW of The Geysers, CA",
-        "mag": 0.94,
-        "time": 1787173771790,
-        "lon": -122.855331420898,
-        "lat": 38.826000213623,
-        "depth": 2.27999997138977,
-        "source": "USGS"
-      },
-      {
-        "place": "42 km WNW of Clam Gulch, Alaska",
-        "mag": 1.6,
-        "time": 1787173634651,
-        "lon": -152.109,
-        "lat": 60.369,
-        "depth": 75.2,
-        "source": "USGS"
-      },
-      {
-        "place": "21 km W of Ørnes, Norway",
-        "mag": 4.4,
-        "time": 1787173609154,
-        "lon": 13.2176,
-        "lat": 66.9069,
+        "place": "32 km NNE of Ruteng, Indonesia",
+        "mag": 5.7,
+        "time": 1787194019072,
+        "lon": 120.6104,
+        "lat": -8.3582,
         "depth": 10,
         "source": "USGS"
       },
       {
-        "place": "10 km E of Porterville, CA",
-        "mag": 1.85,
-        "time": 1787173173120,
-        "lon": -118.903666666667,
-        "lat": 36.059,
-        "depth": 7.11,
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "mag": 4.2,
+        "time": 1787193904047,
+        "lon": 178.716,
+        "lat": 50.953,
+        "depth": 18.5,
         "source": "USGS"
       },
       {
-        "place": "17 km NNW of Indian Springs, Nevada",
-        "mag": 1.57,
-        "time": 1787173057461,
-        "lon": -115.7762,
-        "lat": 36.7045,
-        "depth": 8.2356,
+        "place": "91 km SE of Unalaska, Alaska",
+        "mag": 2.6,
+        "time": 1787193742593,
+        "lon": -165.587,
+        "lat": 53.275,
+        "depth": 14.8,
         "source": "USGS"
       },
       {
-        "place": "200 km WSW of Adak, Alaska",
-        "mag": 2.4,
-        "time": 1787172949798,
-        "lon": -179.459,
-        "lat": 51.461,
-        "depth": 59.4,
+        "place": "19 km ESE of Julian, CA",
+        "mag": 0.62,
+        "time": 1787193071910,
+        "lon": -116.4075,
+        "lat": 33.0351666666667,
+        "depth": 9.23,
         "source": "USGS"
       },
       {
-        "place": "7 km W of Templeton, CA",
-        "mag": 1.25,
-        "time": 1787172768310,
-        "lon": -120.78116607666,
-        "lat": 35.5446662902832,
-        "depth": 5.73999977111816,
+        "place": "8 km NW of The Geysers, CA",
+        "mag": 0.83,
+        "time": 1787192179990,
+        "lon": -122.814666748047,
+        "lat": 38.8286666870117,
+        "depth": 2.07999992370605,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km N of Warner Springs, CA",
+        "mag": 0.31,
+        "time": 1787191666940,
+        "lon": -116.638833333333,
+        "lat": 33.417,
+        "depth": 6.45,
+        "source": "USGS"
+      },
+      {
+        "place": "27 km SSW of Ocotillo Wells, CA",
+        "mag": 0.8,
+        "time": 1787191297490,
+        "lon": -116.2555,
+        "lat": 32.9196666666667,
+        "depth": 7.46,
+        "source": "USGS"
+      },
+      {
+        "place": "67 km NE of Cruz Bay, U.S. Virgin Islands",
+        "mag": 3.42,
+        "time": 1787190593500,
+        "lon": -64.4091666666667,
+        "lat": 18.823,
+        "depth": 4.46,
+        "source": "USGS"
+      },
+      {
+        "place": "30 km WNW of Nikiski, Alaska",
+        "mag": 1.4,
+        "time": 1787190575260,
+        "lon": -151.775,
+        "lat": 60.829,
+        "depth": 79.1,
+        "source": "USGS"
+      },
+      {
+        "place": "25 km NE of Willow, Alaska",
+        "mag": 2.2,
+        "time": 1787189591226,
+        "lon": -149.649,
+        "lat": 61.876,
+        "depth": 14,
         "source": "USGS"
       }
     ],
@@ -569,8 +894,225 @@
       }
     ]
   },
-  "entities": [],
-  "events": [],
+  "entities": [
+    {
+      "id": 1,
+      "name": "US Coast Guard lifts 12 - year condition of entry on vessels",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T171500Z",
+      "source": "premiumtimesng.com"
+    },
+    {
+      "id": 2,
+      "name": "US Lifts Longstanding Maritime Restriction on Nigeria",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T211500Z",
+      "source": "africa.com"
+    },
+    {
+      "id": 3,
+      "name": "Indonesia foils major drug smuggling attempt at sea",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T160000Z",
+      "source": "standard.net.au"
+    },
+    {
+      "id": 4,
+      "name": "Indonesia foils major drug smuggling attempt at sea",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T170000Z",
+      "source": "examiner.com.au"
+    },
+    {
+      "id": 5,
+      "name": "Nigeria Upbeat Over Maritime Competitiveness After US Lifts ",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260820T003000Z",
+      "source": "maritime-executive.com"
+    },
+    {
+      "id": 6,
+      "name": "Indonesia foils major drug smuggling attempt at sea",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T160000Z",
+      "source": "bendigoadvertiser.com.au"
+    },
+    {
+      "id": 7,
+      "name": "Iran seizes Emirati tanker and diverts it to Bandar Abbas",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T183000Z",
+      "source": "albawaba.com"
+    },
+    {
+      "id": 8,
+      "name": "Baltic Shipping Adds Wind - Assisted Hybrid Coasters",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T164500Z",
+      "source": "maritimeprofessional.com"
+    },
+    {
+      "id": 9,
+      "name": "Indonesia foils major drug smuggling attempt at sea",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T170000Z",
+      "source": "thecourier.com.au"
+    },
+    {
+      "id": 10,
+      "name": "Indonesia foils major drug smuggling attempt at sea",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260819T161500Z",
+      "source": "westernadvocate.com.au"
+    }
+  ],
+  "events": [
+    {
+      "title": "US Coast Guard lifts 12 - year condition of entry on vessels from Nigeria",
+      "url": "https://www.premiumtimesng.com/business/business-news/904029-us-coast-guard-lifts-12-year-condition-of-entry-on-vessels-from-nigeria.html",
+      "domain": "premiumtimesng.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260819T171500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "US Lifts Longstanding Maritime Restriction on Nigeria",
+      "url": "https://www.africa.com/top-10-news/us-lifts-longstanding-maritime-restriction-on-nigeria",
+      "domain": "africa.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260819T211500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Indonesia foils major drug smuggling attempt at sea",
+      "url": "https://www.standard.net.au/story/9333781/indonesia-foils-major-drug-smuggling-attempt-at-sea/",
+      "domain": "standard.net.au",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260819T160000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Indonesia foils major drug smuggling attempt at sea",
+      "url": "https://www.examiner.com.au/story/9333781/indonesia-foils-major-drug-smuggling-attempt-at-sea/",
+      "domain": "examiner.com.au",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260819T170000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Nigeria Upbeat Over Maritime Competitiveness After US Lifts 12 - Year Ban",
+      "url": "https://maritime-executive.com/article/nigeria-upbeat-over-maritime-competitiveness-after-us-lifts-12-year-ban",
+      "domain": "maritime-executive.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260820T003000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Indonesia foils major drug smuggling attempt at sea",
+      "url": "https://www.bendigoadvertiser.com.au/story/9333781/indonesia-foils-major-drug-smuggling-attempt-at-sea/",
+      "domain": "bendigoadvertiser.com.au",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260819T160000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Iran seizes Emirati tanker and diverts it to Bandar Abbas",
+      "url": "https://www.albawaba.com/news/iran-seizes-emirati-tanker-and-diverts-1635392",
+      "domain": "albawaba.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260819T183000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Baltic Shipping Adds Wind - Assisted Hybrid Coasters",
+      "url": "http://www.maritimeprofessional.com/news/baltic-shipping-adds-wind-assisted-422178",
+      "domain": "maritimeprofessional.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260819T164500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Indonesia foils major drug smuggling attempt at sea",
+      "url": "https://www.thecourier.com.au/story/9333781/indonesia-foils-major-drug-smuggling-attempt-at-sea/",
+      "domain": "thecourier.com.au",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260819T170000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Indonesia foils major drug smuggling attempt at sea",
+      "url": "https://www.westernadvocate.com.au/story/9333781/indonesia-foils-major-drug-smuggling-attempt-at-sea/",
+      "domain": "westernadvocate.com.au",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260819T161500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Indonesia foils major drug smuggling attempt at sea",
+      "url": "https://www.bordermail.com.au/story/9333781/indonesia-foils-major-drug-smuggling-attempt-at-sea/",
+      "domain": "bordermail.com.au",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260819T154500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "South Korean container ship will test Arctic route to Europe amid Western concern",
+      "url": "https://www.koreaherald.com/article/10846131",
+      "domain": "koreaherald.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260820T001500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "South Korean Container Ship Will Test Arctic Route",
+      "url": "https://www.marinelink.com/news/south-korean-container-ship-test-arctic-542255",
+      "domain": "marinelink.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260820T003000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "World News : Container ship from Seoul will test Arctic route to Europe",
+      "url": "https://www.gdnonline.com:443/Details/1403958",
+      "domain": "gdnonline.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260819T234500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Blow as China declines to sign pact on illegal fishing",
+      "url": "https://www.standardmedia.co.ke/business/shipping-logistics/article/2001555703/blow-as-china-declines-to-sign-pact-on-illegal-fishing",
+      "domain": "standardmedia.co.ke",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260819T153000Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
