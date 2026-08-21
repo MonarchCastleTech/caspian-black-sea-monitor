@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-20T18:54:04.594309+00:00",
+    "generated": "2026-08-21T01:51:32.100785+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -33,745 +33,456 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [
-      {
-        "title": "Pietų Korėja paleis savo pirmąjį konteinerinį laivą per Arkties vandenyną",
-        "url": "https://kauno.diena.lt/naujienos/pasaulis/ekonomika-ir-politika/pietu-koreja-paleis-savo-pirmaji-konteinerini-laiva-arkties-vandenyna-1770987",
-        "domain": "kauno.diena.lt",
-        "language": "Lithuanian",
-        "tone": 0,
-        "seendate": "20260820T134500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Pietų Korėja paleis savo pirmąjį konteinerinį laivą per Arkties vandenyną",
-        "url": "https://klaipeda.diena.lt/naujienos/pasaulis/ekonomika-ir-politika/pietu-koreja-paleis-savo-pirmaji-konteinerini-laiva-arkties-vandenyna-1770987",
-        "domain": "klaipeda.diena.lt",
-        "language": "Lithuanian",
-        "tone": 0,
-        "seendate": "20260820T134500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "US Lifts Longstanding Maritime Restriction on Nigeria",
-        "url": "https://www.africa.com/top-10-news/us-lifts-longstanding-maritime-restriction-on-nigeria",
-        "domain": "africa.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T211500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Nigeria Upbeat Over Maritime Competitiveness After US Lifts 12 - Year Ban",
-        "url": "https://maritime-executive.com/article/nigeria-upbeat-over-maritime-competitiveness-after-us-lifts-12-year-ban",
-        "domain": "maritime-executive.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T003000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "FM Dar says six Pakistani sailors return safely after Houthi attack , two bodies repatriated",
-        "url": "https://tribune.com.pk/story/2624891/dar-says-six-pakistani-sailors-return-safely-after-houthi-attack-two-bodies-repatriated",
-        "domain": "tribune.com.pk",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T080000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "South Korea to send its first container ship through Arctic",
-        "url": "https://arynews.tv/south-korea-send-its-first-container-ship-arctic",
-        "domain": "arynews.tv",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T083000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "South Korean container ship will test Arctic route to Europe amid Western concern",
-        "url": "https://www.koreaherald.com/article/10846131",
-        "domain": "koreaherald.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T001500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "South Korean Container Ship Will Test Arctic Route",
-        "url": "https://www.marinelink.com/news/south-korean-container-ship-test-arctic-542255",
-        "domain": "marinelink.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T003000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "World News : Container ship from Seoul will test Arctic route to Europe",
-        "url": "https://www.gdnonline.com:443/Details/1403958",
-        "domain": "gdnonline.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T234500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "부산~유럽 7000㎞ 줄인다 … 컨테이너선 첫 북극항로 실증",
-        "url": "https://www.heraldk.com/article/2026082005052433820",
-        "domain": "heraldk.com",
-        "language": "Korean",
-        "tone": 0,
-        "seendate": "20260820T143000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "SKorean container ship to test Arctic route to Europe",
-        "url": "https://www.standard.net.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
-        "domain": "standard.net.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T204500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "SKorean container ship to test Arctic route to Europe",
-        "url": "https://www.bendigoadvertiser.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
-        "domain": "bendigoadvertiser.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T210000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "SKorean container ship to test Arctic route to Europe",
-        "url": "https://www.theadvocate.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
-        "domain": "theadvocate.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T211500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Navios Maritime Partners L . P . Reports Financial Results for the Second Quarter and Six Months Ended June 30 , 2026",
-        "url": "https://www.manilatimes.net/2026/08/20/tmt-newswire/globenewswire/navios-maritime-partners-lp-reports-financial-results-for-the-second-quarter-and-six-months-ended-june-30-2026/2409165",
-        "domain": "manilatimes.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T123000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "A Fatal Strike and the First Seizure Since June as Iran Transit Rules Take Effect",
-        "url": "https://www.hellenicshippingnews.com/a-fatal-strike-and-the-first-seizure-since-june-as-irans-transit-rules-take-effect/",
-        "domain": "hellenicshippingnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T221500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Are Hormuz ships more willing to defy Iran or the US ? What data shows - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-        "url": "https://dominicanrepublicpost.com/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows/",
-        "domain": "dominicanrepublicpost.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T103000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Strait of Hormuz Latest : US Says Waterway Open as Iran Loses Ground Amid Naval Blockade Standoff",
-        "url": "https://www.ibtimes.com.au/escalating-tensions-strait-hormuz-us-iran-standoff-1874306",
-        "domain": "ibtimes.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T103000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "NAVELE COMERCIALE NU MAI INTRĂ ÎN PORTURILE DIN ODESA",
-        "url": "https://moldova-suverana.md/article/navele-comerciale-nu-mai-intr-n-porturile-din-odesa_56680",
-        "domain": "moldova-suverana.md",
-        "language": "Romanian",
-        "tone": 0,
-        "seendate": "20260819T210000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "SKorean container ship to test Arctic route to Europe",
-        "url": "https://www.queanbeyanage.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
-        "domain": "queanbeyanage.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T213000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "SKorean container ship to test Arctic route to Europe",
-        "url": "https://www.dailyadvertiser.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
-        "domain": "dailyadvertiser.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T211500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "SKorean container ship to test Arctic route to Europe",
-        "url": "https://www.singletonargus.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
-        "domain": "singletonargus.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T204500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "SKorean container ship to test Arctic route to Europe",
-        "url": "https://www.crookwellgazette.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
-        "domain": "crookwellgazette.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T201500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "SKorean container ship to test Arctic route to Europe",
-        "url": "https://www.juneesoutherncross.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
-        "domain": "juneesoutherncross.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T204500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "SKorean container ship to test Arctic route to Europe",
-        "url": "https://www.maitlandmercury.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
-        "domain": "maitlandmercury.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T203000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "SKorean container ship to test Arctic route to Europe",
-        "url": "https://www.westernadvocate.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
-        "domain": "westernadvocate.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T210000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran Fires Back at Trump  Economic D - Day , Calling It Cover for US Debt Crisis",
-        "url": "https://jp.ibtimes.com/iran-fires-back-trumps-economic-d-day-calling-it-cover-us-debt-crisis-103818",
-        "domain": "jp.ibtimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T160000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Declares  Economic D - Day  on Iran as UAE Cuts All Trade Ties and Hormuz Attacks Continue",
-        "url": "https://www.hngn.com/articles/272831/20260819/trump-declares-economic-d-day-iran-uae-cuts-all-trade-ties-hormuz-attacks-continue.htm",
-        "domain": "hngn.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T051500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran Fires Missiles Into UAE Territorial Waters as Gulf Conflict Enters Dangerous New Phase",
-        "url": "https://www.hngn.com/articles/272820/20260819/iran-fires-missiles-uae-territorial-waters-gulf-conflict-enters-dangerous-new-phase.htm",
-        "domain": "hngn.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T203000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "A two - tier ferry industry : Three major players invest while 30 smaller companies fall behind in fleet renewal",
-        "url": "https://sofokleous10.gr/2026/08/20/a-two-tier-ferry-industry-three-major-players-invest-while-30-smaller-companies-fall-behind-in-fleet-renewal/",
-        "domain": "sofokleous10.gr",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T100000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Treasuries gained and stocks were predominantly in the green , while the dollar weakened after US Treasury doubled buybacks of long - term bonds - Newsquawk Daily Asia - Pac Market Open",
-        "url": "https://www.zerohedge.com/markets/treasuries-gained-and-stocks-were-predominantly-green-while-dollar-weakened-after-us",
-        "domain": "zerohedge.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T020000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "US Vows  Toughest Sanctions In History  Against Iran",
-        "url": "http://www.afghanistannews.net/news/279254592/us-vows-toughest-sanctions-in-history-against-iran",
-        "domain": "afghanistannews.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T180000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "US Vows  Toughest Sanctions In History  Against Iran",
-        "url": "http://www.britainnews.net/news/279254592/us-vows-toughest-sanctions-in-history-against-iran",
-        "domain": "britainnews.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T181500Z",
-        "source": "GDELT"
-      }
-    ],
+    "gdelt_articles": [],
     "earthquakes": [
       {
-        "place": "16 km E of Coso Junction, CA",
-        "mag": 1.3,
-        "time": 1787251417400,
-        "lon": -117.776,
-        "lat": 36.0356666666667,
-        "depth": 1.9,
+        "place": "17 km ESE of Little Lake, CA",
+        "mag": 0.19,
+        "time": 1787276751230,
+        "lon": -117.721333333333,
+        "lat": 35.898,
+        "depth": 7.76,
         "source": "USGS"
       },
       {
-        "place": "12 km NW of Mount Charleston, Nevada",
-        "mag": 1.54,
-        "time": 1787251102498,
-        "lon": -115.7509,
-        "lat": 36.332,
-        "depth": 7.0302,
+        "place": "9 km SW of Leilani Estates, Hawaii",
+        "mag": 1.91,
+        "time": 1787276482850,
+        "lon": -154.979827880859,
+        "lat": 19.4044990539551,
+        "depth": 3.8199999332428,
         "source": "USGS"
       },
       {
-        "place": "47 km E of Pedro Bay, Alaska",
-        "mag": 2.2,
-        "time": 1787250957410,
-        "lon": -153.266,
-        "lat": 59.864,
-        "depth": 139.8,
+        "place": "5 km WNW of Cobb, CA",
+        "mag": 0.96,
+        "time": 1787276460470,
+        "lon": -122.781997680664,
+        "lat": 38.8359985351562,
+        "depth": 1.6599999666214,
         "source": "USGS"
       },
       {
-        "place": "183 km SE of Kokopo, Papua New Guinea",
-        "mag": 5.1,
-        "time": 1787250319502,
-        "lon": 153.5631,
-        "lat": -5.3709,
+        "place": "67 km SE of Pope-Vannoy Landing, Alaska",
+        "mag": 1.8,
+        "time": 1787275946770,
+        "lon": -153.579,
+        "lat": 59.176,
+        "depth": 103.5,
+        "source": "USGS"
+      },
+      {
+        "place": "45 km NNE of Ruteng, Indonesia",
+        "mag": 4.6,
+        "time": 1787275085726,
+        "lon": 120.5956,
+        "lat": -8.2183,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "72 km SSW of Ugashik, Alaska",
+        "mag": 3.1,
+        "time": 1787274784785,
+        "lon": -157.656,
+        "lat": 56.88,
+        "depth": 131.4,
+        "source": "USGS"
+      },
+      {
+        "place": "73 km SSE of Akutan, Alaska",
+        "mag": 4.3,
+        "time": 1787274710896,
+        "lon": -165.3313,
+        "lat": 53.524,
         "depth": 35,
         "source": "USGS"
       },
       {
-        "place": "5 km NNE of Kenwood, CA",
-        "mag": 1.31,
-        "time": 1787250294580,
-        "lon": -122.52433013916,
-        "lat": 38.4528350830078,
-        "depth": 1.25,
+        "place": "9 km NNE of Warner Springs, CA",
+        "mag": 0.27,
+        "time": 1787274449230,
+        "lon": -116.584666666667,
+        "lat": 33.3505,
+        "depth": 11.2,
         "source": "USGS"
       },
       {
-        "place": "44 km WNW of Toyah, Texas",
-        "mag": 1.4,
-        "time": 1787250167322,
-        "lon": -104.207,
-        "lat": 31.498,
-        "depth": 0,
+        "place": "55 km NW of Toyah, Texas",
+        "mag": 2.5,
+        "time": 1787274281822,
+        "lon": -104.222,
+        "lat": 31.655,
+        "depth": 6.4716,
         "source": "USGS"
       },
       {
-        "place": "67 km NNW of Ende, Indonesia",
-        "mag": 5.6,
-        "time": 1787249571721,
-        "lon": 121.3981,
-        "lat": -8.2877,
+        "place": "55 km NW of Toyah, Texas",
+        "mag": 2,
+        "time": 1787273508709,
+        "lon": -104.232,
+        "lat": 31.651,
+        "depth": 4.3492,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Coso Junction, CA",
+        "mag": 0.61,
+        "time": 1787273138930,
+        "lon": -117.839833333333,
+        "lat": 36.064,
+        "depth": 3.31,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km E of El Negro, Puerto Rico",
+        "mag": 2.07,
+        "time": 1787273032890,
+        "lon": -65.7563333333333,
+        "lat": 18.0478333333333,
+        "depth": 6.92,
+        "source": "USGS"
+      },
+      {
+        "place": "70 km NE of Lake Minchumina, Alaska",
+        "mag": 2.3,
+        "time": 1787272854680,
+        "lon": -151.153,
+        "lat": 64.266,
+        "depth": 2.1,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km S of Pāhala, Hawaii",
+        "mag": 2.26,
+        "time": 1787272596420,
+        "lon": -155.486831665039,
+        "lat": 19.1608333587646,
+        "depth": 30.2800006866455,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WSW of Anza, CA",
+        "mag": 0.6,
+        "time": 1787272365350,
+        "lon": -116.7275,
+        "lat": 33.5286666666667,
+        "depth": 6.37,
+        "source": "USGS"
+      },
+      {
+        "place": "23 km ESE of Ridgecrest, CA",
+        "mag": 0.9,
+        "time": 1787271746410,
+        "lon": -117.449833333333,
+        "lat": 35.524,
+        "depth": 4.66,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km SSW of Elmendorf Air Force Base, Alaska",
+        "mag": 1.9,
+        "time": 1787270981139,
+        "lon": -149.68,
+        "lat": 61.162,
+        "depth": 13,
+        "source": "USGS"
+      },
+      {
+        "place": "16 km ESE of Naalehu, Hawaii",
+        "mag": 1.76,
+        "time": 1787270148800,
+        "lon": -155.424163818359,
+        "lat": 19.0323333740234,
+        "depth": 34.3499984741211,
+        "source": "USGS"
+      },
+      {
+        "place": "Pacific-Antarctic Ridge",
+        "mag": 5,
+        "time": 1787269001054,
+        "lon": -141.4541,
+        "lat": -56.5921,
         "depth": 10,
         "source": "USGS"
       },
       {
-        "place": "65 km W of Happy Valley, Alaska",
+        "place": "62 km E of Pedro Bay, Alaska",
+        "mag": 1.5,
+        "time": 1787268085954,
+        "lon": -152.987,
+        "lat": 59.753,
+        "depth": 98.1,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Coso Junction, CA",
+        "mag": 1.16,
+        "time": 1787267943420,
+        "lon": -117.841166666667,
+        "lat": 36.063,
+        "depth": 2.67,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Coso Junction, CA",
+        "mag": 0.63,
+        "time": 1787267856230,
+        "lon": -117.839666666667,
+        "lat": 36.0656666666667,
+        "depth": 3.91,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km ENE of Coso Junction, CA",
+        "mag": 0.11,
+        "time": 1787267837990,
+        "lon": -117.847333333333,
+        "lat": 36.0661666666667,
+        "depth": 4.65,
+        "source": "USGS"
+      },
+      {
+        "place": "59 km WSW of Nikolski, Alaska",
+        "mag": 1.03,
+        "time": 1787267096200,
+        "lon": -169.728666666667,
+        "lat": 52.8216666666667,
+        "depth": 7.51,
+        "source": "USGS"
+      },
+      {
+        "place": "51 km NNE of Labuan Bajo, Indonesia",
+        "mag": 4.4,
+        "time": 1787266897175,
+        "lon": 120.0081,
+        "lat": -8.0474,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Coso Junction, CA",
+        "mag": 0.94,
+        "time": 1787266335860,
+        "lon": -117.8415,
+        "lat": 36.065,
+        "depth": 2.96,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km SSW of Pāhala, Hawaii",
+        "mag": 2.07,
+        "time": 1787266171120,
+        "lon": -155.494659423828,
+        "lat": 19.1751670837402,
+        "depth": 31.2199993133545,
+        "source": "USGS"
+      },
+      {
+        "place": "60 km S of Whites City, New Mexico",
+        "mag": 2,
+        "time": 1787265845393,
+        "lon": -104.372,
+        "lat": 31.634,
+        "depth": 7.2246,
+        "source": "USGS"
+      },
+      {
+        "place": "66 km SSE of Kokhanok, Alaska",
         "mag": 1.6,
-        "time": 1787249514553,
-        "lon": -152.89,
-        "lat": 60.048,
-        "depth": 118.3,
+        "time": 1787264992633,
+        "lon": -154.418,
+        "lat": 58.875,
+        "depth": 120.1,
         "source": "USGS"
       },
       {
-        "place": "4 km SSW of Pāhala, Hawaii",
-        "mag": 2.04,
-        "time": 1787249260320,
-        "lon": -155.499328613281,
-        "lat": 19.1713333129883,
-        "depth": 29,
+        "place": "8 km ESE of Cloverdale, CA",
+        "mag": 1.56,
+        "time": 1787264973480,
+        "lon": -122.933334350586,
+        "lat": 38.7761650085449,
+        "depth": 5.13000011444092,
         "source": "USGS"
       },
       {
-        "place": "21 km ENE of Pine Valley, CA",
-        "mag": 0.66,
-        "time": 1787249020590,
-        "lon": -116.338666666667,
-        "lat": 32.9196666666667,
-        "depth": 8.95,
+        "place": "75 km NW of Ninilchik, Alaska",
+        "mag": -0.67,
+        "time": 1787264900960,
+        "lon": -152.758833333333,
+        "lat": 60.4581666666667,
+        "depth": 8.23,
         "source": "USGS"
       },
       {
-        "place": "38 km NW of Upahuacho, Peru",
-        "mag": 6.7,
-        "time": 1787248815163,
-        "lon": -73.616,
-        "lat": -14.6262,
-        "depth": 66.665,
-        "source": "USGS"
-      },
-      {
-        "place": "31 km SE of Chickaloon, Alaska",
-        "mag": 3.5,
-        "time": 1787248707739,
-        "lon": -148.103,
-        "lat": 61.566,
-        "depth": 12.4,
-        "source": "USGS"
-      },
-      {
-        "place": "1 km NNE of The Geysers, CA",
-        "mag": 0.86,
-        "time": 1787248694450,
-        "lon": -122.749000549316,
-        "lat": 38.7876663208008,
-        "depth": 0.779999971389771,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km WNW of Cobb, CA",
-        "mag": 0.31,
-        "time": 1787247806400,
-        "lon": -122.849334716797,
-        "lat": 38.8499984741211,
-        "depth": 1.70000004768372,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km NE of Coso Junction, CA",
-        "mag": 0.75,
-        "time": 1787245780500,
-        "lon": -117.884,
-        "lat": 36.0888333333333,
+        "place": "16 km NE of Milford, Utah",
+        "mag": 0.82,
+        "time": 1787264815820,
+        "lon": -112.888,
+        "lat": 38.5083333333333,
         "depth": 2.66,
         "source": "USGS"
       },
       {
-        "place": "52 km SE of Naalehu, Hawaii",
-        "mag": 1.7,
-        "time": 1787244460630,
-        "lon": -155.172332763672,
-        "lat": 18.7946662902832,
-        "depth": 7.94999980926514,
+        "place": "7 km SSE of Home Gardens, CA",
+        "mag": 1.63,
+        "time": 1787264390450,
+        "lon": -117.4815,
+        "lat": 33.8203333333333,
+        "depth": -0.53,
         "source": "USGS"
       },
       {
-        "place": "26 km NNW of Pāhala, Hawaii",
-        "mag": 1.81,
-        "time": 1787244128230,
-        "lon": -155.590835571289,
-        "lat": 19.4211673736572,
-        "depth": 44.5699996948242,
+        "place": "16 km NE of Milford, Utah",
+        "mag": 1.12,
+        "time": 1787264313650,
+        "lon": -112.886333333333,
+        "lat": 38.5088333333333,
+        "depth": 2.63,
         "source": "USGS"
       },
       {
-        "place": "6 km NE of Rancho Cucamonga, CA",
-        "mag": 0.48,
-        "time": 1787243658980,
-        "lon": -117.5395,
-        "lat": 34.163,
-        "depth": 9.26,
+        "place": "27 km W of Cohoe, Alaska",
+        "mag": 2.2,
+        "time": 1787264259968,
+        "lon": -151.799,
+        "lat": 60.409,
+        "depth": 77.6,
         "source": "USGS"
       },
       {
-        "place": "50 km SSW of Covenant Life, Alaska",
-        "mag": 3.1,
-        "time": 1787242481207,
-        "lon": -136.351,
-        "lat": 58.998,
-        "depth": 1.8,
+        "place": "58 km W of Nikolski, Alaska",
+        "mag": 1.33,
+        "time": 1787264065200,
+        "lon": -169.722666666667,
+        "lat": 52.8745,
+        "depth": 0.68,
+        "source": "USGS"
+      },
+      {
+        "place": "16 km NE of Milford, Utah",
+        "mag": 1.25,
+        "time": 1787263799430,
+        "lon": -112.888833333333,
+        "lat": 38.5098333333333,
+        "depth": 2.89,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Coso Junction, CA",
+        "mag": 1.27,
+        "time": 1787263225490,
+        "lon": -117.8415,
+        "lat": 36.065,
+        "depth": 2.72,
+        "source": "USGS"
+      },
+      {
+        "place": "85 km N of Saipan, Northern Mariana Islands",
+        "mag": 4.5,
+        "time": 1787263060312,
+        "lon": 145.6176,
+        "lat": 15.9742,
+        "depth": 213.529,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km NW of The Geysers, CA",
+        "mag": 0.79,
+        "time": 1787262878620,
+        "lon": -122.814002990723,
+        "lat": 38.8291664123535,
+        "depth": 2.0699999332428,
         "source": "USGS"
       },
       {
         "place": "58 km S of Whites City, New Mexico",
-        "mag": 1.6,
-        "time": 1787239825239,
-        "lon": -104.366,
-        "lat": 31.651,
-        "depth": 6.0999,
-        "source": "USGS"
-      },
-      {
-        "place": "38 km NW of Stanton, Texas",
-        "mag": 1.1,
-        "time": 1787238903614,
-        "lon": -102.097,
-        "lat": 32.353,
-        "depth": 8.252,
-        "source": "USGS"
-      },
-      {
-        "place": "38 km NNE of Chenega, Alaska",
         "mag": 1.5,
-        "time": 1787238867342,
-        "lon": -147.795,
-        "lat": 60.396,
-        "depth": 25.4,
+        "time": 1787262793799,
+        "lon": -104.338,
+        "lat": 31.651,
+        "depth": 4.0073,
         "source": "USGS"
       },
       {
-        "place": "7 km WSW of Chelan, Washington",
-        "mag": 1.82483994960785,
-        "time": 1787238646460,
-        "lon": -120.114166259766,
-        "lat": 47.8208351135254,
-        "depth": -0.589999973773956,
+        "place": "15 km N of Warner Springs, CA",
+        "mag": 0.71,
+        "time": 1787262612150,
+        "lon": -116.6405,
+        "lat": 33.4166666666667,
+        "depth": 6.37,
         "source": "USGS"
       },
       {
-        "place": "13 km NNW of Gustavus, Alaska",
-        "mag": 2.5,
-        "time": 1787238164796,
-        "lon": -135.787,
-        "lat": 58.532,
-        "depth": 2.6,
+        "place": "79 km SE of King Salmon, Alaska",
+        "mag": -0.19,
+        "time": 1787262494520,
+        "lon": -155.566,
+        "lat": 58.2573333333333,
+        "depth": 7.12,
         "source": "USGS"
       },
       {
-        "place": "7 km SW of Sand Point, Alaska",
-        "mag": 3.7,
-        "time": 1787237199024,
-        "lon": -160.5879,
-        "lat": 55.2887,
-        "depth": 10,
+        "place": "21 km W of Cohoe, Alaska",
+        "mag": 1.7,
+        "time": 1787261915938,
+        "lon": -151.697,
+        "lat": 60.384,
+        "depth": 78.1,
         "source": "USGS"
       },
       {
-        "place": "11 km ENE of Cloverdale, CA",
-        "mag": 0.79,
-        "time": 1787236737640,
-        "lon": -122.898170471191,
-        "lat": 38.8264999389648,
-        "depth": 4.15999984741211,
+        "place": "17 km SSW of Tambo, Peru",
+        "mag": 4.4,
+        "time": 1787261431187,
+        "lon": -73.9735,
+        "lat": -14.9534,
+        "depth": 86.026,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km SE of Julian, CA",
+        "mag": 0.81,
+        "time": 1787260834530,
+        "lon": -116.520666666667,
+        "lat": 33.0296666666667,
+        "depth": 12.93,
+        "source": "USGS"
+      },
+      {
+        "place": "64 km ENE of Pedro Bay, Alaska",
+        "mag": -0.92,
+        "time": 1787260394610,
+        "lon": -153.0905,
+        "lat": 60.053,
+        "depth": 3.88,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WSW of Anza, CA",
+        "mag": 0.13,
+        "time": 1787260132640,
+        "lon": -116.7265,
+        "lat": 33.5318333333333,
+        "depth": 4.25,
         "source": "USGS"
       },
       {
         "place": "10 km ENE of Coso Junction, CA",
         "mag": 0.7,
-        "time": 1787236502980,
-        "lon": -117.839166666667,
-        "lat": 36.0631666666667,
-        "depth": 3.75,
+        "time": 1787259705540,
+        "lon": -117.8405,
+        "lat": 36.068,
+        "depth": 4.17,
         "source": "USGS"
       },
       {
-        "place": "2 km NE of The Geysers, CA",
-        "mag": 0.73,
-        "time": 1787236296280,
-        "lon": -122.744331359863,
-        "lat": 38.7876663208008,
-        "depth": 1.89999997615814,
-        "source": "USGS"
-      },
-      {
-        "place": "85 km SSW of Singaparna, Indonesia",
-        "mag": 4.5,
-        "time": 1787236293917,
-        "lon": 107.8108,
-        "lat": -8.0612,
-        "depth": 60.864,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km W of Packwood, Washington",
-        "mag": 0.360000014,
-        "time": 1787234662310,
-        "lon": -121.807830810547,
-        "lat": 46.6144981384277,
-        "depth": 1.37000000476837,
-        "source": "USGS"
-      },
-      {
-        "place": "170 km NE of Lorengau, Papua New Guinea",
-        "mag": 4.9,
-        "time": 1787234100053,
-        "lon": 148.5355,
-        "lat": -1.1659,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km NW of The Geysers, CA",
-        "mag": 0.25,
-        "time": 1787233864700,
-        "lon": -122.838333129883,
-        "lat": 38.8398323059082,
-        "depth": 1.24000000953674,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km NW of The Geysers, CA",
-        "mag": 1.12,
-        "time": 1787233701250,
-        "lon": -122.842834472656,
-        "lat": 38.8231658935547,
-        "depth": 1.73000001907349,
-        "source": "USGS"
-      },
-      {
-        "place": "20 km NNE of Fence Lake, New Mexico",
-        "mag": 2.9,
-        "time": 1787233006947,
-        "lon": -108.581,
-        "lat": 34.8169,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km NE of Milford, Utah",
-        "mag": 1.53,
-        "time": 1787232987360,
-        "lon": -112.8875,
-        "lat": 38.5053333333333,
-        "depth": 2.28,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km WSW of Alberto Oviedo Mota, B.C., MX",
-        "mag": 2.69,
-        "time": 1787232748050,
-        "lon": -115.251333333333,
-        "lat": 32.2066666666667,
-        "depth": 8.28,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km WNW of Cobb, CA",
-        "mag": 0.2,
-        "time": 1787232559240,
-        "lon": -122.810836791992,
-        "lat": 38.8376655578613,
-        "depth": 1.64999997615814,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km WNW of Cobb, CA",
-        "mag": 1.13,
-        "time": 1787231837580,
-        "lon": -122.809501647949,
-        "lat": 38.8371658325195,
-        "depth": 1.74000000953674,
-        "source": "USGS"
-      },
-      {
-        "place": "47 km ENE of Pedro Bay, Alaska",
-        "mag": 2.6,
-        "time": 1787231474989,
-        "lon": -153.338,
-        "lat": 59.97,
-        "depth": 145.1,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km WNW of Cobb, CA",
-        "mag": 1,
-        "time": 1787230094290,
-        "lon": -122.797164916992,
-        "lat": 38.837833404541,
-        "depth": 2.16000008583069,
-        "source": "USGS"
-      },
-      {
-        "place": "15 km N of Warner Springs, CA",
-        "mag": 0.8,
-        "time": 1787229818940,
-        "lon": -116.642,
-        "lat": 33.4143333333333,
-        "depth": 6.63,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km ESE of The Geysers, CA",
-        "mag": 0.65,
-        "time": 1787229709820,
-        "lon": -122.729499816895,
-        "lat": 38.7686653137207,
-        "depth": 0.00999999977648258,
-        "source": "USGS"
-      },
-      {
-        "place": "62 km N of Chickaloon, Alaska",
-        "mag": 1.6,
-        "time": 1787229597580,
-        "lon": -148.392,
-        "lat": 62.358,
-        "depth": 6.5,
-        "source": "USGS"
-      },
-      {
-        "place": "31 km SW of Inyokern, CA",
-        "mag": 0,
-        "time": 1787229510860,
-        "lon": -118.027333333333,
-        "lat": 35.4301666666667,
-        "depth": 0,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km WNW of Cobb, CA",
-        "mag": 0.83,
-        "time": 1787229467080,
-        "lon": -122.811500549316,
-        "lat": 38.8383331298828,
-        "depth": 1.78999996185303,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km S of Idyllwild, CA",
-        "mag": 0.24,
-        "time": 1787228866030,
-        "lon": -116.725333333333,
-        "lat": 33.7046666666667,
-        "depth": 17.25,
-        "source": "USGS"
-      },
-      {
-        "place": "217 km E of Levuka, Fiji",
-        "mag": 4.8,
-        "time": 1787228856440,
-        "lon": -178.6517,
-        "lat": -17.7971,
-        "depth": 564.28,
-        "source": "USGS"
-      },
-      {
-        "place": "15 km N of Warner Springs, CA",
-        "mag": 0.27,
-        "time": 1787228851450,
-        "lon": -116.633166666667,
-        "lat": 33.417,
-        "depth": 8.05,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km WSW of Cobb, CA",
-        "mag": 1.05,
-        "time": 1787227665210,
-        "lon": -122.751663208008,
-        "lat": 38.8089981079102,
-        "depth": 0.660000026226044,
-        "source": "USGS"
-      },
-      {
-        "place": "15 km NW of Glacier View, Alaska",
-        "mag": 1.7,
-        "time": 1787227579408,
-        "lon": -147.83,
-        "lat": 61.917,
-        "depth": 34.7,
+        "place": "17 km NNE of Apple Valley, CA",
+        "mag": 1.31,
+        "time": 1787258993350,
+        "lon": -117.113166666667,
+        "lat": 34.644,
+        "depth": -1.31,
         "source": "USGS"
       }
     ],
@@ -786,15 +497,15 @@
       },
       {
         "currency": "AFN",
-        "rate": 65.25
+        "rate": 65.15
       },
       {
         "currency": "ALL",
-        "rate": 79.93
+        "rate": 79.42
       },
       {
         "currency": "AMD",
-        "rate": 364.58
+        "rate": 364.88
       },
       {
         "currency": "ANG",
@@ -802,11 +513,11 @@
       },
       {
         "currency": "AOA",
-        "rate": 923.56
+        "rate": 925.24
       },
       {
         "currency": "ARS",
-        "rate": 1497.53
+        "rate": 1497.29
       },
       {
         "currency": "AUD",
@@ -822,7 +533,7 @@
       },
       {
         "currency": "BAM",
-        "rate": 1.68
+        "rate": 1.67
       },
       {
         "currency": "BBD",
@@ -830,11 +541,11 @@
       },
       {
         "currency": "BDT",
-        "rate": 122.2
+        "rate": 122.21
       },
       {
         "currency": "BGN",
-        "rate": 1.68
+        "rate": 1.67
       },
       {
         "currency": "BHD",
@@ -842,7 +553,7 @@
       },
       {
         "currency": "BIF",
-        "rate": 2991
+        "rate": 2990.34
       },
       {
         "currency": "BMD",
@@ -854,229 +565,12 @@
       },
       {
         "currency": "BOB",
-        "rate": 11.56
+        "rate": 11.53
       }
     ]
   },
-  "entities": [
-    {
-      "id": 1,
-      "name": "Pietų Korėja paleis savo pirmąjį konteinerinį laivą per Arkt",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260820T134500Z",
-      "source": "kauno.diena.lt"
-    },
-    {
-      "id": 2,
-      "name": "Pietų Korėja paleis savo pirmąjį konteinerinį laivą per Arkt",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260820T134500Z",
-      "source": "klaipeda.diena.lt"
-    },
-    {
-      "id": 3,
-      "name": "US Lifts Longstanding Maritime Restriction on Nigeria",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260819T211500Z",
-      "source": "africa.com"
-    },
-    {
-      "id": 4,
-      "name": "Nigeria Upbeat Over Maritime Competitiveness After US Lifts ",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260820T003000Z",
-      "source": "maritime-executive.com"
-    },
-    {
-      "id": 5,
-      "name": "FM Dar says six Pakistani sailors return safely after Houthi",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260820T080000Z",
-      "source": "tribune.com.pk"
-    },
-    {
-      "id": 6,
-      "name": "South Korea to send its first container ship through Arctic",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260820T083000Z",
-      "source": "arynews.tv"
-    },
-    {
-      "id": 7,
-      "name": "South Korean container ship will test Arctic route to Europe",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260820T001500Z",
-      "source": "koreaherald.com"
-    },
-    {
-      "id": 8,
-      "name": "South Korean Container Ship Will Test Arctic Route",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260820T003000Z",
-      "source": "marinelink.com"
-    },
-    {
-      "id": 9,
-      "name": "World News : Container ship from Seoul will test Arctic rout",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260819T234500Z",
-      "source": "gdnonline.com"
-    },
-    {
-      "id": 10,
-      "name": "부산~유럽 7000㎞ 줄인다 … 컨테이너선 첫 북극항로 실증",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260820T143000Z",
-      "source": "heraldk.com"
-    }
-  ],
-  "events": [
-    {
-      "title": "Pietų Korėja paleis savo pirmąjį konteinerinį laivą per Arkties vandenyną",
-      "url": "https://kauno.diena.lt/naujienos/pasaulis/ekonomika-ir-politika/pietu-koreja-paleis-savo-pirmaji-konteinerini-laiva-arkties-vandenyna-1770987",
-      "domain": "kauno.diena.lt",
-      "language": "Lithuanian",
-      "tone": 0,
-      "seendate": "20260820T134500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Pietų Korėja paleis savo pirmąjį konteinerinį laivą per Arkties vandenyną",
-      "url": "https://klaipeda.diena.lt/naujienos/pasaulis/ekonomika-ir-politika/pietu-koreja-paleis-savo-pirmaji-konteinerini-laiva-arkties-vandenyna-1770987",
-      "domain": "klaipeda.diena.lt",
-      "language": "Lithuanian",
-      "tone": 0,
-      "seendate": "20260820T134500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "US Lifts Longstanding Maritime Restriction on Nigeria",
-      "url": "https://www.africa.com/top-10-news/us-lifts-longstanding-maritime-restriction-on-nigeria",
-      "domain": "africa.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260819T211500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Nigeria Upbeat Over Maritime Competitiveness After US Lifts 12 - Year Ban",
-      "url": "https://maritime-executive.com/article/nigeria-upbeat-over-maritime-competitiveness-after-us-lifts-12-year-ban",
-      "domain": "maritime-executive.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260820T003000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "FM Dar says six Pakistani sailors return safely after Houthi attack , two bodies repatriated",
-      "url": "https://tribune.com.pk/story/2624891/dar-says-six-pakistani-sailors-return-safely-after-houthi-attack-two-bodies-repatriated",
-      "domain": "tribune.com.pk",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260820T080000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "South Korea to send its first container ship through Arctic",
-      "url": "https://arynews.tv/south-korea-send-its-first-container-ship-arctic",
-      "domain": "arynews.tv",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260820T083000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "South Korean container ship will test Arctic route to Europe amid Western concern",
-      "url": "https://www.koreaherald.com/article/10846131",
-      "domain": "koreaherald.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260820T001500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "South Korean Container Ship Will Test Arctic Route",
-      "url": "https://www.marinelink.com/news/south-korean-container-ship-test-arctic-542255",
-      "domain": "marinelink.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260820T003000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "World News : Container ship from Seoul will test Arctic route to Europe",
-      "url": "https://www.gdnonline.com:443/Details/1403958",
-      "domain": "gdnonline.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260819T234500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "부산~유럽 7000㎞ 줄인다 … 컨테이너선 첫 북극항로 실증",
-      "url": "https://www.heraldk.com/article/2026082005052433820",
-      "domain": "heraldk.com",
-      "language": "Korean",
-      "tone": 0,
-      "seendate": "20260820T143000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "SKorean container ship to test Arctic route to Europe",
-      "url": "https://www.standard.net.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
-      "domain": "standard.net.au",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260819T204500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "SKorean container ship to test Arctic route to Europe",
-      "url": "https://www.bendigoadvertiser.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
-      "domain": "bendigoadvertiser.com.au",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260819T210000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "SKorean container ship to test Arctic route to Europe",
-      "url": "https://www.theadvocate.com.au/story/9333802/skorean-container-ship-to-test-arctic-route-to-europe/",
-      "domain": "theadvocate.com.au",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260819T211500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Navios Maritime Partners L . P . Reports Financial Results for the Second Quarter and Six Months Ended June 30 , 2026",
-      "url": "https://www.manilatimes.net/2026/08/20/tmt-newswire/globenewswire/navios-maritime-partners-lp-reports-financial-results-for-the-second-quarter-and-six-months-ended-june-30-2026/2409165",
-      "domain": "manilatimes.net",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260820T123000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "A Fatal Strike and the First Seizure Since June as Iran Transit Rules Take Effect",
-      "url": "https://www.hellenicshippingnews.com/a-fatal-strike-and-the-first-seizure-since-june-as-irans-transit-rules-take-effect/",
-      "domain": "hellenicshippingnews.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260819T221500Z",
-      "source": "GDELT"
-    }
-  ],
+  "entities": [],
+  "events": [],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
