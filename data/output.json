@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-21T01:51:32.100785+00:00",
+    "generated": "2026-08-21T07:01:56.322357+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -36,6 +36,438 @@
     "gdelt_articles": [],
     "earthquakes": [
       {
+        "place": "47 km SW of Nanwalek, Alaska",
+        "mag": 1.8,
+        "time": 1787295401016,
+        "lon": -152.509,
+        "lat": 59.05,
+        "depth": 68.6,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km WSW of Progreso, B.C., MX",
+        "mag": 2.12,
+        "time": 1787294962150,
+        "lon": -115.666,
+        "lat": 32.536,
+        "depth": 6.85,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km NW of The Geysers, CA",
+        "mag": 0.27,
+        "time": 1787294308330,
+        "lon": -122.817169189453,
+        "lat": 38.8310012817383,
+        "depth": 1.75,
+        "source": "USGS"
+      },
+      {
+        "place": "34 km WSW of Ackerly, Texas",
+        "mag": 2,
+        "time": 1787293563049,
+        "lon": -102.053,
+        "lat": 32.395,
+        "depth": 3.9196,
+        "source": "USGS"
+      },
+      {
+        "place": "27 km ENE of Pine Valley, CA",
+        "mag": 1.03,
+        "time": 1787293534060,
+        "lon": -116.259333333333,
+        "lat": 32.9155,
+        "depth": 7.48,
+        "source": "USGS"
+      },
+      {
+        "place": "14 km ESE of Susitna North, Alaska",
+        "mag": 1.3,
+        "time": 1787293474274,
+        "lon": -149.608,
+        "lat": 62.102,
+        "depth": 66.3,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WNW of Cobb, CA",
+        "mag": 1.26,
+        "time": 1787292657830,
+        "lon": -122.790000915527,
+        "lat": 38.8356666564941,
+        "depth": 1.89999997615814,
+        "source": "USGS"
+      },
+      {
+        "place": "south of Africa",
+        "mag": 4.6,
+        "time": 1787291806764,
+        "lon": 23.5692,
+        "lat": -53.142,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "41 km NW of Toyah, Texas",
+        "mag": 1.9,
+        "time": 1787291760054,
+        "lon": -104.096,
+        "lat": 31.581,
+        "depth": 7.6383,
+        "source": "USGS"
+      },
+      {
+        "place": "44 km NW of Toyah, Texas",
+        "mag": 1.9,
+        "time": 1787291760028,
+        "lon": -104.109,
+        "lat": 31.612,
+        "depth": 4.6803,
+        "source": "USGS"
+      },
+      {
+        "place": "37 km NNE of Chenega, Alaska",
+        "mag": 1.6,
+        "time": 1787291014623,
+        "lon": -147.793,
+        "lat": 60.385,
+        "depth": 14.4,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km NNE of May Creek, Washington",
+        "mag": 1.80105185508728,
+        "time": 1787290606090,
+        "lon": -121.653999328613,
+        "lat": 47.8701667785645,
+        "depth": -0.0599999986588955,
+        "source": "USGS"
+      },
+      {
+        "place": "76 km SSE of Nikolski, Alaska",
+        "mag": 2.6,
+        "time": 1787289802301,
+        "lon": -168.259,
+        "lat": 52.359,
+        "depth": 4.2,
+        "source": "USGS"
+      },
+      {
+        "place": "108 km S of False Pass, Alaska",
+        "mag": 2.8,
+        "time": 1787289725102,
+        "lon": -163.2628,
+        "lat": 53.8814,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "75 km WSW of Nanwalek, Alaska",
+        "mag": 1.8,
+        "time": 1787289485459,
+        "lon": -153.089,
+        "lat": 59.04,
+        "depth": 80,
+        "source": "USGS"
+      },
+      {
+        "place": "103 km S of False Pass, Alaska",
+        "mag": 2.4,
+        "time": 1787289183306,
+        "lon": -163.154,
+        "lat": 53.939,
+        "depth": 22.5,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km N of Warner Springs, CA",
+        "mag": 0.54,
+        "time": 1787287902370,
+        "lon": -116.643333333333,
+        "lat": 33.4126666666667,
+        "depth": 6.58,
+        "source": "USGS"
+      },
+      {
+        "place": "50 km WSW of Carlsbad, CA",
+        "mag": 1.53,
+        "time": 1787287811150,
+        "lon": -117.8315,
+        "lat": 32.967,
+        "depth": 0.28,
+        "source": "USGS"
+      },
+      {
+        "place": "44 km WSW of Carlsbad, CA",
+        "mag": 1.85,
+        "time": 1787287708410,
+        "lon": -117.7905,
+        "lat": 33.0023333333333,
+        "depth": 14.21,
+        "source": "USGS"
+      },
+      {
+        "place": "14 km SSE of Bodfish, CA",
+        "mag": 1.14,
+        "time": 1787287258140,
+        "lon": -118.429166666667,
+        "lat": 35.4706666666667,
+        "depth": 1.65,
+        "source": "USGS"
+      },
+      {
+        "place": "52 km ENE of Port Alsworth, Alaska",
+        "mag": 2,
+        "time": 1787286896707,
+        "lon": -153.452,
+        "lat": 60.408,
+        "depth": 183.7,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km ENE of Saint Helena, CA",
+        "mag": 1.81,
+        "time": 1787285972780,
+        "lon": -122.427001953125,
+        "lat": 38.5136680603027,
+        "depth": 6.19999980926514,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km SW of Volcano, Hawaii",
+        "mag": 1.73,
+        "time": 1787285897980,
+        "lon": -155.280334472656,
+        "lat": 19.4011669158936,
+        "depth": 6.80999994277954,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km ESE of Cloverdale, CA",
+        "mag": 1.71,
+        "time": 1787285367590,
+        "lon": -122.936668395996,
+        "lat": 38.7700004577637,
+        "depth": 6.53000020980835,
+        "source": "USGS"
+      },
+      {
+        "place": "55 km NE of Nikolski, Alaska",
+        "mag": 1.4,
+        "time": 1787284753729,
+        "lon": -168.202,
+        "lat": 53.234,
+        "depth": 90.1,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km SSE of Volcano, Hawaii",
+        "mag": 1.81,
+        "time": 1787284634630,
+        "lon": -155.208831787109,
+        "lat": 19.3355007171631,
+        "depth": 1.3400000333786,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km NW of Lake Henshaw, CA",
+        "mag": 0.25,
+        "time": 1787283766890,
+        "lon": -116.830333333333,
+        "lat": 33.2868333333333,
+        "depth": 15.75,
+        "source": "USGS"
+      },
+      {
+        "place": "41 km W of Tyonek, Alaska",
+        "mag": 1.3,
+        "time": 1787283469703,
+        "lon": -151.903,
+        "lat": 61.086,
+        "depth": 90.5,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km E of Whittier, Alaska",
+        "mag": 2,
+        "time": 1787282850176,
+        "lon": -148.617,
+        "lat": 60.77,
+        "depth": 17.1,
+        "source": "USGS"
+      },
+      {
+        "place": "100 km S of False Pass, Alaska",
+        "mag": 4.2,
+        "time": 1787282064017,
+        "lon": -163.3413,
+        "lat": 53.9496,
+        "depth": 30.859,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km NNW of Warner Springs, CA",
+        "mag": 0.25,
+        "time": 1787281862120,
+        "lon": -116.6925,
+        "lat": 33.3773333333333,
+        "depth": 11.44,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km SW of Warner Springs, CA",
+        "mag": 1.6086078688126,
+        "time": 1787281044380,
+        "lon": -116.64966583252,
+        "lat": 33.2681655883789,
+        "depth": 9.92000007629395,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Coso Junction, CA",
+        "mag": 1.08,
+        "time": 1787280732810,
+        "lon": -117.837833333333,
+        "lat": 36.0631666666667,
+        "depth": 2.63,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km SW of Pāhala, Hawaii",
+        "mag": 1.77,
+        "time": 1787280469070,
+        "lon": -155.503326416016,
+        "lat": 19.173999786377,
+        "depth": 31.3199996948242,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km NW of Redwood Valley, CA",
+        "mag": 1.59,
+        "time": 1787280051170,
+        "lon": -123.271667480469,
+        "lat": 39.3176651000977,
+        "depth": 6.98999977111816,
+        "source": "USGS"
+      },
+      {
+        "place": "146 km N of Cruz Bay, U.S. Virgin Islands",
+        "mag": 3.1,
+        "time": 1787279801857,
+        "lon": -64.707,
+        "lat": 19.6533,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "26 km NNE of Ruteng, Indonesia",
+        "mag": 4.6,
+        "time": 1787279587261,
+        "lon": 120.5112,
+        "lat": -8.3786,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km SSW of Pāhala, Hawaii",
+        "mag": 1.71,
+        "time": 1787279546800,
+        "lon": -155.488998413086,
+        "lat": 19.1615009307861,
+        "depth": 29.5400009155273,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Coso Junction, CA",
+        "mag": 0.66,
+        "time": 1787279271480,
+        "lon": -117.8375,
+        "lat": 36.0641666666667,
+        "depth": 2.73,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Coso Junction, CA",
+        "mag": 0.8,
+        "time": 1787279007120,
+        "lon": -117.84,
+        "lat": 36.0658333333333,
+        "depth": 2.6,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Coso Junction, CA",
+        "mag": 0.86,
+        "time": 1787278681560,
+        "lon": -117.837166666667,
+        "lat": 36.064,
+        "depth": 2.7,
+        "source": "USGS"
+      },
+      {
+        "place": "39 km N of Ruteng, Indonesia",
+        "mag": 4.4,
+        "time": 1787278641555,
+        "lon": 120.4258,
+        "lat": -8.2543,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "61 km WSW of Nikolski, Alaska",
+        "mag": 1.9,
+        "time": 1787278340356,
+        "lon": -169.75,
+        "lat": 52.797,
+        "depth": 17.4,
+        "source": "USGS"
+      },
+      {
+        "place": "11 km NNW of Ilgaz, Turkey",
+        "mag": 4.3,
+        "time": 1787277978768,
+        "lon": 33.5713,
+        "lat": 41.0198,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km NNE of Ocotillo Wells, CA",
+        "mag": 1.53,
+        "time": 1787277713760,
+        "lon": -116.085666666667,
+        "lat": 33.2158333333333,
+        "depth": 8.95,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km E of Long Beach, CA",
+        "mag": 1.73,
+        "time": 1787277490640,
+        "lon": -118.138666666667,
+        "lat": 33.8038333333333,
+        "depth": 3.33,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km SE of Julian, CA",
+        "mag": 0.73,
+        "time": 1787277412780,
+        "lon": -116.522833333333,
+        "lat": 33.0281666666667,
+        "depth": 12.69,
+        "source": "USGS"
+      },
+      {
+        "place": "234 km ESE of Attu Station, Alaska",
+        "mag": 3.4,
+        "time": 1787276967510,
+        "lon": 176.324,
+        "lat": 51.982,
+        "depth": 14.7,
+        "source": "USGS"
+      },
+      {
         "place": "17 km ESE of Little Lake, CA",
         "mag": 0.19,
         "time": 1787276751230,
@@ -45,444 +477,12 @@
         "source": "USGS"
       },
       {
-        "place": "9 km SW of Leilani Estates, Hawaii",
-        "mag": 1.91,
-        "time": 1787276482850,
-        "lon": -154.979827880859,
-        "lat": 19.4044990539551,
-        "depth": 3.8199999332428,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km WNW of Cobb, CA",
-        "mag": 0.96,
-        "time": 1787276460470,
-        "lon": -122.781997680664,
-        "lat": 38.8359985351562,
-        "depth": 1.6599999666214,
-        "source": "USGS"
-      },
-      {
-        "place": "67 km SE of Pope-Vannoy Landing, Alaska",
-        "mag": 1.8,
-        "time": 1787275946770,
-        "lon": -153.579,
-        "lat": 59.176,
-        "depth": 103.5,
-        "source": "USGS"
-      },
-      {
-        "place": "45 km NNE of Ruteng, Indonesia",
-        "mag": 4.6,
-        "time": 1787275085726,
-        "lon": 120.5956,
-        "lat": -8.2183,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "72 km SSW of Ugashik, Alaska",
-        "mag": 3.1,
-        "time": 1787274784785,
-        "lon": -157.656,
-        "lat": 56.88,
-        "depth": 131.4,
-        "source": "USGS"
-      },
-      {
-        "place": "73 km SSE of Akutan, Alaska",
-        "mag": 4.3,
-        "time": 1787274710896,
-        "lon": -165.3313,
-        "lat": 53.524,
-        "depth": 35,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km NNE of Warner Springs, CA",
-        "mag": 0.27,
-        "time": 1787274449230,
-        "lon": -116.584666666667,
-        "lat": 33.3505,
-        "depth": 11.2,
-        "source": "USGS"
-      },
-      {
-        "place": "55 km NW of Toyah, Texas",
-        "mag": 2.5,
-        "time": 1787274281822,
-        "lon": -104.222,
-        "lat": 31.655,
-        "depth": 6.4716,
-        "source": "USGS"
-      },
-      {
-        "place": "55 km NW of Toyah, Texas",
-        "mag": 2,
-        "time": 1787273508709,
-        "lon": -104.232,
-        "lat": 31.651,
-        "depth": 4.3492,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 0.61,
-        "time": 1787273138930,
-        "lon": -117.839833333333,
-        "lat": 36.064,
-        "depth": 3.31,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km E of El Negro, Puerto Rico",
-        "mag": 2.07,
-        "time": 1787273032890,
-        "lon": -65.7563333333333,
-        "lat": 18.0478333333333,
-        "depth": 6.92,
-        "source": "USGS"
-      },
-      {
-        "place": "70 km NE of Lake Minchumina, Alaska",
-        "mag": 2.3,
-        "time": 1787272854680,
-        "lon": -151.153,
-        "lat": 64.266,
-        "depth": 2.1,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km S of Pāhala, Hawaii",
-        "mag": 2.26,
-        "time": 1787272596420,
-        "lon": -155.486831665039,
-        "lat": 19.1608333587646,
-        "depth": 30.2800006866455,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km WSW of Anza, CA",
-        "mag": 0.6,
-        "time": 1787272365350,
-        "lon": -116.7275,
-        "lat": 33.5286666666667,
-        "depth": 6.37,
-        "source": "USGS"
-      },
-      {
-        "place": "23 km ESE of Ridgecrest, CA",
-        "mag": 0.9,
-        "time": 1787271746410,
-        "lon": -117.449833333333,
-        "lat": 35.524,
-        "depth": 4.66,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km SSW of Elmendorf Air Force Base, Alaska",
-        "mag": 1.9,
-        "time": 1787270981139,
-        "lon": -149.68,
-        "lat": 61.162,
-        "depth": 13,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km ESE of Naalehu, Hawaii",
-        "mag": 1.76,
-        "time": 1787270148800,
-        "lon": -155.424163818359,
-        "lat": 19.0323333740234,
-        "depth": 34.3499984741211,
-        "source": "USGS"
-      },
-      {
-        "place": "Pacific-Antarctic Ridge",
-        "mag": 5,
-        "time": 1787269001054,
-        "lon": -141.4541,
-        "lat": -56.5921,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "62 km E of Pedro Bay, Alaska",
-        "mag": 1.5,
-        "time": 1787268085954,
-        "lon": -152.987,
-        "lat": 59.753,
-        "depth": 98.1,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 1.16,
-        "time": 1787267943420,
-        "lon": -117.841166666667,
-        "lat": 36.063,
-        "depth": 2.67,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 0.63,
-        "time": 1787267856230,
-        "lon": -117.839666666667,
-        "lat": 36.0656666666667,
-        "depth": 3.91,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km ENE of Coso Junction, CA",
-        "mag": 0.11,
-        "time": 1787267837990,
-        "lon": -117.847333333333,
-        "lat": 36.0661666666667,
-        "depth": 4.65,
-        "source": "USGS"
-      },
-      {
-        "place": "59 km WSW of Nikolski, Alaska",
-        "mag": 1.03,
-        "time": 1787267096200,
-        "lon": -169.728666666667,
-        "lat": 52.8216666666667,
-        "depth": 7.51,
-        "source": "USGS"
-      },
-      {
-        "place": "51 km NNE of Labuan Bajo, Indonesia",
-        "mag": 4.4,
-        "time": 1787266897175,
-        "lon": 120.0081,
-        "lat": -8.0474,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 0.94,
-        "time": 1787266335860,
-        "lon": -117.8415,
-        "lat": 36.065,
-        "depth": 2.96,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km SSW of Pāhala, Hawaii",
-        "mag": 2.07,
-        "time": 1787266171120,
-        "lon": -155.494659423828,
-        "lat": 19.1751670837402,
-        "depth": 31.2199993133545,
-        "source": "USGS"
-      },
-      {
-        "place": "60 km S of Whites City, New Mexico",
-        "mag": 2,
-        "time": 1787265845393,
-        "lon": -104.372,
-        "lat": 31.634,
-        "depth": 7.2246,
-        "source": "USGS"
-      },
-      {
-        "place": "66 km SSE of Kokhanok, Alaska",
-        "mag": 1.6,
-        "time": 1787264992633,
-        "lon": -154.418,
-        "lat": 58.875,
-        "depth": 120.1,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km ESE of Cloverdale, CA",
-        "mag": 1.56,
-        "time": 1787264973480,
-        "lon": -122.933334350586,
-        "lat": 38.7761650085449,
-        "depth": 5.13000011444092,
-        "source": "USGS"
-      },
-      {
-        "place": "75 km NW of Ninilchik, Alaska",
-        "mag": -0.67,
-        "time": 1787264900960,
-        "lon": -152.758833333333,
-        "lat": 60.4581666666667,
-        "depth": 8.23,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km NE of Milford, Utah",
-        "mag": 0.82,
-        "time": 1787264815820,
-        "lon": -112.888,
-        "lat": 38.5083333333333,
-        "depth": 2.66,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km SSE of Home Gardens, CA",
-        "mag": 1.63,
-        "time": 1787264390450,
-        "lon": -117.4815,
-        "lat": 33.8203333333333,
-        "depth": -0.53,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km NE of Milford, Utah",
-        "mag": 1.12,
-        "time": 1787264313650,
-        "lon": -112.886333333333,
-        "lat": 38.5088333333333,
-        "depth": 2.63,
-        "source": "USGS"
-      },
-      {
-        "place": "27 km W of Cohoe, Alaska",
-        "mag": 2.2,
-        "time": 1787264259968,
-        "lon": -151.799,
-        "lat": 60.409,
-        "depth": 77.6,
-        "source": "USGS"
-      },
-      {
-        "place": "58 km W of Nikolski, Alaska",
-        "mag": 1.33,
-        "time": 1787264065200,
-        "lon": -169.722666666667,
-        "lat": 52.8745,
-        "depth": 0.68,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km NE of Milford, Utah",
-        "mag": 1.25,
-        "time": 1787263799430,
-        "lon": -112.888833333333,
-        "lat": 38.5098333333333,
-        "depth": 2.89,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 1.27,
-        "time": 1787263225490,
-        "lon": -117.8415,
-        "lat": 36.065,
-        "depth": 2.72,
-        "source": "USGS"
-      },
-      {
-        "place": "85 km N of Saipan, Northern Mariana Islands",
-        "mag": 4.5,
-        "time": 1787263060312,
-        "lon": 145.6176,
-        "lat": 15.9742,
-        "depth": 213.529,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km NW of The Geysers, CA",
-        "mag": 0.79,
-        "time": 1787262878620,
-        "lon": -122.814002990723,
-        "lat": 38.8291664123535,
-        "depth": 2.0699999332428,
-        "source": "USGS"
-      },
-      {
-        "place": "58 km S of Whites City, New Mexico",
-        "mag": 1.5,
-        "time": 1787262793799,
-        "lon": -104.338,
-        "lat": 31.651,
-        "depth": 4.0073,
-        "source": "USGS"
-      },
-      {
-        "place": "15 km N of Warner Springs, CA",
-        "mag": 0.71,
-        "time": 1787262612150,
-        "lon": -116.6405,
-        "lat": 33.4166666666667,
-        "depth": 6.37,
-        "source": "USGS"
-      },
-      {
-        "place": "79 km SE of King Salmon, Alaska",
-        "mag": -0.19,
-        "time": 1787262494520,
-        "lon": -155.566,
-        "lat": 58.2573333333333,
-        "depth": 7.12,
-        "source": "USGS"
-      },
-      {
-        "place": "21 km W of Cohoe, Alaska",
-        "mag": 1.7,
-        "time": 1787261915938,
-        "lon": -151.697,
-        "lat": 60.384,
-        "depth": 78.1,
-        "source": "USGS"
-      },
-      {
-        "place": "17 km SSW of Tambo, Peru",
-        "mag": 4.4,
-        "time": 1787261431187,
-        "lon": -73.9735,
-        "lat": -14.9534,
-        "depth": 86.026,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km SE of Julian, CA",
-        "mag": 0.81,
-        "time": 1787260834530,
-        "lon": -116.520666666667,
-        "lat": 33.0296666666667,
-        "depth": 12.93,
-        "source": "USGS"
-      },
-      {
-        "place": "64 km ENE of Pedro Bay, Alaska",
-        "mag": -0.92,
-        "time": 1787260394610,
-        "lon": -153.0905,
-        "lat": 60.053,
-        "depth": 3.88,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km WSW of Anza, CA",
-        "mag": 0.13,
-        "time": 1787260132640,
-        "lon": -116.7265,
-        "lat": 33.5318333333333,
-        "depth": 4.25,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 0.7,
-        "time": 1787259705540,
-        "lon": -117.8405,
-        "lat": 36.068,
-        "depth": 4.17,
-        "source": "USGS"
-      },
-      {
-        "place": "17 km NNE of Apple Valley, CA",
-        "mag": 1.31,
-        "time": 1787258993350,
-        "lon": -117.113166666667,
-        "lat": 34.644,
-        "depth": -1.31,
+        "place": "88 km SSE of Akutan, Alaska",
+        "mag": 2.1,
+        "time": 1787276542072,
+        "lon": -165.344,
+        "lat": 53.382,
+        "depth": 11.7,
         "source": "USGS"
       }
     ],
