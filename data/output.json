@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-22T06:54:27.381452+00:00",
+    "generated": "2026-08-22T08:44:04.055018+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -33,403 +33,141 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [
-      {
-        "title": "₹2 , 008 cr investment push for Paradip port to speed up cargo movement",
-        "url": "https://www.business-standard.com/industry/news/2-008-cr-investment-push-for-paradip-port-to-speed-up-cargo-movement-126082101367_1.html",
-        "domain": "business-standard.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T164500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Sarbananda Sonowal inaugurates 7 projects at Paradip Port , marks 18 . 5 - metre deep - draft capability",
-        "url": "https://www.prokerala.com/news/articles/a1803129.html",
-        "domain": "prokerala.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T143000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Oyetola : Lagos , Eastern ports to complement each other",
-        "url": "https://thenationonlineng.net/oyetola-lagos-eastern-ports-to-complement-each-other/",
-        "domain": "thenationonlineng.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T111500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Κικίλιας στη Λεμεσό για τη « ναυτική δύναμη » της Μεσογείου – Σύμφωνα με πληροφορίες της HuffPost , στο τραπέζι Ορμούζ και Μαύρη Θάλασσα - HuffPost - Ειδήσεις και Απόψεις από την Ελλάδα και τον ΚόσμοΚικίλιας στη Λεμεσό για τη « ναυτική δύναμη » της Μ...",
-        "url": "https://www.huffingtonpost.gr/politiki/kikilias-sti-lemeso-gia-ti-naftiki-dynami-tis-mesogeiou-symfona-me-plirofories-tis-huffpost-sto-trapezi-ormouz-kai-mavri-thalassa/",
-        "domain": "huffingtonpost.gr",
-        "language": "Greek",
-        "tone": 0,
-        "seendate": "20260821T134500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Sonowal inaugurates 7 major infrastructure projects worth 427 . 80 crore in Paradip",
-        "url": "http://www.asiabulletin.com/news/279256930/sonowal-inaugurates-7-major-infrastructure-projects-worth-42780-crore-in-paradip",
-        "domain": "asiabulletin.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T203000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Sonowal inaugurates 7 major infrastructure projects worth 427 . 80 crore in Paradip",
-        "url": "http://www.indiagazette.com/news/279256930/sonowal-inaugurates-7-major-infrastructure-projects-worth-42780-crore-in-paradip",
-        "domain": "indiagazette.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T210000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Sonowal inaugurates 7 major infrastructure projects worth 427 . 80 crore in Paradip",
-        "url": "http://www.calcuttanews.net/news/279256930/sonowal-inaugurates-7-major-infrastructure-projects-worth-42780-crore-in-paradip",
-        "domain": "calcuttanews.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T213000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Tankers Stack Up as Venezuela Sells Oil Faster Than Its Ports Can Handle",
-        "url": "https://gcaptain.com/tankers-stack-up-as-venezuela-sells-oil-faster-than-its-ports-can-handle/",
-        "domain": "gcaptain.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T134500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "US Lifts 12 - Year Security Curbs On Nigerian Ships , Boosting Port Competitiveness",
-        "url": "https://naija247news.com/us-lifts-12-year-security-curbs-on-nigerian-ships-boosting-port-competitiveness/",
-        "domain": "naija247news.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T233000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Port Of Corpus Christi To Explore Nuclear Technology - The Waterways Journal",
-        "url": "https://www.waterwaysjournal.net/2026/08/21/port-of-corpus-christi-to-explore-nuclear-technology/",
-        "domain": "waterwaysjournal.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T163000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "S . Korean Ship to Test Arctic Route to Europe but Western Allies Concerned",
-        "url": "https://www.insurancejournal.com/news/international/2026/08/21/882398.htm",
-        "domain": "insurancejournal.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T110000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Hormuz stranded ships may spread invasive species",
-        "url": "https://www.pakistantoday.com.pk/2026/08/21/study-warns-stranded-hormuz-ships-could-spread-invasive-marine-species-worldwide",
-        "domain": "pakistantoday.com.pk",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T203000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "More than 1 , 500 ships stuck in Strait of Hormuz may trigger global biological invasions",
-        "url": "https://aa.com.tr/en/us-israel-iran-war/more-than-1-500-ships-stuck-in-strait-of-hormuz-may-trigger-global-biological-invasions/4033716",
-        "domain": "aa.com.tr",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T110000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "More than 1 , 500 ships stuck in Strait of Hormuz may trigger global biological invasions",
-        "url": "https://www.middleeastmonitor.com/20260821-more-than-1500-ships-stuck-in-strait-of-hormuz-may-trigger-global-biological-invasions/",
-        "domain": "middleeastmonitor.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T170000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Piracy comeback puts fresh pressure on marine war risk and K & R cover",
-        "url": "https://www.insurancebusinessmag.com/us/news/marine/piracy-comeback-puts-fresh-pressure-on-marine-war-risk-and-kandr-cover-587081.aspx",
-        "domain": "insurancebusinessmag.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T210000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Soaring Panama Canal Fees Drive a Nascent LPG Shuttle Trade",
-        "url": "https://gcaptain.com/soaring-panama-canal-fees-drive-a-nascent-lpg-shuttle-trade-2/",
-        "domain": "gcaptain.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T134500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Tanqueros se acumulan frente a Venezuela mientras crecen las trabas para exportar crudo",
-        "url": "https://noticierodigital.com/2026/08/tanqueros-se-acumulan-frente-a-venezuela-mientras-crecen-las-trabas-para-exportar-crudo/",
-        "domain": "noticierodigital.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260822T030000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "The humanity behind the technology of the Pulse app",
-        "url": "https://www.manilatimes.net/2026/08/22/business/science-technology/the-humanity-behind-the-technology-of-the-pulse-app/2410184",
-        "domain": "manilatimes.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T191500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Es probable que la sequía provocada por El Niño en Panamá eleve los precios de todo , desde medicamentos hasta combustible",
-        "url": "https://cnnespanol.cnn.com/2026/08/21/economia/sequia-nino-panama-precios-combustible-trax",
-        "domain": "cnnespanol.cnn.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260821T110000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Gaza mediators say latest Israeli strikes undermine efforts to end conflict at critical stage | Ariana News",
-        "url": "https://www.ariananews.af/gaza-mediators-say-latest-israeli-strikes-undermine-efforts-to-end-conflict-at-critical-stage/",
-        "domain": "ariananews.af",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T110000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "El Niño - caused drought is likely to raise prices on consumers",
-        "url": "https://edition.cnn.com/2026/08/21/climate/el-nino-panama-canal-drought-price-increase-consumers",
-        "domain": "edition.cnn.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T133000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Who Governs Somalia Seas ?  Piracy , Foreign Force and the Political Economy of Maritime Disorder",
-        "url": "https://wardheernews.com/who-governs-somalias-seas-piracy-foreign-force-and-the-political-economy-of-maritime-disorder/",
-        "domain": "wardheernews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T201500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Great Lakes Freight Study Eyes Lakes - Rivers Cargo Growth",
-        "url": "https://www.waterwaysjournal.net/2026/08/21/great-lakes-freight-study-eyes-lakes-rivers-cargo-growth/",
-        "domain": "waterwaysjournal.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T163000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "نيويورك تايمز : لا تستهينوا بالحوثيين وعلى العالم التعامل معهم كطرف مستقل لا كتابعين لإيران",
-        "url": "https://www.alquds.co.uk/%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D9%84%D8%A7-%D8%AA%D8%B3%D8%AA%D9%87%D9%8A%D9%86%D9%88%D8%A7-%D8%A8%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D9%88/",
-        "domain": "alquds.co.uk",
-        "language": "Arabic",
-        "tone": 0,
-        "seendate": "20260821T090000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "CNBC : Τρόφιμα - Η « τέλεια καταιγίδα » που φέρνει νέο κύμα ακρίβειας",
-        "url": "https://www.lykavitos.gr/news/greece/cnbc-trofima-i-teleia-kataigida-pou-fernei-neo-kyma-akriveias",
-        "domain": "lykavitos.gr",
-        "language": "Greek",
-        "tone": 0,
-        "seendate": "20260821T194500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
-        "url": "http://www.afghanistansun.com/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
-        "domain": "afghanistansun.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T223000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
-        "url": "http://www.azerbaijannews.net/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
-        "domain": "azerbaijannews.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T234500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Sanctioned Iran - Linked Tanker Seized By Pirates",
-        "url": "http://www.middleeaststar.com/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
-        "domain": "middleeaststar.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T194500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Sanctioned Iran - Linked Tanker Seized By Pirates",
-        "url": "http://www.cambodiantimes.com/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
-        "domain": "cambodiantimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T191500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Sanctioned Iran - Linked Tanker Seized By Pirates",
-        "url": "http://www.britainnews.net/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
-        "domain": "britainnews.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T184500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Sanctioned Iran - Linked Tanker Seized By Pirates",
-        "url": "http://www.brazilsun.com/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
-        "domain": "brazilsun.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T184500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Sanctioned Iran - Linked Tanker Seized By Pirates",
-        "url": "http://www.centralasiatimes.com/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
-        "domain": "centralasiatimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T180000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Sanctioned Iran - Linked Tanker Seized By Pirates",
-        "url": "http://www.shanghaisun.com/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
-        "domain": "shanghaisun.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T173000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Sanctioned Iran - Linked Tanker Seized By Pirates",
-        "url": "http://www.iraqsun.com/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
-        "domain": "iraqsun.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T213000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
-        "url": "http://www.afghanistannews.net/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
-        "domain": "afghanistannews.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T224500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
-        "url": "http://www.vietnamtribune.com/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
-        "domain": "vietnamtribune.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T224500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
-        "url": "http://www.laosnews.net/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
-        "domain": "laosnews.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T233000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
-        "url": "http://www.beijingbulletin.com/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
-        "domain": "beijingbulletin.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T030000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
-        "url": "http://www.europesun.com/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
-        "domain": "europesun.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T001500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
-        "url": "http://www.africaleader.com/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
-        "domain": "africaleader.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T031500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
-        "url": "http://www.brazilsun.com/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
-        "domain": "brazilsun.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T040000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
-        "url": "http://www.iranherald.com/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
-        "domain": "iranherald.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T031500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran Finalizes Oman Trade Deal as Bessent Prepares Monday Sanctions Briefing",
-        "url": "https://www.hngn.com/articles/272831/20260821/trump-declares-economic-d-day-iran-uae-cuts-all-trade-ties-hormuz-attacks-continue.htm",
-        "domain": "hngn.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T233000Z",
-        "source": "GDELT"
-      }
-    ],
+    "gdelt_articles": [],
     "earthquakes": [
       {
+        "place": "3 km WNW of Anderson Springs, CA",
+        "mag": 0.8,
+        "time": 1787387605280,
+        "lon": -122.72233581543,
+        "lat": 38.7893333435059,
+        "depth": 1.67999994754791,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km W of Cobb, CA",
+        "mag": 0.68,
+        "time": 1787387033310,
+        "lon": -122.811836242676,
+        "lat": 38.8356666564941,
+        "depth": 1.78999996185303,
+        "source": "USGS"
+      },
+      {
+        "place": "Scotia Sea",
+        "mag": 6.2,
+        "time": 1787386957740,
+        "lon": -47.6047,
+        "lat": -60.3789,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km S of Pāhala, Hawaii",
+        "mag": 1.8,
+        "time": 1787385398640,
+        "lon": -155.490829467773,
+        "lat": 19.1338329315186,
+        "depth": 30.4799995422363,
+        "source": "USGS"
+      },
+      {
+        "place": "21 km ESE of Silver Springs, Nevada",
+        "mag": 2.53,
+        "time": 1787385104411,
+        "lon": -118.9925,
+        "lat": 39.3543,
+        "depth": 10.0559,
+        "source": "USGS"
+      },
+      {
+        "place": "76 km SSW of San Jose Village, Northern Mariana Islands",
+        "mag": 4.6,
+        "time": 1787384631050,
+        "lon": 145.3295,
+        "lat": 14.337,
+        "depth": 115.924,
+        "source": "USGS"
+      },
+      {
+        "place": "1 km WSW of Hope, Alaska",
+        "mag": 3.9,
+        "time": 1787384560939,
+        "lon": -149.666,
+        "lat": 60.911,
+        "depth": 31.3,
+        "source": "USGS"
+      },
+      {
+        "place": "73 km WNW of Ninilchik, Alaska",
+        "mag": 2.3,
+        "time": 1787384466738,
+        "lon": -152.923,
+        "lat": 60.271,
+        "depth": 128.6,
+        "source": "USGS"
+      },
+      {
+        "place": "Scotia Sea",
+        "mag": 5.7,
+        "time": 1787384412697,
+        "lon": -47.2591,
+        "lat": -60.2649,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km W of Cobb, CA",
+        "mag": 0.8,
+        "time": 1787383486190,
+        "lon": -122.810165405273,
+        "lat": 38.8341674804688,
+        "depth": 2.19000005722046,
+        "source": "USGS"
+      },
+      {
+        "place": "northern Mid-Atlantic Ridge",
+        "mag": 4.9,
+        "time": 1787383285611,
+        "lon": -44.6327,
+        "lat": 12.5208,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "14 km SE of Markleeville, CA",
+        "mag": 1.62,
+        "time": 1787382899420,
+        "lon": -119.67733001709,
+        "lat": 38.6063346862793,
+        "depth": -0.100000001490116,
+        "source": "USGS"
+      },
+      {
+        "place": "13 km SE of Markleeville, CA",
+        "mag": 1.43,
+        "time": 1787381750720,
+        "lon": -119.678497314453,
+        "lat": 38.6126670837402,
+        "depth": 1.66999995708466,
+        "source": "USGS"
+      },
+      {
+        "place": "14 km SE of Markleeville, CA",
+        "mag": 2.16,
+        "time": 1787381674670,
+        "lon": -119.674667358398,
+        "lat": 38.6059989929199,
+        "depth": 1.08000004291534,
+        "source": "USGS"
+      },
+      {
         "place": "10 km ENE of Coso Junction, CA",
-        "mag": 1.09819608896626,
-        "time": 1787381437920,
-        "lon": -117.83699798584,
-        "lat": 36.0660018920898,
-        "depth": 2.55999994277954,
+        "mag": 0.88,
+        "time": 1787381437930,
+        "lon": -117.835333333333,
+        "lat": 36.0675,
+        "depth": 2.5,
         "source": "USGS"
       },
       {
@@ -439,6 +177,15 @@
         "lon": -122.793502807617,
         "lat": 38.8370018005371,
         "depth": 2.11999988555908,
+        "source": "USGS"
+      },
+      {
+        "place": "45 km SE of Lukatan, Philippines",
+        "mag": 5,
+        "time": 1787381019032,
+        "lon": 126.7362,
+        "lat": 6.7397,
+        "depth": 107.802,
         "source": "USGS"
       },
       {
@@ -737,141 +484,6 @@
         "lat": -12.7714,
         "depth": 10,
         "source": "USGS"
-      },
-      {
-        "place": "31 km N of Mentone, Texas",
-        "mag": 1.5,
-        "time": 1787362289432,
-        "lon": -103.632,
-        "lat": 31.984,
-        "depth": 9.2079,
-        "source": "USGS"
-      },
-      {
-        "place": "12 km WSW of Forsan, Texas",
-        "mag": 1.3,
-        "time": 1787362283316,
-        "lon": -101.492,
-        "lat": 32.085,
-        "depth": 3.2955,
-        "source": "USGS"
-      },
-      {
-        "place": "38 km NNE of Ruteng, Indonesia",
-        "mag": 5.2,
-        "time": 1787362259335,
-        "lon": 120.5614,
-        "lat": -8.2752,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km SSW of Encino, CA",
-        "mag": 2.26,
-        "time": 1787361732930,
-        "lon": -118.533166666667,
-        "lat": 34.1168333333333,
-        "depth": 7.3,
-        "source": "USGS"
-      },
-      {
-        "place": "19 km ESE of Silver Springs, Nevada",
-        "mag": 1.61,
-        "time": 1787361039054,
-        "lon": -119.0143,
-        "lat": 39.3416,
-        "depth": 3.9212,
-        "source": "USGS"
-      },
-      {
-        "place": "45 km NE of Holtville, CA",
-        "mag": 1.34,
-        "time": 1787359563530,
-        "lon": -114.991,
-        "lat": 33.0453333333333,
-        "depth": 3.02,
-        "source": "USGS"
-      },
-      {
-        "place": "15 km N of Warner Springs, CA",
-        "mag": 0.33,
-        "time": 1787359495500,
-        "lon": -116.6405,
-        "lat": 33.4145,
-        "depth": 6.94,
-        "source": "USGS"
-      },
-      {
-        "place": "13 km W of Cape Vizcaino, CA",
-        "mag": 1.29,
-        "time": 1787358755010,
-        "lon": -123.983833312988,
-        "lat": 39.7283325195312,
-        "depth": 6.69999980926514,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km NW of Guayanilla, Puerto Rico",
-        "mag": 2.26,
-        "time": 1787357990870,
-        "lon": -66.807,
-        "lat": 18.0396666666667,
-        "depth": 17.35,
-        "source": "USGS"
-      },
-      {
-        "place": "67 km E of Chignik, Alaska",
-        "mag": 2.2,
-        "time": 1787357558590,
-        "lon": -157.33,
-        "lat": 56.182,
-        "depth": 19.9,
-        "source": "USGS"
-      },
-      {
-        "place": "52 km SE of Cordova, Alaska",
-        "mag": 2.1,
-        "time": 1787357518971,
-        "lon": -145.04,
-        "lat": 60.231,
-        "depth": 23.6,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km SE of The Geysers, CA",
-        "mag": 0.8,
-        "time": 1787357429970,
-        "lon": -122.72566986084,
-        "lat": 38.7583351135254,
-        "depth": 3.03999996185303,
-        "source": "USGS"
-      },
-      {
-        "place": "66 km WNW of Abra Pampa, Argentina",
-        "mag": 4.4,
-        "time": 1787357020653,
-        "lon": -66.3169,
-        "lat": -22.5642,
-        "depth": 251.591,
-        "source": "USGS"
-      },
-      {
-        "place": "225 km SE of Chiniak, Alaska",
-        "mag": 2.9,
-        "time": 1787356600886,
-        "lon": -149.8189,
-        "lat": 56.1055,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km SSW of Amboy, Washington",
-        "mag": 2.13322162628174,
-        "time": 1787355776120,
-        "lon": -122.473503112793,
-        "lat": 45.8740005493164,
-        "depth": 3.76999998092651,
-        "source": "USGS"
       }
     ],
     "exchange_rates": [
@@ -957,225 +569,8 @@
       }
     ]
   },
-  "entities": [
-    {
-      "id": 1,
-      "name": "₹2 , 008 cr investment push for Paradip port to speed up car",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260821T164500Z",
-      "source": "business-standard.com"
-    },
-    {
-      "id": 2,
-      "name": "Sarbananda Sonowal inaugurates 7 projects at Paradip Port , ",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260821T143000Z",
-      "source": "prokerala.com"
-    },
-    {
-      "id": 3,
-      "name": "Oyetola : Lagos , Eastern ports to complement each other",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260821T111500Z",
-      "source": "thenationonlineng.net"
-    },
-    {
-      "id": 4,
-      "name": "Κικίλιας στη Λεμεσό για τη « ναυτική δύναμη » της Μεσογείου ",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260821T134500Z",
-      "source": "huffingtonpost.gr"
-    },
-    {
-      "id": 5,
-      "name": "Sonowal inaugurates 7 major infrastructure projects worth 42",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260821T203000Z",
-      "source": "asiabulletin.com"
-    },
-    {
-      "id": 6,
-      "name": "Sonowal inaugurates 7 major infrastructure projects worth 42",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260821T210000Z",
-      "source": "indiagazette.com"
-    },
-    {
-      "id": 7,
-      "name": "Sonowal inaugurates 7 major infrastructure projects worth 42",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260821T213000Z",
-      "source": "calcuttanews.net"
-    },
-    {
-      "id": 8,
-      "name": "Tankers Stack Up as Venezuela Sells Oil Faster Than Its Port",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260821T134500Z",
-      "source": "gcaptain.com"
-    },
-    {
-      "id": 9,
-      "name": "US Lifts 12 - Year Security Curbs On Nigerian Ships , Boosti",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260821T233000Z",
-      "source": "naija247news.com"
-    },
-    {
-      "id": 10,
-      "name": "Port Of Corpus Christi To Explore Nuclear Technology - The W",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260821T163000Z",
-      "source": "waterwaysjournal.net"
-    }
-  ],
-  "events": [
-    {
-      "title": "₹2 , 008 cr investment push for Paradip port to speed up cargo movement",
-      "url": "https://www.business-standard.com/industry/news/2-008-cr-investment-push-for-paradip-port-to-speed-up-cargo-movement-126082101367_1.html",
-      "domain": "business-standard.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T164500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Sarbananda Sonowal inaugurates 7 projects at Paradip Port , marks 18 . 5 - metre deep - draft capability",
-      "url": "https://www.prokerala.com/news/articles/a1803129.html",
-      "domain": "prokerala.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T143000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Oyetola : Lagos , Eastern ports to complement each other",
-      "url": "https://thenationonlineng.net/oyetola-lagos-eastern-ports-to-complement-each-other/",
-      "domain": "thenationonlineng.net",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T111500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Κικίλιας στη Λεμεσό για τη « ναυτική δύναμη » της Μεσογείου – Σύμφωνα με πληροφορίες της HuffPost , στο τραπέζι Ορμούζ και Μαύρη Θάλασσα - HuffPost - Ειδήσεις και Απόψεις από την Ελλάδα και τον ΚόσμοΚικίλιας στη Λεμεσό για τη « ναυτική δύναμη » της Μ...",
-      "url": "https://www.huffingtonpost.gr/politiki/kikilias-sti-lemeso-gia-ti-naftiki-dynami-tis-mesogeiou-symfona-me-plirofories-tis-huffpost-sto-trapezi-ormouz-kai-mavri-thalassa/",
-      "domain": "huffingtonpost.gr",
-      "language": "Greek",
-      "tone": 0,
-      "seendate": "20260821T134500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Sonowal inaugurates 7 major infrastructure projects worth 427 . 80 crore in Paradip",
-      "url": "http://www.asiabulletin.com/news/279256930/sonowal-inaugurates-7-major-infrastructure-projects-worth-42780-crore-in-paradip",
-      "domain": "asiabulletin.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T203000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Sonowal inaugurates 7 major infrastructure projects worth 427 . 80 crore in Paradip",
-      "url": "http://www.indiagazette.com/news/279256930/sonowal-inaugurates-7-major-infrastructure-projects-worth-42780-crore-in-paradip",
-      "domain": "indiagazette.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T210000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Sonowal inaugurates 7 major infrastructure projects worth 427 . 80 crore in Paradip",
-      "url": "http://www.calcuttanews.net/news/279256930/sonowal-inaugurates-7-major-infrastructure-projects-worth-42780-crore-in-paradip",
-      "domain": "calcuttanews.net",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T213000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Tankers Stack Up as Venezuela Sells Oil Faster Than Its Ports Can Handle",
-      "url": "https://gcaptain.com/tankers-stack-up-as-venezuela-sells-oil-faster-than-its-ports-can-handle/",
-      "domain": "gcaptain.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T134500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "US Lifts 12 - Year Security Curbs On Nigerian Ships , Boosting Port Competitiveness",
-      "url": "https://naija247news.com/us-lifts-12-year-security-curbs-on-nigerian-ships-boosting-port-competitiveness/",
-      "domain": "naija247news.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T233000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Port Of Corpus Christi To Explore Nuclear Technology - The Waterways Journal",
-      "url": "https://www.waterwaysjournal.net/2026/08/21/port-of-corpus-christi-to-explore-nuclear-technology/",
-      "domain": "waterwaysjournal.net",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T163000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "S . Korean Ship to Test Arctic Route to Europe but Western Allies Concerned",
-      "url": "https://www.insurancejournal.com/news/international/2026/08/21/882398.htm",
-      "domain": "insurancejournal.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T110000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Hormuz stranded ships may spread invasive species",
-      "url": "https://www.pakistantoday.com.pk/2026/08/21/study-warns-stranded-hormuz-ships-could-spread-invasive-marine-species-worldwide",
-      "domain": "pakistantoday.com.pk",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T203000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "More than 1 , 500 ships stuck in Strait of Hormuz may trigger global biological invasions",
-      "url": "https://aa.com.tr/en/us-israel-iran-war/more-than-1-500-ships-stuck-in-strait-of-hormuz-may-trigger-global-biological-invasions/4033716",
-      "domain": "aa.com.tr",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T110000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "More than 1 , 500 ships stuck in Strait of Hormuz may trigger global biological invasions",
-      "url": "https://www.middleeastmonitor.com/20260821-more-than-1500-ships-stuck-in-strait-of-hormuz-may-trigger-global-biological-invasions/",
-      "domain": "middleeastmonitor.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T170000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Piracy comeback puts fresh pressure on marine war risk and K & R cover",
-      "url": "https://www.insurancebusinessmag.com/us/news/marine/piracy-comeback-puts-fresh-pressure-on-marine-war-risk-and-kandr-cover-587081.aspx",
-      "domain": "insurancebusinessmag.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T210000Z",
-      "source": "GDELT"
-    }
-  ],
+  "entities": [],
+  "events": [],
   "timeseries": [],
-  "llm_summary": "Pending API key..."
+  "llm_summary": ""
 }
