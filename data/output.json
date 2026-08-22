@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-22T12:55:48.431959+00:00",
+    "generated": "2026-08-22T15:02:49.949665+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -35,6 +35,114 @@
   "live_data": {
     "gdelt_articles": [],
     "earthquakes": [
+      {
+        "place": "14 km SSW of Volcano, Hawaii",
+        "mag": 1.91,
+        "time": 1787410493400,
+        "lon": -155.264007568359,
+        "lat": 19.3150005340576,
+        "depth": 3.01999998092651,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km SSW of Volcano, Hawaii",
+        "mag": 1.83,
+        "time": 1787410363690,
+        "lon": -155.26350402832,
+        "lat": 19.3098335266113,
+        "depth": 4.34000015258789,
+        "source": "USGS"
+      },
+      {
+        "place": "20 km WSW of Petrolia, CA",
+        "mag": 1.73,
+        "time": 1787409611140,
+        "lon": -124.515830993652,
+        "lat": 40.2748336791992,
+        "depth": 20.4200000762939,
+        "source": "USGS"
+      },
+      {
+        "place": "14 km S of Volcano, Hawaii",
+        "mag": 1.73,
+        "time": 1787409556610,
+        "lon": -155.256164550781,
+        "lat": 19.3108329772949,
+        "depth": 2.99000000953674,
+        "source": "USGS"
+      },
+      {
+        "place": "35 km NNW of Sutton-Alpine, Alaska",
+        "mag": 2,
+        "time": 1787409069405,
+        "lon": -148.972,
+        "lat": 62.081,
+        "depth": 12.6,
+        "source": "USGS"
+      },
+      {
+        "place": "44 km NW of Toyah, Texas",
+        "mag": 1.7,
+        "time": 1787408896519,
+        "lon": -104.104,
+        "lat": 31.61,
+        "depth": 5.3876,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km E of Ashford, Washington",
+        "mag": 1.70308011770248,
+        "time": 1787407954880,
+        "lon": -121.924003601074,
+        "lat": 46.7630004882812,
+        "depth": -0.910000026226044,
+        "source": "USGS"
+      },
+      {
+        "place": "21 km NW of Parkfield, CA",
+        "mag": 0.64,
+        "time": 1787407659550,
+        "lon": -120.601333618164,
+        "lat": 36.0315017700195,
+        "depth": 1.49000000953674,
+        "source": "USGS"
+      },
+      {
+        "place": "17 km ESE of Naalehu, Hawaii",
+        "mag": 1.77,
+        "time": 1787406191530,
+        "lon": -155.420837402344,
+        "lat": 19.0211658477783,
+        "depth": 29.8400001525879,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km SSW of Willow, Alaska",
+        "mag": 1.7,
+        "time": 1787405834535,
+        "lon": -150.073,
+        "lat": 61.666,
+        "depth": 0.2,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km W of Cobb, CA",
+        "mag": 1.04,
+        "time": 1787405134720,
+        "lon": -122.816497802734,
+        "lat": 38.836498260498,
+        "depth": 1.78999996185303,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km SSE of San Juan Bautista, CA",
+        "mag": 1.7,
+        "time": 1787403652640,
+        "lon": -121.493667602539,
+        "lat": 36.7741661071777,
+        "depth": 4.46000003814697,
+        "source": "USGS"
+      },
       {
         "place": "63 km SE of Denali National Park, Alaska",
         "mag": 2,
@@ -90,6 +198,15 @@
         "source": "USGS"
       },
       {
+        "place": "60 km S of Whites City, New Mexico",
+        "mag": 1,
+        "time": 1787399997733,
+        "lon": -104.435,
+        "lat": 31.633,
+        "depth": 3.0737,
+        "source": "USGS"
+      },
+      {
         "place": "15 km S of Volcano, Hawaii",
         "mag": 2.1,
         "time": 1787399551500,
@@ -117,6 +234,15 @@
         "source": "USGS"
       },
       {
+        "place": "7 km SSW of Canton, North Carolina",
+        "mag": 1.96,
+        "time": 1787397843910,
+        "lon": -82.8691666666667,
+        "lat": 35.4708333333333,
+        "depth": 6.2,
+        "source": "USGS"
+      },
+      {
         "place": "9 km NW of Imperial, CA",
         "mag": 1.14,
         "time": 1787397142530,
@@ -135,12 +261,12 @@
         "source": "USGS"
       },
       {
-        "place": "7 km E of Ashford, Washington",
-        "mag": 2.54715490341187,
-        "time": 1787396064200,
-        "lon": -121.93399810791,
-        "lat": 46.7639999389648,
-        "depth": -0.930000007152557,
+        "place": "8 km E of Ashford, Washington",
+        "mag": 2.42,
+        "time": 1787396064220,
+        "lon": -121.9255,
+        "lat": 46.7611666666667,
+        "depth": 3.64,
         "source": "USGS"
       },
       {
@@ -288,6 +414,15 @@
         "source": "USGS"
       },
       {
+        "place": "42 km S of Boca de Yuma, Dominican Republic",
+        "mag": 3.27,
+        "time": 1787389170720,
+        "lon": -68.5321666666667,
+        "lat": 18.004,
+        "depth": 66.43,
+        "source": "USGS"
+      },
+      {
         "place": "61 km W of Tyonek, Alaska",
         "mag": 1.9,
         "time": 1787388895237,
@@ -348,141 +483,6 @@
         "lon": -122.811836242676,
         "lat": 38.8356666564941,
         "depth": 1.78999996185303,
-        "source": "USGS"
-      },
-      {
-        "place": "Scotia Sea",
-        "mag": 6.2,
-        "time": 1787386957740,
-        "lon": -47.6047,
-        "lat": -60.3789,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "1 km SW of Lares, Puerto Rico",
-        "mag": 2.42,
-        "time": 1787385772640,
-        "lon": -66.886,
-        "lat": 18.2828333333333,
-        "depth": 13.9,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km S of Pāhala, Hawaii",
-        "mag": 1.8,
-        "time": 1787385398640,
-        "lon": -155.490829467773,
-        "lat": 19.1338329315186,
-        "depth": 30.4799995422363,
-        "source": "USGS"
-      },
-      {
-        "place": "21 km ESE of Silver Springs, Nevada",
-        "mag": 2.53,
-        "time": 1787385104411,
-        "lon": -118.9925,
-        "lat": 39.3543,
-        "depth": 10.0559,
-        "source": "USGS"
-      },
-      {
-        "place": "76 km SSW of San Jose Village, Northern Mariana Islands",
-        "mag": 4.6,
-        "time": 1787384631050,
-        "lon": 145.3295,
-        "lat": 14.337,
-        "depth": 115.924,
-        "source": "USGS"
-      },
-      {
-        "place": "1 km WSW of Hope, Alaska",
-        "mag": 3.9,
-        "time": 1787384560939,
-        "lon": -149.666,
-        "lat": 60.911,
-        "depth": 31.3,
-        "source": "USGS"
-      },
-      {
-        "place": "73 km WNW of Ninilchik, Alaska",
-        "mag": 2.3,
-        "time": 1787384466738,
-        "lon": -152.923,
-        "lat": 60.271,
-        "depth": 128.6,
-        "source": "USGS"
-      },
-      {
-        "place": "Scotia Sea",
-        "mag": 5.7,
-        "time": 1787384412697,
-        "lon": -47.2591,
-        "lat": -60.2649,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km W of Cobb, CA",
-        "mag": 0.8,
-        "time": 1787383486190,
-        "lon": -122.810165405273,
-        "lat": 38.8341674804688,
-        "depth": 2.19000005722046,
-        "source": "USGS"
-      },
-      {
-        "place": "northern Mid-Atlantic Ridge",
-        "mag": 4.9,
-        "time": 1787383285611,
-        "lon": -44.6327,
-        "lat": 12.5208,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "14 km SE of Markleeville, CA",
-        "mag": 1.62,
-        "time": 1787382899420,
-        "lon": -119.67733001709,
-        "lat": 38.6063346862793,
-        "depth": -0.100000001490116,
-        "source": "USGS"
-      },
-      {
-        "place": "13 km SE of Markleeville, CA",
-        "mag": 1.43,
-        "time": 1787381750720,
-        "lon": -119.678497314453,
-        "lat": 38.6126670837402,
-        "depth": 1.66999995708466,
-        "source": "USGS"
-      },
-      {
-        "place": "14 km SE of Markleeville, CA",
-        "mag": 2.16,
-        "time": 1787381674670,
-        "lon": -119.674667358398,
-        "lat": 38.6059989929199,
-        "depth": 1.08000004291534,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km SW of Liborio Negron Torres, Puerto Rico",
-        "mag": 1.94,
-        "time": 1787381469460,
-        "lon": -66.9835,
-        "lat": 18.0116666666667,
-        "depth": 10.06,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 0.88,
-        "time": 1787381437930,
-        "lon": -117.835333333333,
-        "lat": 36.0675,
-        "depth": 2.5,
         "source": "USGS"
       }
     ],
