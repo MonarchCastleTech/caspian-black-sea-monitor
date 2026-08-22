@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-22T01:45:40.147271+00:00",
+    "generated": "2026-08-22T06:54:27.381452+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -33,15 +33,718 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
+    "gdelt_articles": [
+      {
+        "title": "₹2 , 008 cr investment push for Paradip port to speed up cargo movement",
+        "url": "https://www.business-standard.com/industry/news/2-008-cr-investment-push-for-paradip-port-to-speed-up-cargo-movement-126082101367_1.html",
+        "domain": "business-standard.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T164500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Sarbananda Sonowal inaugurates 7 projects at Paradip Port , marks 18 . 5 - metre deep - draft capability",
+        "url": "https://www.prokerala.com/news/articles/a1803129.html",
+        "domain": "prokerala.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T143000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Oyetola : Lagos , Eastern ports to complement each other",
+        "url": "https://thenationonlineng.net/oyetola-lagos-eastern-ports-to-complement-each-other/",
+        "domain": "thenationonlineng.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T111500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Κικίλιας στη Λεμεσό για τη « ναυτική δύναμη » της Μεσογείου – Σύμφωνα με πληροφορίες της HuffPost , στο τραπέζι Ορμούζ και Μαύρη Θάλασσα - HuffPost - Ειδήσεις και Απόψεις από την Ελλάδα και τον ΚόσμοΚικίλιας στη Λεμεσό για τη « ναυτική δύναμη » της Μ...",
+        "url": "https://www.huffingtonpost.gr/politiki/kikilias-sti-lemeso-gia-ti-naftiki-dynami-tis-mesogeiou-symfona-me-plirofories-tis-huffpost-sto-trapezi-ormouz-kai-mavri-thalassa/",
+        "domain": "huffingtonpost.gr",
+        "language": "Greek",
+        "tone": 0,
+        "seendate": "20260821T134500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Sonowal inaugurates 7 major infrastructure projects worth 427 . 80 crore in Paradip",
+        "url": "http://www.asiabulletin.com/news/279256930/sonowal-inaugurates-7-major-infrastructure-projects-worth-42780-crore-in-paradip",
+        "domain": "asiabulletin.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T203000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Sonowal inaugurates 7 major infrastructure projects worth 427 . 80 crore in Paradip",
+        "url": "http://www.indiagazette.com/news/279256930/sonowal-inaugurates-7-major-infrastructure-projects-worth-42780-crore-in-paradip",
+        "domain": "indiagazette.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Sonowal inaugurates 7 major infrastructure projects worth 427 . 80 crore in Paradip",
+        "url": "http://www.calcuttanews.net/news/279256930/sonowal-inaugurates-7-major-infrastructure-projects-worth-42780-crore-in-paradip",
+        "domain": "calcuttanews.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T213000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Tankers Stack Up as Venezuela Sells Oil Faster Than Its Ports Can Handle",
+        "url": "https://gcaptain.com/tankers-stack-up-as-venezuela-sells-oil-faster-than-its-ports-can-handle/",
+        "domain": "gcaptain.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T134500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "US Lifts 12 - Year Security Curbs On Nigerian Ships , Boosting Port Competitiveness",
+        "url": "https://naija247news.com/us-lifts-12-year-security-curbs-on-nigerian-ships-boosting-port-competitiveness/",
+        "domain": "naija247news.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T233000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Port Of Corpus Christi To Explore Nuclear Technology - The Waterways Journal",
+        "url": "https://www.waterwaysjournal.net/2026/08/21/port-of-corpus-christi-to-explore-nuclear-technology/",
+        "domain": "waterwaysjournal.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T163000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "S . Korean Ship to Test Arctic Route to Europe but Western Allies Concerned",
+        "url": "https://www.insurancejournal.com/news/international/2026/08/21/882398.htm",
+        "domain": "insurancejournal.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Hormuz stranded ships may spread invasive species",
+        "url": "https://www.pakistantoday.com.pk/2026/08/21/study-warns-stranded-hormuz-ships-could-spread-invasive-marine-species-worldwide",
+        "domain": "pakistantoday.com.pk",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T203000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "More than 1 , 500 ships stuck in Strait of Hormuz may trigger global biological invasions",
+        "url": "https://aa.com.tr/en/us-israel-iran-war/more-than-1-500-ships-stuck-in-strait-of-hormuz-may-trigger-global-biological-invasions/4033716",
+        "domain": "aa.com.tr",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "More than 1 , 500 ships stuck in Strait of Hormuz may trigger global biological invasions",
+        "url": "https://www.middleeastmonitor.com/20260821-more-than-1500-ships-stuck-in-strait-of-hormuz-may-trigger-global-biological-invasions/",
+        "domain": "middleeastmonitor.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T170000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Piracy comeback puts fresh pressure on marine war risk and K & R cover",
+        "url": "https://www.insurancebusinessmag.com/us/news/marine/piracy-comeback-puts-fresh-pressure-on-marine-war-risk-and-kandr-cover-587081.aspx",
+        "domain": "insurancebusinessmag.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Soaring Panama Canal Fees Drive a Nascent LPG Shuttle Trade",
+        "url": "https://gcaptain.com/soaring-panama-canal-fees-drive-a-nascent-lpg-shuttle-trade-2/",
+        "domain": "gcaptain.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T134500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Tanqueros se acumulan frente a Venezuela mientras crecen las trabas para exportar crudo",
+        "url": "https://noticierodigital.com/2026/08/tanqueros-se-acumulan-frente-a-venezuela-mientras-crecen-las-trabas-para-exportar-crudo/",
+        "domain": "noticierodigital.com",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260822T030000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "The humanity behind the technology of the Pulse app",
+        "url": "https://www.manilatimes.net/2026/08/22/business/science-technology/the-humanity-behind-the-technology-of-the-pulse-app/2410184",
+        "domain": "manilatimes.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T191500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Es probable que la sequía provocada por El Niño en Panamá eleve los precios de todo , desde medicamentos hasta combustible",
+        "url": "https://cnnespanol.cnn.com/2026/08/21/economia/sequia-nino-panama-precios-combustible-trax",
+        "domain": "cnnespanol.cnn.com",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260821T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Gaza mediators say latest Israeli strikes undermine efforts to end conflict at critical stage | Ariana News",
+        "url": "https://www.ariananews.af/gaza-mediators-say-latest-israeli-strikes-undermine-efforts-to-end-conflict-at-critical-stage/",
+        "domain": "ariananews.af",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "El Niño - caused drought is likely to raise prices on consumers",
+        "url": "https://edition.cnn.com/2026/08/21/climate/el-nino-panama-canal-drought-price-increase-consumers",
+        "domain": "edition.cnn.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T133000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Who Governs Somalia Seas ?  Piracy , Foreign Force and the Political Economy of Maritime Disorder",
+        "url": "https://wardheernews.com/who-governs-somalias-seas-piracy-foreign-force-and-the-political-economy-of-maritime-disorder/",
+        "domain": "wardheernews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T201500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Great Lakes Freight Study Eyes Lakes - Rivers Cargo Growth",
+        "url": "https://www.waterwaysjournal.net/2026/08/21/great-lakes-freight-study-eyes-lakes-rivers-cargo-growth/",
+        "domain": "waterwaysjournal.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T163000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "نيويورك تايمز : لا تستهينوا بالحوثيين وعلى العالم التعامل معهم كطرف مستقل لا كتابعين لإيران",
+        "url": "https://www.alquds.co.uk/%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D9%84%D8%A7-%D8%AA%D8%B3%D8%AA%D9%87%D9%8A%D9%86%D9%88%D8%A7-%D8%A8%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D9%88/",
+        "domain": "alquds.co.uk",
+        "language": "Arabic",
+        "tone": 0,
+        "seendate": "20260821T090000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "CNBC : Τρόφιμα - Η « τέλεια καταιγίδα » που φέρνει νέο κύμα ακρίβειας",
+        "url": "https://www.lykavitos.gr/news/greece/cnbc-trofima-i-teleia-kataigida-pou-fernei-neo-kyma-akriveias",
+        "domain": "lykavitos.gr",
+        "language": "Greek",
+        "tone": 0,
+        "seendate": "20260821T194500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
+        "url": "http://www.afghanistansun.com/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
+        "domain": "afghanistansun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T223000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
+        "url": "http://www.azerbaijannews.net/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
+        "domain": "azerbaijannews.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T234500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Sanctioned Iran - Linked Tanker Seized By Pirates",
+        "url": "http://www.middleeaststar.com/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
+        "domain": "middleeaststar.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T194500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Sanctioned Iran - Linked Tanker Seized By Pirates",
+        "url": "http://www.cambodiantimes.com/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
+        "domain": "cambodiantimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T191500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Sanctioned Iran - Linked Tanker Seized By Pirates",
+        "url": "http://www.britainnews.net/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
+        "domain": "britainnews.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T184500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Sanctioned Iran - Linked Tanker Seized By Pirates",
+        "url": "http://www.brazilsun.com/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
+        "domain": "brazilsun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T184500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Sanctioned Iran - Linked Tanker Seized By Pirates",
+        "url": "http://www.centralasiatimes.com/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
+        "domain": "centralasiatimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T180000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Sanctioned Iran - Linked Tanker Seized By Pirates",
+        "url": "http://www.shanghaisun.com/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
+        "domain": "shanghaisun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Sanctioned Iran - Linked Tanker Seized By Pirates",
+        "url": "http://www.iraqsun.com/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
+        "domain": "iraqsun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T213000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
+        "url": "http://www.afghanistannews.net/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
+        "domain": "afghanistannews.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T224500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
+        "url": "http://www.vietnamtribune.com/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
+        "domain": "vietnamtribune.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T224500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
+        "url": "http://www.laosnews.net/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
+        "domain": "laosnews.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T233000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
+        "url": "http://www.beijingbulletin.com/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
+        "domain": "beijingbulletin.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T030000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
+        "url": "http://www.europesun.com/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
+        "domain": "europesun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T001500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
+        "url": "http://www.africaleader.com/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
+        "domain": "africaleader.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T031500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
+        "url": "http://www.brazilsun.com/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
+        "domain": "brazilsun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T040000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trump Says Iran Not Ready To Make  Right Deal  ",
+        "url": "http://www.iranherald.com/news/279257202/trump-says-iran-not-ready-to-make-right-deal",
+        "domain": "iranherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T031500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran Finalizes Oman Trade Deal as Bessent Prepares Monday Sanctions Briefing",
+        "url": "https://www.hngn.com/articles/272831/20260821/trump-declares-economic-d-day-iran-uae-cuts-all-trade-ties-hormuz-attacks-continue.htm",
+        "domain": "hngn.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T233000Z",
+        "source": "GDELT"
+      }
+    ],
     "earthquakes": [
       {
-        "place": "57 km W of Karluk, Alaska",
+        "place": "10 km ENE of Coso Junction, CA",
+        "mag": 1.09819608896626,
+        "time": 1787381437920,
+        "lon": -117.83699798584,
+        "lat": 36.0660018920898,
+        "depth": 2.55999994277954,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km WNW of Cobb, CA",
+        "mag": 0.67,
+        "time": 1787381342190,
+        "lon": -122.793502807617,
+        "lat": 38.8370018005371,
+        "depth": 2.11999988555908,
+        "source": "USGS"
+      },
+      {
+        "place": "13 km WSW of Stanton, Texas",
+        "mag": 1.9,
+        "time": 1787379556021,
+        "lon": -101.931,
+        "lat": 32.102,
+        "depth": 3.4762,
+        "source": "USGS"
+      },
+      {
+        "place": "14 km W of Stanton, Texas",
+        "mag": 1.7,
+        "time": 1787379555847,
+        "lon": -101.935,
+        "lat": 32.106,
+        "depth": 4.8329,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km SSE of Big Lake, Alaska",
+        "mag": 1.3,
+        "time": 1787378968244,
+        "lon": -149.93,
+        "lat": 61.471,
+        "depth": 59,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km WNW of The Geysers, CA",
+        "mag": 1.13,
+        "time": 1787378427710,
+        "lon": -122.852500915527,
+        "lat": 38.8226661682129,
+        "depth": 2.53999996185303,
+        "source": "USGS"
+      },
+      {
+        "place": "68 km NE of Punta Cana, Dominican Republic",
+        "mag": 3.1,
+        "time": 1787377828657,
+        "lon": -67.9333,
+        "lat": 19.0061,
+        "depth": 35,
+        "source": "USGS"
+      },
+      {
+        "place": "167 km SE of San Jose Village, Northern Mariana Islands",
+        "mag": 4.9,
+        "time": 1787377627443,
+        "lon": 146.7194,
+        "lat": 13.8954,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "71 km NNW of Ende, Indonesia",
+        "mag": 4.7,
+        "time": 1787377511914,
+        "lon": 121.4575,
+        "lat": -8.2301,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km SSW of Julian, CA",
+        "mag": 1.12,
+        "time": 1787375466150,
+        "lon": -116.615666666667,
+        "lat": 33.0611666666667,
+        "depth": 13.28,
+        "source": "USGS"
+      },
+      {
+        "place": "16 km SE of Naalehu, Hawaii",
+        "mag": 1.78,
+        "time": 1787375367580,
+        "lon": -155.454498291016,
+        "lat": 18.9834995269775,
+        "depth": 26.4099998474121,
+        "source": "USGS"
+      },
+      {
+        "place": "21 km SW of Ferry, Alaska",
+        "mag": 1.6,
+        "time": 1787374814437,
+        "lon": -149.482,
+        "lat": 63.905,
+        "depth": 5,
+        "source": "USGS"
+      },
+      {
+        "place": "66 km S of Ivanof Bay, Alaska",
+        "mag": 2.2,
+        "time": 1787374707589,
+        "lon": -159.346,
+        "lat": 55.308,
+        "depth": 5,
+        "source": "USGS"
+      },
+      {
+        "place": "19 km W of Searles Valley, CA",
+        "mag": 0.4,
+        "time": 1787374645170,
+        "lon": -117.614,
+        "lat": 35.7916666666667,
+        "depth": 7.67,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km S of Kitcharao, Philippines",
+        "mag": 5,
+        "time": 1787373848744,
+        "lon": 125.5805,
+        "lat": 9.3981,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "3 km WSW of Anza, CA",
+        "mag": 0.09,
+        "time": 1787373822380,
+        "lon": -116.705833333333,
+        "lat": 33.5401666666667,
+        "depth": 5.3,
+        "source": "USGS"
+      },
+      {
+        "place": "58 km ENE of Tonopah, Nevada",
+        "mag": 1.97,
+        "time": 1787371622189,
+        "lon": -116.6142,
+        "lat": 38.281,
+        "depth": 0.0132,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km WSW of Salton City, CA",
+        "mag": 1.97,
+        "time": 1787371302580,
+        "lon": -116.0665,
+        "lat": 33.2413333333333,
+        "depth": 2.96,
+        "source": "USGS"
+      },
+      {
+        "place": "238 km ESE of Attu Station, Alaska",
+        "mag": 3,
+        "time": 1787370774510,
+        "lon": 176.234,
+        "lat": 51.803,
+        "depth": 24.5,
+        "source": "USGS"
+      },
+      {
+        "place": "41 km W of Four Mile Road, Alaska",
+        "mag": 2.3,
+        "time": 1787370245373,
+        "lon": -149.985,
+        "lat": 64.564,
+        "depth": 18.3,
+        "source": "USGS"
+      },
+      {
+        "place": "49 km SE of Yilan, Taiwan",
+        "mag": 4.4,
+        "time": 1787370014817,
+        "lon": 122.0811,
+        "lat": 24.4244,
+        "depth": 38.316,
+        "source": "USGS"
+      },
+      {
+        "place": "45 km W of Akhiok, Alaska",
+        "mag": 1.8,
+        "time": 1787369210290,
+        "lon": -154.923,
+        "lat": 56.91,
+        "depth": 6.2,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km ESE of Pāhala, Hawaii",
+        "mag": 1.93,
+        "time": 1787369136570,
+        "lon": -155.396331787109,
+        "lat": 19.1790008544922,
+        "depth": 39.3800010681152,
+        "source": "USGS"
+      },
+      {
+        "place": "11 km ENE of Coso Junction, CA",
+        "mag": 0.58,
+        "time": 1787367972250,
+        "lon": -117.8335,
+        "lat": 36.069,
+        "depth": 4.16,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ENE of Coso Junction, CA",
+        "mag": 0.63,
+        "time": 1787366180310,
+        "lon": -117.8385,
+        "lat": 36.0626666666667,
+        "depth": 2.88,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NNW of Seldovia, Alaska",
+        "mag": 1.6,
+        "time": 1787365820060,
+        "lon": -151.769,
+        "lat": 59.49,
+        "depth": 68.5,
+        "source": "USGS"
+      },
+      {
+        "place": "16 km WSW of New Idria, CA",
         "mag": 1.5,
-        "time": 1787362660304,
-        "lon": -155.403,
-        "lat": 57.649,
-        "depth": 17.1,
+        "time": 1787365363100,
+        "lon": -120.846496582031,
+        "lat": 36.3673324584961,
+        "depth": 9.14999961853027,
+        "source": "USGS"
+      },
+      {
+        "place": "22 km SSW of La Quinta, CA",
+        "mag": 1.46,
+        "time": 1787364850220,
+        "lon": -116.4165,
+        "lat": 33.4818333333333,
+        "depth": 8.1,
+        "source": "USGS"
+      },
+      {
+        "place": "42 km NE of Ruteng, Indonesia",
+        "mag": 4.6,
+        "time": 1787363968543,
+        "lon": 120.6927,
+        "lat": -8.3069,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km NE of The Geysers, CA",
+        "mag": 1.05,
+        "time": 1787363868470,
+        "lon": -122.743835449219,
+        "lat": 38.7878341674805,
+        "depth": 1.74000000953674,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km SSW of Encino, CA",
+        "mag": 1.35,
+        "time": 1787363825550,
+        "lon": -118.534666666667,
+        "lat": 34.1073333333333,
+        "depth": 8.54,
+        "source": "USGS"
+      },
+      {
+        "place": "130 km N of Charlotte Amalie, U.S. Virgin Islands",
+        "mag": 3.68,
+        "time": 1787363636120,
+        "lon": -64.7776,
+        "lat": 19.5103,
+        "depth": 11,
+        "source": "USGS"
+      },
+      {
+        "place": "70 km ESE of Denali Park, Alaska",
+        "mag": 1.5,
+        "time": 1787362849211,
+        "lon": -147.573,
+        "lat": 63.534,
+        "depth": 8.8,
+        "source": "USGS"
+      },
+      {
+        "place": "56 km W of Karluk, Alaska",
+        "mag": 1.5,
+        "time": 1787362660109,
+        "lon": -155.393,
+        "lat": 57.641,
+        "depth": 17.3,
+        "source": "USGS"
+      },
+      {
+        "place": "southern Mid-Atlantic Ridge",
+        "mag": 5.3,
+        "time": 1787362497606,
+        "lon": -14.8824,
+        "lat": -12.7714,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "31 km N of Mentone, Texas",
+        "mag": 1.5,
+        "time": 1787362289432,
+        "lon": -103.632,
+        "lat": 31.984,
+        "depth": 9.2079,
         "source": "USGS"
       },
       {
@@ -51,6 +754,15 @@
         "lon": -101.492,
         "lat": 32.085,
         "depth": 3.2955,
+        "source": "USGS"
+      },
+      {
+        "place": "38 km NNE of Ruteng, Indonesia",
+        "mag": 5.2,
+        "time": 1787362259335,
+        "lon": 120.5614,
+        "lat": -8.2752,
+        "depth": 10,
         "source": "USGS"
       },
       {
@@ -153,336 +865,12 @@
         "source": "USGS"
       },
       {
-        "place": "18 km SE of Port Graham, Alaska",
-        "mag": 1.6,
-        "time": 1787355603142,
-        "lon": -151.565,
-        "lat": 59.249,
-        "depth": 14.5,
-        "source": "USGS"
-      },
-      {
-        "place": "23 km N of Ridgecrest, CA",
-        "mag": 1.98,
-        "time": 1787355138850,
-        "lon": -117.674833333333,
-        "lat": 35.8268333333333,
-        "depth": 8.14,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km E of Coso Junction, CA",
-        "mag": 1.21,
-        "time": 1787354126650,
-        "lon": -117.840166666667,
-        "lat": 36.0618333333333,
-        "depth": 2.83,
-        "source": "USGS"
-      },
-      {
-        "place": "100 km N of Yakutat, Alaska",
-        "mag": 1.9,
-        "time": 1787353810512,
-        "lon": -139.531,
-        "lat": 60.444,
-        "depth": 5.1,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km W of Four Mile Road, Alaska",
-        "mag": 1.7,
-        "time": 1787353649514,
-        "lon": -149.455,
-        "lat": 64.623,
-        "depth": 3.3,
-        "source": "USGS"
-      },
-      {
-        "place": "65 km E of Akutan, Alaska",
-        "mag": 2.2,
-        "time": 1787352222615,
-        "lon": -164.788,
-        "lat": 54.053,
-        "depth": 73.6,
-        "source": "USGS"
-      },
-      {
-        "place": "147 km NE of Diego de Almagro, Chile",
-        "mag": 4.7,
-        "time": 1787351163081,
-        "lon": -68.8817,
-        "lat": -25.5675,
-        "depth": 102.426,
-        "source": "USGS"
-      },
-      {
-        "place": "112 km S of Vilyuchinsk, Russia",
-        "mag": 4.4,
-        "time": 1787349604478,
-        "lon": 158.3489,
-        "lat": 51.9171,
-        "depth": 74.665,
-        "source": "USGS"
-      },
-      {
-        "place": "18 km WSW of Johannesburg, CA",
-        "mag": 1.14,
-        "time": 1787349551560,
-        "lon": -117.815666666667,
-        "lat": 35.3128333333333,
-        "depth": 9.33,
-        "source": "USGS"
-      },
-      {
-        "place": "26 km S of Tagāb, Afghanistan",
-        "mag": 4.1,
-        "time": 1787349287902,
-        "lon": 69.669,
-        "lat": 34.6161,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "46 km NW of Beatty, Nevada",
-        "mag": 2.58,
-        "time": 1787349231693,
-        "lon": -117.1202,
-        "lat": 37.2141,
-        "depth": 8.278,
-        "source": "USGS"
-      },
-      {
-        "place": "14 km SE of Markleeville, CA",
-        "mag": 2.2,
-        "time": 1787349150410,
-        "lon": -119.676834106445,
-        "lat": 38.6063346862793,
-        "depth": 1.33000004291534,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km N of Bakersfield, CA",
-        "mag": 1.36,
-        "time": 1787348446580,
-        "lon": -119.0325,
-        "lat": 35.3826666666667,
-        "depth": 10.7,
-        "source": "USGS"
-      },
-      {
-        "place": "36 km NNW of Toyah, Texas",
-        "mag": 1.7,
-        "time": 1787347865755,
-        "lon": -103.989,
-        "lat": 31.6,
-        "depth": 12.1466,
-        "source": "USGS"
-      },
-      {
-        "place": "1 km N of Fern Forest, Hawaii",
-        "mag": 1.81,
-        "time": 1787347857980,
-        "lon": -155.134506225586,
-        "lat": 19.4818325042725,
-        "depth": 43.5099983215332,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km NW of The Geysers, CA",
-        "mag": 0.57,
-        "time": 1787347002740,
-        "lon": -122.842834472656,
-        "lat": 38.8396682739258,
-        "depth": 1.57000005245209,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km W of Cobb, CA",
-        "mag": 0.49,
-        "time": 1787346652540,
-        "lon": -122.796333312988,
-        "lat": 38.8326683044434,
-        "depth": 0.550000011920929,
-        "source": "USGS"
-      },
-      {
-        "place": "0 km W of Pāhala, Hawaii",
-        "mag": 1.8,
-        "time": 1787345421660,
-        "lon": -155.485504150391,
-        "lat": 19.203332901001,
-        "depth": 29.2099990844727,
-        "source": "USGS"
-      },
-      {
-        "place": "51 km SSE of Whites City, New Mexico",
-        "mag": 1.7,
-        "time": 1787345229078,
-        "lon": -104.249,
-        "lat": 31.728,
-        "depth": 4.8164,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km WNW of Farmers Loop, Alaska",
-        "mag": 1,
-        "time": 1787345055385,
-        "lon": -147.786,
-        "lat": 64.928,
-        "depth": 0,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km NE of Milford, Utah",
-        "mag": 2.24,
-        "time": 1787344442960,
-        "lon": -112.889333333333,
-        "lat": 38.5108333333333,
-        "depth": 2.34,
-        "source": "USGS"
-      },
-      {
-        "place": "34 km SSE of Whites City, New Mexico",
-        "mag": 1.9,
-        "time": 1787344250212,
-        "lon": -104.266,
-        "lat": 31.88,
-        "depth": 0,
-        "source": "USGS"
-      },
-      {
-        "place": "12 km W of Anza, CA",
-        "mag": 0.52,
-        "time": 1787344186540,
-        "lon": -116.803333333333,
-        "lat": 33.5713333333333,
-        "depth": 6.05,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km SE of Home Gardens, CA",
-        "mag": 1.4,
-        "time": 1787344135730,
-        "lon": -117.490833333333,
-        "lat": 33.8521666666667,
-        "depth": -0.52,
-        "source": "USGS"
-      },
-      {
-        "place": "13 km E of Pāhala, Hawaii",
-        "mag": 1.88,
-        "time": 1787343680260,
-        "lon": -155.3545,
-        "lat": 19.1815,
-        "depth": 28.05,
-        "source": "USGS"
-      },
-      {
-        "place": "15 km SSE of Bodfish, CA",
-        "mag": 0.26,
-        "time": 1787343479490,
-        "lon": -118.411,
-        "lat": 35.4703333333333,
-        "depth": 4.98,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 0.65,
-        "time": 1787343459980,
-        "lon": -117.837833333333,
-        "lat": 36.0683333333333,
-        "depth": 3.68,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 1.75,
-        "time": 1787342578330,
-        "lon": -117.8405,
-        "lat": 36.066,
-        "depth": 2.56,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km WSW of Johannesburg, CA",
-        "mag": 1.11,
-        "time": 1787342473490,
-        "lon": -117.799333333333,
-        "lat": 35.3141666666667,
-        "depth": 6.98,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km NNW of Edgefield, Louisiana",
-        "mag": 3.4,
-        "time": 1787342437001,
-        "lon": -93.358,
-        "lat": 32.1138,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 0.58,
-        "time": 1787342367570,
-        "lon": -117.839,
-        "lat": 36.0665,
-        "depth": 4.73,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 0.78,
-        "time": 1787342334270,
-        "lon": -117.840166666667,
-        "lat": 36.0645,
-        "depth": 4.27,
-        "source": "USGS"
-      },
-      {
-        "place": "22 km NW of Parkfield, CA",
-        "mag": 2.08,
-        "time": 1787341895050,
-        "lon": -120.601165771484,
-        "lat": 36.0373344421387,
-        "depth": 4.17000007629395,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km ESE of The Geysers, CA",
-        "mag": 0.98,
-        "time": 1787341884770,
-        "lon": -122.735496520996,
-        "lat": 38.7700004577637,
-        "depth": 1.32000005245209,
-        "source": "USGS"
-      },
-      {
-        "place": "36 km NW of Ninilchik, Alaska",
-        "mag": 1.7,
-        "time": 1787341456987,
-        "lon": -152.19,
-        "lat": 60.256,
-        "depth": 89.7,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km ESE of Loco, Oklahoma",
-        "mag": 1.98,
-        "time": 1787341066859,
-        "lon": -97.6005,
-        "lat": 34.29266667,
-        "depth": 6.49,
-        "source": "USGS"
-      },
-      {
-        "place": "13 km NE of Ashford, Washington",
-        "mag": 0.35,
-        "time": 1787340959750,
-        "lon": -121.932166666667,
-        "lat": 46.854,
-        "depth": 8.02,
+        "place": "4 km SSW of Amboy, Washington",
+        "mag": 2.13322162628174,
+        "time": 1787355776120,
+        "lon": -122.473503112793,
+        "lat": 45.8740005493164,
+        "depth": 3.76999998092651,
         "source": "USGS"
       }
     ],
@@ -569,8 +957,225 @@
       }
     ]
   },
-  "entities": [],
-  "events": [],
+  "entities": [
+    {
+      "id": 1,
+      "name": "₹2 , 008 cr investment push for Paradip port to speed up car",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T164500Z",
+      "source": "business-standard.com"
+    },
+    {
+      "id": 2,
+      "name": "Sarbananda Sonowal inaugurates 7 projects at Paradip Port , ",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T143000Z",
+      "source": "prokerala.com"
+    },
+    {
+      "id": 3,
+      "name": "Oyetola : Lagos , Eastern ports to complement each other",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T111500Z",
+      "source": "thenationonlineng.net"
+    },
+    {
+      "id": 4,
+      "name": "Κικίλιας στη Λεμεσό για τη « ναυτική δύναμη » της Μεσογείου ",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T134500Z",
+      "source": "huffingtonpost.gr"
+    },
+    {
+      "id": 5,
+      "name": "Sonowal inaugurates 7 major infrastructure projects worth 42",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T203000Z",
+      "source": "asiabulletin.com"
+    },
+    {
+      "id": 6,
+      "name": "Sonowal inaugurates 7 major infrastructure projects worth 42",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T210000Z",
+      "source": "indiagazette.com"
+    },
+    {
+      "id": 7,
+      "name": "Sonowal inaugurates 7 major infrastructure projects worth 42",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T213000Z",
+      "source": "calcuttanews.net"
+    },
+    {
+      "id": 8,
+      "name": "Tankers Stack Up as Venezuela Sells Oil Faster Than Its Port",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T134500Z",
+      "source": "gcaptain.com"
+    },
+    {
+      "id": 9,
+      "name": "US Lifts 12 - Year Security Curbs On Nigerian Ships , Boosti",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T233000Z",
+      "source": "naija247news.com"
+    },
+    {
+      "id": 10,
+      "name": "Port Of Corpus Christi To Explore Nuclear Technology - The W",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260821T163000Z",
+      "source": "waterwaysjournal.net"
+    }
+  ],
+  "events": [
+    {
+      "title": "₹2 , 008 cr investment push for Paradip port to speed up cargo movement",
+      "url": "https://www.business-standard.com/industry/news/2-008-cr-investment-push-for-paradip-port-to-speed-up-cargo-movement-126082101367_1.html",
+      "domain": "business-standard.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T164500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Sarbananda Sonowal inaugurates 7 projects at Paradip Port , marks 18 . 5 - metre deep - draft capability",
+      "url": "https://www.prokerala.com/news/articles/a1803129.html",
+      "domain": "prokerala.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T143000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Oyetola : Lagos , Eastern ports to complement each other",
+      "url": "https://thenationonlineng.net/oyetola-lagos-eastern-ports-to-complement-each-other/",
+      "domain": "thenationonlineng.net",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T111500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Κικίλιας στη Λεμεσό για τη « ναυτική δύναμη » της Μεσογείου – Σύμφωνα με πληροφορίες της HuffPost , στο τραπέζι Ορμούζ και Μαύρη Θάλασσα - HuffPost - Ειδήσεις και Απόψεις από την Ελλάδα και τον ΚόσμοΚικίλιας στη Λεμεσό για τη « ναυτική δύναμη » της Μ...",
+      "url": "https://www.huffingtonpost.gr/politiki/kikilias-sti-lemeso-gia-ti-naftiki-dynami-tis-mesogeiou-symfona-me-plirofories-tis-huffpost-sto-trapezi-ormouz-kai-mavri-thalassa/",
+      "domain": "huffingtonpost.gr",
+      "language": "Greek",
+      "tone": 0,
+      "seendate": "20260821T134500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Sonowal inaugurates 7 major infrastructure projects worth 427 . 80 crore in Paradip",
+      "url": "http://www.asiabulletin.com/news/279256930/sonowal-inaugurates-7-major-infrastructure-projects-worth-42780-crore-in-paradip",
+      "domain": "asiabulletin.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T203000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Sonowal inaugurates 7 major infrastructure projects worth 427 . 80 crore in Paradip",
+      "url": "http://www.indiagazette.com/news/279256930/sonowal-inaugurates-7-major-infrastructure-projects-worth-42780-crore-in-paradip",
+      "domain": "indiagazette.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T210000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Sonowal inaugurates 7 major infrastructure projects worth 427 . 80 crore in Paradip",
+      "url": "http://www.calcuttanews.net/news/279256930/sonowal-inaugurates-7-major-infrastructure-projects-worth-42780-crore-in-paradip",
+      "domain": "calcuttanews.net",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T213000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Tankers Stack Up as Venezuela Sells Oil Faster Than Its Ports Can Handle",
+      "url": "https://gcaptain.com/tankers-stack-up-as-venezuela-sells-oil-faster-than-its-ports-can-handle/",
+      "domain": "gcaptain.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T134500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "US Lifts 12 - Year Security Curbs On Nigerian Ships , Boosting Port Competitiveness",
+      "url": "https://naija247news.com/us-lifts-12-year-security-curbs-on-nigerian-ships-boosting-port-competitiveness/",
+      "domain": "naija247news.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T233000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Port Of Corpus Christi To Explore Nuclear Technology - The Waterways Journal",
+      "url": "https://www.waterwaysjournal.net/2026/08/21/port-of-corpus-christi-to-explore-nuclear-technology/",
+      "domain": "waterwaysjournal.net",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T163000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "S . Korean Ship to Test Arctic Route to Europe but Western Allies Concerned",
+      "url": "https://www.insurancejournal.com/news/international/2026/08/21/882398.htm",
+      "domain": "insurancejournal.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T110000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Hormuz stranded ships may spread invasive species",
+      "url": "https://www.pakistantoday.com.pk/2026/08/21/study-warns-stranded-hormuz-ships-could-spread-invasive-marine-species-worldwide",
+      "domain": "pakistantoday.com.pk",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T203000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "More than 1 , 500 ships stuck in Strait of Hormuz may trigger global biological invasions",
+      "url": "https://aa.com.tr/en/us-israel-iran-war/more-than-1-500-ships-stuck-in-strait-of-hormuz-may-trigger-global-biological-invasions/4033716",
+      "domain": "aa.com.tr",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T110000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "More than 1 , 500 ships stuck in Strait of Hormuz may trigger global biological invasions",
+      "url": "https://www.middleeastmonitor.com/20260821-more-than-1500-ships-stuck-in-strait-of-hormuz-may-trigger-global-biological-invasions/",
+      "domain": "middleeastmonitor.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T170000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Piracy comeback puts fresh pressure on marine war risk and K & R cover",
+      "url": "https://www.insurancebusinessmag.com/us/news/marine/piracy-comeback-puts-fresh-pressure-on-marine-war-risk-and-kandr-cover-587081.aspx",
+      "domain": "insurancebusinessmag.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T210000Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
