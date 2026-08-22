@@ -8,7 +8,7 @@ openrouter:
   model: "z-ai/glm-5.2:free"
   fallback_model: "google/gemma-4-31b-it:free"
 
-gdelt_query: "("Black Sea" OR Caspian) (maritime OR tanker OR port)"
+gdelt_query: "(Caspian OR Bosporus OR Dardanelles OR Odesa)"
 include_forex: true
 
 sources:
