@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-22T08:44:04.055018+00:00",
+    "generated": "2026-08-22T12:55:48.431959+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -36,12 +36,309 @@
     "gdelt_articles": [],
     "earthquakes": [
       {
+        "place": "63 km SE of Denali National Park, Alaska",
+        "mag": 2,
+        "time": 1787403051455,
+        "lon": -150.683,
+        "lat": 63.219,
+        "depth": 128.3,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km S of Willow, Alaska",
+        "mag": 1.8,
+        "time": 1787402535512,
+        "lon": -150.046,
+        "lat": 61.705,
+        "depth": 26.7,
+        "source": "USGS"
+      },
+      {
+        "place": "14 km N of Warner Springs, CA",
+        "mag": 1.33,
+        "time": 1787402508040,
+        "lon": -116.653,
+        "lat": 33.4083333333333,
+        "depth": 4.47,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km NW of The Geysers, CA",
+        "mag": 0.74,
+        "time": 1787401880570,
+        "lon": -122.814666748047,
+        "lat": 38.8311653137207,
+        "depth": 1.70000004768372,
+        "source": "USGS"
+      },
+      {
+        "place": "24 km N of Yucca Valley, CA",
+        "mag": 0.94,
+        "time": 1787401267190,
+        "lon": -116.467333333333,
+        "lat": 34.3325,
+        "depth": 5.14,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km WNW of The Geysers, CA",
+        "mag": 1.34,
+        "time": 1787400221390,
+        "lon": -122.800498962402,
+        "lat": 38.7944984436035,
+        "depth": 3.09999990463257,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km S of Volcano, Hawaii",
+        "mag": 2.1,
+        "time": 1787399551500,
+        "lon": -155.256164550781,
+        "lat": 19.3083324432373,
+        "depth": 3.24000000953674,
+        "source": "USGS"
+      },
+      {
+        "place": "0 km WNW of Pāhala, Hawaii",
+        "mag": 2.05,
+        "time": 1787398631020,
+        "lon": -155.483001708984,
+        "lat": 19.2056674957275,
+        "depth": 33.7000007629395,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NW of The Geysers, CA",
+        "mag": 0.77,
+        "time": 1787397962190,
+        "lon": -122.790832519531,
+        "lat": 38.8091659545898,
+        "depth": 3.47000002861023,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km NW of Imperial, CA",
+        "mag": 1.14,
+        "time": 1787397142530,
+        "lon": -115.629666666667,
+        "lat": 32.9096666666667,
+        "depth": 5.47,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km NW of The Geysers, CA",
+        "mag": 0.93,
+        "time": 1787396734500,
+        "lon": -122.80916595459,
+        "lat": 38.829833984375,
+        "depth": 2.05999994277954,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km E of Ashford, Washington",
+        "mag": 2.54715490341187,
+        "time": 1787396064200,
+        "lon": -121.93399810791,
+        "lat": 46.7639999389648,
+        "depth": -0.930000007152557,
+        "source": "USGS"
+      },
+      {
+        "place": "120 km SSE of Ugashik, Alaska",
+        "mag": 2.2,
+        "time": 1787396034629,
+        "lon": -156.448,
+        "lat": 56.562,
+        "depth": 5,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NNW of Pinnacles, CA",
+        "mag": 2.01,
+        "time": 1787394883180,
+        "lon": -121.176170349121,
+        "lat": 36.5738334655762,
+        "depth": 4.13000011444092,
+        "source": "USGS"
+      },
+      {
+        "place": "24 km ENE of Ashford, Washington",
+        "mag": 0.910000026,
+        "time": 1787394088050,
+        "lon": -121.746002197266,
+        "lat": 46.8536682128906,
+        "depth": -1.47000002861023,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km WNW of Cobb, CA",
+        "mag": 1.51,
+        "time": 1787394085390,
+        "lon": -122.821502685547,
+        "lat": 38.8404998779297,
+        "depth": 1.95000004768372,
+        "source": "USGS"
+      },
+      {
+        "place": "32 km NNE of Mentone, Texas",
+        "mag": 2,
+        "time": 1787394029254,
+        "lon": -103.518,
+        "lat": 31.993,
+        "depth": 0,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km ESE of San Mateo, New Mexico",
+        "mag": 4.1,
+        "time": 1787393953862,
+        "lon": -107.533,
+        "lat": 35.313,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "11 km SSW of Ridgemark, CA",
+        "mag": 2.3,
+        "time": 1787393221460,
+        "lon": -121.41967010498,
+        "lat": 36.7270011901855,
+        "depth": 7.07000017166138,
+        "source": "USGS"
+      },
+      {
+        "place": "36 km SSE of Midland, Texas",
+        "mag": 1,
+        "time": 1787392656805,
+        "lon": -101.995,
+        "lat": 31.674,
+        "depth": 3.6027,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km W of Forsan, Texas",
+        "mag": 1.2,
+        "time": 1787392528976,
+        "lon": -101.494,
+        "lat": 32.116,
+        "depth": 2.4201,
+        "source": "USGS"
+      },
+      {
+        "place": "2 km N of Tallaboa, Puerto Rico",
+        "mag": 2.3,
+        "time": 1787391391280,
+        "lon": -66.717,
+        "lat": 18.021,
+        "depth": 40.2,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km N of Warner Springs, CA",
+        "mag": 0.64,
+        "time": 1787391226070,
+        "lon": -116.643166666667,
+        "lat": 33.4131666666667,
+        "depth": 6.7,
+        "source": "USGS"
+      },
+      {
+        "place": "16 km SE of Anza, CA",
+        "mag": 0.01,
+        "time": 1787390721300,
+        "lon": -116.545166666667,
+        "lat": 33.4591666666667,
+        "depth": 10.87,
+        "source": "USGS"
+      },
+      {
+        "place": "61 km S of Whites City, New Mexico",
+        "mag": 1.6,
+        "time": 1787390238839,
+        "lon": -104.449,
+        "lat": 31.628,
+        "depth": 3.132,
+        "source": "USGS"
+      },
+      {
+        "place": "18 km WSW of Coyanosa, Texas",
+        "mag": 1.5,
+        "time": 1787389958770,
+        "lon": -103.256,
+        "lat": 31.208,
+        "depth": 5.5139,
+        "source": "USGS"
+      },
+      {
+        "place": "21 km E of Little Lake, CA",
+        "mag": 0.88,
+        "time": 1787389614390,
+        "lon": -117.672333333333,
+        "lat": 35.9488333333333,
+        "depth": 2.97,
+        "source": "USGS"
+      },
+      {
+        "place": "116 km N of Charlotte Amalie, U.S. Virgin Islands",
+        "mag": 3.41,
+        "time": 1787389610820,
+        "lon": -64.8276666666667,
+        "lat": 19.3886666666667,
+        "depth": 14.77,
+        "source": "USGS"
+      },
+      {
+        "place": "61 km W of Tyonek, Alaska",
+        "mag": 1.9,
+        "time": 1787388895237,
+        "lon": -152.272,
+        "lat": 61.019,
+        "depth": 116.7,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km WNW of Resaca, Georgia",
+        "mag": 2.41,
+        "time": 1787388855250,
+        "lon": -85.0476666666667,
+        "lat": 34.6116666666667,
+        "depth": 9.35,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km WNW of Cobb, CA",
+        "mag": 0.7,
+        "time": 1787388751310,
+        "lon": -122.800163269043,
+        "lat": 38.8370018005371,
+        "depth": 1.26999998092651,
+        "source": "USGS"
+      },
+      {
+        "place": "23 km N of Ridgecrest, CA",
+        "mag": 1.78,
+        "time": 1787388460770,
+        "lon": -117.667166666667,
+        "lat": 35.8305,
+        "depth": 7.35,
+        "source": "USGS"
+      },
+      {
         "place": "3 km WNW of Anderson Springs, CA",
         "mag": 0.8,
         "time": 1787387605280,
         "lon": -122.72233581543,
         "lat": 38.7893333435059,
         "depth": 1.67999994754791,
+        "source": "USGS"
+      },
+      {
+        "place": "83 km NNE of Ruteng, Indonesia",
+        "mag": 4.8,
+        "time": 1787387340857,
+        "lon": 120.6999,
+        "lat": -7.8939,
+        "depth": 10,
         "source": "USGS"
       },
       {
@@ -60,6 +357,15 @@
         "lon": -47.6047,
         "lat": -60.3789,
         "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "1 km SW of Lares, Puerto Rico",
+        "mag": 2.42,
+        "time": 1787385772640,
+        "lon": -66.886,
+        "lat": 18.2828333333333,
+        "depth": 13.9,
         "source": "USGS"
       },
       {
@@ -162,327 +468,21 @@
         "source": "USGS"
       },
       {
+        "place": "5 km SW of Liborio Negron Torres, Puerto Rico",
+        "mag": 1.94,
+        "time": 1787381469460,
+        "lon": -66.9835,
+        "lat": 18.0116666666667,
+        "depth": 10.06,
+        "source": "USGS"
+      },
+      {
         "place": "10 km ENE of Coso Junction, CA",
         "mag": 0.88,
         "time": 1787381437930,
         "lon": -117.835333333333,
         "lat": 36.0675,
         "depth": 2.5,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km WNW of Cobb, CA",
-        "mag": 0.67,
-        "time": 1787381342190,
-        "lon": -122.793502807617,
-        "lat": 38.8370018005371,
-        "depth": 2.11999988555908,
-        "source": "USGS"
-      },
-      {
-        "place": "45 km SE of Lukatan, Philippines",
-        "mag": 5,
-        "time": 1787381019032,
-        "lon": 126.7362,
-        "lat": 6.7397,
-        "depth": 107.802,
-        "source": "USGS"
-      },
-      {
-        "place": "13 km WSW of Stanton, Texas",
-        "mag": 1.9,
-        "time": 1787379556021,
-        "lon": -101.931,
-        "lat": 32.102,
-        "depth": 3.4762,
-        "source": "USGS"
-      },
-      {
-        "place": "14 km W of Stanton, Texas",
-        "mag": 1.7,
-        "time": 1787379555847,
-        "lon": -101.935,
-        "lat": 32.106,
-        "depth": 4.8329,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km SSE of Big Lake, Alaska",
-        "mag": 1.3,
-        "time": 1787378968244,
-        "lon": -149.93,
-        "lat": 61.471,
-        "depth": 59,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km WNW of The Geysers, CA",
-        "mag": 1.13,
-        "time": 1787378427710,
-        "lon": -122.852500915527,
-        "lat": 38.8226661682129,
-        "depth": 2.53999996185303,
-        "source": "USGS"
-      },
-      {
-        "place": "68 km NE of Punta Cana, Dominican Republic",
-        "mag": 3.1,
-        "time": 1787377828657,
-        "lon": -67.9333,
-        "lat": 19.0061,
-        "depth": 35,
-        "source": "USGS"
-      },
-      {
-        "place": "167 km SE of San Jose Village, Northern Mariana Islands",
-        "mag": 4.9,
-        "time": 1787377627443,
-        "lon": 146.7194,
-        "lat": 13.8954,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "71 km NNW of Ende, Indonesia",
-        "mag": 4.7,
-        "time": 1787377511914,
-        "lon": 121.4575,
-        "lat": -8.2301,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km SSW of Julian, CA",
-        "mag": 1.12,
-        "time": 1787375466150,
-        "lon": -116.615666666667,
-        "lat": 33.0611666666667,
-        "depth": 13.28,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km SE of Naalehu, Hawaii",
-        "mag": 1.78,
-        "time": 1787375367580,
-        "lon": -155.454498291016,
-        "lat": 18.9834995269775,
-        "depth": 26.4099998474121,
-        "source": "USGS"
-      },
-      {
-        "place": "21 km SW of Ferry, Alaska",
-        "mag": 1.6,
-        "time": 1787374814437,
-        "lon": -149.482,
-        "lat": 63.905,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "66 km S of Ivanof Bay, Alaska",
-        "mag": 2.2,
-        "time": 1787374707589,
-        "lon": -159.346,
-        "lat": 55.308,
-        "depth": 5,
-        "source": "USGS"
-      },
-      {
-        "place": "19 km W of Searles Valley, CA",
-        "mag": 0.4,
-        "time": 1787374645170,
-        "lon": -117.614,
-        "lat": 35.7916666666667,
-        "depth": 7.67,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km S of Kitcharao, Philippines",
-        "mag": 5,
-        "time": 1787373848744,
-        "lon": 125.5805,
-        "lat": 9.3981,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km WSW of Anza, CA",
-        "mag": 0.09,
-        "time": 1787373822380,
-        "lon": -116.705833333333,
-        "lat": 33.5401666666667,
-        "depth": 5.3,
-        "source": "USGS"
-      },
-      {
-        "place": "58 km ENE of Tonopah, Nevada",
-        "mag": 1.97,
-        "time": 1787371622189,
-        "lon": -116.6142,
-        "lat": 38.281,
-        "depth": 0.0132,
-        "source": "USGS"
-      },
-      {
-        "place": "12 km WSW of Salton City, CA",
-        "mag": 1.97,
-        "time": 1787371302580,
-        "lon": -116.0665,
-        "lat": 33.2413333333333,
-        "depth": 2.96,
-        "source": "USGS"
-      },
-      {
-        "place": "238 km ESE of Attu Station, Alaska",
-        "mag": 3,
-        "time": 1787370774510,
-        "lon": 176.234,
-        "lat": 51.803,
-        "depth": 24.5,
-        "source": "USGS"
-      },
-      {
-        "place": "41 km W of Four Mile Road, Alaska",
-        "mag": 2.3,
-        "time": 1787370245373,
-        "lon": -149.985,
-        "lat": 64.564,
-        "depth": 18.3,
-        "source": "USGS"
-      },
-      {
-        "place": "49 km SE of Yilan, Taiwan",
-        "mag": 4.4,
-        "time": 1787370014817,
-        "lon": 122.0811,
-        "lat": 24.4244,
-        "depth": 38.316,
-        "source": "USGS"
-      },
-      {
-        "place": "45 km W of Akhiok, Alaska",
-        "mag": 1.8,
-        "time": 1787369210290,
-        "lon": -154.923,
-        "lat": 56.91,
-        "depth": 6.2,
-        "source": "USGS"
-      },
-      {
-        "place": "9 km ESE of Pāhala, Hawaii",
-        "mag": 1.93,
-        "time": 1787369136570,
-        "lon": -155.396331787109,
-        "lat": 19.1790008544922,
-        "depth": 39.3800010681152,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km ENE of Coso Junction, CA",
-        "mag": 0.58,
-        "time": 1787367972250,
-        "lon": -117.8335,
-        "lat": 36.069,
-        "depth": 4.16,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ENE of Coso Junction, CA",
-        "mag": 0.63,
-        "time": 1787366180310,
-        "lon": -117.8385,
-        "lat": 36.0626666666667,
-        "depth": 2.88,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km NNW of Seldovia, Alaska",
-        "mag": 1.6,
-        "time": 1787365820060,
-        "lon": -151.769,
-        "lat": 59.49,
-        "depth": 68.5,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km WSW of New Idria, CA",
-        "mag": 1.5,
-        "time": 1787365363100,
-        "lon": -120.846496582031,
-        "lat": 36.3673324584961,
-        "depth": 9.14999961853027,
-        "source": "USGS"
-      },
-      {
-        "place": "22 km SSW of La Quinta, CA",
-        "mag": 1.46,
-        "time": 1787364850220,
-        "lon": -116.4165,
-        "lat": 33.4818333333333,
-        "depth": 8.1,
-        "source": "USGS"
-      },
-      {
-        "place": "42 km NE of Ruteng, Indonesia",
-        "mag": 4.6,
-        "time": 1787363968543,
-        "lon": 120.6927,
-        "lat": -8.3069,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km NE of The Geysers, CA",
-        "mag": 1.05,
-        "time": 1787363868470,
-        "lon": -122.743835449219,
-        "lat": 38.7878341674805,
-        "depth": 1.74000000953674,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km SSW of Encino, CA",
-        "mag": 1.35,
-        "time": 1787363825550,
-        "lon": -118.534666666667,
-        "lat": 34.1073333333333,
-        "depth": 8.54,
-        "source": "USGS"
-      },
-      {
-        "place": "130 km N of Charlotte Amalie, U.S. Virgin Islands",
-        "mag": 3.68,
-        "time": 1787363636120,
-        "lon": -64.7776,
-        "lat": 19.5103,
-        "depth": 11,
-        "source": "USGS"
-      },
-      {
-        "place": "70 km ESE of Denali Park, Alaska",
-        "mag": 1.5,
-        "time": 1787362849211,
-        "lon": -147.573,
-        "lat": 63.534,
-        "depth": 8.8,
-        "source": "USGS"
-      },
-      {
-        "place": "56 km W of Karluk, Alaska",
-        "mag": 1.5,
-        "time": 1787362660109,
-        "lon": -155.393,
-        "lat": 57.641,
-        "depth": 17.3,
-        "source": "USGS"
-      },
-      {
-        "place": "southern Mid-Atlantic Ridge",
-        "mag": 5.3,
-        "time": 1787362497606,
-        "lon": -14.8824,
-        "lat": -12.7714,
-        "depth": 10,
         "source": "USGS"
       }
     ],
