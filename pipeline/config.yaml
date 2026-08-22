@@ -1,14 +1,14 @@
-# Caspian & Black Sea Monitor Configuration
+﻿# Caspian & Black Sea Monitor Configuration
 project:
   id: caspian-black-sea-monitor
   name: "Caspian & Black Sea Monitor"
   description: "Real-time vessel tracking, energy shipments, and maritime activity."
 
 openrouter:
-  model: "openrouter/free"
-  fallback_model: "openrouter/free"
+  model: "z-ai/glm-5.2:free"
+  fallback_model: "google/gemma-4-31b-it:free"
 
-gdelt_query: "maritime shipping vessel port"
+gdelt_query: "("Black Sea" OR Caspian) (maritime OR tanker OR port)"
 include_forex: true
 
 sources:
