@@ -1,13 +1,15 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-23T06:58:31.291924+00:00",
+    "generated": "2026-08-23T12:59:40.576515+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
       "exchange_rates"
     ],
-    "source_notes": [],
+    "source_notes": [
+      "GDELT unavailable; headlines sourced via Google News RSS fallback."
+    ],
     "version": "1.1.0"
   },
   "stats": [
@@ -18,7 +20,7 @@
     },
     {
       "label": "News Domains",
-      "value": "40",
+      "value": "26",
       "delta": "deduplicated"
     },
     {
@@ -35,454 +37,454 @@
   "live_data": {
     "gdelt_articles": [
       {
-        "title": "Çanakkalede halk plajında patlamamış top mermisi paniği",
-        "url": "https://www.ensonhaber.com/canakkalede-halk-plajinda-patlamamis-top-mermisi-panigi-h1559694",
-        "domain": "ensonhaber.com",
-        "language": "Turkish",
+        "title": "Odesa Takes Center Stage in Fiction Abroad",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KbGF3ZUM1ME5ZZVRLNF81NG1NMGhubldBT1FoY0NZTFVYTmJEUk5IMmVfN0JpNi1KRFBlemxtb2hZN3I0bV9wRW85OA?oc=5",
+        "domain": "kyivpost",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T143000Z",
-        "source": "GDELT"
+        "seendate": "20260823T115706Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Çanakkalede Plajda Top Mermisi Bulundu",
-        "url": "https://www.haberler.com/guncel/canakkale-de-halk-plajinda-patlamamis-top-mermisi-20167525-haberi/",
-        "domain": "haberler.com",
-        "language": "Turkish",
+        "title": "Odesa under attack: Russia is cutting Ukraine off from the Black Sea",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHBNSUFHQlBENzhXTDBZWHphUVowSTMxNUZqeDZtcmdybWlaenJJQUdFQ3dzeExrd0lDYTcxbm5yV1cyaE5LbktyUnFLSl80VzEybDlJMmsyZE04VFBud2lUOGFKZjZhRVRGTzM4R2lRaG5WWmxjU0dBMUh3azVqQ3BXSGIySjk2N2xYOVlvLXp5ZFFCT3hMUmpuU1gyOGwwbHQ2RE1nSEdXdFRUbzhZQzhhM0t3SnBhN1ow?oc=5",
+        "domain": "atlanticcouncil",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T134500Z",
-        "source": "GDELT"
+        "seendate": "20260818T152800Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Çanakkalede Plajda Savaş Kalıntısı Mühimmat Bulundu",
-        "url": "https://www.haberler.com/3-sayfa/canakkale-de-plajda-savastan-kalma-oldugu-20167501-haberi/",
-        "domain": "haberler.com",
-        "language": "Turkish",
+        "title": "Narnia Is Coming to the Ark Again This Winter with Another Stage Production: Prince Caspian",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnY2OGlLcnRibG1oaFlCN2p4MDlrSG1NNTlxeFcxX2xockNiVkxMYzRSOG9ubWVzbEtVcm5fdzBLbmZ3NUgtWFBQNFMyRDFSS1RNSU1xYnVUaVVGbEtEYk93c0ZDbVd0eEFXSkJoVl9zZ0FCa0ppRTdCWWJXdjhDcWpmdmJGUFpIT1hPU2tyeUFyOTZJZWg3cTBvUHJkTGEyZkdjNXMwQ0p6ekdHdFln?oc=5",
+        "domain": "answersingenesis",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T141500Z",
-        "source": "GDELT"
+        "seendate": "20260823T101635Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Çanakkalede halk plajında patlamamış top mermisi bulundu - CNN TÜRK En Son Haberler",
-        "url": "https://www.cnnturk.com/turkiye/canakkalede-halk-plajinda-patlamamis-top-mermisi-bulundu-3457631",
-        "domain": "cnnturk.com",
-        "language": "Turkish",
+        "title": "In the Odesa region, a Shahed drone struck the locomotive of a train carrying 593 passengers",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmlNTGxXeTFhQ2JRNVVJLTdNR0pEYnlOQTd5TE5DUzNRU0NWbDdqRDVKRzNfSVJpanQ1d0l4c0hqRVhjOHQtN0x5d0M3MFRtaWxDdXhHNnpZRTRvTm13TTlPOFd0M3kzOTR4Yl9fWEZlNGpzTU5SSkNMc1hwdE81UWs4eGpYWlhwRWlaY2x1RnkzQ2RMQWQ5X29CaFB4N3kwZzR4Y3lOcGxiNTN0LWN4SnZXY1BjcHhnOUJoNXV3N0stVlVmUXFR?oc=5",
+        "domain": "news.google.com",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T151500Z",
-        "source": "GDELT"
+        "seendate": "20260823T103407Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "آیا دریای خزر به شریان حیاتی تازه‌ای میان ایران و روسیه تبدیل شده است ؟ ",
-        "url": "https://www.radiofarda.com/a/caspian-lifeline-russia-iran-ukraine-shipping/33836184.html",
-        "domain": "radiofarda.com",
-        "language": "Persian",
+        "title": "The Caspian Sea Is Now a Critical Military Lifeline for Russia and Iran",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEV0cXJRcFlGaWFBY0hKUzRBaXNsV0U1OGlsUjJ2X0NqbWRxM28ySVZYWTlKVktqWVRiY1RyNk5iWXZRX2l4ckdhZ3liNVdZX2ZOeUZUNGdjcjRHVEEtUnplblNfT0x3Q0FnTF9aX1BYOUZpeUVJMHpBWXZPa1RDbHRZWFI4QVRLY3otcWxUN1A1UUFJc3p6dzlwalh1ZFBSSXNqMHdYNDBXWm9QRTdUWUQ1S3fSAboBQVVfeXFMT1VmNGhMd05wYVlHbzhfZ192QW0yR211VkVwSFFBQzVtMjlocjl3MWs0Sm1uMmlmckoxZFpvbkx1OG94dlI0LWtPR1dnYm9TT20tY0pEenBQZldpTlIxb0dRQm4wcFBicnVUdENnZnZBeU1SX29MOE51bGpLZnRuak1oN29UUG85RGFJMFRtTmhPOUludVZmX3JGVjRZSTRuTm5OeUJFNlAwOHRGajRlS3JnaVc3S05GYWxR?oc=5",
+        "domain": "crudeoilpricestodayoilprice.com",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T134500Z",
-        "source": "GDELT"
+        "seendate": "20260820T160000Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Атака на Одещину 22 серпня - скільки людей постраждали",
-        "url": "https://24tv.ua/ataka-odeshhinu-22-serpnya-skilki-lyudey-postrazhdali_n3128104",
-        "domain": "24tv.ua",
-        "language": "Ukrainian",
+        "title": "Russians attack locomotive of Zhytomyr–Odesa passenger train with jet-powered drone",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXRnUjJZX2NBX3JhWE8xeFNZb0k2Q2VwSkVKMjNWNkZ5c1YwTnNURWl1TlhDMXg5bndJNU1jdVBpT2tEbGI1UWdjelVrbjAyUElXQWJwVUJzYldvQjBzQS1uSXplbzVFU3h0dnpFSTZyNEtRcjZYM3hSTVBfWkF0alljenVqeEZBZ3lsR3pmS04zNUxGeTBGQjYwZDZsTDFLVC1nMnFPbmFMMkRZOWtxM3ZITjdGNEdkeE5td0NlTmdYbTdvTlNXRW1BY9IB0AFBVV95cUxPbnFmMW85eVhlUXlHM3p1VGRCTGFEdndqMkgtRmU0T29mZTEzNGl3TUtQaDc5VTFfQTE1dEY3WDRjMVdwb1BJUkplcV9PTDdxZE4zUk85MXJBS2UzYTVKQk9JekkwUkx0QjEtajExU1pTNkVDXzY0T3E0OFJXMDlTNmdBNnVDQWJIZDg1QUdQVDVmZjZPdGsyNlBybTdtZTVrSWxNNlBXa2g5QmtER1FzcjBoLVM0bVhJQjlHdWRhazFGbExqcmxSM18zcm02SlZG?oc=5",
+        "domain": "ukrinform",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T143000Z",
-        "source": "GDELT"
+        "seendate": "20260823T073100Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "В Дагестане подросток напал с ножом на водителя такси",
-        "url": "https://ria.ru/20260822/dagestan-2112557164.html",
-        "domain": "ria.ru",
-        "language": "Russian",
+        "title": "Jet-powered Shahed drone strikes passenger train in Odesa Oblast",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FN0lIdWNPdXR5TS1lM1hCS0ZncHBEc19qbERGVFl0QVY5QTJzRlZDUUI1TnRZZ2ZlOC1falptTUNibldmM2o5Qlcyci1abUg2TFhreUhrOENPYWhtRG5CdklXQWTSAXBBVV95cUxNNWZVZnpsenZtRzhBTW1iZHctRWZ4MmVVcEE5RWg1eGZPWG5QUnFnb3p2UGk0WVg2Ync1ZUpBY3VGX3NWZTNPUW9DbjY5cG0tbzhLZkFNSkNRRUx2c3JiUUdNVm5sTjRYY2ZBTEdEdEs5?oc=5",
+        "domain": "news.google.com",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T171500Z",
-        "source": "GDELT"
+        "seendate": "20260823T065200Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "В Каспийске 16 - летний подросток подозревается в покушении на убийство",
-        "url": "https://riadagestan.ru/news/incidents/v_kaspiyske_16_letniy_podrostok_podozrevaetsya_v_pokushenii_na_ubiystvo",
-        "domain": "riadagestan.ru",
-        "language": "Russian",
+        "title": "Russian attacks kill 5, injure 44 across Ukraine over past day, as jet-powered drone hits passenger train in Odesa Oblast",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYmNBWElYZUxjd244bk9kaU1NMUtsWTk5R1piR2tLNGQzWFZMeS1uZGJqbG5QaUNVN1B2SzhVcy01WkZ0LV9NSUNlOWt2UE9JeUdDWFd6YVdsWktLS29RV1lCekVScV9OaDJQR0dWenBHMmljN2xDZTZidXlXYlNKeGlDWGZzLXVoWlNqMGlKYU1nWXBINDRtWGtmc1BTMXZhNy02TjdZajRFaVdkNGFfWGh5TlRwOVlndG1kMUZDS1JCcWpGQVpKeUQ3Z1l2cEF1VF96cHltR1pfcmRkVkJKUzVn?oc=5",
+        "domain": "thekyivindependent",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T153000Z",
-        "source": "GDELT"
+        "seendate": "20260823T085306Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Çanakkalede plajda savaştan kalma olduğu değerlendirilen askeri mühimmat bulundu",
-        "url": "https://haber.mynet.com/canakkalede-plajda-savastan-kalma-oldugu-degerlendirilen-askeri-muhimmat-bulundu-110107307258",
-        "domain": "haber.mynet.com",
-        "language": "Turkish",
+        "title": "Russia helps Iran rebuild war arsenal through Caspian Sea, reports says",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkVPSHhnczFaN1hFQlRRMFQ1ZndkdGlMUWNWUG1XMVQ5ZVctd2pCQzBIR3FwTnJqaTlxX2Q1OFFXeDZrN0FjQmFmbUNKdWpYb2t0cE1TT2xDNmZFalNJT3VCbk9tWk9DbEhzZ0hqR0t4NHRXeVd5ai1PY1FJNEx0dWstTjJfUkM3Zkl3S1hEM3BwSjFjS2toQ1RZYlY?oc=5",
+        "domain": "thearabweekly",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T141500Z",
-        "source": "GDELT"
+        "seendate": "20260820T083202Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Massive Russian missile and drone strikes hit Antonov plant and Kyiv logistics hubs",
-        "url": "https://www.bankingnews.gr/diethni/articles/895025/massive-russian-missile-and-drone-strikes-hit-antonov-plant-and-kyiv-logistics-hubs%20title=",
-        "domain": "bankingnews.gr",
-        "language": "English",
+        "title": "Russian jet-powered Shahed attacks passenger train in Ukraine's Odesa Oblast",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0RkVm9lLWVVekZUOVFZdnlVbUg5QnIzbmpFdUs4Zk55QmxvU2drZUhPSWpGRHJhYXdXQVBKa2dOTDdUZUkwNktTZi1NcDlvVXNBUmNUM3Qwa0FWbG4xQ3c4UU05VU5FRE13TTVEM0hSejQxR3RVSEF0TzhCRXh4R2ludV9icHhXekFtS2I0eVZqLWhYc1VOd3BWTFF3NS04N2VBU1hsS1kyVDVfcDRDSmdYTdIBqAFBVV95cUxPdEh4Mzdrd2hyTXhGdDAxeUxQaTFPRHFrVk9uUmpPTGJjZDJZek9ZX0tiVFpvdFlFTVo2UDMyNnRLQVh5RjNfU2t1N29SZ0J1QWRFOUxod2FBNHllSkJ2c3hpQU05cjNMWHBoeVNnN2lSaEoxanpWeVVoSGJzcGpNcmw2WmgwcXJYOWVxakZwNHhHTWZWakk4OUduNHEydUNFaW84OTlISHU?oc=5",
+        "domain": "thenewvoiceofukraine",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T091500Z",
-        "source": "GDELT"
+        "seendate": "20260823T095100Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Massive Russian missile and drone strikes hit Antonov plant and Kyiv logistics hubs",
-        "url": "https://www.bankingnews.gr/diethni/articles/895025/massive-russian-missile-and-drone-strikes-hit-antonov-plant-and-kyiv-logistics-hubs",
-        "domain": "bankingnews.gr",
-        "language": "English",
+        "title": "A Jet-Powered Shahed Hit a Passenger Train in Odesa Region, Passengers Evacuated",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tczhWbW5BSENSQnBST2tSNURydVpQd1RrUWFySWw2LUpNUUNWVEhmeThtYWlxa0hKNlgwSlRPZ3Jya01OWTdMTFUxYmlEWXdwTlRsNjNvVUZDYW5JMno2RGRaYWZEWHg5S0pnb0hJaw?oc=5",
+        "domain": "..",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T091500Z",
-        "source": "GDELT"
+        "seendate": "20260823T082437Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Çanakkalede plaj karıştı ! Savaştan kalma mühimmat bulundu",
-        "url": "https://www.haber7.com/guncel/haber/3653432-canakkalede-plaj-karisti-savastan-kalma-muhimmat-bulundu",
-        "domain": "haber7.com",
-        "language": "Turkish",
+        "title": "In Odesa region, a \"Shahed\" attacked a passenger train: nearly 600 people were in the carriages",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFlDaXZ3NlFHRTB0MG90dG81Tnc2UXFXS2pHWGhTcWR3RWJLUlFZcm9wZHdsY2h5dzBVdThINnROYV81QmJfbU5sTUhIaTZVT3c1dnhBcV9hSFFhVDI3RkMwUERZU256UDN0dGtIYUk5dVJpaXdGSDBBTUFqWEU1VnlmeVhRMTlyZUZ6N01kZ1UwbkRaM2piaER0VUJramFlTVRfMGhsOXFLSWFrVkFwbVRTV3DSAbMBQVVfeXFMTWpDaXYyUXRWTllKZ1h5RDJxVy0yWkZuMURjV2M1SlFxLWdwOUFSbDB0MnVrSU5UdlpkZ2sxR1drdS1fNVVfRDBydFNodFVobDhmaUtjU1M0TzRfUGNPSkNjVy1xU0l4dGM2T1drQkZjVDBIMjVxWHFoOVBjQmJJbm84VjIwaFZXNGFrTUljbnp0TXFJZGw5blQ2T1JrQi1wM042ZEdfWkR6MkcwYVVQS3ZTVms?oc=5",
+        "domain": "news.google.com",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T143000Z",
-        "source": "GDELT"
+        "seendate": "20260823T084718Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Ünlü oyuncu eşi ve çocuklarıyla elektriksiz köye yerleşti",
-        "url": "https://www.kocaeligazetesi.com.tr/haber/28567300/unlu-oyuncu-esi-ve-cocuklariyla-elektriksiz-koye-yerlesti",
-        "domain": "kocaeligazetesi.com.tr",
-        "language": "Turkish",
+        "title": "Russian Drone Hits Passenger Train in Odesa, Evacuation Prevents Casualties",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNWV2dmlnTGlJUi03VE02dHJpY0VLdnp3YVk3T1RoLXI3NjdkYkpZbFZKbzQtOF9XYVhvTWhYYnlxVG5pRWRPb0Y5UQ?oc=5",
+        "domain": "kyivpost",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T050000Z",
-        "source": "GDELT"
+        "seendate": "20260823T080214Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Обстріл Одеської області 22 серпня - пошкоджено енергообʼєкти ДТЕК",
-        "url": "https://www.rbc.ua/rus/news/rosiya-silno-poshkodila-energoob-ekti-dtek-1787385753.html",
-        "domain": "rbc.ua",
-        "language": "Ukrainian",
+        "title": "Lampadkas, a memorial service, and a military band: The Vyshyvanka Festival has kicked off in Odesa",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlc3Ql9HZ2QyU0ZSUkF4VUZsbXAxa1pDYXVWV0ZXMEJkbEhfTzhIb0t5T3JZYzJwcVpfY2pGU1FyZlo2b0hpMS1NN2JVNHp2cU5DU1loQjJ3LTloMVk4YTY4eXhYYkE2R2piQmlpRmVlMlRBSjd0MlFJM1piOVZ4RTJhSERMV1RNN01OWTd2Znh1RnF1SGxLSE9vZ285Z0lneG5OaUU1RUM4cVdCNVFURi10eTNMM3hmdUNEZy1iQjJvSHNQTmNsRVNCdlA0dm15WlRKa0xB?oc=5",
+        "domain": "news.google.com",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T084500Z",
-        "source": "GDELT"
+        "seendate": "20260823T080443Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Пункт пропуску « Табаки », пошкоджений російською атакою , відновив роботу",
-        "url": "https://nikvesti.com/news/incidents/322741-na-odeshchini-vidnoviv-robotu-punkt-propusku-tabaki-poshkodzhenii-rosiiskoiu-atakoiu",
-        "domain": "nikvesti.com",
-        "language": "Ukrainian",
+        "title": "A woman was arrested in the Odesa region for throwing three grenades at her neighbors",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1k4LVFha3Nkd09OUExoaVFUYWc5c0I5YXhzeGNfbWdlb3Q5MEFCaUZOa0VqN2lKTUZYbXVBZVR2NWRES3Y1UHd4cWx1aWhXcFhmczBua1UxeFM5M3VWb1VZZVJqRC1BUzNtbHFnVWJxOGV0WXgtR2RhazFaRzhKbF9WR3ctYVJLMEE2alNZeHk3VVlZd09oZW5QY1BrU0c4VGZDSV9NRDY3a2YxdTl2MS0zUzEteE1BdVZ2MUpoS3NTNEprNkJCQnZ6SlVmekxKWS1mNzh6WQ?oc=5",
+        "domain": "news.google.com",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T151500Z",
-        "source": "GDELT"
+        "seendate": "20260823T093700Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Çanakkalede plajda savaştan kalma olduğu değerlendirilen askeri mühimmat bulundu - Haber Ekspres - İzmir Haberleri - Son Dakika Haberleri",
-        "url": "https://www.haberekspres.com.tr/canakkalede-plajda-savastan-kalma-oldugu-degerlendirilen-askeri-muhimmat-bulundu",
-        "domain": "haberekspres.com.tr",
-        "language": "Turkish",
+        "title": "In Odessa, they unfurled the 35-meter flag once again",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdDMwT1oxUWhJRGtlYTZ0VHYwMnlzY0lQSEpIMmxVRG9zZ3A3NGg0NkVLOFRwZlJSUWptMmxqbEkwamw4RWFScTE4WThmVVFCa284cS12OUY5ZFR1anhqU0VwSFFrV3lDQXZLcnFtNTdkU2ZzOVJxM29mZjlDUUxfcmZ2RFVnM1BTcnZmcWl4QkZQWWluVDFDSE1vSTdQRFJQOHJ2MTg0a05zSHpCS05tRXozUktwMTdOUjFsdDdPM05QQQ?oc=5",
+        "domain": "news.google.com",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T144500Z",
-        "source": "GDELT"
+        "seendate": "20260823T111541Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Russian strike on railway infrastructure kills employee , damages station in Odesa region",
-        "url": "https://en.interfax.com.ua/news/general/1195222.html",
-        "domain": "en.interfax.com.ua",
-        "language": "English",
+        "title": "100-meter-long flags were paraded through Odesa",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOelY3LWVCQkk4dnUwdVlNQ3E3b05rYWsyNzlNU1NtRnQ3QmFlU0NGaWZneG13bkZpR0NrWGxWeVJwcFl4dlRYTjk5ZmRWcHRrcEltUG1GQlZndnVOUFNQQXhxMnpfU0EwdzhTT3dUR1QwZGZ0RUY3UkhyTjJKWGpwRVFFZ3NPYUJ5U3dyVENlUGp4Q2hoTG4zX0RyOXJHN200S0xKRi0ta0ZQbE82aEZWWGpTT3F0djdPUmVRWTZjRnh4S0NMMjZ1UUttRUhoSFhEVlhv?oc=5",
+        "domain": "news.google.com",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T110000Z",
-        "source": "GDELT"
+        "seendate": "20260823T123432Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "В Турции призвали закрыть проливы для украинских судов",
-        "url": "https://www.vesti.ru/ns/v-turcii-prizvali-zakryt-prolivy-dlya-ukrainskikh-sudov",
-        "domain": "vesti.ru",
-        "language": "Russian",
+        "title": "A Jet-Powered Shahed Hit a Passenger Train in Odesa Region, Passengers Evacuated",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0ZGJyZlVpa2pQUXdfWU11RW5lcG1QWEZMT0tvRVQ3WHlrVUNTV3RobWFQWWJUTWdwMmxiNTZlNDIySXVYdFFZYTFSRUdqekN4R1FlbnFfc0E4RDlzeTlJVEJvTTBscUVwaGJ0b3Y0cw?oc=5",
+        "domain": "..",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T180000Z",
-        "source": "GDELT"
+        "seendate": "20260823T083112Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "В Турции призвали ограничить проход судов , связанных с Украиной",
-        "url": "https://life.ru/p/1915039",
-        "domain": "life.ru",
-        "language": "Russian",
+        "title": "Ukraine War Bleeds Into the Caspian",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XdVFtRmZ5SkpXdkhPMkhzUVhiU0tOTVpzYlFQVmJMMk0wUWlRVWdvODhPUEJUTVdVMlF0S1EwUEdJdmpvWkRReTljZkNJbElta3J3SVU1ZGphbHA1cnlwa1VZMF9fTWxYNTJFVm5R?oc=5",
+        "domain": "centerforeuropeanpolicyanalysiscepa",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T193000Z",
-        "source": "GDELT"
+        "seendate": "20260814T155124Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Kepezde halk plajında patlamamış top mermisi bulundu",
-        "url": "https://www.evrensel.net/haber/5997378/kepezde-halk-plajinda-patlamamis-top-mermisi-bulundu",
-        "domain": "evrensel.net",
-        "language": "Turkish",
+        "title": "Who really owns the Caspian Sea?",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8ySGlVWDY3UE9kTmpud3pLRzdJZkxXb3FPc1RHcThTdUpYU3BOQk5od1RaMEJaUE80eTV1Tm5OTTBYZEQ2dGdsZV9tS3BfbUtVSU9FbHY5dWsxM2lCSDZnVjBHODRYUmdYLWZOLXkyVzdZZ9IBckFVX3lxTE1EUGM0RHh2MWFGZ2xDRFNnTGUxbTh1UFktN2ZJX3cwc0tfRWxIcTgyN3BCNURqMU5pX0hwUWFhNVZzVHdxMDd1X29wb2d0dm1aa2J1c2JsMXdEUkVIT0ltaW9ELXFDdWZudFRGSWRuVlJQUQ?oc=5",
+        "domain": "dw",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T163000Z",
-        "source": "GDELT"
+        "seendate": "20260819T090801Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Росіяни атакували об  єкт газовидобутку ДТЕК на Полтавщині",
-        "url": "https://www.ukrinform.ua/rubric-regions/4156693-rosiani-atakuvali-obekt-gazovidobutku-dtek-na-poltavsini.html",
-        "domain": "ukrinform.ua",
-        "language": "Ukrainian",
+        "title": "The cause of the sewer leak in Odessa has been determined",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFVYOWNudDEtdi15UEZNaWM2SjZVMHI5cGlhdHF0R1JVZ0Y3dUVOUE5SUW5PZUFqVEVDd1RYcFZSZDNQNG9qQUNzYk9TS19OSDlXV0xRSFdVZ0w1SnlEMktvRmlHZ1lJdlpseVBNUTR5UF9hOXEtT1FTY2hrVmlYOTlYN0otVVNhVjdBU0RmRG1Ock1rRl9zNlRWY1NZME00emc?oc=5",
+        "domain": "news.google.com",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T183000Z",
-        "source": "GDELT"
+        "seendate": "20260822T171700Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "росія масовано атакувала Одещину : пошкоджено залізничну станцію та житловий будинок",
-        "url": "https://wz.lviv.ua/news/557368-rosiia-masovano-atakuvala-odeshchynu-poshkodzheno-zaliznychnu-stantsiiu-ta-zhytlovyi-budynok",
-        "domain": "wz.lviv.ua",
-        "language": "Ukrainian",
+        "title": "Russian Drone Attacked Passenger Train in Odesa Region, Nearly 600 People Were Aboard",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xSENfS04tdlNzME96Sy1iTG02OERWODd1cGxaaVhVOEZyb2gxN0hqSXI2ZUtfMkdCOERKREVvUjFzYlpfeEJfd3ZlYWxGUzNkVXZKUWtLclNUajF2MUFocE04OFJiRTB5YlhrLQ?oc=5",
+        "domain": "..",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T134500Z",
-        "source": "GDELT"
+        "seendate": "20260823T071443Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "DHA : При атаке на турецкое судно Ural в Чёрном море погиб моряк",
-        "url": "https://life.ru/p/1915079",
-        "domain": "life.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260822T220000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Внаслідок ударів по Одещині постраждали троє людей , серед них дитина",
-        "url": "https://interfax.com.ua/news/general/1195324.html",
-        "domain": "interfax.com.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260822T160000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Macron pledges air defence as 13 killed in Russia , Ukraine strikes",
-        "url": "https://www.bssnews.net/international/417170",
-        "domain": "bssnews.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260823T050000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Росія вдарила по залізниці : на Дарниці загинув працівник",
-        "url": "https://mignews.com.ua/ukraina/rosiya-vdaryla-po-zaliznyczi-u-kyyevi-ta-na-odeshhyni-zagynuv-praczivnyk.html",
-        "domain": "mignews.com.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260822T160000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Водитель и 13 - летняя девочка погибли в ДТП в Волгоградской области . Новости . Первый канал",
-        "url": "https://www.1tv.ru/news/2026-08-22/551008",
-        "domain": "1tv.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260822T140000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Атака на ДТЕК Нафтогаз 22 серпня - РФ зупинила видобуток газу в Полтавській області",
-        "url": "https://www.rbc.ua/rus/news/rf-vdarila-gazoviy-infrastrukturi-poltavshchini-1787422511.html",
-        "domain": "rbc.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260822T204500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Zelenskyy , Kellogg discuss creation of Ukrainian anti - ballistic missile system",
-        "url": "https://en.interfax.com.ua/news/general/1195311.html",
-        "domain": "en.interfax.com.ua",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T153000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Масована атака на Одещину : серед постраждалих - 16 - річна дівчина",
-        "url": "https://ua.korrespondent.net/city/odessa/4905304-masovana-ataka-na-odeschynu-sered-postrazhdalykh-16-richna-divchyna",
-        "domain": "ua.korrespondent.net",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260822T180000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Подросток утонул в водоёме на месте нефункционирующего карьера в Дагестане",
-        "url": "https://life.ru/p/1915067",
-        "domain": "life.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260822T220000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Росіяни завдали масованого удару по Одеській області - є поранені",
-        "url": "https://kp.ua/ua/incidents/a734956-rosijani-zavdali-masovanoho-udaru-po-odeskij-oblasti-je-poraneni",
-        "domain": "kp.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260822T173000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Балістичний удар по залізничному підприємству в Києві : на Дарниці загинув співробітник УЗ",
-        "url": "https://www.5.ua/suspilstvo/balistychnyi-udar-po-zaliznychnomu-pidpryiemstvu-v-kyievi-na-darnytsi-zahynuv-spivrobitnyk-uz-382048.html",
-        "domain": "5.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260822T091500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Росія атакувала залізничну інфраструктуру у Києві і на Одещині",
-        "url": "https://news.bigmir.net/ua/ukraine/10416181-rosiya-atakuvala-zaliznichnu-infrastrukturu-u-kijevi-i-na-odeschini",
-        "domain": "news.bigmir.net",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260822T101500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Обстріл Одеської області 22 серпня - пошкоджені будинки та силоси з зерном",
-        "url": "https://www.rbc.ua/rus/news/rf-zavdala-udaru-odeshchini-poshkodzheno-1787414280.html",
-        "domain": "rbc.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260822T163000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "В Киришском районе столкнулись два авто , пострадали дети",
-        "url": "https://www.mk.ru/incident/2026/08/22/v-kirishskom-rayone-stolknulis-dva-avto-postradali-deti.html",
-        "domain": "mk.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260822T140000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Russian strike on Ukraine Kryvyi Rih shopping complex kills 16",
-        "url": "https://www.dailysabah.com/world/europe/russian-strike-on-ukraines-kryvyi-rih-shopping-complex-kills-16",
-        "domain": "dailysabah.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T203000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Масована атака на Одещину пошкоджено будинки та зерносховища Укрaїнa",
-        "url": "https://tsn.ua/ukrayina/masovana-ataka-na-odeshchynu-rosiia-vdaryla-po-zytlovykh-budynkakh-ta-zernoskhovyshchakh-ye-poraneni-3153659.html",
-        "domain": "tsn.ua",
-        "language": "Ukrainian",
+        "title": "Russia Launches Massive Attack on Odesa Region, Three Injured",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPek00MDJoUnlWQXd5amtMR09SYUd5dnpKZ0pCbVhRemcxQlV6LXJuWVNNMS1oNHFYTEhQSGNDSlJHWG8wR3plS0tHVVJqSm9JMTRfY3ZTU2RFVUVjNE5YLTdIWW40blYxbTlHMkFKdUhielRGZ1B6TlU1c3RwbkxOVXhNVmtVcjdRNEY4TXVRbUJBR3VWMEQ0Ukg4RnpzU0Z5clJfMWNiemk2d1BsZVdZ0gG0AUFVX3lxTFBXNWs5Tzh2Q25HRGpZS1JRMlUzU0xxVWlibzhWbGFGVnVYdWxhc2kzanhLQzFQYVdnWjZZZE1DU2FHYWVLallYQmZySFVvekFNalBDQkdaY251ckdGelBxU0p0WlZZMVpPcWhvdERMX2U0NTJfYVhNVk9JSjlRVXlnWWdIeVZLSjI3UU42WXFrektyMVhXOFVzLUdCNjQ0Y0FRekxIelVCb0hQWVE1UDVrXzE1eQ?oc=5",
+        "domain": "ukrinform",
+        "language": "",
         "tone": 0,
         "seendate": "20260822T150000Z",
-        "source": "GDELT"
+        "source": "GoogleNews"
       },
       {
-        "title": "Spari contro abitazione a Torvaianica , indagano i carabinieri - Notizie",
-        "url": "https://www.ansa.it/lazio/notizie/2026/08/22/spari-contro-abitazione-a-torvaianica-indagano-i-carabinieri_a82363c3-169b-4cfb-b611-7affb8008d5b.html",
-        "domain": "ansa.it",
-        "language": "Italian",
+        "title": "Russian dorne attack in Odesa",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVhpRjlIU1dlN2dMLU43YnIyeklVX3ZUNVg0eHhzSHhyRy02c1JHOGN4MGEyRDQ2ZW9fVjRuNDJaajZiSEctSkdoRjkybnQtbWZvWDhyekE3cnE1c25oRlY1SXcwWVlHWUpDcDhKUnRubTdVV2lUTm4wNl80TXl4YXpiczIxa0ttM3RDamltRzFhb0JNOUhfUjZzRmRLTlkxTy1tcFRqSUJnR3M3WXQ3RU1INGdTQXp0dDdLTVZWSzJmLXVsWmc?oc=5",
+        "domain": "thelufkindailynews",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T131500Z",
-        "source": "GDELT"
+        "seendate": "20260822T155348Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Дрон порушив повітряний простір Молдови 22 серпня",
-        "url": "https://24tv.ua/pid-chas-ataki-rosiyi-dron-porushiv-povitryaniy-prostir-moldovi_n3128030",
-        "domain": "24tv.ua",
-        "language": "Ukrainian",
+        "title": "Odesa Region Sustains Damage, Power Outages After Overnight Attacks",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lbXNfMGdaRXVfVzJUQWhKY2JoOWxSbWFkS1YyT1c0RjNFRGhNSW8xQy1pS1U3QUV1MmthbjNVNHp2ZTR6bEl6SW5wTQ?oc=5",
+        "domain": "kyivpost",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T114500Z",
-        "source": "GDELT"
+        "seendate": "20260822T091159Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Terrore nella notte a Torvaianica : sparano contro casa di un impiegato , il proiettile finisce nel condizionatore",
-        "url": "https://www.romatoday.it/cronaca/spari-torvaianica-proiettile-condizionatore.html",
-        "domain": "romatoday.it",
-        "language": "Italian",
+        "title": "One injured, infrastructure damaged in overnight Russian attacks on Odesa region",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzFRQTk1NGdjQzEta3ByZnh0eWtIbWt2Ui1IT2ptR3Q5Q2VueUVlX3Rxa1BqUV9ZcFU3SmVsQlFYR0hzcHRPTUFZWkxlOTNZTXdNdDNKQ1RYSElib2x1cVlOWUhIcWNPTE5IaXJLak5oVTRoMWlDQV85bXNWcjBXLWNFU0VQdVJEV2wtVGNESXNBNVlHMkRTZXF6X1J2RkJfeVRaYThOYzlRWmVLSmtzN2tEYVNhd2tqUVlkSU5ac1h6ejg2TzA2eNIBzgFBVV95cUxOcTF3cm5GbVZTcmx1MTZTLUhKVklhdDBaUDJrRS1fVnZTSTduVmFGb2xXRk9pdUhsY1d0RU5ISFpsZDdiQzZPaHNzQklBaGlZZVNsOHEyaHNBd04wdXJPQXVxQnNnOFdXc2F4YkVMSWZDS2oyTnF5LXM3MmsyX0Fad25pV1Z1LWppNXNLZm1ibnFPT2dSMkRJYVdRYW9iVUJsSWNnVC02bm1rX3Npd0hENDJfWDJIdmc1U2NSOFI1OE03dHlpdFNDM1VSdTJ5dw?oc=5",
+        "domain": "ukrinform",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T163000Z",
-        "source": "GDELT"
+        "seendate": "20260822T084600Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Російська атака по Кривому Рогу 21 серпня 2026 року - Зеленський прокоментував удар",
-        "url": "https://24tv.ua/raketni-udari-po-krivomu-rogu-kiyevu-naslidki-atak-kilkist-zhertv_n3127965",
-        "domain": "24tv.ua",
-        "language": "Ukrainian",
+        "title": "Former Trump envoy Keith Kellogg visits Odesa amid Russia's ongoing port strikes",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHN5Z1BBVUphSVNkbGt3QTNCN1Ffa2x0TmpSWFFsOEdudUVHNEU2Q3M3SjJYT3ktZzl0WTdNejgtd3lfRE9Vc0Y4UTdiNXYtUUJZa3FPcW9ibjA5enNoMW5tQUtrWTI1d0pSXzVSY1VNczZ1OXdibjRfQXc5MEUyckR4Nl8zSnNoOG5YaEgzZ0FvMkota0x2VlVIWmloN21ab3BJb0lXa0hwVmky?oc=5",
+        "domain": "thekyivindependent",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T083000Z",
-        "source": "GDELT"
+        "seendate": "20260821T171200Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Rusyadan Ukraynaya yeni saldırılar : En az 2 kişi hayatını kaybetti",
-        "url": "https://tr.euronews.com/my-europe/2026/08/22/rusyadan-ukraynaya-yeni-saldirilar-en-az-2-kisi-hayatini-kaybetti",
-        "domain": "tr.euronews.com",
-        "language": "Turkish",
+        "title": "Russian strikes on Odesa ports push Ukrainian farms toward bankruptcy, Bloomberg reports",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYU00TTRac0huSGNYWmMtVFJuc0Q2ZHJYUUZSc1I2Vk9VRHhsbW9YWHd5bmR1Z0tXSVAzSURacHVsS2tiSkI3OVJLTU82ZGl1RjBTR2I4YlFNRHlfejFEUmJ5d1QxR2RrMl9BOXlqWUVIdGdVcURSUHl1V0JxcEZENEZsUjVJc0s1R1ZTV0xUZmd4NmNzQjFiUGNhcjFLa1BPdkJvSkc5UGJwZEJEN3ZNcWlB?oc=5",
+        "domain": "euromaidanpress",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T111500Z",
-        "source": "GDELT"
+        "seendate": "20260821T114827Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Ukrainian Air Force : 191 Russian targets downed , strikes recorded at 41 locations",
-        "url": "https://en.interfax.com.ua/news/general/1195231.html",
-        "domain": "en.interfax.com.ua",
-        "language": "English",
+        "title": "Trains between Kherson and Mykolaiv have been canceled: passengers are advised to travel by car",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcDBEMDNheHFEUlRPeGtlTGc2MGFLZDNfbTd1dVR6d0ZZckVjUHpUOV9ZUGZlQW1UVi1IY25YUHhsd3VLdUxpRXUzaVpFTXZQYlNEVWRHenp1TjJBaERyYms4U0hlaDIzdHpYaEdnMU1aeFpyYmREbExLQ29QTDNudmxwSUtneGxJSG5VWDliUFVzcWVJdDBPUXg1ZjMwb01QeWdfTGpOU2ZYRUVmeEVmRXhSRl94ZS1CaUQyb1Z2OXl1UDBJN05SSS12em04Uklxb2w0?oc=5",
+        "domain": "news.google.com",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T110000Z",
-        "source": "GDELT"
+        "seendate": "20260823T085719Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Every Chokepoint That Isnt Hormuz",
-        "url": "https://oilprice.com/Energy/Energy-General/Every-Chokepoint-That-Isnt-Hormuz.html",
-        "domain": "oilprice.com",
-        "language": "English",
+        "title": "Russians attack civilian infrastructure in Odesa Oblast: teenager among those injured",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0UHN2Y2R0R2hmLUNXNkNrMlFXdVpNdEJQY2t4T21qWEZqYV9oTm42WnBwOGU5akpXMk5panllWXhPUWlCWHhVZXJaR0w5VnY4am55MEpRNkRGVjlmRFh5RGhTMUnSAXBBVV95cUxOaTRMVC1PU3NiZTRNY1pKeUxVcnpJZXg1NmNsNUhReEdwQUNXZTVRbzlrMi0yLTB1RnpCSUROU1dJZGdaWkwzZGlzLTJ6UFVxT0x4Q1MxdFhzNlp1RXlfVlA5cWFGYVFqSTVIX09oZlZF?oc=5",
+        "domain": "news.google.com",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T193000Z",
-        "source": "GDELT"
+        "seendate": "20260822T145300Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Dənizdə boğulduğu deyilən şəxs ölkəni tərk edibmiş",
-        "url": "https://anspress.com/denizde-boguldugu-deyilen-shexs-olkeni-terk-edibmish",
-        "domain": "anspress.com",
-        "language": "Azerbaijani",
+        "title": "Caspian Sea hits 200-year low as Iran debates the treaty meant to divide it",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EX1gtVVN1QllsdEg1eEJiVmNVanlwaDhDWjNlOTdXaGZRU0JFU1lkeU5MYmQwRzdVdG9yc0Z3cFNXQm9zTzc5QTZYVl91NFROUXc?oc=5",
+        "domain": "iraninternational",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T143000Z",
-        "source": "GDELT"
+        "seendate": "20260813T070000Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Barrack : İsrailin Türkiyeyle savaşa çok yaklaştı ama Trump dahil kimse görmedi",
-        "url": "https://video.haber7.com/video-galeri/374771-barrack-israilin-turkiyeyle-savasa-cok-yaklasti-ama-trump-dahil-kimse-gormedi",
-        "domain": "video.haber7.com",
-        "language": "Turkish",
+        "title": "Sun, sea and bombs in Odesa",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGliSUVaVUtCNjVyZGpJWWJKMUpKbXBuM3IxYXB0cVFGRm42QUdLY05HVVV2SVZrLXppejZ2NS1Eb3F4SW55clNTZVhrN3FFZExRNUVKRVZQM0ctejZLUkZTOU1mY0lScFFDZm95dW5tYXBhVU9OSHFNTnUzX1FzZVV2Z2g?oc=5",
+        "domain": "financialtimes",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T103000Z",
-        "source": "GDELT"
+        "seendate": "20260813T070000Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Beyond alliance : How Baku and Tashkent are reshaping Eurasian connectivity",
-        "url": "https://news.az/news/beyond-alliance-how-baku-and-tashkent-are-reshaping-eurasian-connectivity",
-        "domain": "news.az",
-        "language": "English",
+        "title": "Caspian Seal Conservation Faces New Challenges as Sea Changes",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUm9ROWtiRk8wd2JwcUtQLVpIMFJETEJQSEthZjFmLTAxREdsUFdRbTZ3YWJjc3ZHNFltaVVHeGYxLUR6UTdxT3FjeHBDN0FnUzVyWHNDbWU0b3JUTFVEbmxWaXpqYWJFNENaUFY1R2g0Qk5GbjZPbVVZSzZmYUxkYlF2MmU4UnFwQVJtVkliaXBPNVAtanNDNVpR?oc=5",
+        "domain": "theastanatimes",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T091500Z",
-        "source": "GDELT"
+        "seendate": "20260817T113104Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Father of five reportedly drowned in Astara found to have left country by air",
-        "url": "https://en.apa.az/incident/father-of-five-reportedly-drowned-in-astara-found-to-have-left-country-by-air-521288",
-        "domain": "en.apa.az",
-        "language": "English",
+        "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3NaTmJfUXJzYXFHOWtNWTFYM2h6dmZ3N2Zual9aMnBXVk9VTUJzQmp6eXpJam9lSm9RaEhHWXFpdTQ2dW1tVUtXQUxJbDJySV8tYk8ybGY1RTFqWTlfU3AzMFQ3UnVDV2U1RHZfby1tTlBWNHc4SjNOTW8xaGVYTkxVNWp2NTF0Q0VGWU43MTJIWGJBbjl6cGtiMGVYWkNCQ01jMGRWOVJ1am1K0gGyAUFVX3lxTFBfUmdsSGFFdW9rRUxUZ0txZXJYUkxlY2FtYzJvMDV0YkdwVTNyZGhkZ1dQLUNvS3Z2NnR4dGJkUU40UVNYeE52VzZsMzU0RmZJZkV5Mll3Q3VPSEFOLS1wTEQ4dUFmaWdWSmVvdV96SGxYellNLXVHc1A5NUR2NUxuaVFKR1hEQm00LUZoVUkyWWF2c01VN2F0eHVZUWg3VVdWX0hVajZiZ19NZ054WmVHN2c?oc=5",
+        "domain": "aljazeera",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T123000Z",
-        "source": "GDELT"
+        "seendate": "20260809T070000Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Солонець європейський : чому рослина змінює коліріз зеленого на червоний",
-        "url": "https://www.unian.ua/ecology/solonec-yevropeyskiy-chomu-roslina-zminyuye-koliriz-zelenogo-na-chervoniy-novini-odesi-13477158.html",
-        "domain": "unian.ua",
-        "language": "Ukrainian",
+        "title": "Russia attacks border crossing with Moldova in Odesa region, traffic suspended",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaGFPYjRWb3Y3OGR0WjEyYmJ4dUtBUk14RXFUZkFxR0E0dkdnUVZSZ3IxNDFYenV2d2tvY3piR1RZcWVfbl92dnRSWWE5aEpXSG1oWGN2Wm5yOU1KQ0c3TmxQb2o4aWs0REM5X1BqOHNnZ1BWcGdLYjgtM2VHUVZ3UEhkZktUVjREclZlQUNkMXZaWGU1YXN4emlEOGFhNjRGTE81LXk1SHFoajkya055QndRV2NramsxcVg4Y2JkSTh6R2g1eUHSAcsBQVVfeXFMT2g5QzZjN0toSDZnMUNGdFhDR0VVaHpIV2FBMDRGaWpfQ0IwVzZmZnE1clZYc3NCYzg5Q1lqQUdfM0E5a0s5NC1Ucm1hZ3lRa0dWdTFBak10ZC1uM01janVIUE5nSTFEQmFhanZsUHFIV1J0U1VpRTAzYlFNVjV4eUFTYUtXUi15TEhvVVlPWmlqMmNYQjRoeGJINXdBUzRESXZzSWlPTFpVdkZQN3JFNV8wOTY2YVc4dU5ZM25IXzY2MW5Namh2ZEZiZWs?oc=5",
+        "domain": "ukrinform",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T101500Z",
-        "source": "GDELT"
+        "seendate": "20260821T064600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Part of Odesa and the surrounding area lost power due to an accident",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1hjQXFHSDYtTktNdy1Oci1UczJEYnRaemU3RUZYYnBxQ01Da1JIdUxpdl96Q2phekp2Rkxsb1RfNmItd3lXM0szTlZ1TFBiM051Z0lfNHpBeVRZdjEtTkN2cFRLQkxuR3RJWmR3X1lMbUlZR3k3ZGR0d0V3X3VRVTM0S1JYZVRhT0ZFM3JrdTBoZFRYR1lFRWdhcHZYbFNCOC14amlMZDAzWl84YXQwNA?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T063602Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Kellogg arrives in Ukraine, visits Odesa port and inspects damage caused by Russian attacks",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZEx6ZmxaZW9qVFBsRjdscmFtMmZORVlVbHhPMHc4WG5fRVRqSUJaQVpUTm80ZENlU3JwNl9xRDU4VmxHbG55bnZtTEhZS1NjQmNTbHlGRm1ERERNY09DZGpfU0JKUDBteHozeHNPZDc5MzNLbEZNYm9uMVpmYmRzSFNlYXA3b3VzWjRGMGR6am5ZLU1qMVZCRnJIR29CSElWWHZHakFWT0IxN2xjUG1nX2JqU1BfcEFLRjRWMTVTTkstSld1cVhJREVZdVhHQlgya2FPWFlkZGNSamJBZ0HSAeMBQVVfeXFMT0hVTXN5bWpaT0VYcVFORTBjVnBYcnhsMlRRZkc3OGVHYTZCUkJlQ3Y5TDRQaXZsRm1SSEs5UVZrSC15cDNyTGVwMkExdEhtNTZSRzVkWFpJOGwzdG83YWN3OEMwV0c1NEh3bklZam5rZ1J1eXpfUFVmWGZmUWdaN2podG9ETjBHT1BXTDVrTlZZUmNWX3hhSjVJYU9uR2Y0UmNScGJFN2NxZk5LUlVRTnl1SmJsZnkxYm5aODY4LXRidDdjMG5lOUxHRlpVdkhWRXc3Z3BXZmFvVm5DSERsVUREWkE?oc=5",
+        "domain": "ukrinform",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T124500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russia significantly damages energy facilities in Odesa Oblast during attack",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ibjE2NmxMS0FmZTFHT3lnRGczeGswUF9KWHlYSm5Ic3RCbnZrb1lmemZsRWNfR01qVlZvUTVhVlVZMEoteUVibFhBRjFieDlQOF9POEN3bThhNjlLWDBfdkZGeWPSAXBBVV95cUxOOElCRVhLTTF0QjBaUlBCVXhBdXN2bXdxOWFsdnB0bHFiVDhITXZyX091MUtrYzBXbmxYNklFaC1EOG95WHJqVGQ5SGVGT0ltaEk0bHN0Uks0M09udUphR1QzdVVoSVRRSWM3OHVpbGRx?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T083100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran Parliament Begins Review of Caspian Sea Convention",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeFVPNFByYjdCZkNGc3h2SzgxX3g3RDIzVHZWcnhPS2Z4MElvRHNpR3V1eS1OcnM0dWE3NzFPbUFRbHhJbTg0eF8xVjdSNjhYTktQOW5RM2ZYSW9oQTNMSXhaNnZpMFBJVUZKZzJXd3NZZVp4NmxiVzRiYzNMR0VOcmNMS3lpTFhmcE5LeWtpUm1nQ0hMeFRN?oc=5",
+        "domain": "iranwire",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260806T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Zelensky: Russia attacks border crossing with Moldova in Odesa region, gas infrastructure in Chernihiv region",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcXI1a2lKSkZYaXRUWnJ4QVRoWlg0NWQwTW9XTkRqMjJLeGJXQWpFdTlraXhTRUlnOVFOcU5LWTBOSkk5YlFLdGVQc2hRQnc3TTc4R29hYmNiZU9Kb2xmc0p0RU5RdC1NaDVTR2otWmtvaEhqaVpNT0M3X0hNV0ExSXNHeUd5dmZiWnJKSFdMU3BpUGRtOFpFNEZuUllMaFVaODQzUVRFQzZrQVFvX0l5ZkpjYXppOHJLbmJ4S2piSlM0V2dBZC1KWTBlbWNOcTVZXzhTeTFCZlpEanNZcHA3U05UUXk3UldoYVp4TV930gHzAUFVX3lxTE9Cb2xSWm0xUVhSR3d2dmJhd2d5RFBhNXI4RXJmMGtGeW44Q3BfeEwyaDFucVl6Mk5jSGt4YTdESnRyQnpJT0xKRmxGR1lGUlpCMUttTmpSQXZxVFpGSVV4SkNBOVBTSDBBTThqaXZpZmE5UlNpd1plVE5qRTdzSzdMZ1VvSm1GazEtN0JPSTBPSzBBMmZlcmFwcWVyeGxzQTBFaTZNbUVLUWZEQWdpd0J1WEdtUk0xaVd6dzNjS0ZHelVsVzBBc3VTLWt1bXZ2X2RPV3I4N2p0S1JiWXg3b0RYeWxRdVVXNVVCZnlyNW5zRDc1OA?oc=5",
+        "domain": "ukrinform",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T081100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Body of Deoria sailor killed in missile strike near Ukraine’s Odesa reaches India after 34 days",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa3pIUk51QXNDekw1UXN6LWcxdjREUF8yaFFJNzJSdW4xR0JhQ0lDYmJacXJXdzJjdUptZUh2TW5tblhGNHVJLTdmTm15QWZ4LXg4MWI1V2lacktiSlRBQkdSU0tUVkVucDZiTkhfS1h1ejlwMm9jZWpqQVQ0TVVCeGVwLXdvVG55S3VKYV9RM0xYd1p4UW44RU4yTGhwdlFEQ3NJeFUtWTFuSFJFU0VoZmVmQ09iMkJtUjhEM2RfSXBZYkZzc2JZeNIBzgFBVV95cUxNS2F0eTB0X1R5NEFWbmduNUVxaVFBY1pTNVczZkdMRzlEbGpmMHVwVHJocXdOMGdNdzIxX0RjSGJZUjFMeGMwU2RRZlRvMUp4X3EyN0ZPd0ZsdFhfaFg1d0haX19GOE1zenVzNGdVV3JCb3k0Tm9QdG1fZF8tUGtpa1AxRHZkek5QT0lRWE81UEh1eUtlZXBDWUhqZS1HTUxsbFo1RFdqc2gyVVJqRmJ0LWJ3Um5rVXRUWm9SV3c2aGpWSXpVaXpIeVJNZWozZw?oc=5",
+        "domain": "theprint",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T114503Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Watch Russia's Attacks on Odesa Leave Ukraine's Grain Shipments at a Virtual Halt",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTlFJWjN6NTM4VW9ybTh3aTU4U2loNDBfRndUQjhxS0Nvb0dGSzJVUWZrY1NGby1vT1BRTjZMNkZibFNmZzNUVnFuaTRMOEdBWC1KMmo0cXN3b3BPTENBa1RrY3lmUjM3SzZQUExzemxPZmpEUWYtbjJrSXZWNzhSS3BDYTVGSlVFWTFRVXdINkRZMlFWUV8tRzhrbTZOd1oyNk9MMg?oc=5",
+        "domain": "bloomberg.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T000000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The number of first-graders in Odesa has dropped by 40 percent over the past four years",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX0lfYnFPMVNBbWVQZVJXZXVJcUZqVzVCRDIwNUdLeE5qdDhNZVFucG85Z3hhM2pHRGtVYVk2d0loTXpDeEtyUVdwRUN6VllNSTdscERuel8yanpxN0s2d2pRVXRGV2pxSHZNQXdZUG44ckxoWHZ1NUtsTEI4RWFpdzZXc2d3dTJFSjM3UEF4N055WDM0UnF2Y09VRjA2QW1EeEFwNGhsbk1NekpyVUV3aFVsZ085UUVocnRiXzQySmpwZzNfQ19lbk1B?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T191300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Archaeological finds reveal Odesa’s ancient cultural crossroads",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWEZ1MjEtMnpURjJld0tuajFhZFFtR0lEck1jTmZBbmZqNWR5bGlhWWV6dWF1RjRDZklSY1o2Q1BTVmR2SUpqRUVMQVliMVJnbEJydk41alY5MXdlUlBPZWtvMFhVMWVmTHdnLUFpT3ZwcmtRbm1wbXhHUGJsNWVFektjblVDR0toMGlJQ3VJR2gtSXczUndfY1NkWWVGQmt2RDVaZWIzcVZmQzQ?oc=5",
+        "domain": "heritagedaily",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260819T195508Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russia Aids Iran’s Military Rebuild Through Caspian Sea Route",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU5oWjcxVTJLRk9zYmJwTDdRNGtiT29xdWVaN3JjMFVKMzlVZ2g2NTdBSXVVNVRsZVFwaHgzcTdPa0hJVzhyM3QzbnFMdk9kUTBINmRVdjExRndrbzl3UWY4LXlMMU91dWlHd1djcDBGTEhyODZfUk9xcVJidHJPNDNJTGh6MlViWFl4SGlKMjJjb1VDZXJoZg?oc=5",
+        "domain": "caspianpost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T091806Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ukraine Agrees Under U.S. Pressure to Stop Attacks on Caspian Pipeline",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmdkNEV0Ml92MUJRbEs2dDFmUUpWMmV3SVdpOEZhQldKUmFWQkRBMXBJTk5LZUpsa3p2anZteVhvU3lmN0daMHV2bUNVeGM1cjdyQmNydDdELW4zQk90b2tlLXV5dEhRT3NjV3hKOVFUUEtfUURxajVkTlBJM0QxZWFjSmhWV0RJLXl4ZG9TTzltUmM1N3dhYVJhS2pfZ1RCMkxyaGJBQWs0NWpP?oc=5",
+        "domain": "themaritimeexecutive",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260810T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkNMLVhYYm1zdG9veTFxQlIxY3IzNHpyOFZGMzAzWVZVWU9xU0xTUzdGMUplZmlzZTlPbEZCV3Fsb3pPa1J2MWhuU0Vhc0xoSDhsZXpLWUh6ektRLUItdUVUd2g4Q1lTSmtLZWlNd1p4ZnhhYUxlRFdCVjZlOUtQaU5qX1U4Ql9DRUtvNWZOVnRJMjNOOHJMSmFkQzNqTThMY2ZFamxQV0dqemsyRlhmaGFHZHgzLXd0b081dDZKRVRfTE9PeVhj?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260810T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Odesa Drone Attacks Halt Ships, Pushing Ukrainian Grain Below Production Cost",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tNXFFYnNwQV80Ym9rRndIY1lZeVJPRjljN1R5c3JHOHdXRkY1QV9UYlJKb2I0a3FaZE5nZXA3cnN0SGNXZEtJekZwUQ?oc=5",
+        "domain": "kyivpost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260818T104046Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Odesa : UNESCO condemns renewed attack on World Heritage property",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUFZVER4RTNJSXFYOUNjaUNHbDlPOGQ2UWtFSE1XY2F4eGJCcm1lTnp1MTV0LWJKUUpyZUZ5c3pDdHFWZm0xWTNuOHNRTUxWaG1iMVc5TjNKY25UQXI2S2tLWWM4QUN3Sld2Yk1BRzl2aDF5SUU1dEdRcVpHRExEVXhLNFJ2eFRmLVVaZ3R5ZlM4Y0NmZWM5SU9YUQ?oc=5",
+        "domain": "unesco",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260815T214025Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Three people were injured as a result of a combined attack on the Odesa region",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaERaTUZmRFJsNjFjbi0tVWxMR0hDOHFHSktncG56TEZHa3JnejJ3YklnNmNKQmE0SVY2OER3aGF1Nm13cVFzZ2VOQkhoVVF3SlEzdlFjZGlTNDNMNV9kcTNyWVo3RlZ2eWFiSVJuM2VDLVNDaTdEODFuSlRVNk03T0JHVlpId1BaTmNGN3ZNczlQV1NIMDFZNTZrMl9tN3k5amNsTndmWFRyZU1EQVY3VG9jMFpJSjJv?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T141000Z",
+        "source": "GoogleNews"
       }
     ],
     "exchange_rates": [
@@ -571,139 +573,139 @@
   "entities": [],
   "events": [
     {
-      "title": "Çanakkalede halk plajında patlamamış top mermisi paniği",
-      "url": "https://www.ensonhaber.com/canakkalede-halk-plajinda-patlamamis-top-mermisi-panigi-h1559694",
-      "domain": "ensonhaber.com",
-      "language": "Turkish",
+      "title": "Odesa Takes Center Stage in Fiction Abroad",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KbGF3ZUM1ME5ZZVRLNF81NG1NMGhubldBT1FoY0NZTFVYTmJEUk5IMmVfN0JpNi1KRFBlemxtb2hZN3I0bV9wRW85OA?oc=5",
+      "domain": "kyivpost",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T143000Z",
-      "source": "GDELT"
+      "seendate": "20260823T115706Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Çanakkalede Plajda Top Mermisi Bulundu",
-      "url": "https://www.haberler.com/guncel/canakkale-de-halk-plajinda-patlamamis-top-mermisi-20167525-haberi/",
-      "domain": "haberler.com",
-      "language": "Turkish",
+      "title": "Odesa under attack: Russia is cutting Ukraine off from the Black Sea",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHBNSUFHQlBENzhXTDBZWHphUVowSTMxNUZqeDZtcmdybWlaenJJQUdFQ3dzeExrd0lDYTcxbm5yV1cyaE5LbktyUnFLSl80VzEybDlJMmsyZE04VFBud2lUOGFKZjZhRVRGTzM4R2lRaG5WWmxjU0dBMUh3azVqQ3BXSGIySjk2N2xYOVlvLXp5ZFFCT3hMUmpuU1gyOGwwbHQ2RE1nSEdXdFRUbzhZQzhhM0t3SnBhN1ow?oc=5",
+      "domain": "atlanticcouncil",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T134500Z",
-      "source": "GDELT"
+      "seendate": "20260818T152800Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Çanakkalede Plajda Savaş Kalıntısı Mühimmat Bulundu",
-      "url": "https://www.haberler.com/3-sayfa/canakkale-de-plajda-savastan-kalma-oldugu-20167501-haberi/",
-      "domain": "haberler.com",
-      "language": "Turkish",
+      "title": "Narnia Is Coming to the Ark Again This Winter with Another Stage Production: Prince Caspian",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnY2OGlLcnRibG1oaFlCN2p4MDlrSG1NNTlxeFcxX2xockNiVkxMYzRSOG9ubWVzbEtVcm5fdzBLbmZ3NUgtWFBQNFMyRDFSS1RNSU1xYnVUaVVGbEtEYk93c0ZDbVd0eEFXSkJoVl9zZ0FCa0ppRTdCWWJXdjhDcWpmdmJGUFpIT1hPU2tyeUFyOTZJZWg3cTBvUHJkTGEyZkdjNXMwQ0p6ekdHdFln?oc=5",
+      "domain": "answersingenesis",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T141500Z",
-      "source": "GDELT"
+      "seendate": "20260823T101635Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Çanakkalede halk plajında patlamamış top mermisi bulundu - CNN TÜRK En Son Haberler",
-      "url": "https://www.cnnturk.com/turkiye/canakkalede-halk-plajinda-patlamamis-top-mermisi-bulundu-3457631",
-      "domain": "cnnturk.com",
-      "language": "Turkish",
+      "title": "In the Odesa region, a Shahed drone struck the locomotive of a train carrying 593 passengers",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmlNTGxXeTFhQ2JRNVVJLTdNR0pEYnlOQTd5TE5DUzNRU0NWbDdqRDVKRzNfSVJpanQ1d0l4c0hqRVhjOHQtN0x5d0M3MFRtaWxDdXhHNnpZRTRvTm13TTlPOFd0M3kzOTR4Yl9fWEZlNGpzTU5SSkNMc1hwdE81UWs4eGpYWlhwRWlaY2x1RnkzQ2RMQWQ5X29CaFB4N3kwZzR4Y3lOcGxiNTN0LWN4SnZXY1BjcHhnOUJoNXV3N0stVlVmUXFR?oc=5",
+      "domain": "news.google.com",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T151500Z",
-      "source": "GDELT"
+      "seendate": "20260823T103407Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "آیا دریای خزر به شریان حیاتی تازه‌ای میان ایران و روسیه تبدیل شده است ؟ ",
-      "url": "https://www.radiofarda.com/a/caspian-lifeline-russia-iran-ukraine-shipping/33836184.html",
-      "domain": "radiofarda.com",
-      "language": "Persian",
+      "title": "The Caspian Sea Is Now a Critical Military Lifeline for Russia and Iran",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEV0cXJRcFlGaWFBY0hKUzRBaXNsV0U1OGlsUjJ2X0NqbWRxM28ySVZYWTlKVktqWVRiY1RyNk5iWXZRX2l4ckdhZ3liNVdZX2ZOeUZUNGdjcjRHVEEtUnplblNfT0x3Q0FnTF9aX1BYOUZpeUVJMHpBWXZPa1RDbHRZWFI4QVRLY3otcWxUN1A1UUFJc3p6dzlwalh1ZFBSSXNqMHdYNDBXWm9QRTdUWUQ1S3fSAboBQVVfeXFMT1VmNGhMd05wYVlHbzhfZ192QW0yR211VkVwSFFBQzVtMjlocjl3MWs0Sm1uMmlmckoxZFpvbkx1OG94dlI0LWtPR1dnYm9TT20tY0pEenBQZldpTlIxb0dRQm4wcFBicnVUdENnZnZBeU1SX29MOE51bGpLZnRuak1oN29UUG85RGFJMFRtTmhPOUludVZmX3JGVjRZSTRuTm5OeUJFNlAwOHRGajRlS3JnaVc3S05GYWxR?oc=5",
+      "domain": "crudeoilpricestodayoilprice.com",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T134500Z",
-      "source": "GDELT"
+      "seendate": "20260820T160000Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Атака на Одещину 22 серпня - скільки людей постраждали",
-      "url": "https://24tv.ua/ataka-odeshhinu-22-serpnya-skilki-lyudey-postrazhdali_n3128104",
-      "domain": "24tv.ua",
-      "language": "Ukrainian",
+      "title": "Russians attack locomotive of Zhytomyr–Odesa passenger train with jet-powered drone",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXRnUjJZX2NBX3JhWE8xeFNZb0k2Q2VwSkVKMjNWNkZ5c1YwTnNURWl1TlhDMXg5bndJNU1jdVBpT2tEbGI1UWdjelVrbjAyUElXQWJwVUJzYldvQjBzQS1uSXplbzVFU3h0dnpFSTZyNEtRcjZYM3hSTVBfWkF0alljenVqeEZBZ3lsR3pmS04zNUxGeTBGQjYwZDZsTDFLVC1nMnFPbmFMMkRZOWtxM3ZITjdGNEdkeE5td0NlTmdYbTdvTlNXRW1BY9IB0AFBVV95cUxPbnFmMW85eVhlUXlHM3p1VGRCTGFEdndqMkgtRmU0T29mZTEzNGl3TUtQaDc5VTFfQTE1dEY3WDRjMVdwb1BJUkplcV9PTDdxZE4zUk85MXJBS2UzYTVKQk9JekkwUkx0QjEtajExU1pTNkVDXzY0T3E0OFJXMDlTNmdBNnVDQWJIZDg1QUdQVDVmZjZPdGsyNlBybTdtZTVrSWxNNlBXa2g5QmtER1FzcjBoLVM0bVhJQjlHdWRhazFGbExqcmxSM18zcm02SlZG?oc=5",
+      "domain": "ukrinform",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T143000Z",
-      "source": "GDELT"
+      "seendate": "20260823T073100Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "В Дагестане подросток напал с ножом на водителя такси",
-      "url": "https://ria.ru/20260822/dagestan-2112557164.html",
-      "domain": "ria.ru",
-      "language": "Russian",
+      "title": "Jet-powered Shahed drone strikes passenger train in Odesa Oblast",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FN0lIdWNPdXR5TS1lM1hCS0ZncHBEc19qbERGVFl0QVY5QTJzRlZDUUI1TnRZZ2ZlOC1falptTUNibldmM2o5Qlcyci1abUg2TFhreUhrOENPYWhtRG5CdklXQWTSAXBBVV95cUxNNWZVZnpsenZtRzhBTW1iZHctRWZ4MmVVcEE5RWg1eGZPWG5QUnFnb3p2UGk0WVg2Ync1ZUpBY3VGX3NWZTNPUW9DbjY5cG0tbzhLZkFNSkNRRUx2c3JiUUdNVm5sTjRYY2ZBTEdEdEs5?oc=5",
+      "domain": "news.google.com",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T171500Z",
-      "source": "GDELT"
+      "seendate": "20260823T065200Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "В Каспийске 16 - летний подросток подозревается в покушении на убийство",
-      "url": "https://riadagestan.ru/news/incidents/v_kaspiyske_16_letniy_podrostok_podozrevaetsya_v_pokushenii_na_ubiystvo",
-      "domain": "riadagestan.ru",
-      "language": "Russian",
+      "title": "Russian attacks kill 5, injure 44 across Ukraine over past day, as jet-powered drone hits passenger train in Odesa Oblast",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYmNBWElYZUxjd244bk9kaU1NMUtsWTk5R1piR2tLNGQzWFZMeS1uZGJqbG5QaUNVN1B2SzhVcy01WkZ0LV9NSUNlOWt2UE9JeUdDWFd6YVdsWktLS29RV1lCekVScV9OaDJQR0dWenBHMmljN2xDZTZidXlXYlNKeGlDWGZzLXVoWlNqMGlKYU1nWXBINDRtWGtmc1BTMXZhNy02TjdZajRFaVdkNGFfWGh5TlRwOVlndG1kMUZDS1JCcWpGQVpKeUQ3Z1l2cEF1VF96cHltR1pfcmRkVkJKUzVn?oc=5",
+      "domain": "thekyivindependent",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T153000Z",
-      "source": "GDELT"
+      "seendate": "20260823T085306Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Çanakkalede plajda savaştan kalma olduğu değerlendirilen askeri mühimmat bulundu",
-      "url": "https://haber.mynet.com/canakkalede-plajda-savastan-kalma-oldugu-degerlendirilen-askeri-muhimmat-bulundu-110107307258",
-      "domain": "haber.mynet.com",
-      "language": "Turkish",
+      "title": "Russia helps Iran rebuild war arsenal through Caspian Sea, reports says",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkVPSHhnczFaN1hFQlRRMFQ1ZndkdGlMUWNWUG1XMVQ5ZVctd2pCQzBIR3FwTnJqaTlxX2Q1OFFXeDZrN0FjQmFmbUNKdWpYb2t0cE1TT2xDNmZFalNJT3VCbk9tWk9DbEhzZ0hqR0t4NHRXeVd5ai1PY1FJNEx0dWstTjJfUkM3Zkl3S1hEM3BwSjFjS2toQ1RZYlY?oc=5",
+      "domain": "thearabweekly",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T141500Z",
-      "source": "GDELT"
+      "seendate": "20260820T083202Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Massive Russian missile and drone strikes hit Antonov plant and Kyiv logistics hubs",
-      "url": "https://www.bankingnews.gr/diethni/articles/895025/massive-russian-missile-and-drone-strikes-hit-antonov-plant-and-kyiv-logistics-hubs%20title=",
-      "domain": "bankingnews.gr",
-      "language": "English",
+      "title": "Russian jet-powered Shahed attacks passenger train in Ukraine's Odesa Oblast",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0RkVm9lLWVVekZUOVFZdnlVbUg5QnIzbmpFdUs4Zk55QmxvU2drZUhPSWpGRHJhYXdXQVBKa2dOTDdUZUkwNktTZi1NcDlvVXNBUmNUM3Qwa0FWbG4xQ3c4UU05VU5FRE13TTVEM0hSejQxR3RVSEF0TzhCRXh4R2ludV9icHhXekFtS2I0eVZqLWhYc1VOd3BWTFF3NS04N2VBU1hsS1kyVDVfcDRDSmdYTdIBqAFBVV95cUxPdEh4Mzdrd2hyTXhGdDAxeUxQaTFPRHFrVk9uUmpPTGJjZDJZek9ZX0tiVFpvdFlFTVo2UDMyNnRLQVh5RjNfU2t1N29SZ0J1QWRFOUxod2FBNHllSkJ2c3hpQU05cjNMWHBoeVNnN2lSaEoxanpWeVVoSGJzcGpNcmw2WmgwcXJYOWVxakZwNHhHTWZWakk4OUduNHEydUNFaW84OTlISHU?oc=5",
+      "domain": "thenewvoiceofukraine",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T091500Z",
-      "source": "GDELT"
+      "seendate": "20260823T095100Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Massive Russian missile and drone strikes hit Antonov plant and Kyiv logistics hubs",
-      "url": "https://www.bankingnews.gr/diethni/articles/895025/massive-russian-missile-and-drone-strikes-hit-antonov-plant-and-kyiv-logistics-hubs",
-      "domain": "bankingnews.gr",
-      "language": "English",
+      "title": "A Jet-Powered Shahed Hit a Passenger Train in Odesa Region, Passengers Evacuated",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tczhWbW5BSENSQnBST2tSNURydVpQd1RrUWFySWw2LUpNUUNWVEhmeThtYWlxa0hKNlgwSlRPZ3Jya01OWTdMTFUxYmlEWXdwTlRsNjNvVUZDYW5JMno2RGRaYWZEWHg5S0pnb0hJaw?oc=5",
+      "domain": "..",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T091500Z",
-      "source": "GDELT"
+      "seendate": "20260823T082437Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Çanakkalede plaj karıştı ! Savaştan kalma mühimmat bulundu",
-      "url": "https://www.haber7.com/guncel/haber/3653432-canakkalede-plaj-karisti-savastan-kalma-muhimmat-bulundu",
-      "domain": "haber7.com",
-      "language": "Turkish",
+      "title": "In Odesa region, a \"Shahed\" attacked a passenger train: nearly 600 people were in the carriages",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFlDaXZ3NlFHRTB0MG90dG81Tnc2UXFXS2pHWGhTcWR3RWJLUlFZcm9wZHdsY2h5dzBVdThINnROYV81QmJfbU5sTUhIaTZVT3c1dnhBcV9hSFFhVDI3RkMwUERZU256UDN0dGtIYUk5dVJpaXdGSDBBTUFqWEU1VnlmeVhRMTlyZUZ6N01kZ1UwbkRaM2piaER0VUJramFlTVRfMGhsOXFLSWFrVkFwbVRTV3DSAbMBQVVfeXFMTWpDaXYyUXRWTllKZ1h5RDJxVy0yWkZuMURjV2M1SlFxLWdwOUFSbDB0MnVrSU5UdlpkZ2sxR1drdS1fNVVfRDBydFNodFVobDhmaUtjU1M0TzRfUGNPSkNjVy1xU0l4dGM2T1drQkZjVDBIMjVxWHFoOVBjQmJJbm84VjIwaFZXNGFrTUljbnp0TXFJZGw5blQ2T1JrQi1wM042ZEdfWkR6MkcwYVVQS3ZTVms?oc=5",
+      "domain": "news.google.com",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T143000Z",
-      "source": "GDELT"
+      "seendate": "20260823T084718Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Ünlü oyuncu eşi ve çocuklarıyla elektriksiz köye yerleşti",
-      "url": "https://www.kocaeligazetesi.com.tr/haber/28567300/unlu-oyuncu-esi-ve-cocuklariyla-elektriksiz-koye-yerlesti",
-      "domain": "kocaeligazetesi.com.tr",
-      "language": "Turkish",
+      "title": "Russian Drone Hits Passenger Train in Odesa, Evacuation Prevents Casualties",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNWV2dmlnTGlJUi03VE02dHJpY0VLdnp3YVk3T1RoLXI3NjdkYkpZbFZKbzQtOF9XYVhvTWhYYnlxVG5pRWRPb0Y5UQ?oc=5",
+      "domain": "kyivpost",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T050000Z",
-      "source": "GDELT"
+      "seendate": "20260823T080214Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Обстріл Одеської області 22 серпня - пошкоджено енергообʼєкти ДТЕК",
-      "url": "https://www.rbc.ua/rus/news/rosiya-silno-poshkodila-energoob-ekti-dtek-1787385753.html",
-      "domain": "rbc.ua",
-      "language": "Ukrainian",
+      "title": "Lampadkas, a memorial service, and a military band: The Vyshyvanka Festival has kicked off in Odesa",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlc3Ql9HZ2QyU0ZSUkF4VUZsbXAxa1pDYXVWV0ZXMEJkbEhfTzhIb0t5T3JZYzJwcVpfY2pGU1FyZlo2b0hpMS1NN2JVNHp2cU5DU1loQjJ3LTloMVk4YTY4eXhYYkE2R2piQmlpRmVlMlRBSjd0MlFJM1piOVZ4RTJhSERMV1RNN01OWTd2Znh1RnF1SGxLSE9vZ285Z0lneG5OaUU1RUM4cVdCNVFURi10eTNMM3hmdUNEZy1iQjJvSHNQTmNsRVNCdlA0dm15WlRKa0xB?oc=5",
+      "domain": "news.google.com",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T084500Z",
-      "source": "GDELT"
+      "seendate": "20260823T080443Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Пункт пропуску « Табаки », пошкоджений російською атакою , відновив роботу",
-      "url": "https://nikvesti.com/news/incidents/322741-na-odeshchini-vidnoviv-robotu-punkt-propusku-tabaki-poshkodzhenii-rosiiskoiu-atakoiu",
-      "domain": "nikvesti.com",
-      "language": "Ukrainian",
+      "title": "A woman was arrested in the Odesa region for throwing three grenades at her neighbors",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1k4LVFha3Nkd09OUExoaVFUYWc5c0I5YXhzeGNfbWdlb3Q5MEFCaUZOa0VqN2lKTUZYbXVBZVR2NWRES3Y1UHd4cWx1aWhXcFhmczBua1UxeFM5M3VWb1VZZVJqRC1BUzNtbHFnVWJxOGV0WXgtR2RhazFaRzhKbF9WR3ctYVJLMEE2alNZeHk3VVlZd09oZW5QY1BrU0c4VGZDSV9NRDY3a2YxdTl2MS0zUzEteE1BdVZ2MUpoS3NTNEprNkJCQnZ6SlVmekxKWS1mNzh6WQ?oc=5",
+      "domain": "news.google.com",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T151500Z",
-      "source": "GDELT"
+      "seendate": "20260823T093700Z",
+      "source": "GoogleNews"
     }
   ],
   "timeseries": [],
