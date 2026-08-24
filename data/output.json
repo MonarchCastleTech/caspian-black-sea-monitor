@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-24T01:53:32.978685+00:00",
+    "generated": "2026-08-24T07:15:47.913759+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "27",
+      "value": "26",
       "delta": "deduplicated"
     },
     {
@@ -44,16 +44,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Odesa Takes Center Stage in Fiction Abroad",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KbGF3ZUM1ME5ZZVRLNF81NG1NMGhubldBT1FoY0NZTFVYTmJEUk5IMmVfN0JpNi1KRFBlemxtb2hZN3I0bV9wRW85OA?oc=5",
-        "domain": "kyivpost",
+        "title": "The Caspian Sea Is Now a Critical Military Lifeline for Russia and Iran",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEV0cXJRcFlGaWFBY0hKUzRBaXNsV0U1OGlsUjJ2X0NqbWRxM28ySVZYWTlKVktqWVRiY1RyNk5iWXZRX2l4ckdhZ3liNVdZX2ZOeUZUNGdjcjRHVEEtUnplblNfT0x3Q0FnTF9aX1BYOUZpeUVJMHpBWXZPa1RDbHRZWFI4QVRLY3otcWxUN1A1UUFJc3p6dzlwalh1ZFBSSXNqMHdYNDBXWm9QRTdUWUQ1S3fSAboBQVVfeXFMT1VmNGhMd05wYVlHbzhfZ192QW0yR211VkVwSFFBQzVtMjlocjl3MWs0Sm1uMmlmckoxZFpvbkx1OG94dlI0LWtPR1dnYm9TT20tY0pEenBQZldpTlIxb0dRQm4wcFBicnVUdENnZnZBeU1SX29MOE51bGpLZnRuak1oN29UUG85RGFJMFRtTmhPOUludVZmX3JGVjRZSTRuTm5OeUJFNlAwOHRGajRlS3JnaVc3S05GYWxR?oc=5",
+        "domain": "crudeoilpricestodayoilprice.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T115706Z",
+        "seendate": "20260820T160000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Uzbekistan and Azerbaijan deepen trade and Trans-Caspian ties",
+        "title": "A fire broke out at the Epicenter hypermarket in Odesa",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHdBRXEzU2hkODhsdkZqaHhRTHVXcFYtbEpraXlEZEVXcFM3WEl5YmNST1dNTTdpenZ1bjZvWWhiTlFIN3hYTVdianRRWnBqZjJiMFI5b1dyNkxRM1djYWNuRDRiLVBRaG5xelRSVlhXZTRxSzRtX0R6U2ZZTTctNVRlaWhCX05EdFhtcmRKaWJ5THZsb1Zrd3NXZ3JtTzhaYk95V3lYV3Q?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260824T055500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russian Drone Hits Passenger Train in Odesa, Evacuation Prevents Casualties",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNWV2dmlnTGlJUi03VE02dHJpY0VLdnp3YVk3T1RoLXI3NjdkYkpZbFZKbzQtOF9XYVhvTWhYYnlxVG5pRWRPb0Y5UQ?oc=5",
+        "domain": "kyivpost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T132746Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Two DIY chain hypermarkets ablaze in Odesa following Russian attack – video",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TVEZ3dmxjQzZNNU1xb3UyVndSSFlvdlhXeF9wWlBfUjM5SGZmNEQwSktwN0JONUhZQ3Q3UE9tVFNvdG1GR3lkdk1iNUNmbUJ1amZ3WDNPd2R3eHc5SmxGYll1UTY?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260824T060900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Uzbekistan and Azerbaijan deepen alliance with $1bn trade target and stronger Trans-Caspian links",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWw1VS1LUEN6bXBxZG1fVXhNdUFGeWotWGllTzVmM3lOSDNCQ01JUUFTcDJrVFFlSWw4bmEtQTNZVW5CYVJuNlJpbWtOZy1sZzVWYlJSNmNlTDJqZlJhMWVCS1V1V21Cc013cktQVWJNNnNuaDNWTF9hbDJMdDBpcG5hVU5BSG1pbHVWdE9VRXVEb003N0t1Umx4VnZndVlZMWk0S0RCQ21xYzUwZ1d1YzV3V3lDZk8xWjlHOEpVdmxqMzlE?oc=5",
         "domain": "euronews.com",
         "language": "",
@@ -62,12 +89,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "The Caspian Sea Is Now a Critical Military Lifeline for Russia and Iran",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEV0cXJRcFlGaWFBY0hKUzRBaXNsV0U1OGlsUjJ2X0NqbWRxM28ySVZYWTlKVktqWVRiY1RyNk5iWXZRX2l4ckdhZ3liNVdZX2ZOeUZUNGdjcjRHVEEtUnplblNfT0x3Q0FnTF9aX1BYOUZpeUVJMHpBWXZPa1RDbHRZWFI4QVRLY3otcWxUN1A1UUFJc3p6dzlwalh1ZFBSSXNqMHdYNDBXWm9QRTdUWUQ1S3fSAboBQVVfeXFMT1VmNGhMd05wYVlHbzhfZ192QW0yR211VkVwSFFBQzVtMjlocjl3MWs0Sm1uMmlmckoxZFpvbkx1OG94dlI0LWtPR1dnYm9TT20tY0pEenBQZldpTlIxb0dRQm4wcFBicnVUdENnZnZBeU1SX29MOE51bGpLZnRuak1oN29UUG85RGFJMFRtTmhPOUludVZmX3JGVjRZSTRuTm5OeUJFNlAwOHRGajRlS3JnaVc3S05GYWxR?oc=5",
-        "domain": "crudeoilpricestodayoilprice.com",
+        "title": "russia massively attacked Odesa region: the main targets were food warehouses and energy infrastructure",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTHFrLW9XNkRhR1YwX2xTckhtWElMZkpuanYtakg2WmhYR2d0YThzLVEtYlg3aEs1d2Z0UFhFdWxZVlRjc1R0dG5nbUdSQTJKZTdfWGRGVFlpU25QWnhoR3dEQUZNNXZPMXV6NEF4Sk50allWS3puVXphalNrS3FqS0pDNlZHVk9LWlVfYWp0REtRM3NBU0dyTkwyMHhTY2NEQldXRWxNa3JRbDlFakw4dXVrUUpOVDM1WTA0bFZsTnZ0aTl0cURkUHhGY9IBygFBVV95cUxPb2UzM2YzNEdrLUJPMGlTc182aTdsaW9xUjAxZExDU2gzdVdMd3BsRFREZmlsMXpsTmRiYnozVk1oUE1pWmVyeVFZLXZzeHd1ak4xOTF4RkhKNWpSVVVxUkVsWnRBdnNwQjJqME1ucS1MMU94UUhYWVlYZ1NYRDByLUUwTGMtSlJCZUtZaVQzbWw0YzRXalM2RW9IYzhpeDZBM3BPTkVGNmtLeXJvNkxmRHNzYnotOUhQcW91SVgxNVY5WW1RdDdPUGlR?oc=5",
+        "domain": "news.google.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260820T160000Z",
+        "seendate": "20260824T053917Z",
         "source": "GoogleNews"
       },
       {
@@ -80,12 +107,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "In the Odesa region, a Shahed drone struck the locomotive of a train carrying 593 passengers",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmlNTGxXeTFhQ2JRNVVJLTdNR0pEYnlOQTd5TE5DUzNRU0NWbDdqRDVKRzNfSVJpanQ1d0l4c0hqRVhjOHQtN0x5d0M3MFRtaWxDdXhHNnpZRTRvTm13TTlPOFd0M3kzOTR4Yl9fWEZlNGpzTU5SSkNMc1hwdE81UWs4eGpYWlhwRWlaY2x1RnkzQ2RMQWQ5X29CaFB4N3kwZzR4Y3lOcGxiNTN0LWN4SnZXY1BjcHhnOUJoNXV3N0stVlVmUXFR?oc=5",
-        "domain": "news.google.com",
+        "title": "Russia strikes passenger train in Odesa Oblast twice, rescuers show evacuation",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa1YtRXROeTZWWmZ0R2hPTG12RldYbV9mX3cwSW9IaHZpRDFXR2hldHVWaDdhR2stOThaYkVWRXNWT3AtNEZJYUZtUXNPN3FnUnFKaGtFUDctSGNES1h6YVppaktxWVJoc1U1djlKVi1LMk10OEhwd0ozcFNxQnhMall0R2ludm9NVFhDUjVQRms3QXpNcWExUW1URnZXQzZGbnI1Nk90c3FxT2M3clIwTld0Z09vN2VBN2xxeHdpcDdrLTJvR3fSAbsBQVVfeXFMTWVmczNSLTAybmtiTjRsYUczeHlFQXF2WjE2ZTV3b3lWMjB6czRNYTN6Y1F6Uk55alVLbkpBcldNa1UtbTZzNC01bENhMDhZRDJILUIzZmNaMFZYYS1iQXJxVWNGMEJneUtWUk5QSy1uNF9Fbko5MHFMWjA5eFptZUpOYUg5Q09DaXdYWjNtTFlJcktnRzBBaEFMOVJLZENpVW1ad0ZJX2p5M1FKcUVNTGtUWF81cTRodVY2VQ?oc=5",
+        "domain": "thenewvoiceofukraine",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T103407Z",
+        "seendate": "20260824T064549Z",
         "source": "GoogleNews"
       },
       {
@@ -95,15 +122,6 @@
         "language": "",
         "tone": 0,
         "seendate": "20260820T083202Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russians attack locomotive of Zhytomyr–Odesa passenger train with jet-powered drone",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXRnUjJZX2NBX3JhWE8xeFNZb0k2Q2VwSkVKMjNWNkZ5c1YwTnNURWl1TlhDMXg5bndJNU1jdVBpT2tEbGI1UWdjelVrbjAyUElXQWJwVUJzYldvQjBzQS1uSXplbzVFU3h0dnpFSTZyNEtRcjZYM3hSTVBfWkF0alljenVqeEZBZ3lsR3pmS04zNUxGeTBGQjYwZDZsTDFLVC1nMnFPbmFMMkRZOWtxM3ZITjdGNEdkeE5td0NlTmdYbTdvTlNXRW1BY9IB0AFBVV95cUxPbnFmMW85eVhlUXlHM3p1VGRCTGFEdndqMkgtRmU0T29mZTEzNGl3TUtQaDc5VTFfQTE1dEY3WDRjMVdwb1BJUkplcV9PTDdxZE4zUk85MXJBS2UzYTVKQk9JekkwUkx0QjEtajExU1pTNkVDXzY0T3E0OFJXMDlTNmdBNnVDQWJIZDg1QUdQVDVmZjZPdGsyNlBybTdtZTVrSWxNNlBXa2g5QmtER1FzcjBoLVM0bVhJQjlHdWRhazFGbExqcmxSM18zcm02SlZG?oc=5",
-        "domain": "ukrinform",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T073100Z",
         "source": "GoogleNews"
       },
       {
@@ -125,120 +143,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Jet-powered Shahed drone strikes passenger train in Odesa Oblast",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FN0lIdWNPdXR5TS1lM1hCS0ZncHBEc19qbERGVFl0QVY5QTJzRlZDUUI1TnRZZ2ZlOC1falptTUNibldmM2o5Qlcyci1abUg2TFhreUhrOENPYWhtRG5CdklXQWTSAXBBVV95cUxNNWZVZnpsenZtRzhBTW1iZHctRWZ4MmVVcEE5RWg1eGZPWG5QUnFnb3p2UGk0WVg2Ync1ZUpBY3VGX3NWZTNPUW9DbjY5cG0tbzhLZkFNSkNRRUx2c3JiUUdNVm5sTjRYY2ZBTEdEdEs5?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T065200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "In Odesa, for the first time since the invasion, the Duke was dressed in an embroidered shirt",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXJtbUUwcEppVnZodF8tR0NpSTRyc0JyNDJLMUJRWm1SNVJ0eHNkSm9ZRFZSbm9uNUswX1NveEtuTzd2T2ZIajltM1cyZmNfQUpGTkJOZk9FbE9Kb0VCYTN1am5pbW5lTDRCb2pDZlRNWXJWaWJnTU1qcjNZekZnd1UwcmttdlpqdERLOTFBcEVjMm84aVZvRTVVcEZSX3FLTF9vZW4wY0s1Z9IBqAFBVV95cUxOUG9HcG90MEpVUE53TUlmZUZjVW1qYUx0Um5SN0xiN2lyOU00ekgtTkRNUV9WbHhxblozb25xNnFtbkIwTnE0WXFnX09QWUVkMlpiZlM2MlFSVF9DajdaVkxSSjlUX0Jyb1Atd0gxRG53ZWlYUVFSSktfT1Y2Smc2LUd5b0FGdXpaelhJU2QweTlucVdDbWF3a2RBRWFJYm9uUDl6VjRwM04?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T134352Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Who really owns the Caspian Sea?",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8ySGlVWDY3UE9kTmpud3pLRzdJZkxXb3FPc1RHcThTdUpYU3BOQk5od1RaMEJaUE80eTV1Tm5OTTBYZEQ2dGdsZV9tS3BfbUtVSU9FbHY5dWsxM2lCSDZnVjBHODRYUmdYLWZOLXkyVzdZZ9IBckFVX3lxTE1EUGM0RHh2MWFGZ2xDRFNnTGUxbTh1UFktN2ZJX3cwc0tfRWxIcTgyN3BCNURqMU5pX0hwUWFhNVZzVHdxMDd1X29wb2d0dm1aa2J1c2JsMXdEUkVIT0ltaW9ELXFDdWZudFRGSWRuVlJQUQ?oc=5",
         "domain": "dw.com",
         "language": "",
         "tone": 0,
         "seendate": "20260819T090801Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russian Drone Hits Passenger Train in Odesa, Evacuation Prevents Casualties",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNWV2dmlnTGlJUi03VE02dHJpY0VLdnp3YVk3T1RoLXI3NjdkYkpZbFZKbzQtOF9XYVhvTWhYYnlxVG5pRWRPb0Y5UQ?oc=5",
-        "domain": "kyivpost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T132746Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Lampadkas, a memorial service, and a military band: The Vyshyvanka Festival has kicked off in Odesa",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlc3Ql9HZ2QyU0ZSUkF4VUZsbXAxa1pDYXVWV0ZXMEJkbEhfTzhIb0t5T3JZYzJwcVpfY2pGU1FyZlo2b0hpMS1NN2JVNHp2cU5DU1loQjJ3LTloMVk4YTY4eXhYYkE2R2piQmlpRmVlMlRBSjd0MlFJM1piOVZ4RTJhSERMV1RNN01OWTd2Znh1RnF1SGxLSE9vZ285Z0lneG5OaUU1RUM4cVdCNVFURi10eTNMM3hmdUNEZy1iQjJvSHNQTmNsRVNCdlA0dm15WlRKa0xB?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T080443Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The enemy attacked the locomotive of a passenger train in Odesa region twice with a \"Shahed\" drone; nearly 600 passengers came under attack.",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdUdYd0JjdDR5aERXWTZVLXpWd3pCRENUVkVVMTNnNzQ2UmdDOThOTXpmem9Md3pSWTd4Vm1fYk9rRXA5bERLbUdJeXYzLUNmd3h5VTIxNC1VdHQwdGVrcHQ2dmRLUnFHcm9hdmNfazlBcTIxQWtYSzJXNndQVkJvVWdPb21Ha3dmNFNQckpyZVVyVk03OFh0c0VjUXdnYUVHM0xTc1otY0E2OHVvOGQxSkM0N0pZU2ZNOXZudVlwVm5hRHdscnhtTWFpdmdMdUpwQ2ZBREwzUGhKT3Z6eEpBVDdGQ2rSAeMBQVVfeXFMUFVTcGxSZXdjYUVVQ2E0dVJMZGdLZFFFamp5SThERS1jWG9zRU13YVpWY3Vnb0cycl9kZzdxTW4wRUh0WVdyTW9aN01QZ3pReDA3SkMxNkNzd2JCZUJaT0Z1WVI0X2I0cU9YWng0UU0zS2dCbHB4NzRYWlJuN2psU29Eb3hKTGgxYy1Hd0tKb3llaWctRUZMYmM1X2dZd0xYdGNKQ0E1d0Zya0pOUDgyMlRkbGdpZjA4MjZkUDhOc3RRZTVHQ2VrM05MRDZxaGYtaTBZMmJneDBVcmR3SjNzcVhqMHM?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T142039Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A woman was arrested in the Odesa region for throwing three grenades at her neighbors",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1k4LVFha3Nkd09OUExoaVFUYWc5c0I5YXhzeGNfbWdlb3Q5MEFCaUZOa0VqN2lKTUZYbXVBZVR2NWRES3Y1UHd4cWx1aWhXcFhmczBua1UxeFM5M3VWb1VZZVJqRC1BUzNtbHFnVWJxOGV0WXgtR2RhazFaRzhKbF9WR3ctYVJLMEE2alNZeHk3VVlZd09oZW5QY1BrU0c4VGZDSV9NRDY3a2YxdTl2MS0zUzEteE1BdVZ2MUpoS3NTNEprNkJCQnZ6SlVmekxKWS1mNzh6WQ?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T093700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Odesa Region Sustains Damage, Power Outages After Overnight Attacks",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lbXNfMGdaRXVfVzJUQWhKY2JoOWxSbWFkS1YyT1c0RjNFRGhNSW8xQy1pS1U3QUV1MmthbjNVNHp2ZTR6bEl6SW5wTQ?oc=5",
-        "domain": "kyivpost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260822T091159Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "In Odessa, they unfurled the 35-meter flag once again",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdDMwT1oxUWhJRGtlYTZ0VHYwMnlzY0lQSEpIMmxVRG9zZ3A3NGg0NkVLOFRwZlJSUWptMmxqbEkwamw4RWFScTE4WThmVVFCa284cS12OUY5ZFR1anhqU0VwSFFrV3lDQXZLcnFtNTdkU2ZzOVJxM29mZjlDUUxfcmZ2RFVnM1BTcnZmcWl4QkZQWWluVDFDSE1vSTdQRFJQOHJ2MTg0a05zSHpCS05tRXozUktwMTdOUjFsdDdPM05QQQ?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T111541Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russian attacks kill 5, injure 44 across Ukraine over past day, as jet-powered drone hits passenger train in Odesa Oblast",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYmNBWElYZUxjd244bk9kaU1NMUtsWTk5R1piR2tLNGQzWFZMeS1uZGJqbG5QaUNVN1B2SzhVcy01WkZ0LV9NSUNlOWt2UE9JeUdDWFd6YVdsWktLS29RV1lCekVScV9OaDJQR0dWenBHMmljN2xDZTZidXlXYlNKeGlDWGZzLXVoWlNqMGlKYU1nWXBINDRtWGtmc1BTMXZhNy02TjdZajRFaVdkNGFfWGh5TlRwOVlndG1kMUZDS1JCcWpGQVpKeUQ3Z1l2cEF1VF96cHltR1pfcmRkVkJKUzVn?oc=5",
-        "domain": "thekyivindependent",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T085306Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russian jet-powered Shahed attacks passenger train in Ukraine's Odesa Oblast",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0RkVm9lLWVVekZUOVFZdnlVbUg5QnIzbmpFdUs4Zk55QmxvU2drZUhPSWpGRHJhYXdXQVBKa2dOTDdUZUkwNktTZi1NcDlvVXNBUmNUM3Qwa0FWbG4xQ3c4UU05VU5FRE13TTVEM0hSejQxR3RVSEF0TzhCRXh4R2ludV9icHhXekFtS2I0eVZqLWhYc1VOd3BWTFF3NS04N2VBU1hsS1kyVDVfcDRDSmdYTdIBqAFBVV95cUxPdEh4Mzdrd2hyTXhGdDAxeUxQaTFPRHFrVk9uUmpPTGJjZDJZek9ZX0tiVFpvdFlFTVo2UDMyNnRLQVh5RjNfU2t1N29SZ0J1QWRFOUxod2FBNHllSkJ2c3hpQU05cjNMWHBoeVNnN2lSaEoxanpWeVVoSGJzcGpNcmw2WmgwcXJYOWVxakZwNHhHTWZWakk4OUduNHEydUNFaW84OTlISHU?oc=5",
-        "domain": "thenewvoiceofukraine",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T095100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "In the Odessa Department of Education, one bidder won 23 out of 24 tenders",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZkRzU2Z4cXo1VnlQZ2tyRGJRWUlDbFpkNVBYM2VvZ05pTExwVlpTaGdCeURkYWJJSVVmZF9BOGN4d01PbWdBcmRFUnRUejFUWUlXUUFoZ0JaQUlNRjFPRXVuM2VOOUxwTzRWbENpZHRhMG1SaXA4TV9GRVB6WHRMWEd5enAxYmwxdHBxOWhFXzkyT1FZRHhaUWx2YmdhZHFXeHJfalZhM2llbDFGNkxHNS15TmFxSnN2OW04QV9R?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T135318Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "100-meter-long flags were paraded through Odesa",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOelY3LWVCQkk4dnUwdVlNQ3E3b05rYWsyNzlNU1NtRnQ3QmFlU0NGaWZneG13bkZpR0NrWGxWeVJwcFl4dlRYTjk5ZmRWcHRrcEltUG1GQlZndnVOUFNQQXhxMnpfU0EwdzhTT3dUR1QwZGZ0RUY3UkhyTjJKWGpwRVFFZ3NPYUJ5U3dyVENlUGp4Q2hoTG4zX0RyOXJHN200S0xKRi0ta0ZQbE82aEZWWGpTT3F0djdPUmVRWTZjRnh4S0NMMjZ1UUttRUhoSFhEVlhv?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T123432Z",
         "source": "GoogleNews"
       },
       {
@@ -251,12 +161,75 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Video: An Epicenter store is on fire in Odesa amid a drone attack",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEh4QkZqMVdGLXBjLXhNTmxhVU1NbUhwZzFWVFc4U0JvelN0RHpLRzE2OE90YzdMVFBPcVFJQkxjdE91MFZ4WHd6SFJ3THdUNlBkbWRzR0cxZmZuLVBUNG16LVRBX25mVTE4emszTm14NVpzVjNxaWFKYTdjZzFtMjh3VVQ?oc=5",
+        "domain": "ua.news",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260824T052829Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Odesa Takes Center Stage in Fiction Abroad",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KbGF3ZUM1ME5ZZVRLNF81NG1NMGhubldBT1FoY0NZTFVYTmJEUk5IMmVfN0JpNi1KRFBlemxtb2hZN3I0bV9wRW85OA?oc=5",
+        "domain": "kyivpost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T115706Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "In the Odesa region, a Shahed drone struck the locomotive of a train carrying 593 passengers",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmlNTGxXeTFhQ2JRNVVJLTdNR0pEYnlOQTd5TE5DUzNRU0NWbDdqRDVKRzNfSVJpanQ1d0l4c0hqRVhjOHQtN0x5d0M3MFRtaWxDdXhHNnpZRTRvTm13TTlPOFd0M3kzOTR4Yl9fWEZlNGpzTU5SSkNMc1hwdE81UWs4eGpYWlhwRWlaY2x1RnkzQ2RMQWQ5X29CaFB4N3kwZzR4Y3lOcGxiNTN0LWN4SnZXY1BjcHhnOUJoNXV3N0stVlVmUXFR?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T103407Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "In Odesa, for the first time since the invasion, the Duke was dressed in an embroidered shirt",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXJtbUUwcEppVnZodF8tR0NpSTRyc0JyNDJLMUJRWm1SNVJ0eHNkSm9ZRFZSbm9uNUswX1NveEtuTzd2T2ZIajltM1cyZmNfQUpGTkJOZk9FbE9Kb0VCYTN1am5pbW5lTDRCb2pDZlRNWXJWaWJnTU1qcjNZekZnd1UwcmttdlpqdERLOTFBcEVjMm84aVZvRTVVcEZSX3FLTF9vZW4wY0s1Z9IBqAFBVV95cUxOUG9HcG90MEpVUE53TUlmZUZjVW1qYUx0Um5SN0xiN2lyOU00ekgtTkRNUV9WbHhxblozb25xNnFtbkIwTnE0WXFnX09QWUVkMlpiZlM2MlFSVF9DajdaVkxSSjlUX0Jyb1Atd0gxRG53ZWlYUVFSSktfT1Y2Smc2LUd5b0FGdXpaelhJU2QweTlucVdDbWF3a2RBRWFJYm9uUDl6VjRwM04?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T134352Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Odesa Region Sustains Damage, Power Outages After Overnight Attacks",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lbXNfMGdaRXVfVzJUQWhKY2JoOWxSbWFkS1YyT1c0RjNFRGhNSW8xQy1pS1U3QUV1MmthbjNVNHp2ZTR6bEl6SW5wTQ?oc=5",
+        "domain": "kyivpost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T091159Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Russian strikes on Odesa ports push Ukrainian farms toward bankruptcy, Bloomberg reports",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYU00TTRac0huSGNYWmMtVFJuc0Q2ZHJYUUZSc1I2Vk9VRHhsbW9YWHd5bmR1Z0tXSVAzSURacHVsS2tiSkI3OVJLTU82ZGl1RjBTR2I4YlFNRHlfejFEUmJ5d1QxR2RrMl9BOXlqWUVIdGdVcURSUHl1V0JxcEZENEZsUjVJc0s1R1ZTV0xUZmd4NmNzQjFiUGNhcjFLa1BPdkJvSkc5UGJwZEJEN3ZNcWlB?oc=5",
         "domain": "euromaidanpress",
         "language": "",
         "tone": 0,
         "seendate": "20260821T114827Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "In Odessa, they unfurled the 35-meter flag once again",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdDMwT1oxUWhJRGtlYTZ0VHYwMnlzY0lQSEpIMmxVRG9zZ3A3NGg0NkVLOFRwZlJSUWptMmxqbEkwamw4RWFScTE4WThmVVFCa284cS12OUY5ZFR1anhqU0VwSFFrV3lDQXZLcnFtNTdkU2ZzOVJxM29mZjlDUUxfcmZ2RFVnM1BTcnZmcWl4QkZQWWluVDFDSE1vSTdQRFJQOHJ2MTg0a05zSHpCS05tRXozUktwMTdOUjFsdDdPM05QQQ?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T111541Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A woman was arrested in the Odesa region for throwing three grenades at her neighbors",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1k4LVFha3Nkd09OUExoaVFUYWc5c0I5YXhzeGNfbWdlb3Q5MEFCaUZOa0VqN2lKTUZYbXVBZVR2NWRES3Y1UHd4cWx1aWhXcFhmczBua1UxeFM5M3VWb1VZZVJqRC1BUzNtbHFnVWJxOGV0WXgtR2RhazFaRzhKbF9WR3ctYVJLMEE2alNZeHk3VVlZd09oZW5QY1BrU0c4VGZDSV9NRDY3a2YxdTl2MS0zUzEteE1BdVZ2MUpoS3NTNEprNkJCQnZ6SlVmekxKWS1mNzh6WQ?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T093700Z",
         "source": "GoogleNews"
       },
       {
@@ -269,12 +242,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Istanbul's location on the Bosporus strait, between the Mediterranean and Black seas, examined",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVlg1N0prUFhLWG1TdThLXzlCczAxYTUtRnhuejZIM0FXakR2SzFGZVJrWU9VazBTcmpoVHR3aVluTm5KV0tQcGt6X0V5Q2JfbWQ2RkNhS3VGOXpCdVctWWRoRnRQbXBUaEdPOGMyZHhyZ05tdjNFUDNqa3A5c3VhQ1NlRWY0RGhic00xUFVCZU96cXQzNmxqS2ZR?oc=5",
-        "domain": "encyclopediabritannica",
+        "title": "The enemy attacked the locomotive of a passenger train in Odesa region twice with a \"Shahed\" drone; nearly 600 passengers came under attack.",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdUdYd0JjdDR5aERXWTZVLXpWd3pCRENUVkVVMTNnNzQ2UmdDOThOTXpmem9Md3pSWTd4Vm1fYk9rRXA5bERLbUdJeXYzLUNmd3h5VTIxNC1VdHQwdGVrcHQ2dmRLUnFHcm9hdmNfazlBcTIxQWtYSzJXNndQVkJvVWdPb21Ha3dmNFNQckpyZVVyVk03OFh0c0VjUXdnYUVHM0xTc1otY0E2OHVvOGQxSkM0N0pZU2ZNOXZudVlwVm5hRHdscnhtTWFpdmdMdUpwQ2ZBREwzUGhKT3Z6eEpBVDdGQ2rSAeMBQVVfeXFMUFVTcGxSZXdjYUVVQ2E0dVJMZGdLZFFFamp5SThERS1jWG9zRU13YVpWY3Vnb0cycl9kZzdxTW4wRUh0WVdyTW9aN01QZ3pReDA3SkMxNkNzd2JCZUJaT0Z1WVI0X2I0cU9YWng0UU0zS2dCbHB4NzRYWlJuN2psU29Eb3hKTGgxYy1Hd0tKb3llaWctRUZMYmM1X2dZd0xYdGNKQ0E1d0Zya0pOUDgyMlRkbGdpZjA4MjZkUDhOc3RRZTVHQ2VrM05MRDZxaGYtaTBZMmJneDBVcmR3SjNzcVhqMHM?oc=5",
+        "domain": "news.google.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260819T050000Z",
+        "seendate": "20260823T142039Z",
         "source": "GoogleNews"
       },
       {
@@ -296,12 +269,30 @@
         "source": "GoogleNews"
       },
       {
+        "title": "The enemy launched a massive attack on the Odesa region. What are the consequences?",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUs3M0U2R1RtYU81TURsSEZrNlc5aFo4VjBma3lMZFIteE9EcW9nUnVyR0E5ZGZwSFBNX1RKSk1NSkVmc1BkWFpQWWx2SFNfNWp1aHlQcWtBc1F6RTY5MUlwQlFpYlFwRWNoNjJEOXpRT0J5REgwT3dIRVVLVi1xeGNZZHdxSnZfV2EzZzNTRldPWk5Ndkt6T2N5aTEwTzZqWEp6WGhyWXZfWHBhUklHOUUxOWZOVHk5elZfX3Fn?oc=5",
+        "domain": ".",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260824T060800Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Russia Launches Massive Attack on Odesa Region, Three Injured",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPek00MDJoUnlWQXd5amtMR09SYUd5dnpKZ0pCbVhRemcxQlV6LXJuWVNNMS1oNHFYTEhQSGNDSlJHWG8wR3plS0tHVVJqSm9JMTRfY3ZTU2RFVUVjNE5YLTdIWW40blYxbTlHMkFKdUhielRGZ1B6TlU1c3RwbkxOVXhNVmtVcjdRNEY4TXVRbUJBR3VWMEQ0Ukg4RnpzU0Z5clJfMWNiemk2d1BsZVdZ0gG0AUFVX3lxTFBXNWs5Tzh2Q25HRGpZS1JRMlUzU0xxVWlibzhWbGFGVnVYdWxhc2kzanhLQzFQYVdnWjZZZE1DU2FHYWVLallYQmZySFVvekFNalBDQkdaY251ckdGelBxU0p0WlZZMVpPcWhvdERMX2U0NTJfYVhNVk9JSjlRVXlnWWdIeVZLSjI3UU42WXFrektyMVhXOFVzLUdCNjQ0Y0FRekxIelVCb0hQWVE1UDVrXzE1eQ?oc=5",
         "domain": "ukrinform",
         "language": "",
         "tone": 0,
         "seendate": "20260822T150000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Lampadkas, a memorial service, and a military band: The Vyshyvanka Festival has kicked off in Odesa",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlc3Ql9HZ2QyU0ZSUkF4VUZsbXAxa1pDYXVWV0ZXMEJkbEhfTzhIb0t5T3JZYzJwcVpfY2pGU1FyZlo2b0hpMS1NN2JVNHp2cU5DU1loQjJ3LTloMVk4YTY4eXhYYkE2R2piQmlpRmVlMlRBSjd0MlFJM1piOVZ4RTJhSERMV1RNN01OWTd2Znh1RnF1SGxLSE9vZ285Z0lneG5OaUU1RUM4cVdCNVFURi10eTNMM3hmdUNEZy1iQjJvSHNQTmNsRVNCdlA0dm15WlRKa0xB?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T080443Z",
         "source": "GoogleNews"
       },
       {
@@ -314,30 +305,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "In Odesa region, a \"Shahed\" attacked a passenger train: nearly 600 people were in the carriages",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFlDaXZ3NlFHRTB0MG90dG81Tnc2UXFXS2pHWGhTcWR3RWJLUlFZcm9wZHdsY2h5dzBVdThINnROYV81QmJfbU5sTUhIaTZVT3c1dnhBcV9hSFFhVDI3RkMwUERZU256UDN0dGtIYUk5dVJpaXdGSDBBTUFqWEU1VnlmeVhRMTlyZUZ6N01kZ1UwbkRaM2piaER0VUJramFlTVRfMGhsOXFLSWFrVkFwbVRTV3DSAbMBQVVfeXFMTWpDaXYyUXRWTllKZ1h5RDJxVy0yWkZuMURjV2M1SlFxLWdwOUFSbDB0MnVrSU5UdlpkZ2sxR1drdS1fNVVfRDBydFNodFVobDhmaUtjU1M0TzRfUGNPSkNjVy1xU0l4dGM2T1drQkZjVDBIMjVxWHFoOVBjQmJJbm84VjIwaFZXNGFrTUljbnp0TXFJZGw5blQ2T1JrQi1wM042ZEdfWkR6MkcwYVVQS3ZTVms?oc=5",
+        "title": "In the Odessa Department of Education, one bidder won 23 out of 24 tenders",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZkRzU2Z4cXo1VnlQZ2tyRGJRWUlDbFpkNVBYM2VvZ05pTExwVlpTaGdCeURkYWJJSVVmZF9BOGN4d01PbWdBcmRFUnRUejFUWUlXUUFoZ0JaQUlNRjFPRXVuM2VOOUxwTzRWbENpZHRhMG1SaXA4TV9GRVB6WHRMWEd5enAxYmwxdHBxOWhFXzkyT1FZRHhaUWx2YmdhZHFXeHJfalZhM2llbDFGNkxHNS15TmFxSnN2OW04QV9R?oc=5",
         "domain": "news.google.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T084718Z",
+        "seendate": "20260823T135318Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Russia attacks border crossing with Moldova in Odesa region, traffic suspended",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaGFPYjRWb3Y3OGR0WjEyYmJ4dUtBUk14RXFUZkFxR0E0dkdnUVZSZ3IxNDFYenV2d2tvY3piR1RZcWVfbl92dnRSWWE5aEpXSG1oWGN2Wm5yOU1KQ0c3TmxQb2o4aWs0REM5X1BqOHNnZ1BWcGdLYjgtM2VHUVZ3UEhkZktUVjREclZlQUNkMXZaWGU1YXN4emlEOGFhNjRGTE81LXk1SHFoajkya055QndRV2NramsxcVg4Y2JkSTh6R2g1eUHSAcsBQVVfeXFMT2g5QzZjN0toSDZnMUNGdFhDR0VVaHpIV2FBMDRGaWpfQ0IwVzZmZnE1clZYc3NCYzg5Q1lqQUdfM0E5a0s5NC1Ucm1hZ3lRa0dWdTFBak10ZC1uM01janVIUE5nSTFEQmFhanZsUHFIV1J0U1VpRTAzYlFNVjV4eUFTYUtXUi15TEhvVVlPWmlqMmNYQjRoeGJINXdBUzRESXZzSWlPTFpVdkZQN3JFNV8wOTY2YVc4dU5ZM25IXzY2MW5Namh2ZEZiZWs?oc=5",
-        "domain": "ukrinform",
+        "title": "Jet-powered Shahed drone strikes passenger train in Odesa Oblast",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FN0lIdWNPdXR5TS1lM1hCS0ZncHBEc19qbERGVFl0QVY5QTJzRlZDUUI1TnRZZ2ZlOC1falptTUNibldmM2o5Qlcyci1abUg2TFhreUhrOENPYWhtRG5CdklXQWTSAXBBVV95cUxNNWZVZnpsenZtRzhBTW1iZHctRWZ4MmVVcEE5RWg1eGZPWG5QUnFnb3p2UGk0WVg2Ync1ZUpBY3VGX3NWZTNPUW9DbjY5cG0tbzhLZkFNSkNRRUx2c3JiUUdNVm5sTjRYY2ZBTEdEdEs5?oc=5",
+        "domain": "news.google.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260821T064600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A Jet-Powered Shahed Hit a Passenger Train in Odesa Region, Passengers Evacuated",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tczhWbW5BSENSQnBST2tSNURydVpQd1RrUWFySWw2LUpNUUNWVEhmeThtYWlxa0hKNlgwSlRPZ3Jya01OWTdMTFUxYmlEWXdwTlRsNjNvVUZDYW5JMno2RGRaYWZEWHg5S0pnb0hJaw?oc=5",
-        "domain": "..",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T082437Z",
+        "seendate": "20260823T065200Z",
         "source": "GoogleNews"
       },
       {
@@ -350,30 +332,48 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Iran Parliament Begins Review of Caspian Sea Convention",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeFVPNFByYjdCZkNGc3h2SzgxX3g3RDIzVHZWcnhPS2Z4MElvRHNpR3V1eS1OcnM0dWE3NzFPbUFRbHhJbTg0eF8xVjdSNjhYTktQOW5RM2ZYSW9oQTNMSXhaNnZpMFBJVUZKZzJXd3NZZVp4NmxiVzRiYzNMR0VOcmNMS3lpTFhmcE5LeWtpUm1nQ0hMeFRN?oc=5",
-        "domain": "iranwire",
+        "title": "Russians attack locomotive of Zhytomyr–Odesa passenger train with jet-powered drone",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXRnUjJZX2NBX3JhWE8xeFNZb0k2Q2VwSkVKMjNWNkZ5c1YwTnNURWl1TlhDMXg5bndJNU1jdVBpT2tEbGI1UWdjelVrbjAyUElXQWJwVUJzYldvQjBzQS1uSXplbzVFU3h0dnpFSTZyNEtRcjZYM3hSTVBfWkF0alljenVqeEZBZ3lsR3pmS04zNUxGeTBGQjYwZDZsTDFLVC1nMnFPbmFMMkRZOWtxM3ZITjdGNEdkeE5td0NlTmdYbTdvTlNXRW1BY9IB0AFBVV95cUxPbnFmMW85eVhlUXlHM3p1VGRCTGFEdndqMkgtRmU0T29mZTEzNGl3TUtQaDc5VTFfQTE1dEY3WDRjMVdwb1BJUkplcV9PTDdxZE4zUk85MXJBS2UzYTVKQk9JekkwUkx0QjEtajExU1pTNkVDXzY0T3E0OFJXMDlTNmdBNnVDQWJIZDg1QUdQVDVmZjZPdGsyNlBybTdtZTVrSWxNNlBXa2g5QmtER1FzcjBoLVM0bVhJQjlHdWRhazFGbExqcmxSM18zcm02SlZG?oc=5",
+        "domain": "ukrinform",
         "language": "",
         "tone": 0,
-        "seendate": "20260806T070000Z",
+        "seendate": "20260823T073100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "A Jet-Powered Shahed Hit a Passenger Train in Odesa Region, Passengers Evacuated",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0ZGJyZlVpa2pQUXdfWU11RW5lcG1QWEZMT0tvRVQ3WHlrVUNTV3RobWFQWWJUTWdwMmxiNTZlNDIySXVYdFFZYTFSRUdqekN4R1FlbnFfc0E4RDlzeTlJVEJvTTBscUVwaGJ0b3Y0cw?oc=5",
-        "domain": "..",
+        "title": "Russia attacks border crossing with Moldova in Odesa region, traffic suspended",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaGFPYjRWb3Y3OGR0WjEyYmJ4dUtBUk14RXFUZkFxR0E0dkdnUVZSZ3IxNDFYenV2d2tvY3piR1RZcWVfbl92dnRSWWE5aEpXSG1oWGN2Wm5yOU1KQ0c3TmxQb2o4aWs0REM5X1BqOHNnZ1BWcGdLYjgtM2VHUVZ3UEhkZktUVjREclZlQUNkMXZaWGU1YXN4emlEOGFhNjRGTE81LXk1SHFoajkya055QndRV2NramsxcVg4Y2JkSTh6R2g1eUHSAcsBQVVfeXFMT2g5QzZjN0toSDZnMUNGdFhDR0VVaHpIV2FBMDRGaWpfQ0IwVzZmZnE1clZYc3NCYzg5Q1lqQUdfM0E5a0s5NC1Ucm1hZ3lRa0dWdTFBak10ZC1uM01janVIUE5nSTFEQmFhanZsUHFIV1J0U1VpRTAzYlFNVjV4eUFTYUtXUi15TEhvVVlPWmlqMmNYQjRoeGJINXdBUzRESXZzSWlPTFpVdkZQN3JFNV8wOTY2YVc4dU5ZM25IXzY2MW5Namh2ZEZiZWs?oc=5",
+        "domain": "ukrinform",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T083112Z",
+        "seendate": "20260821T064600Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Russian Defense Ministry Says It Targeted Fuel Tanks at Yuzhny Port in Ukraine's Odesa Region",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNi12SXZITmVDM1RZR2VkMmphLWx6S29haWV1NEppZ2pSRWVtTzJQTTBQRWktQ0JvYm9Qa01KTHFQUkZ5a1NGeVotaUdEZmRJSlh6UTJxc1pNdVk0X1NKSjRyQ2I0MEtzVjQ0WTFfbHBmTmVpcDlySXZ2emQtX2N6dGMtUWN1UEl6bW5mb3ZSWFZEek8ydHVsMEFxT2hMQVl2TERMRFRMaURieWRIa2c2UGJZMnp1M0l1X2E2aW5PcHNmNFdDbFV6UWVR?oc=5",
-        "domain": "fananews-",
+        "title": "100-meter-long flags were paraded through Odesa",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOelY3LWVCQkk4dnUwdVlNQ3E3b05rYWsyNzlNU1NtRnQ3QmFlU0NGaWZneG13bkZpR0NrWGxWeVJwcFl4dlRYTjk5ZmRWcHRrcEltUG1GQlZndnVOUFNQQXhxMnpfU0EwdzhTT3dUR1QwZGZ0RUY3UkhyTjJKWGpwRVFFZ3NPYUJ5U3dyVENlUGp4Q2hoTG4zX0RyOXJHN200S0xKRi0ta0ZQbE82aEZWWGpTT3F0djdPUmVRWTZjRnh4S0NMMjZ1UUttRUhoSFhEVlhv?oc=5",
+        "domain": "news.google.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T160448Z",
+        "seendate": "20260823T123432Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russian attacks kill 5, injure 44 across Ukraine over past day, as jet-powered drone hits passenger train in Odesa Oblast",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYmNBWElYZUxjd244bk9kaU1NMUtsWTk5R1piR2tLNGQzWFZMeS1uZGJqbG5QaUNVN1B2SzhVcy01WkZ0LV9NSUNlOWt2UE9JeUdDWFd6YVdsWktLS29RV1lCekVScV9OaDJQR0dWenBHMmljN2xDZTZidXlXYlNKeGlDWGZzLXVoWlNqMGlKYU1nWXBINDRtWGtmc1BTMXZhNy02TjdZajRFaVdkNGFfWGh5TlRwOVlndG1kMUZDS1JCcWpGQVpKeUQ3Z1l2cEF1VF96cHltR1pfcmRkVkJKUzVn?oc=5",
+        "domain": "thekyivindependent",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T085306Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russian jet-powered Shahed attacks passenger train in Ukraine's Odesa Oblast",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0RkVm9lLWVVekZUOVFZdnlVbUg5QnIzbmpFdUs4Zk55QmxvU2drZUhPSWpGRHJhYXdXQVBKa2dOTDdUZUkwNktTZi1NcDlvVXNBUmNUM3Qwa0FWbG4xQ3c4UU05VU5FRE13TTVEM0hSejQxR3RVSEF0TzhCRXh4R2ludV9icHhXekFtS2I0eVZqLWhYc1VOd3BWTFF3NS04N2VBU1hsS1kyVDVfcDRDSmdYTdIBqAFBVV95cUxPdEh4Mzdrd2hyTXhGdDAxeUxQaTFPRHFrVk9uUmpPTGJjZDJZek9ZX0tiVFpvdFlFTVo2UDMyNnRLQVh5RjNfU2t1N29SZ0J1QWRFOUxod2FBNHllSkJ2c3hpQU05cjNMWHBoeVNnN2lSaEoxanpWeVVoSGJzcGpNcmw2WmgwcXJYOWVxakZwNHhHTWZWakk4OUduNHEydUNFaW84OTlISHU?oc=5",
+        "domain": "thenewvoiceofukraine",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T095100Z",
         "source": "GoogleNews"
       },
       {
@@ -413,30 +413,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Zelensky: Russia attacks border crossing with Moldova in Odesa region, gas infrastructure in Chernihiv region",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcXI1a2lKSkZYaXRUWnJ4QVRoWlg0NWQwTW9XTkRqMjJLeGJXQWpFdTlraXhTRUlnOVFOcU5LWTBOSkk5YlFLdGVQc2hRQnc3TTc4R29hYmNiZU9Kb2xmc0p0RU5RdC1NaDVTR2otWmtvaEhqaVpNT0M3X0hNV0ExSXNHeUd5dmZiWnJKSFdMU3BpUGRtOFpFNEZuUllMaFVaODQzUVRFQzZrQVFvX0l5ZkpjYXppOHJLbmJ4S2piSlM0V2dBZC1KWTBlbWNOcTVZXzhTeTFCZlpEanNZcHA3U05UUXk3UldoYVp4TV930gHzAUFVX3lxTE9Cb2xSWm0xUVhSR3d2dmJhd2d5RFBhNXI4RXJmMGtGeW44Q3BfeEwyaDFucVl6Mk5jSGt4YTdESnRyQnpJT0xKRmxGR1lGUlpCMUttTmpSQXZxVFpGSVV4SkNBOVBTSDBBTThqaXZpZmE5UlNpd1plVE5qRTdzSzdMZ1VvSm1GazEtN0JPSTBPSzBBMmZlcmFwcWVyeGxzQTBFaTZNbUVLUWZEQWdpd0J1WEdtUk0xaVd6dzNjS0ZHelVsVzBBc3VTLWt1bXZ2X2RPV3I4N2p0S1JiWXg3b0RYeWxRdVVXNVVCZnlyNW5zRDc1OA?oc=5",
-        "domain": "ukrinform",
+        "title": "Iran Parliament Begins Review of Caspian Sea Convention",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeFVPNFByYjdCZkNGc3h2SzgxX3g3RDIzVHZWcnhPS2Z4MElvRHNpR3V1eS1OcnM0dWE3NzFPbUFRbHhJbTg0eF8xVjdSNjhYTktQOW5RM2ZYSW9oQTNMSXhaNnZpMFBJVUZKZzJXd3NZZVp4NmxiVzRiYzNMR0VOcmNMS3lpTFhmcE5LeWtpUm1nQ0hMeFRN?oc=5",
+        "domain": "iranwire",
         "language": "",
         "tone": 0,
-        "seendate": "20260820T081100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkNMLVhYYm1zdG9veTFxQlIxY3IzNHpyOFZGMzAzWVZVWU9xU0xTUzdGMUplZmlzZTlPbEZCV3Fsb3pPa1J2MWhuU0Vhc0xoSDhsZXpLWUh6ektRLUItdUVUd2g4Q1lTSmtLZWlNd1p4ZnhhYUxlRFdCVjZlOUtQaU5qX1U4Ql9DRUtvNWZOVnRJMjNOOHJMSmFkQzNqTThMY2ZFamxQV0dqemsyRlhmaGFHZHgzLXd0b081dDZKRVRfTE9PeVhj?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260810T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russians attack civilian infrastructure in Odesa Oblast: teenager among those injured",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0UHN2Y2R0R2hmLUNXNkNrMlFXdVpNdEJQY2t4T21qWEZqYV9oTm42WnBwOGU5akpXMk5panllWXhPUWlCWHhVZXJaR0w5VnY4am55MEpRNkRGVjlmRFh5RGhTMUnSAXBBVV95cUxOaTRMVC1PU3NiZTRNY1pKeUxVcnpJZXg1NmNsNUhReEdwQUNXZTVRbzlrMi0yLTB1RnpCSUROU1dJZGdaWkwzZGlzLTJ6UFVxT0x4Q1MxdFhzNlp1RXlfVlA5cWFGYVFqSTVIX09oZlZF?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260822T145300Z",
+        "seendate": "20260806T070000Z",
         "source": "GoogleNews"
       },
       {
@@ -449,6 +431,33 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkNMLVhYYm1zdG9veTFxQlIxY3IzNHpyOFZGMzAzWVZVWU9xU0xTUzdGMUplZmlzZTlPbEZCV3Fsb3pPa1J2MWhuU0Vhc0xoSDhsZXpLWUh6ektRLUItdUVUd2g4Q1lTSmtLZWlNd1p4ZnhhYUxlRFdCVjZlOUtQaU5qX1U4Ql9DRUtvNWZOVnRJMjNOOHJMSmFkQzNqTThMY2ZFamxQV0dqemsyRlhmaGFHZHgzLXd0b081dDZKRVRfTE9PeVhj?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260810T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Zelensky: Russia attacks border crossing with Moldova in Odesa region, gas infrastructure in Chernihiv region",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcXI1a2lKSkZYaXRUWnJ4QVRoWlg0NWQwTW9XTkRqMjJLeGJXQWpFdTlraXhTRUlnOVFOcU5LWTBOSkk5YlFLdGVQc2hRQnc3TTc4R29hYmNiZU9Kb2xmc0p0RU5RdC1NaDVTR2otWmtvaEhqaVpNT0M3X0hNV0ExSXNHeUd5dmZiWnJKSFdMU3BpUGRtOFpFNEZuUllMaFVaODQzUVRFQzZrQVFvX0l5ZkpjYXppOHJLbmJ4S2piSlM0V2dBZC1KWTBlbWNOcTVZXzhTeTFCZlpEanNZcHA3U05UUXk3UldoYVp4TV930gHzAUFVX3lxTE9Cb2xSWm0xUVhSR3d2dmJhd2d5RFBhNXI4RXJmMGtGeW44Q3BfeEwyaDFucVl6Mk5jSGt4YTdESnRyQnpJT0xKRmxGR1lGUlpCMUttTmpSQXZxVFpGSVV4SkNBOVBTSDBBTThqaXZpZmE5UlNpd1plVE5qRTdzSzdMZ1VvSm1GazEtN0JPSTBPSzBBMmZlcmFwcWVyeGxzQTBFaTZNbUVLUWZEQWdpd0J1WEdtUk0xaVd6dzNjS0ZHelVsVzBBc3VTLWt1bXZ2X2RPV3I4N2p0S1JiWXg3b0RYeWxRdVVXNVVCZnlyNW5zRDc1OA?oc=5",
+        "domain": "ukrinform",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T081100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russians attack civilian infrastructure in Odesa Oblast: teenager among those injured",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0UHN2Y2R0R2hmLUNXNkNrMlFXdVpNdEJQY2t4T21qWEZqYV9oTm42WnBwOGU5akpXMk5panllWXhPUWlCWHhVZXJaR0w5VnY4am55MEpRNkRGVjlmRFh5RGhTMUnSAXBBVV95cUxOaTRMVC1PU3NiZTRNY1pKeUxVcnpJZXg1NmNsNUhReEdwQUNXZTVRbzlrMi0yLTB1RnpCSUROU1dJZGdaWkwzZGlzLTJ6UFVxT0x4Q1MxdFhzNlp1RXlfVlA5cWFGYVFqSTVIX09oZlZF?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T145300Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "The number of first-graders in Odesa has dropped by 40 percent over the past four years",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX0lfYnFPMVNBbWVQZVJXZXVJcUZqVzVCRDIwNUdLeE5qdDhNZVFucG85Z3hhM2pHRGtVYVk2d0loTXpDeEtyUVdwRUN6VllNSTdscERuel8yanpxN0s2d2pRVXRGV2pxSHZNQXdZUG44ckxoWHZ1NUtsTEI4RWFpdzZXc2d3dTJFSjM3UEF4N055WDM0UnF2Y09VRjA2QW1EeEFwNGhsbk1NekpyVUV3aFVsZ085UUVocnRiXzQySmpwZzNfQ19lbk1B?oc=5",
         "domain": "news.google.com",
@@ -458,30 +467,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Caspian Seal Conservation Faces New Challenges as Sea Changes",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUm9ROWtiRk8wd2JwcUtQLVpIMFJETEJQSEthZjFmLTAxREdsUFdRbTZ3YWJjc3ZHNFltaVVHeGYxLUR6UTdxT3FjeHBDN0FnUzVyWHNDbWU0b3JUTFVEbmxWaXpqYWJFNENaUFY1R2g0Qk5GbjZPbVVZSzZmYUxkYlF2MmU4UnFwQVJtVkliaXBPNVAtanNDNVpR?oc=5",
-        "domain": "theastanatimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260817T113104Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia significantly damages energy facilities in Odesa Oblast during attack",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzlWejRvempSUl9MYmIzakFHcWdDeldBSFBwbTNMS19Nd0xmZEVTR1pxOEJCV1F2eU5WWXBOR01GSU1LTDBjVl9yZnpObE1UU3kyVHV5bTVscnYwT094U2x2S0FjcnRRZmNyRVktMkl1NlFnVi1tVXEwSU4taFJuN25GQmw2Y2cxVl84RUQzT2ltMXU2OVJQaFJUZUxBVU51Y3VDY3hn?oc=5",
-        "domain": "yahoo",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260822T083100Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Russians attack civilian infrastructure in Odesa Oblast: teenage girl among those injured",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb1FOTzBzMGw3ckFWVXN6LW1PZm1DVlRLbGdJVUtEcUxOOTlZclgtQTBNUnBLZW1DRkdNMndhSzRvYWZkdkxWNWVWY2VtSEFob2xQSlRTMnd4OF9vWmVMZzEyZGQ0MjBGSzY1WUJGMXpwM3BQYUIzOTEzclhBZXRuck9zSDJHMGlOY0trSXM0TEJkT1NSVkFPNm81Y05WWFM2bGdLeQ?oc=5",
         "domain": "yahoo",
         "language": "",
         "tone": 0,
         "seendate": "20260822T145300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russian army launches missile and drone strikes on Odesa",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZndqN1hlZnNtdnZvQWRmeEl0dzJNbnFZS29hWURtZU5LV1Fwbk9YdkYyNFZJMkcwX0xDSUQ2U3pTTmtEdk1DaUJjOUdILUFBSHgzaVA0cmxGZnhfRU1oQUtESEZ3QUppcnFEeDZZY1NfSzl3MDE1QUhIMkpqeGNvUFBVdko1alI5ZklwWWtwRU13blNqZUdzLTFuSQ?oc=5",
+        "domain": "apa.az",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260824T064600Z",
         "source": "GoogleNews"
       }
     ],
@@ -580,16 +580,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Odesa Takes Center Stage in Fiction Abroad",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KbGF3ZUM1ME5ZZVRLNF81NG1NMGhubldBT1FoY0NZTFVYTmJEUk5IMmVfN0JpNi1KRFBlemxtb2hZN3I0bV9wRW85OA?oc=5",
-      "domain": "kyivpost",
+      "title": "The Caspian Sea Is Now a Critical Military Lifeline for Russia and Iran",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEV0cXJRcFlGaWFBY0hKUzRBaXNsV0U1OGlsUjJ2X0NqbWRxM28ySVZYWTlKVktqWVRiY1RyNk5iWXZRX2l4ckdhZ3liNVdZX2ZOeUZUNGdjcjRHVEEtUnplblNfT0x3Q0FnTF9aX1BYOUZpeUVJMHpBWXZPa1RDbHRZWFI4QVRLY3otcWxUN1A1UUFJc3p6dzlwalh1ZFBSSXNqMHdYNDBXWm9QRTdUWUQ1S3fSAboBQVVfeXFMT1VmNGhMd05wYVlHbzhfZ192QW0yR211VkVwSFFBQzVtMjlocjl3MWs0Sm1uMmlmckoxZFpvbkx1OG94dlI0LWtPR1dnYm9TT20tY0pEenBQZldpTlIxb0dRQm4wcFBicnVUdENnZnZBeU1SX29MOE51bGpLZnRuak1oN29UUG85RGFJMFRtTmhPOUludVZmX3JGVjRZSTRuTm5OeUJFNlAwOHRGajRlS3JnaVc3S05GYWxR?oc=5",
+      "domain": "crudeoilpricestodayoilprice.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260823T115706Z",
+      "seendate": "20260820T160000Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Uzbekistan and Azerbaijan deepen trade and Trans-Caspian ties",
+      "title": "A fire broke out at the Epicenter hypermarket in Odesa",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHdBRXEzU2hkODhsdkZqaHhRTHVXcFYtbEpraXlEZEVXcFM3WEl5YmNST1dNTTdpenZ1bjZvWWhiTlFIN3hYTVdianRRWnBqZjJiMFI5b1dyNkxRM1djYWNuRDRiLVBRaG5xelRSVlhXZTRxSzRtX0R6U2ZZTTctNVRlaWhCX05EdFhtcmRKaWJ5THZsb1Zrd3NXZ3JtTzhaYk95V3lYV3Q?oc=5",
+      "domain": "news.google.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260824T055500Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Russian Drone Hits Passenger Train in Odesa, Evacuation Prevents Casualties",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNWV2dmlnTGlJUi03VE02dHJpY0VLdnp3YVk3T1RoLXI3NjdkYkpZbFZKbzQtOF9XYVhvTWhYYnlxVG5pRWRPb0Y5UQ?oc=5",
+      "domain": "kyivpost",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260823T132746Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Two DIY chain hypermarkets ablaze in Odesa following Russian attack – video",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TVEZ3dmxjQzZNNU1xb3UyVndSSFlvdlhXeF9wWlBfUjM5SGZmNEQwSktwN0JONUhZQ3Q3UE9tVFNvdG1GR3lkdk1iNUNmbUJ1amZ3WDNPd2R3eHc5SmxGYll1UTY?oc=5",
+      "domain": "news.google.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260824T060900Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Uzbekistan and Azerbaijan deepen alliance with $1bn trade target and stronger Trans-Caspian links",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWw1VS1LUEN6bXBxZG1fVXhNdUFGeWotWGllTzVmM3lOSDNCQ01JUUFTcDJrVFFlSWw4bmEtQTNZVW5CYVJuNlJpbWtOZy1sZzVWYlJSNmNlTDJqZlJhMWVCS1V1V21Cc013cktQVWJNNnNuaDNWTF9hbDJMdDBpcG5hVU5BSG1pbHVWdE9VRXVEb003N0t1Umx4VnZndVlZMWk0S0RCQ21xYzUwZ1d1YzV3V3lDZk8xWjlHOEpVdmxqMzlE?oc=5",
       "domain": "euronews.com",
       "language": "",
@@ -598,12 +625,12 @@
       "source": "GoogleNews"
     },
     {
-      "title": "The Caspian Sea Is Now a Critical Military Lifeline for Russia and Iran",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEV0cXJRcFlGaWFBY0hKUzRBaXNsV0U1OGlsUjJ2X0NqbWRxM28ySVZYWTlKVktqWVRiY1RyNk5iWXZRX2l4ckdhZ3liNVdZX2ZOeUZUNGdjcjRHVEEtUnplblNfT0x3Q0FnTF9aX1BYOUZpeUVJMHpBWXZPa1RDbHRZWFI4QVRLY3otcWxUN1A1UUFJc3p6dzlwalh1ZFBSSXNqMHdYNDBXWm9QRTdUWUQ1S3fSAboBQVVfeXFMT1VmNGhMd05wYVlHbzhfZ192QW0yR211VkVwSFFBQzVtMjlocjl3MWs0Sm1uMmlmckoxZFpvbkx1OG94dlI0LWtPR1dnYm9TT20tY0pEenBQZldpTlIxb0dRQm4wcFBicnVUdENnZnZBeU1SX29MOE51bGpLZnRuak1oN29UUG85RGFJMFRtTmhPOUludVZmX3JGVjRZSTRuTm5OeUJFNlAwOHRGajRlS3JnaVc3S05GYWxR?oc=5",
-      "domain": "crudeoilpricestodayoilprice.com",
+      "title": "russia massively attacked Odesa region: the main targets were food warehouses and energy infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTHFrLW9XNkRhR1YwX2xTckhtWElMZkpuanYtakg2WmhYR2d0YThzLVEtYlg3aEs1d2Z0UFhFdWxZVlRjc1R0dG5nbUdSQTJKZTdfWGRGVFlpU25QWnhoR3dEQUZNNXZPMXV6NEF4Sk50allWS3puVXphalNrS3FqS0pDNlZHVk9LWlVfYWp0REtRM3NBU0dyTkwyMHhTY2NEQldXRWxNa3JRbDlFakw4dXVrUUpOVDM1WTA0bFZsTnZ0aTl0cURkUHhGY9IBygFBVV95cUxPb2UzM2YzNEdrLUJPMGlTc182aTdsaW9xUjAxZExDU2gzdVdMd3BsRFREZmlsMXpsTmRiYnozVk1oUE1pWmVyeVFZLXZzeHd1ak4xOTF4RkhKNWpSVVVxUkVsWnRBdnNwQjJqME1ucS1MMU94UUhYWVlYZ1NYRDByLUUwTGMtSlJCZUtZaVQzbWw0YzRXalM2RW9IYzhpeDZBM3BPTkVGNmtLeXJvNkxmRHNzYnotOUhQcW91SVgxNVY5WW1RdDdPUGlR?oc=5",
+      "domain": "news.google.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260820T160000Z",
+      "seendate": "20260824T053917Z",
       "source": "GoogleNews"
     },
     {
@@ -616,12 +643,12 @@
       "source": "GoogleNews"
     },
     {
-      "title": "In the Odesa region, a Shahed drone struck the locomotive of a train carrying 593 passengers",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmlNTGxXeTFhQ2JRNVVJLTdNR0pEYnlOQTd5TE5DUzNRU0NWbDdqRDVKRzNfSVJpanQ1d0l4c0hqRVhjOHQtN0x5d0M3MFRtaWxDdXhHNnpZRTRvTm13TTlPOFd0M3kzOTR4Yl9fWEZlNGpzTU5SSkNMc1hwdE81UWs4eGpYWlhwRWlaY2x1RnkzQ2RMQWQ5X29CaFB4N3kwZzR4Y3lOcGxiNTN0LWN4SnZXY1BjcHhnOUJoNXV3N0stVlVmUXFR?oc=5",
-      "domain": "news.google.com",
+      "title": "Russia strikes passenger train in Odesa Oblast twice, rescuers show evacuation",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa1YtRXROeTZWWmZ0R2hPTG12RldYbV9mX3cwSW9IaHZpRDFXR2hldHVWaDdhR2stOThaYkVWRXNWT3AtNEZJYUZtUXNPN3FnUnFKaGtFUDctSGNES1h6YVppaktxWVJoc1U1djlKVi1LMk10OEhwd0ozcFNxQnhMall0R2ludm9NVFhDUjVQRms3QXpNcWExUW1URnZXQzZGbnI1Nk90c3FxT2M3clIwTld0Z09vN2VBN2xxeHdpcDdrLTJvR3fSAbsBQVVfeXFMTWVmczNSLTAybmtiTjRsYUczeHlFQXF2WjE2ZTV3b3lWMjB6czRNYTN6Y1F6Uk55alVLbkpBcldNa1UtbTZzNC01bENhMDhZRDJILUIzZmNaMFZYYS1iQXJxVWNGMEJneUtWUk5QSy1uNF9Fbko5MHFMWjA5eFptZUpOYUg5Q09DaXdYWjNtTFlJcktnRzBBaEFMOVJLZENpVW1ad0ZJX2p5M1FKcUVNTGtUWF81cTRodVY2VQ?oc=5",
+      "domain": "thenewvoiceofukraine",
       "language": "",
       "tone": 0,
-      "seendate": "20260823T103407Z",
+      "seendate": "20260824T064549Z",
       "source": "GoogleNews"
     },
     {
@@ -631,15 +658,6 @@
       "language": "",
       "tone": 0,
       "seendate": "20260820T083202Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Russians attack locomotive of Zhytomyr–Odesa passenger train with jet-powered drone",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXRnUjJZX2NBX3JhWE8xeFNZb0k2Q2VwSkVKMjNWNkZ5c1YwTnNURWl1TlhDMXg5bndJNU1jdVBpT2tEbGI1UWdjelVrbjAyUElXQWJwVUJzYldvQjBzQS1uSXplbzVFU3h0dnpFSTZyNEtRcjZYM3hSTVBfWkF0alljenVqeEZBZ3lsR3pmS04zNUxGeTBGQjYwZDZsTDFLVC1nMnFPbmFMMkRZOWtxM3ZITjdGNEdkeE5td0NlTmdYbTdvTlNXRW1BY9IB0AFBVV95cUxPbnFmMW85eVhlUXlHM3p1VGRCTGFEdndqMkgtRmU0T29mZTEzNGl3TUtQaDc5VTFfQTE1dEY3WDRjMVdwb1BJUkplcV9PTDdxZE4zUk85MXJBS2UzYTVKQk9JekkwUkx0QjEtajExU1pTNkVDXzY0T3E0OFJXMDlTNmdBNnVDQWJIZDg1QUdQVDVmZjZPdGsyNlBybTdtZTVrSWxNNlBXa2g5QmtER1FzcjBoLVM0bVhJQjlHdWRhazFGbExqcmxSM18zcm02SlZG?oc=5",
-      "domain": "ukrinform",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260823T073100Z",
       "source": "GoogleNews"
     },
     {
@@ -661,24 +679,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Jet-powered Shahed drone strikes passenger train in Odesa Oblast",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FN0lIdWNPdXR5TS1lM1hCS0ZncHBEc19qbERGVFl0QVY5QTJzRlZDUUI1TnRZZ2ZlOC1falptTUNibldmM2o5Qlcyci1abUg2TFhreUhrOENPYWhtRG5CdklXQWTSAXBBVV95cUxNNWZVZnpsenZtRzhBTW1iZHctRWZ4MmVVcEE5RWg1eGZPWG5QUnFnb3p2UGk0WVg2Ync1ZUpBY3VGX3NWZTNPUW9DbjY5cG0tbzhLZkFNSkNRRUx2c3JiUUdNVm5sTjRYY2ZBTEdEdEs5?oc=5",
-      "domain": "news.google.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260823T065200Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "In Odesa, for the first time since the invasion, the Duke was dressed in an embroidered shirt",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXJtbUUwcEppVnZodF8tR0NpSTRyc0JyNDJLMUJRWm1SNVJ0eHNkSm9ZRFZSbm9uNUswX1NveEtuTzd2T2ZIajltM1cyZmNfQUpGTkJOZk9FbE9Kb0VCYTN1am5pbW5lTDRCb2pDZlRNWXJWaWJnTU1qcjNZekZnd1UwcmttdlpqdERLOTFBcEVjMm84aVZvRTVVcEZSX3FLTF9vZW4wY0s1Z9IBqAFBVV95cUxOUG9HcG90MEpVUE53TUlmZUZjVW1qYUx0Um5SN0xiN2lyOU00ekgtTkRNUV9WbHhxblozb25xNnFtbkIwTnE0WXFnX09QWUVkMlpiZlM2MlFSVF9DajdaVkxSSjlUX0Jyb1Atd0gxRG53ZWlYUVFSSktfT1Y2Smc2LUd5b0FGdXpaelhJU2QweTlucVdDbWF3a2RBRWFJYm9uUDl6VjRwM04?oc=5",
-      "domain": "news.google.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260823T134352Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Who really owns the Caspian Sea?",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8ySGlVWDY3UE9kTmpud3pLRzdJZkxXb3FPc1RHcThTdUpYU3BOQk5od1RaMEJaUE80eTV1Tm5OTTBYZEQ2dGdsZV9tS3BfbUtVSU9FbHY5dWsxM2lCSDZnVjBHODRYUmdYLWZOLXkyVzdZZ9IBckFVX3lxTE1EUGM0RHh2MWFGZ2xDRFNnTGUxbTh1UFktN2ZJX3cwc0tfRWxIcTgyN3BCNURqMU5pX0hwUWFhNVZzVHdxMDd1X29wb2d0dm1aa2J1c2JsMXdEUkVIT0ltaW9ELXFDdWZudFRGSWRuVlJQUQ?oc=5",
       "domain": "dw.com",
@@ -688,21 +688,21 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Russian Drone Hits Passenger Train in Odesa, Evacuation Prevents Casualties",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNWV2dmlnTGlJUi03VE02dHJpY0VLdnp3YVk3T1RoLXI3NjdkYkpZbFZKbzQtOF9XYVhvTWhYYnlxVG5pRWRPb0Y5UQ?oc=5",
-      "domain": "kyivpost",
+      "title": "One injured, infrastructure damaged in overnight Russian attacks on Odesa region",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzFRQTk1NGdjQzEta3ByZnh0eWtIbWt2Ui1IT2ptR3Q5Q2VueUVlX3Rxa1BqUV9ZcFU3SmVsQlFYR0hzcHRPTUFZWkxlOTNZTXdNdDNKQ1RYSElib2x1cVlOWUhIcWNPTE5IaXJLak5oVTRoMWlDQV85bXNWcjBXLWNFU0VQdVJEV2wtVGNESXNBNVlHMkRTZXF6X1J2RkJfeVRaYThOYzlRWmVLSmtzN2tEYVNhd2tqUVlkSU5ac1h6ejg2TzA2eNIBzgFBVV95cUxOcTF3cm5GbVZTcmx1MTZTLUhKVklhdDBaUDJrRS1fVnZTSTduVmFGb2xXRk9pdUhsY1d0RU5ISFpsZDdiQzZPaHNzQklBaGlZZVNsOHEyaHNBd04wdXJPQXVxQnNnOFdXc2F4YkVMSWZDS2oyTnF5LXM3MmsyX0Fad25pV1Z1LWppNXNLZm1ibnFPT2dSMkRJYVdRYW9iVUJsSWNnVC02bm1rX3Npd0hENDJfWDJIdmc1U2NSOFI1OE03dHlpdFNDM1VSdTJ5dw?oc=5",
+      "domain": "ukrinform",
       "language": "",
       "tone": 0,
-      "seendate": "20260823T132746Z",
+      "seendate": "20260822T084600Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Lampadkas, a memorial service, and a military band: The Vyshyvanka Festival has kicked off in Odesa",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlc3Ql9HZ2QyU0ZSUkF4VUZsbXAxa1pDYXVWV0ZXMEJkbEhfTzhIb0t5T3JZYzJwcVpfY2pGU1FyZlo2b0hpMS1NN2JVNHp2cU5DU1loQjJ3LTloMVk4YTY4eXhYYkE2R2piQmlpRmVlMlRBSjd0MlFJM1piOVZ4RTJhSERMV1RNN01OWTd2Znh1RnF1SGxLSE9vZ285Z0lneG5OaUU1RUM4cVdCNVFURi10eTNMM3hmdUNEZy1iQjJvSHNQTmNsRVNCdlA0dm15WlRKa0xB?oc=5",
-      "domain": "news.google.com",
+      "title": "Video: An Epicenter store is on fire in Odesa amid a drone attack",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEh4QkZqMVdGLXBjLXhNTmxhVU1NbUhwZzFWVFc4U0JvelN0RHpLRzE2OE90YzdMVFBPcVFJQkxjdE91MFZ4WHd6SFJ3THdUNlBkbWRzR0cxZmZuLVBUNG16LVRBX25mVTE4emszTm14NVpzVjNxaWFKYTdjZzFtMjh3VVQ?oc=5",
+      "domain": "ua.news",
       "language": "",
       "tone": 0,
-      "seendate": "20260823T080443Z",
+      "seendate": "20260824T052829Z",
       "source": "GoogleNews"
     }
   ],
