@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-25T13:06:04.358456+00:00",
+    "generated": "2026-08-25T18:52:48.651955+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "23",
+      "value": "24",
       "delta": "deduplicated"
     },
     {
@@ -35,15 +35,6 @@
   "live_data": {
     "news_articles": [
       {
-        "title": "Russian strike injures four in Odesa",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMS1tVzctbWtZSVFYWHlzbGJpT1Ntd2JCTFRlWjRSV0dmcXpvejVlOUw1RExfREVHaHp4enJWRzhOUWRIOVJFeVlSWHZ0YXA5NU5xX29zVU45VERQY0szMFF0ZE5Uc1R6dkRheDVIYThzby1MLW95SzVlRWZJTzhXczROSlRHdjJhSy1IWV9GVXVwS3oxWG9OUVJR?oc=5",
-        "domain": "apnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T072300Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Vynohradivka–Vulcănești border crossing damaged in Russian attack in Odesa region",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdUkxOExFSlp0OFBkUFQwSmlJQjRpSFh1YlBFTUw0aEV3Q3l5NmlsWXo2ZTNOY1FrT0ozVDBKNC1FbXk4UUV3NnRycUthSE54SWRFa20yRW9RclRnaVZ4N3kzTVlMbGZLSWlOUEl0Uzh1NjgxLW5faEpTbFpTcnlsY1ZhQmhFMTBpLWJvenRpZFUtdzVnUzF1OVBxYXJBRm9xNjdXVFJqMG5zMnBNWGdzUG9yX19Zc1JDR2Z2LWRKelJQLTlKa29JMV9R0gHPAUFVX3lxTFB4UzVDZVp0OGJlSkZjTnN2RTBQd296aklSaHZabzZCNkFwUTZtMW5Ub0tEXzVkM3RIYlJkS2ZoNVV2eUpYdXYxRmJ4NUtST0d1VkxseDR4NXBLTzdPUkJlYjlLWVdqaWJ2MVdTbzlKemVSZ25iRFo1bjk2ZlVlUVJyc2ExQkRhOXZkRHJGMVlqcXA4YzlrMXVKZlAxMUNndUtkcUpXb2JQY3RRVVZvUHhwNWJKbUZfY1ZSaTNRUTBkMHpPNEpsa0lVVGktcW9vbw?oc=5",
         "domain": "ukrinform",
@@ -53,30 +44,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "An Odessa lawmaker who posted a 13-million bail for Trukhanov has died",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlFKRGRod0FEdjZnSWVJZEsyMEVIci1vd0djQTI2NXNDNmU4b3dPX01Hb2M0UWsyRWtWeDBLNVY0Q3NSRk1CYzdNcUQ3Tl9GUjNld1FxZFAxVFkzZS05eFNoRWRWbXJwY3ZTWEJWd0puVlJEVnJfLWJRLU5WaVZMY2ZacU1aQ0NPMk9wTHVyOFJYd04weWlOdTV2YkhGLTFScTg1VjRYRGZFOFM4dElTRHJMRQ?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T092016Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A Joint Azerbaijan-Uzbekistan Caspian Fleet: The Key to Expanding the Middle Corridor",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbDIwQk15MEJ3M2NrWDlDSllMUmhNbHdXb1NkcmlVQzdXbGNQTUhXcGdId1h0R1FkZHNfVUFHQkpQbkpJRXpjbk5aZndDVHluOFUzaWIyZHBzQ2dzenVlM1UxVnZ4aTNYRHRzQzhzeUZQenAyYjNrc0FldUt6WVA3Q2dXYkQ0M000NHlfR25RYTMxck9aSzFUSTg1bjRhMEdKM1RTcF9XZFptQncyN1R6Y3ZZRGdhdjA1MEFETlM5MjhoMUEyNGxGSXVxTlpxS1FkbUUwLQ?oc=5",
-        "domain": "caspianpost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T095720Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Russian strike injures four in Odesa",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PNGdxaTBFRnF3cGtnQkVqdkxsSGN2WENzS2FZc25DaE1kRzVRS0ZfYTItUHZZSVcxMGhfX0ltUkh4Y3R4SHlPN3NRQUVRd3NmWHd0MHhsaFRkREtibmpCcmJDNTBBRXNsM1lTZG5YTVhWQUlzY0JnNkNwa3hOU00?oc=5",
-        "domain": "yahoonewscanada",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMS1tVzctbWtZSVFYWHlzbGJpT1Ntd2JCTFRlWjRSV0dmcXpvejVlOUw1RExfREVHaHp4enJWRzhOUWRIOVJFeVlSWHZ0YXA5NU5xX29zVU45VERQY0szMFF0ZE5Uc1R6dkRheDVIYThzby1MLW95SzVlRWZJTzhXczROSlRHdjJhSy1IWV9GVXVwS3oxWG9OUVJR?oc=5",
+        "domain": "apnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T072145Z",
+        "seendate": "20260825T072300Z",
         "source": "GoogleNews"
       },
       {
@@ -89,12 +62,39 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Drone attacks on CPC pipeline trigger cut in Kazakhstan oil targets",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUU4NEZkdjdXZ1JUczZUYkUydV9YZEt4cmE4Q1BWSWpSSVRxVUljTUZvNm5lMWd6SGNnUURmeEF0cEhiV1RFR1pjUEZndGVzZlV4WE9aMi1pMUF6MnR0MkZHMXN2bFU1NWN4eFRTODNiU1BjOHBULVY1LTRlT0doRTA3UVFxODg2VVFOYmtKTkU0SWNrd0NxWjRSQTN3SU5FUVE1RXdqOUc2VXZNX1hCZHM5Z1NqZ2fSAcQBQVVfeXFMUFN2WEpSOHVIUE5vSFJFLW5XczdnNExBLXluX1JUck9XZ29YUWN0V2x4OHg3cm5Xd1hmek13MXhlcVA3MzF4TTNjX2Nyc21PVUt4VlcwN1R2VDhjeDM0VDJXNFl5NzJIY3lPSzF0QV9YaS1JeHJSdGtMaHlaMGtCUXdKb1MySzBsQ21rbFU4U21uNVBPX3BYYlRoYWNMWkw4SHhpMlA1eUVkVXlsTkMxODVqeHlnVHA5T0Y3eU1zLWtkdDFoQQ?oc=5",
+        "domain": "bairdmaritime",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T170645Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Odesa under attack: Russia is cutting Ukraine off from the Black Sea",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHBNSUFHQlBENzhXTDBZWHphUVowSTMxNUZqeDZtcmdybWlaenJJQUdFQ3dzeExrd0lDYTcxbm5yV1cyaE5LbktyUnFLSl80VzEybDlJMmsyZE04VFBud2lUOGFKZjZhRVRGTzM4R2lRaG5WWmxjU0dBMUh3azVqQ3BXSGIySjk2N2xYOVlvLXp5ZFFCT3hMUmpuU1gyOGwwbHQ2RE1nSEdXdFRUbzhZQzhhM0t3SnBhN1ow?oc=5",
         "domain": "atlanticcouncil",
         "language": "",
         "tone": 0,
         "seendate": "20260818T153451Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Violations of freedom of speech were reported in the Odesa region",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzl6Smo1NE5Rb0xpa2lKYlJ6TzJHVzBPcTFOWDRfOUJ4M1R1d21zNldYM2MzeWNGLURJU2oyVXpYWDZLM2RzcjF0VE9YWmRiYm5uRXBZWlQyZ1ZaQVFZS21rbkJlYS1ZSFgwaXFIVVNxbmkyRnNCTzVSeUNNOTFkT0R4T0tNVlZpajBwN085ck9lRUtXS3pJUHlzRXJhU2k1cWNQVVlxNU9fVEhDNHhFQ3pGS1NjZw?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T133103Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A Joint Azerbaijan-Uzbekistan Caspian Fleet: The Key to Expanding the Middle Corridor",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbDIwQk15MEJ3M2NrWDlDSllMUmhNbHdXb1NkcmlVQzdXbGNQTUhXcGdId1h0R1FkZHNfVUFHQkpQbkpJRXpjbk5aZndDVHluOFUzaWIyZHBzQ2dzenVlM1UxVnZ4aTNYRHRzQzhzeUZQenAyYjNrc0FldUt6WVA3Q2dXYkQ0M000NHlfR25RYTMxck9aSzFUSTg1bjRhMEdKM1RTcF9XZFptQncyN1R6Y3ZZRGdhdjA1MEFETlM5MjhoMUEyNGxGSXVxTlpxS1FkbUUwLQ?oc=5",
+        "domain": "caspianpost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T095720Z",
         "source": "GoogleNews"
       },
       {
@@ -107,21 +107,30 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Ukraine War Bleeds Into the Caspian",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XdVFtRmZ5SkpXdkhPMkhzUVhiU0tOTVpzYlFQVmJMMk0wUWlRVWdvODhPUEJUTVdVMlF0S1EwUEdJdmpvWkRReTljZkNJbElta3J3SVU1ZGphbHA1cnlwa1VZMF9fTWxYNTJFVm5R?oc=5",
-        "domain": "centerforeuropeanpolicyanalysiscepa",
+        "title": "Iran Announces Discovery of Major New Gas Field in Southern Province",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZVZVWjlmSW05NWdDRC1tQ3hzVXlEVEs2UUJZeXBfSTN5aTNHQmF3cURfUlFNd2JaVElEOXdNTjFETElkZ0hERlNZTlp5ZE5QZ05RcVhJUklqaGVYQ01LbDdoT2pYT0NxbFROTVBQS0Q5ckd2Z1FoeWpWRnhRQnAtZXprZnVvTUpkVXpvSU1hXzV2TFk0eklFMlU0ZzMwYWlWSTQ4MkRaOGt6M0Y5VFdfYUtZQkxaVlhM?oc=5",
+        "domain": "caspiannews.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260814T155124Z",
+        "seendate": "20260825T182541Z",
         "source": "GoogleNews"
       },
       {
-        "title": "In Odessa, part of the city was without power due to repairs, and traffic patterns were altered",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlBEQmkxdTd5VGZuRDFMWUhSVXAzSlFCMjkteHdISXpTUENhaVNFX19GOW9YN015eko0TDd0UmRuZlQtdVhZcEM0djlPV1JvZnNWcjRxT2RQSGpVWmpiVTJXd0gzY0ZPZXk1aFZBT0w2RlZzeE51bThvNFNZbThhWjVvOFFxQlZYYXIxd0U2NGtKYUwxWVBwY3kwell4dGRIbktBRy1qSVRvU3ZHNm1yLVp2dFYtYkh3ekM1UC11RFlJblgzSWwtV0Z1ZVZsY2hWTWc?oc=5",
+        "title": "Russian strike injures four in Ukraine's Odesa",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0tTLUJqbEVHV1M0SlM5eTJRLWJWdWdrV3ZlRWk2bXUtV2FPOEJPU2ZKN1Z1QnNsYnBUMFpCQ3pOaFdwLWNVa1h5bDJCUVVTdmxDQUJrbGc4U0Q1RXc1bkJWS3VydmxsSUNXZUtBODBQTnZRakJENlRNWWZwWmJ4UTB4cUVvS0E?oc=5",
+        "domain": "swiowanewssource.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T090004Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "An Odessa lawmaker who posted a 13-million bail for Trukhanov has died",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlFKRGRod0FEdjZnSWVJZEsyMEVIci1vd0djQTI2NXNDNmU4b3dPX01Hb2M0UWsyRWtWeDBLNVY0Q3NSRk1CYzdNcUQ3Tl9GUjNld1FxZFAxVFkzZS05eFNoRWRWbXJwY3ZTWEJWd0puVlJEVnJfLWJRLU5WaVZMY2ZacU1aQ0NPMk9wTHVyOFJYd04weWlOdTV2YkhGLTFScTg1VjRYRGZFOFM4dElTRHJMRQ?oc=5",
         "domain": "news.google.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T075910Z",
+        "seendate": "20260825T092016Z",
         "source": "GoogleNews"
       },
       {
@@ -134,21 +143,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "UK’s Interocean Group Expands Presence in Azerbaijan and Caspian Region",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd241ZC12SC1HU0hzS0tjb21mYWtDYXVOdHdEUmpCNVFvRGFnUTFaUWZHdFFkXzQtd3l6VC04cy12blhJd0JFRC0tdFpVcl80MFZzOXJkRmlhV3g1VGo4SXpSQnEtZDlIVnBKUkZ2R3JBZlV6UzM5QVBVb2ZuUkJ5TFM2YjZGNlZnXzZZRlZLWkpiUlE3UFJJWVVEcTNzcEgwRHJndThfNjJ3UQ?oc=5",
-        "domain": "caspianpost",
+        "title": "In Odessa, a college official demanded $1,000 for admission",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0k5RUlGOTZKSng5OGpqQkplWEpMOFRTdE1QS216SXdoRUR3c0dGZVlCU2NTaWtrd2l4WWF2V19KSEYzSWVIdS1wUWZVZUJ4TWs0ZWFzMUJOR09DSlA2OGhtT3ZuXzhOTGYyOUdFdHgtRGl2RzlTN1dnS0RHYjdKQ2NUblpDQno0NlVpMzVnN3BmZWp6WGFoenI0WXVfWGxz?oc=5",
+        "domain": "news.google.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260825T071145Z",
+        "seendate": "20260825T173703Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Russian Drone Hits Passenger Train in Odesa, Evacuation Prevents Casualties",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNWV2dmlnTGlJUi03VE02dHJpY0VLdnp3YVk3T1RoLXI3NjdkYkpZbFZKbzQtOF9XYVhvTWhYYnlxVG5pRWRPb0Y5UQ?oc=5",
-        "domain": "kyivpost",
+        "title": "In Odessa, part of the city was without power due to repairs, and traffic patterns were altered",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlBEQmkxdTd5VGZuRDFMWUhSVXAzSlFCMjkteHdISXpTUENhaVNFX19GOW9YN015eko0TDd0UmRuZlQtdVhZcEM0djlPV1JvZnNWcjRxT2RQSGpVWmpiVTJXd0gzY0ZPZXk1aFZBT0w2RlZzeE51bThvNFNZbThhWjVvOFFxQlZYYXIxd0U2NGtKYUwxWVBwY3kwell4dGRIbktBRy1qSVRvU3ZHNm1yLVp2dFYtYkh3ekM1UC11RFlJblgzSWwtV0Z1ZVZsY2hWTWc?oc=5",
+        "domain": "news.google.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T132746Z",
+        "seendate": "20260825T075910Z",
         "source": "GoogleNews"
       },
       {
@@ -161,12 +170,30 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Russians attack power facility in Odesa region",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQXzVfYTFocTV1MllUdHV5VWtscUxESFU0U0JHUW96Z1hFdFQ0MG9Wc042dXJ2czI2UU05eW1hTU1Edzg5ekRvRWNOS2ZSYUpoU3o5QUlKWWxkNGQtbDh3bXhheGdBWDIweGVLM0ktUVdscUNiajVOQVNSMDZBME9XeWdtOUpDYnBDbGFFN1dob1BIS290bXNPMXpNTHnSAaIBQVVfeXFMUHRHZERIQWtmZ28yeHI1WWd6Q21OR1FWU3h2eTRDNEVuY0pMWEVTNkY1eWZjUWo0Vi11WC1mSTF4WW1WdUxFbDJHaV9saVJlTlRYRTc2MmV3WUhXQVh5V053WkhFMm1YTkpUUnVObm0xOUM4b1NRRUd4MmFCcjJfbUNfV0J2bzdBWWpLZUV5ODFRWXFDWnJ1UktpWFc5bFlFUi1n?oc=5",
-        "domain": "ukrinform",
+        "title": "A new head of the municipal enterprise has been appointed in Odesa",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHl1R1N0bHRzN2hIcFd3aHg0SmFqZkl2OHE3ZEVOcEwtVnhfX3JTb2F5VHNCeUJhb0hOR3Jpb3puV3d1ZllvNEFxTENiYjdtMG5YV0ZGRTNkeFBqVThNOXp6cTlaRGJPbllmWjc3ZXFCTi13SzFxSDBzalVYSlpRVk1falFSbmFVUEFWeHJpeE9WN1puRzhDNWIycmg3c0tORUlrVzRLSW0ySHlpdDFUZVU2ZVowMGQ4UE9tRm5yWFY?oc=5",
+        "domain": "news.google.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260824T122800Z",
+        "seendate": "20260825T153213Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "An archaeologist has identified the date from which people have lived continuously in Odesa",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTGxkTVZmLW14Y0hQaEY0TTd1NmNfNWRWV3NzeWFSMjlISm9ia1pYRlJSMVNDcE13WnhSZElYNG5jcFFJZDBNRW9BTTJ5aExDRHhXQ0llaWpZYUM0MTBvY0NSNkY4REhUT3EwcVJZTjRjTjFXdmktS3ZzUUJqdnpqMTd5ak05dU4yY2NwMEhybEk2NEtoS0hic3phcjhndTlrUlB3NTlPOUJkd1hmekdDUjhQWWN4NmxOdUZHZld3c2ZySUN3a1IzWWp6TVhrVG8?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T144935Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Teenagers in Odesa were involved in a shooting and will be fined",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNG9NWDc1RmF3SVZwa1hXcFBNa0FsWEJlUXhDc1VEQ1FOZEREQjVPbkJ0a25EWDNWcXk4MWp4d1ZCUjBZSHlEcWdLdHJsRndaTWk5SWdFNy1FaXc4bVVoQWdRWVNJVXdwN2dfOGVRZ19FRnhfOXZTSW9oZTNuT0c5Wlg1c2xJcmRONU9qR2MzZ2VFdVJSajk0TzQ3eGZzVV9EWFl1SGc0WHlBSjBkMWt4NGwwOWVPdw?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T125438Z",
         "source": "GoogleNews"
       },
       {
@@ -176,6 +203,24 @@
         "language": "",
         "tone": 0,
         "seendate": "20260825T121552Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ukraine War Bleeds Into the Caspian",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XdVFtRmZ5SkpXdkhPMkhzUVhiU0tOTVpzYlFQVmJMMk0wUWlRVWdvODhPUEJUTVdVMlF0S1EwUEdJdmpvWkRReTljZkNJbElta3J3SVU1ZGphbHA1cnlwa1VZMF9fTWxYNTJFVm5R?oc=5",
+        "domain": "centerforeuropeanpolicyanalysiscepa",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260814T155124Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russians attack power facility in Odesa region",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQXzVfYTFocTV1MllUdHV5VWtscUxESFU0U0JHUW96Z1hFdFQ0MG9Wc042dXJ2czI2UU05eW1hTU1Edzg5ekRvRWNOS2ZSYUpoU3o5QUlKWWxkNGQtbDh3bXhheGdBWDIweGVLM0ktUVdscUNiajVOQVNSMDZBME9XeWdtOUpDYnBDbGFFN1dob1BIS290bXNPMXpNTHnSAaIBQVVfeXFMUHRHZERIQWtmZ28yeHI1WWd6Q21OR1FWU3h2eTRDNEVuY0pMWEVTNkY1eWZjUWo0Vi11WC1mSTF4WW1WdUxFbDJHaV9saVJlTlRYRTc2MmV3WUhXQVh5V053WkhFMm1YTkpUUnVObm0xOUM4b1NRRUd4MmFCcjJfbUNfV0J2bzdBWWpLZUV5ODFRWXFDWnJ1UktpWFc5bFlFUi1n?oc=5",
+        "domain": "ukrinform",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260824T122800Z",
         "source": "GoogleNews"
       },
       {
@@ -197,30 +242,30 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Russian Drone Hits Passenger Train in Odesa, Evacuation Prevents Casualties",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNWV2dmlnTGlJUi03VE02dHJpY0VLdnp3YVk3T1RoLXI3NjdkYkpZbFZKbzQtOF9XYVhvTWhYYnlxVG5pRWRPb0Y5UQ?oc=5",
+        "domain": "kyivpost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T132746Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UK’s Interocean Group Expands Presence in Azerbaijan and Caspian Region",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd241ZC12SC1HU0hzS0tjb21mYWtDYXVOdHdEUmpCNVFvRGFnUTFaUWZHdFFkXzQtd3l6VC04cy12blhJd0JFRC0tdFpVcl80MFZzOXJkRmlhV3g1VGo4SXpSQnEtZDlIVnBKUkZ2R3JBZlV6UzM5QVBVb2ZuUkJ5TFM2YjZGNlZnXzZZRlZLWkpiUlE3UFJJWVVEcTNzcEgwRHJndThfNjJ3UQ?oc=5",
+        "domain": "caspianpost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260825T071145Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Russia helps Iran rebuild war arsenal through Caspian Sea, reports says",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkVPSHhnczFaN1hFQlRRMFQ1ZndkdGlMUWNWUG1XMVQ5ZVctd2pCQzBIR3FwTnJqaTlxX2Q1OFFXeDZrN0FjQmFmbUNKdWpYb2t0cE1TT2xDNmZFalNJT3VCbk9tWk9DbEhzZ0hqR0t4NHRXeVd5ai1PY1FJNEx0dWstTjJfUkM3Zkl3S1hEM3BwSjFjS2toQ1RZYlY?oc=5",
         "domain": "thearabweekly",
         "language": "",
         "tone": 0,
         "seendate": "20260820T083202Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The director of a construction company in the Odesa region failed to pay 10 million in VAT",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUDd5a1ZqeFFBSWN1UUhOS3JUcWt1a1dhLU9acWNERnZsSTUxQ1Y5WmNJTmp2TV85RDF0Y2dkWklaVjlXM1hudkN6bGpkQjhMSmFfWHV6Tmh1cW9fdzRtSWViVGFwc3Q1aDRXeHg3RDJUNG1ZWkJORHJlQk95OXBEMUxxczNFNnlkdDBBXzlOTmdhNDZjeDQ0V3N1QUFrWHBIZEM1U0JCcVVFNVRpT3BHQmtROWp3blpHbVQtVzhWQ2RLNG9CNy1fOVRBRXVfUQ?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T160538Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Uzbekistan and Azerbaijan deepen trade and Trans-Caspian ties",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWw1VS1LUEN6bXBxZG1fVXhNdUFGeWotWGllTzVmM3lOSDNCQ01JUUFTcDJrVFFlSWw4bmEtQTNZVW5CYVJuNlJpbWtOZy1sZzVWYlJSNmNlTDJqZlJhMWVCS1V1V21Cc013cktQVWJNNnNuaDNWTF9hbDJMdDBpcG5hVU5BSG1pbHVWdE9VRXVEb003N0t1Umx4VnZndVlZMWk0S0RCQ21xYzUwZ1d1YzV3V3lDZk8xWjlHOEpVdmxqMzlE?oc=5",
-        "domain": "euronews.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T195941Z",
         "source": "GoogleNews"
       },
       {
@@ -242,12 +287,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "The two-time European champion played on 35 chessboards simultaneously in Odesa",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3R2dXdrd1VUQ0poWDkzV3N1NzFEamg5RVlnS2dEU2xUNC1RQ1UzWEl4T1VCOHd6T3ZDT2tuenh0OE4yTVRVd0FvNi1VNWVGUlN5MlhjbkRhT1dGT0VCZE9MSGszTGJlMktILUxDc3MwUVM2Mzg2Y2JNaHdvVldNVXJQQ0hFbnVOYzVGNTFSYVhodld5elc1VXJ6eS1wLVd4OFI5aGFVcVZGSHU2ZWgxN040U2lzd1g0cC00V3RhZw?oc=5",
-        "domain": "news.google.com",
+        "title": "Uzbekistan and Azerbaijan deepen trade and Trans-Caspian ties",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWw1VS1LUEN6bXBxZG1fVXhNdUFGeWotWGllTzVmM3lOSDNCQ01JUUFTcDJrVFFlSWw4bmEtQTNZVW5CYVJuNlJpbWtOZy1sZzVWYlJSNmNlTDJqZlJhMWVCS1V1V21Cc013cktQVWJNNnNuaDNWTF9hbDJMdDBpcG5hVU5BSG1pbHVWdE9VRXVEb003N0t1Umx4VnZndVlZMWk0S0RCQ21xYzUwZ1d1YzV3V3lDZk8xWjlHOEpVdmxqMzlE?oc=5",
+        "domain": "euronews.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260824T181958Z",
+        "seendate": "20260823T195941Z",
         "source": "GoogleNews"
       },
       {
@@ -266,6 +311,15 @@
         "language": "",
         "tone": 0,
         "seendate": "20260813T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Caspian Sea Security",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVJhTzRpb0ZEUldaVVE5VjNnZDg4RVJZcF9yS3FUejhuVFJBQk95bFNaZmlwOF9mVmJKWFJtVGdnUzUzRzFDZVluS3FjMHEtVXJhSlM4UnY5Q0l5ZlBieldaXzlIN1F1UkVLdUJOUFBPX09fN1Vhd3o2QU5VaWF3RktXYWZ4M3hL?oc=5",
+        "domain": "hudsoninstitute",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260803T182442Z",
         "source": "GoogleNews"
       },
       {
@@ -296,15 +350,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Russia says it struck cargo vessel near Ukraine's Odesa",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWp6d1FtV2wzU0lZaURLOVpVQWhlOUpJc3B4VXJ3ZVlQOW53RUZjQVNzWml5TkJZdkM0Uy14VFhTZ081QmJQdnhBMnpDaHV4eXdUaUFvRm9qZzYyd25Rc1VlSE1FOTA3SWg5dGZXSEVuNXRRc29ZNXNvRlJ1d0V1ZEpmQ1NmNVVYYldCUEd4SkJpNkNudmREUURsVTY0bUZ4N0dFWmFQc2NxNklvQXpWbnZnTdIBuAFBVV95cUxQUkxsOGtqcVVtbmRuQVduV0ZZYndJR09sNjJqUm96Nk95MGJMRWl4Y2pqNTg0UEl6amlRU1l3clBvMnNlNm9hZ2VBM3pySlNxODFRVW1hNy1VR1JDQ1FXelFFZ1FyV3V4N0JhZzIxMndkZWRYMXdCZlFpby1wWllmaUxqdnlhTE9FbFpmdVNFRkx1dDNCXzhfOG41dUNhYjY0b2lRam0wTTBpVnVxaGpVbGYwMUYtTVNU?oc=5",
-        "domain": "devdiscourse",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T064431Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Iran Parliament Begins Review of Caspian Sea Convention",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeFVPNFByYjdCZkNGc3h2SzgxX3g3RDIzVHZWcnhPS2Z4MElvRHNpR3V1eS1OcnM0dWE3NzFPbUFRbHhJbTg0eF8xVjdSNjhYTktQOW5RM2ZYSW9oQTNMSXhaNnZpMFBJVUZKZzJXd3NZZVp4NmxiVzRiYzNMR0VOcmNMS3lpTFhmcE5LeWtpUm1nQ0hMeFRN?oc=5",
         "domain": "iranwire",
@@ -314,21 +359,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Former Trump envoy Keith Kellogg visits Odesa amid Russia's ongoing port strikes",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHN5Z1BBVUphSVNkbGt3QTNCN1Ffa2x0TmpSWFFsOEdudUVHNEU2Q3M3SjJYT3ktZzl0WTdNejgtd3lfRE9Vc0Y4UTdiNXYtUUJZa3FPcW9ibjA5enNoMW5tQUtrWTI1d0pSXzVSY1VNczZ1OXdibjRfQXc5MEUyckR4Nl8zSnNoOG5YaEgzZ0FvMkota0x2VlVIWmloN21ab3BJb0lXa0hwVmky?oc=5",
-        "domain": "thekyivindependent",
+        "title": "The director of a construction company in the Odesa region failed to pay 10 million in VAT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUDd5a1ZqeFFBSWN1UUhOS3JUcWt1a1dhLU9acWNERnZsSTUxQ1Y5WmNJTmp2TV85RDF0Y2dkWklaVjlXM1hudkN6bGpkQjhMSmFfWHV6Tmh1cW9fdzRtSWViVGFwc3Q1aDRXeHg3RDJUNG1ZWkJORHJlQk95OXBEMUxxczNFNnlkdDBBXzlOTmdhNDZjeDQ0V3N1QUFrWHBIZEM1U0JCcVVFNVRpT3BHQmtROWp3blpHbVQtVzhWQ2RLNG9CNy1fOVRBRXVfUQ?oc=5",
+        "domain": "news.google.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260821T171200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Who really owns the Caspian Sea?",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8ySGlVWDY3UE9kTmpud3pLRzdJZkxXb3FPc1RHcThTdUpYU3BOQk5od1RaMEJaUE80eTV1Tm5OTTBYZEQ2dGdsZV9tS3BfbUtVSU9FbHY5dWsxM2lCSDZnVjBHODRYUmdYLWZOLXkyVzdZZ9IBckFVX3lxTE1EUGM0RHh2MWFGZ2xDRFNnTGUxbTh1UFktN2ZJX3cwc0tfRWxIcTgyN3BCNURqMU5pX0hwUWFhNVZzVHdxMDd1X29wb2d0dm1aa2J1c2JsMXdEUkVIT0ltaW9ELXFDdWZudFRGSWRuVlJQUQ?oc=5",
-        "domain": "dw.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260819T090801Z",
+        "seendate": "20260824T160538Z",
         "source": "GoogleNews"
       },
       {
@@ -338,15 +374,6 @@
         "language": "",
         "tone": 0,
         "seendate": "20260823T073100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia launches massive attack on Odesa region, three injured",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPek00MDJoUnlWQXd5amtMR09SYUd5dnpKZ0pCbVhRemcxQlV6LXJuWVNNMS1oNHFYTEhQSGNDSlJHWG8wR3plS0tHVVJqSm9JMTRfY3ZTU2RFVUVjNE5YLTdIWW40blYxbTlHMkFKdUhielRGZ1B6TlU1c3RwbkxOVXhNVmtVcjdRNEY4TXVRbUJBR3VWMEQ0Ukg4RnpzU0Z5clJfMWNiemk2d1BsZVdZ0gG0AUFVX3lxTFBXNWs5Tzh2Q25HRGpZS1JRMlUzU0xxVWlibzhWbGFGVnVYdWxhc2kzanhLQzFQYVdnWjZZZE1DU2FHYWVLallYQmZySFVvekFNalBDQkdaY251ckdGelBxU0p0WlZZMVpPcWhvdERMX2U0NTJfYVhNVk9JSjlRVXlnWWdIeVZLSjI3UU42WXFrektyMVhXOFVzLUdCNjQ0Y0FRekxIelVCb0hQWVE1UDVrXzE1eQ?oc=5",
-        "domain": "ukrinform",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260822T150000Z",
         "source": "GoogleNews"
       },
       {
@@ -368,21 +395,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "A grain warehouse collapsed in Reni; a worker was killed",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORXZSOGFGYWMxNVk0b090RkJ2UXgyaFpucEx5Y2MtWnBjRUduRTNWNUhxQ0JQQmRESWlKUXVzc0oxSzFwVXdMdkNvaVdwemlvcklyTXRsY0lZY1RKV3dDRVVFWFh4bXl4WjNVaWwtVU4xNkZNU01SRzR3bEhPeml1cnJwVlBVOHdkOGtfZHdiMGdwdWNpNFFWZy1lSC12bGs?oc=5",
-        "domain": "news.google.com",
+        "title": "Russia launches massive attack on Odesa region, three injured",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPek00MDJoUnlWQXd5amtMR09SYUd5dnpKZ0pCbVhRemcxQlV6LXJuWVNNMS1oNHFYTEhQSGNDSlJHWG8wR3plS0tHVVJqSm9JMTRfY3ZTU2RFVUVjNE5YLTdIWW40blYxbTlHMkFKdUhielRGZ1B6TlU1c3RwbkxOVXhNVmtVcjdRNEY4TXVRbUJBR3VWMEQ0Ukg4RnpzU0Z5clJfMWNiemk2d1BsZVdZ0gG0AUFVX3lxTFBXNWs5Tzh2Q25HRGpZS1JRMlUzU0xxVWlibzhWbGFGVnVYdWxhc2kzanhLQzFQYVdnWjZZZE1DU2FHYWVLallYQmZySFVvekFNalBDQkdaY251ckdGelBxU0p0WlZZMVpPcWhvdERMX2U0NTJfYVhNVk9JSjlRVXlnWWdIeVZLSjI3UU42WXFrektyMVhXOFVzLUdCNjQ0Y0FRekxIelVCb0hQWVE1UDVrXzE1eQ?oc=5",
+        "domain": "ukrinform",
         "language": "",
         "tone": 0,
-        "seendate": "20260824T174419Z",
+        "seendate": "20260822T150000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Russia’s assault on Odesa is choking a vital route for Ukrainian exports | DW News",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzbGxSazJpbDg1X2dmWkZ3cEtaUVJpeWxVa3VPcG1ISHVpZ1JrYmJzTjJzVE9Gc0ZPRDhwVG95TGdyTkdNOGplVjRfQVh6dkgtSVFENnQxVTllUlQzaXc?oc=5",
-        "domain": "modernghana",
+        "title": "Former Trump envoy Keith Kellogg visits Odesa amid Russia's ongoing port strikes",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHN5Z1BBVUphSVNkbGt3QTNCN1Ffa2x0TmpSWFFsOEdudUVHNEU2Q3M3SjJYT3ktZzl0WTdNejgtd3lfRE9Vc0Y4UTdiNXYtUUJZa3FPcW9ibjA5enNoMW5tQUtrWTI1d0pSXzVSY1VNczZ1OXdibjRfQXc5MEUyckR4Nl8zSnNoOG5YaEgzZ0FvMkota0x2VlVIWmloN21ab3BJb0lXa0hwVmky?oc=5",
+        "domain": "thekyivindependent",
         "language": "",
         "tone": 0,
-        "seendate": "20260824T234620Z",
+        "seendate": "20260821T171200Z",
         "source": "GoogleNews"
       },
       {
@@ -395,39 +422,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "A Ukrainian record for making 300 liters of borscht was set in the Odesa region",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPay1EOG1QV1ozRUE4b0NjbTVoWnBpUEVXeFhVb3pnV05pQlJmNmN0R3hFTmRXTnRSUjNjSllEZVFnanBpUkNJTHpSa2VCRTk2X2toWTUwdGo1OVpRY3NxdExNX2t4ZUVMdGNEUFRXMDFPNGhDaGdtQ05POTZxeTBRTFFMSXdURmhxdjFZTmIwMWdfdmJld2E1MHpCcGU3ZnZfVGh5bGZKdkxBalVYRjVzdWFPUUt0cjBkckFnSGNRbw?oc=5",
-        "domain": "news.google.com",
+        "title": "Who really owns the Caspian Sea?",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8ySGlVWDY3UE9kTmpud3pLRzdJZkxXb3FPc1RHcThTdUpYU3BOQk5od1RaMEJaUE80eTV1Tm5OTTBYZEQ2dGdsZV9tS3BfbUtVSU9FbHY5dWsxM2lCSDZnVjBHODRYUmdYLWZOLXkyVzdZZ9IBckFVX3lxTE1EUGM0RHh2MWFGZ2xDRFNnTGUxbTh1UFktN2ZJX3cwc0tfRWxIcTgyN3BCNURqMU5pX0hwUWFhNVZzVHdxMDd1X29wb2d0dm1aa2J1c2JsMXdEUkVIT0ltaW9ELXFDdWZudFRGSWRuVlJQUQ?oc=5",
+        "domain": "dw.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260824T150400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ukraine Agrees Under U.S. Pressure to Stop Attacks on Caspian Pipeline",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmdkNEV0Ml92MUJRbEs2dDFmUUpWMmV3SVdpOEZhQldKUmFWQkRBMXBJTk5LZUpsa3p2anZteVhvU3lmN0daMHV2bUNVeGM1cjdyQmNydDdELW4zQk90b2tlLXV5dEhRT3NjV3hKOVFUUEtfUURxajVkTlBJM0QxZWFjSmhWV0RJLXl4ZG9TTzltUmM1N3dhYVJhS2pfZ1RCMkxyaGJBQWs0NWpP?oc=5",
-        "domain": "themaritimeexecutive",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260810T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Lampadkas, a memorial service, and a military band: The Vyshyvanka Festival has kicked off in Odesa",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlc3Ql9HZ2QyU0ZSUkF4VUZsbXAxa1pDYXVWV0ZXMEJkbEhfTzhIb0t5T3JZYzJwcVpfY2pGU1FyZlo2b0hpMS1NN2JVNHp2cU5DU1loQjJ3LTloMVk4YTY4eXhYYkE2R2piQmlpRmVlMlRBSjd0MlFJM1piOVZ4RTJhSERMV1RNN01OWTd2Znh1RnF1SGxLSE9vZ285Z0lneG5OaUU1RUM4cVdCNVFURi10eTNMM3hmdUNEZy1iQjJvSHNQTmNsRVNCdlA0dm15WlRKa0xB?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T080443Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ministry for Recovery, Infrastructure and Transport of Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkd3dU1wSXl1aWdZc2xDYVVQWDZLQWlTWGZpY2ZKRTNQazBqN1JGN0V1Ukx0TjMwMWpGMk1mZEhtM2JiYXpCSVFqMEQxdkRLRVljck1UUWtDcEtWVDFlZ3lVUDU4Qkd3UjJVNFhFa3FfcmxuX0ZJWlh1ejZUR2dJUEkyZXNITzBGVm0tUG9JX2x1M05sMkpkd1NCMXM4c2ZiQ3pNQWxkcw?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260821T135743Z",
+        "seendate": "20260819T090801Z",
         "source": "GoogleNews"
       },
       {
@@ -440,12 +440,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "English language instruction has been introduced in Odesa's preschools",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYm9oUU1CM2M3QXNUU3pSTkNYbVNVU0ZDZ0pmajNEMEZZMkYzak9CbThkaUxheVhGX0tTMHdNQ044NmVNOW9UbTZCR0FackFHbWl5UzNNX0pEcGR6Tzd6NUhPaDJ5SE5DMTVFb3R2SXRlZkxDWm5NMHpnX1RWSjN2UXF3bkZjOUZVQUlrbXlrMkpBdUNOLWtjVVpoLVlhNHRhT0Z6dUNqRVQ?oc=5",
-        "domain": "news.google.com",
+        "title": "Ukraine Agrees Under U.S. Pressure to Stop Attacks on Caspian Pipeline",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmdkNEV0Ml92MUJRbEs2dDFmUUpWMmV3SVdpOEZhQldKUmFWQkRBMXBJTk5LZUpsa3p2anZteVhvU3lmN0daMHV2bUNVeGM1cjdyQmNydDdELW4zQk90b2tlLXV5dEhRT3NjV3hKOVFUUEtfUURxajVkTlBJM0QxZWFjSmhWV0RJLXl4ZG9TTzltUmM1N3dhYVJhS2pfZ1RCMkxyaGJBQWs0NWpP?oc=5",
+        "domain": "themaritimeexecutive",
         "language": "",
         "tone": 0,
-        "seendate": "20260824T164000Z",
+        "seendate": "20260810T070000Z",
         "source": "GoogleNews"
       },
       {
@@ -467,21 +467,21 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Ministry for Recovery, Infrastructure and Transport of Ukraine",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkd3dU1wSXl1aWdZc2xDYVVQWDZLQWlTWGZpY2ZKRTNQazBqN1JGN0V1Ukx0TjMwMWpGMk1mZEhtM2JiYXpCSVFqMEQxdkRLRVljck1UUWtDcEtWVDFlZ3lVUDU4Qkd3UjJVNFhFa3FfcmxuX0ZJWlh1ejZUR2dJUEkyZXNITzBGVm0tUG9JX2x1M05sMkpkd1NCMXM4c2ZiQ3pNQWxkcw?oc=5",
+        "domain": "news.google.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T135743Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Russia attacks border crossing with Moldova in Odesa region, traffic suspended",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaGFPYjRWb3Y3OGR0WjEyYmJ4dUtBUk14RXFUZkFxR0E0dkdnUVZSZ3IxNDFYenV2d2tvY3piR1RZcWVfbl92dnRSWWE5aEpXSG1oWGN2Wm5yOU1KQ0c3TmxQb2o4aWs0REM5X1BqOHNnZ1BWcGdLYjgtM2VHUVZ3UEhkZktUVjREclZlQUNkMXZaWGU1YXN4emlEOGFhNjRGTE81LXk1SHFoajkya055QndRV2NramsxcVg4Y2JkSTh6R2g1eUHSAcsBQVVfeXFMT2g5QzZjN0toSDZnMUNGdFhDR0VVaHpIV2FBMDRGaWpfQ0IwVzZmZnE1clZYc3NCYzg5Q1lqQUdfM0E5a0s5NC1Ucm1hZ3lRa0dWdTFBak10ZC1uM01janVIUE5nSTFEQmFhanZsUHFIV1J0U1VpRTAzYlFNVjV4eUFTYUtXUi15TEhvVVlPWmlqMmNYQjRoeGJINXdBUzRESXZzSWlPTFpVdkZQN3JFNV8wOTY2YVc4dU5ZM25IXzY2MW5Namh2ZEZiZWs?oc=5",
         "domain": "ukrinform",
         "language": "",
         "tone": 0,
         "seendate": "20260821T064600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Uzbekistan and Azerbaijan Set to Revive Caspian Ferry Service",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXJrckRQWlUtZ3dPOGxvMzI2X05DZEt5NU1MWXBxc3NRTTJSSWlUTlF1TEk0N3hyLVlzMWZfOEMzSzF5U2pXZi1MODNzYjZpb3liR1NvS0R6Z2pKZWtHVDMyLVRTbTlqazBPVTVNUl85dDdhNGt2ZGdNTkltMEp1R0VqWnZjZzFzNnVfb25XMDJiYk1KOEJLc0U0MGM?oc=5",
-        "domain": "caspianpost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T101057Z",
         "source": "GoogleNews"
       }
     ],
@@ -571,15 +571,6 @@
   "entities": [],
   "events": [
     {
-      "title": "Russian strike injures four in Odesa",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMS1tVzctbWtZSVFYWHlzbGJpT1Ntd2JCTFRlWjRSV0dmcXpvejVlOUw1RExfREVHaHp4enJWRzhOUWRIOVJFeVlSWHZ0YXA5NU5xX29zVU45VERQY0szMFF0ZE5Uc1R6dkRheDVIYThzby1MLW95SzVlRWZJTzhXczROSlRHdjJhSy1IWV9GVXVwS3oxWG9OUVJR?oc=5",
-      "domain": "apnews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260825T072300Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Vynohradivka–Vulcănești border crossing damaged in Russian attack in Odesa region",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdUkxOExFSlp0OFBkUFQwSmlJQjRpSFh1YlBFTUw0aEV3Q3l5NmlsWXo2ZTNOY1FrT0ozVDBKNC1FbXk4UUV3NnRycUthSE54SWRFa20yRW9RclRnaVZ4N3kzTVlMbGZLSWlOUEl0Uzh1NjgxLW5faEpTbFpTcnlsY1ZhQmhFMTBpLWJvenRpZFUtdzVnUzF1OVBxYXJBRm9xNjdXVFJqMG5zMnBNWGdzUG9yX19Zc1JDR2Z2LWRKelJQLTlKa29JMV9R0gHPAUFVX3lxTFB4UzVDZVp0OGJlSkZjTnN2RTBQd296aklSaHZabzZCNkFwUTZtMW5Ub0tEXzVkM3RIYlJkS2ZoNVV2eUpYdXYxRmJ4NUtST0d1VkxseDR4NXBLTzdPUkJlYjlLWVdqaWJ2MVdTbzlKemVSZ25iRFo1bjk2ZlVlUVJyc2ExQkRhOXZkRHJGMVlqcXA4YzlrMXVKZlAxMUNndUtkcUpXb2JQY3RRVVZvUHhwNWJKbUZfY1ZSaTNRUTBkMHpPNEpsa0lVVGktcW9vbw?oc=5",
       "domain": "ukrinform",
@@ -589,30 +580,12 @@
       "source": "GoogleNews"
     },
     {
-      "title": "An Odessa lawmaker who posted a 13-million bail for Trukhanov has died",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlFKRGRod0FEdjZnSWVJZEsyMEVIci1vd0djQTI2NXNDNmU4b3dPX01Hb2M0UWsyRWtWeDBLNVY0Q3NSRk1CYzdNcUQ3Tl9GUjNld1FxZFAxVFkzZS05eFNoRWRWbXJwY3ZTWEJWd0puVlJEVnJfLWJRLU5WaVZMY2ZacU1aQ0NPMk9wTHVyOFJYd04weWlOdTV2YkhGLTFScTg1VjRYRGZFOFM4dElTRHJMRQ?oc=5",
-      "domain": "news.google.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260825T092016Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "A Joint Azerbaijan-Uzbekistan Caspian Fleet: The Key to Expanding the Middle Corridor",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbDIwQk15MEJ3M2NrWDlDSllMUmhNbHdXb1NkcmlVQzdXbGNQTUhXcGdId1h0R1FkZHNfVUFHQkpQbkpJRXpjbk5aZndDVHluOFUzaWIyZHBzQ2dzenVlM1UxVnZ4aTNYRHRzQzhzeUZQenAyYjNrc0FldUt6WVA3Q2dXYkQ0M000NHlfR25RYTMxck9aSzFUSTg1bjRhMEdKM1RTcF9XZFptQncyN1R6Y3ZZRGdhdjA1MEFETlM5MjhoMUEyNGxGSXVxTlpxS1FkbUUwLQ?oc=5",
-      "domain": "caspianpost",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260825T095720Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Russian strike injures four in Odesa",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PNGdxaTBFRnF3cGtnQkVqdkxsSGN2WENzS2FZc25DaE1kRzVRS0ZfYTItUHZZSVcxMGhfX0ltUkh4Y3R4SHlPN3NRQUVRd3NmWHd0MHhsaFRkREtibmpCcmJDNTBBRXNsM1lTZG5YTVhWQUlzY0JnNkNwa3hOU00?oc=5",
-      "domain": "yahoonewscanada",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMS1tVzctbWtZSVFYWHlzbGJpT1Ntd2JCTFRlWjRSV0dmcXpvejVlOUw1RExfREVHaHp4enJWRzhOUWRIOVJFeVlSWHZ0YXA5NU5xX29zVU45VERQY0szMFF0ZE5Uc1R6dkRheDVIYThzby1MLW95SzVlRWZJTzhXczROSlRHdjJhSy1IWV9GVXVwS3oxWG9OUVJR?oc=5",
+      "domain": "apnews",
       "language": "",
       "tone": 0,
-      "seendate": "20260825T072145Z",
+      "seendate": "20260825T072300Z",
       "source": "GoogleNews"
     },
     {
@@ -625,12 +598,39 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Drone attacks on CPC pipeline trigger cut in Kazakhstan oil targets",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUU4NEZkdjdXZ1JUczZUYkUydV9YZEt4cmE4Q1BWSWpSSVRxVUljTUZvNm5lMWd6SGNnUURmeEF0cEhiV1RFR1pjUEZndGVzZlV4WE9aMi1pMUF6MnR0MkZHMXN2bFU1NWN4eFRTODNiU1BjOHBULVY1LTRlT0doRTA3UVFxODg2VVFOYmtKTkU0SWNrd0NxWjRSQTN3SU5FUVE1RXdqOUc2VXZNX1hCZHM5Z1NqZ2fSAcQBQVVfeXFMUFN2WEpSOHVIUE5vSFJFLW5XczdnNExBLXluX1JUck9XZ29YUWN0V2x4OHg3cm5Xd1hmek13MXhlcVA3MzF4TTNjX2Nyc21PVUt4VlcwN1R2VDhjeDM0VDJXNFl5NzJIY3lPSzF0QV9YaS1JeHJSdGtMaHlaMGtCUXdKb1MySzBsQ21rbFU4U21uNVBPX3BYYlRoYWNMWkw4SHhpMlA1eUVkVXlsTkMxODVqeHlnVHA5T0Y3eU1zLWtkdDFoQQ?oc=5",
+      "domain": "bairdmaritime",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260825T170645Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Odesa under attack: Russia is cutting Ukraine off from the Black Sea",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHBNSUFHQlBENzhXTDBZWHphUVowSTMxNUZqeDZtcmdybWlaenJJQUdFQ3dzeExrd0lDYTcxbm5yV1cyaE5LbktyUnFLSl80VzEybDlJMmsyZE04VFBud2lUOGFKZjZhRVRGTzM4R2lRaG5WWmxjU0dBMUh3azVqQ3BXSGIySjk2N2xYOVlvLXp5ZFFCT3hMUmpuU1gyOGwwbHQ2RE1nSEdXdFRUbzhZQzhhM0t3SnBhN1ow?oc=5",
       "domain": "atlanticcouncil",
       "language": "",
       "tone": 0,
       "seendate": "20260818T153451Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Violations of freedom of speech were reported in the Odesa region",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzl6Smo1NE5Rb0xpa2lKYlJ6TzJHVzBPcTFOWDRfOUJ4M1R1d21zNldYM2MzeWNGLURJU2oyVXpYWDZLM2RzcjF0VE9YWmRiYm5uRXBZWlQyZ1ZaQVFZS21rbkJlYS1ZSFgwaXFIVVNxbmkyRnNCTzVSeUNNOTFkT0R4T0tNVlZpajBwN085ck9lRUtXS3pJUHlzRXJhU2k1cWNQVVlxNU9fVEhDNHhFQ3pGS1NjZw?oc=5",
+      "domain": "news.google.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260825T133103Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "A Joint Azerbaijan-Uzbekistan Caspian Fleet: The Key to Expanding the Middle Corridor",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbDIwQk15MEJ3M2NrWDlDSllMUmhNbHdXb1NkcmlVQzdXbGNQTUhXcGdId1h0R1FkZHNfVUFHQkpQbkpJRXpjbk5aZndDVHluOFUzaWIyZHBzQ2dzenVlM1UxVnZ4aTNYRHRzQzhzeUZQenAyYjNrc0FldUt6WVA3Q2dXYkQ0M000NHlfR25RYTMxck9aSzFUSTg1bjRhMEdKM1RTcF9XZFptQncyN1R6Y3ZZRGdhdjA1MEFETlM5MjhoMUEyNGxGSXVxTlpxS1FkbUUwLQ?oc=5",
+      "domain": "caspianpost",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260825T095720Z",
       "source": "GoogleNews"
     },
     {
@@ -643,21 +643,30 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Ukraine War Bleeds Into the Caspian",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XdVFtRmZ5SkpXdkhPMkhzUVhiU0tOTVpzYlFQVmJMMk0wUWlRVWdvODhPUEJUTVdVMlF0S1EwUEdJdmpvWkRReTljZkNJbElta3J3SVU1ZGphbHA1cnlwa1VZMF9fTWxYNTJFVm5R?oc=5",
-      "domain": "centerforeuropeanpolicyanalysiscepa",
+      "title": "Iran Announces Discovery of Major New Gas Field in Southern Province",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZVZVWjlmSW05NWdDRC1tQ3hzVXlEVEs2UUJZeXBfSTN5aTNHQmF3cURfUlFNd2JaVElEOXdNTjFETElkZ0hERlNZTlp5ZE5QZ05RcVhJUklqaGVYQ01LbDdoT2pYT0NxbFROTVBQS0Q5ckd2Z1FoeWpWRnhRQnAtZXprZnVvTUpkVXpvSU1hXzV2TFk0eklFMlU0ZzMwYWlWSTQ4MkRaOGt6M0Y5VFdfYUtZQkxaVlhM?oc=5",
+      "domain": "caspiannews.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260814T155124Z",
+      "seendate": "20260825T182541Z",
       "source": "GoogleNews"
     },
     {
-      "title": "In Odessa, part of the city was without power due to repairs, and traffic patterns were altered",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlBEQmkxdTd5VGZuRDFMWUhSVXAzSlFCMjkteHdISXpTUENhaVNFX19GOW9YN015eko0TDd0UmRuZlQtdVhZcEM0djlPV1JvZnNWcjRxT2RQSGpVWmpiVTJXd0gzY0ZPZXk1aFZBT0w2RlZzeE51bThvNFNZbThhWjVvOFFxQlZYYXIxd0U2NGtKYUwxWVBwY3kwell4dGRIbktBRy1qSVRvU3ZHNm1yLVp2dFYtYkh3ekM1UC11RFlJblgzSWwtV0Z1ZVZsY2hWTWc?oc=5",
+      "title": "Russian strike injures four in Ukraine's Odesa",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0tTLUJqbEVHV1M0SlM5eTJRLWJWdWdrV3ZlRWk2bXUtV2FPOEJPU2ZKN1Z1QnNsYnBUMFpCQ3pOaFdwLWNVa1h5bDJCUVVTdmxDQUJrbGc4U0Q1RXc1bkJWS3VydmxsSUNXZUtBODBQTnZRakJENlRNWWZwWmJ4UTB4cUVvS0E?oc=5",
+      "domain": "swiowanewssource.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260825T090004Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "An Odessa lawmaker who posted a 13-million bail for Trukhanov has died",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlFKRGRod0FEdjZnSWVJZEsyMEVIci1vd0djQTI2NXNDNmU4b3dPX01Hb2M0UWsyRWtWeDBLNVY0Q3NSRk1CYzdNcUQ3Tl9GUjNld1FxZFAxVFkzZS05eFNoRWRWbXJwY3ZTWEJWd0puVlJEVnJfLWJRLU5WaVZMY2ZacU1aQ0NPMk9wTHVyOFJYd04weWlOdTV2YkhGLTFScTg1VjRYRGZFOFM4dElTRHJMRQ?oc=5",
       "domain": "news.google.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260825T075910Z",
+      "seendate": "20260825T092016Z",
       "source": "GoogleNews"
     },
     {
@@ -670,21 +679,21 @@
       "source": "GoogleNews"
     },
     {
-      "title": "UK’s Interocean Group Expands Presence in Azerbaijan and Caspian Region",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd241ZC12SC1HU0hzS0tjb21mYWtDYXVOdHdEUmpCNVFvRGFnUTFaUWZHdFFkXzQtd3l6VC04cy12blhJd0JFRC0tdFpVcl80MFZzOXJkRmlhV3g1VGo4SXpSQnEtZDlIVnBKUkZ2R3JBZlV6UzM5QVBVb2ZuUkJ5TFM2YjZGNlZnXzZZRlZLWkpiUlE3UFJJWVVEcTNzcEgwRHJndThfNjJ3UQ?oc=5",
-      "domain": "caspianpost",
+      "title": "In Odessa, a college official demanded $1,000 for admission",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0k5RUlGOTZKSng5OGpqQkplWEpMOFRTdE1QS216SXdoRUR3c0dGZVlCU2NTaWtrd2l4WWF2V19KSEYzSWVIdS1wUWZVZUJ4TWs0ZWFzMUJOR09DSlA2OGhtT3ZuXzhOTGYyOUdFdHgtRGl2RzlTN1dnS0RHYjdKQ2NUblpDQno0NlVpMzVnN3BmZWp6WGFoenI0WXVfWGxz?oc=5",
+      "domain": "news.google.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260825T071145Z",
+      "seendate": "20260825T173703Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Russian Drone Hits Passenger Train in Odesa, Evacuation Prevents Casualties",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNWV2dmlnTGlJUi03VE02dHJpY0VLdnp3YVk3T1RoLXI3NjdkYkpZbFZKbzQtOF9XYVhvTWhYYnlxVG5pRWRPb0Y5UQ?oc=5",
-      "domain": "kyivpost",
+      "title": "In Odessa, part of the city was without power due to repairs, and traffic patterns were altered",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlBEQmkxdTd5VGZuRDFMWUhSVXAzSlFCMjkteHdISXpTUENhaVNFX19GOW9YN015eko0TDd0UmRuZlQtdVhZcEM0djlPV1JvZnNWcjRxT2RQSGpVWmpiVTJXd0gzY0ZPZXk1aFZBT0w2RlZzeE51bThvNFNZbThhWjVvOFFxQlZYYXIxd0U2NGtKYUwxWVBwY3kwell4dGRIbktBRy1qSVRvU3ZHNm1yLVp2dFYtYkh3ekM1UC11RFlJblgzSWwtV0Z1ZVZsY2hWTWc?oc=5",
+      "domain": "news.google.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260823T132746Z",
+      "seendate": "20260825T075910Z",
       "source": "GoogleNews"
     },
     {
@@ -694,15 +703,6 @@
       "language": "",
       "tone": 0,
       "seendate": "20260825T052435Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Russians attack power facility in Odesa region",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQXzVfYTFocTV1MllUdHV5VWtscUxESFU0U0JHUW96Z1hFdFQ0MG9Wc042dXJ2czI2UU05eW1hTU1Edzg5ekRvRWNOS2ZSYUpoU3o5QUlKWWxkNGQtbDh3bXhheGdBWDIweGVLM0ktUVdscUNiajVOQVNSMDZBME9XeWdtOUpDYnBDbGFFN1dob1BIS290bXNPMXpNTHnSAaIBQVVfeXFMUHRHZERIQWtmZ28yeHI1WWd6Q21OR1FWU3h2eTRDNEVuY0pMWEVTNkY1eWZjUWo0Vi11WC1mSTF4WW1WdUxFbDJHaV9saVJlTlRYRTc2MmV3WUhXQVh5V053WkhFMm1YTkpUUnVObm0xOUM4b1NRRUd4MmFCcjJfbUNfV0J2bzdBWWpLZUV5ODFRWXFDWnJ1UktpWFc5bFlFUi1n?oc=5",
-      "domain": "ukrinform",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260824T122800Z",
       "source": "GoogleNews"
     }
   ],
