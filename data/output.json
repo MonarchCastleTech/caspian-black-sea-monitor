@@ -1,711 +1,697 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-27T22:13:15.805397+00:00",
+    "generated": "2026-08-27T22:38:52.735731+00:00",
     "mode": "live",
-    "sources": [
-      "news_articles",
-      "exchange_rates"
-    ],
-    "source_notes": [],
-    "version": "1.2.0"
+    "version": "2.0.0",
+    "horizon": "0–14 days",
+    "classification": "basin-escalation-pressure-not-event-probability-or-operational-maritime-picture",
+    "coverage": "5/5",
+    "confidence": "HIGH",
+    "source_notes": []
   },
-  "stats": [
-    {
-      "label": "Articles Tracked",
-      "value": "50",
-      "delta": "live"
+  "warning": {
+    "score": 29.5,
+    "raw_score": 29.5,
+    "concurrence_bonus": 0.0,
+    "status": "WATCH",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 29.5/100.",
+    "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
+  },
+  "components": {
+    "maritime_flow": {
+      "key": "maritime_flow",
+      "score": 50.4,
+      "status": "ELEVATED",
+      "weight": 0.3,
+      "available": true,
+      "retained": false,
+      "coverage": 15,
+      "latest_observation": "2026-08-23",
+      "method": "Seven-day mean versus preceding 28-day mean; low-volume port anomalies are reliability-shrunk.",
+      "evidence": [
+        {
+          "id": "port833",
+          "name": "Novorossiysk",
+          "country": "Russia",
+          "basin": "Black Sea",
+          "lat": 44.7235,
+          "lon": 37.8087,
+          "recent_mean": 2.9,
+          "baseline_mean": 4.5,
+          "change_pct": -36.5,
+          "direction": "shortfall",
+          "reliability": 1.0,
+          "pressure": 90.0,
+          "observations": 42,
+          "latest": "2026-08-21"
+        },
+        {
+          "id": "port76",
+          "name": "Astrakhan Port",
+          "country": "Russia",
+          "basin": "Caspian Sea",
+          "lat": 46.3847,
+          "lon": 48.0216,
+          "recent_mean": 0.6,
+          "baseline_mean": 1.3,
+          "change_pct": -55.6,
+          "direction": "shortfall",
+          "reliability": 0.8,
+          "pressure": 80.2,
+          "observations": 42,
+          "latest": "2026-08-21"
+        },
+        {
+          "id": "port43",
+          "name": "Amirabad Port",
+          "country": "Iran, Islamic Republic of",
+          "basin": "Caspian Sea",
+          "lat": 36.8507,
+          "lon": 53.3653,
+          "recent_mean": 2.0,
+          "baseline_mean": 2.8,
+          "change_pct": -29.1,
+          "direction": "shortfall",
+          "reliability": 1.0,
+          "pressure": 68.9,
+          "observations": 42,
+          "latest": "2026-08-21"
+        },
+        {
+          "id": "port58",
+          "name": "Anzali Port",
+          "country": "Iran, Islamic Republic of",
+          "basin": "Caspian Sea",
+          "lat": 37.4752,
+          "lon": 49.47,
+          "recent_mean": 1.0,
+          "baseline_mean": 1.5,
+          "change_pct": -31.7,
+          "direction": "shortfall",
+          "reliability": 0.86,
+          "pressure": 65.3,
+          "observations": 42,
+          "latest": "2026-08-21"
+        },
+        {
+          "id": "port834",
+          "name": "Nowshahr Port",
+          "country": "Iran, Islamic Republic of",
+          "basin": "Caspian Sea",
+          "lat": 36.6551,
+          "lon": 51.5086,
+          "recent_mean": 1.9,
+          "baseline_mean": 0.8,
+          "change_pct": 136.4,
+          "direction": "surge",
+          "reliability": 0.63,
+          "pressure": 62.7,
+          "observations": 42,
+          "latest": "2026-08-21"
+        },
+        {
+          "id": "port684",
+          "name": "Makhachkala Port",
+          "country": "Russia",
+          "basin": "Caspian Sea",
+          "lat": 43.0081,
+          "lon": 47.4726,
+          "recent_mean": 0.7,
+          "baseline_mean": 0.4,
+          "change_pct": 66.7,
+          "direction": "surge",
+          "reliability": 0.46,
+          "pressure": 46.3,
+          "observations": 42,
+          "latest": "2026-08-21"
+        },
+        {
+          "id": "port1326",
+          "name": "Tuapse",
+          "country": "Russia",
+          "basin": "Black Sea",
+          "lat": 44.0993,
+          "lon": 39.0851,
+          "recent_mean": 0.1,
+          "baseline_mean": 0.4,
+          "change_pct": -63.6,
+          "direction": "shortfall",
+          "reliability": 0.44,
+          "pressure": 44.3,
+          "observations": 42,
+          "latest": "2026-08-21"
+        },
+        {
+          "id": "port1139",
+          "name": "Samsun",
+          "country": "Türkiye",
+          "basin": "Black Sea",
+          "lat": 41.2609,
+          "lon": 36.4153,
+          "recent_mean": 3.1,
+          "baseline_mean": 3.9,
+          "change_pct": -18.5,
+          "direction": "shortfall",
+          "reliability": 1.0,
+          "pressure": 38.6,
+          "observations": 42,
+          "latest": "2026-08-21"
+        },
+        {
+          "id": "port1016",
+          "name": "Poti",
+          "country": "Georgia",
+          "basin": "Black Sea",
+          "lat": 42.1593,
+          "lon": 41.6571,
+          "recent_mean": 2.7,
+          "baseline_mean": 2.4,
+          "change_pct": 13.4,
+          "direction": "surge",
+          "reliability": 1.0,
+          "pressure": 24.1,
+          "observations": 42,
+          "latest": "2026-08-21"
+        },
+        {
+          "id": "port1112",
+          "name": "Rostov-Na-Donu",
+          "country": "Russia",
+          "basin": "Black Sea",
+          "lat": 47.1948,
+          "lon": 39.6794,
+          "recent_mean": 0.7,
+          "baseline_mean": 0.9,
+          "change_pct": -16.7,
+          "direction": "shortfall",
+          "reliability": 0.65,
+          "pressure": 21.8,
+          "observations": 42,
+          "latest": "2026-08-21"
+        },
+        {
+          "id": "port100",
+          "name": "Baku Port",
+          "country": "Azerbaijan",
+          "basin": "Caspian Sea",
+          "lat": 40.2846,
+          "lon": 49.7325,
+          "recent_mean": 6.4,
+          "baseline_mean": 7.4,
+          "change_pct": -12.6,
+          "direction": "shortfall",
+          "reliability": 1.0,
+          "pressure": 21.8,
+          "observations": 42,
+          "latest": "2026-08-21"
+        },
+        {
+          "id": "chokepoint3",
+          "name": "Bosporus Strait",
+          "country": "Türkiye",
+          "basin": "Black Sea gateway",
+          "lat": null,
+          "lon": null,
+          "recent_mean": 69.0,
+          "baseline_mean": 62.0,
+          "change_pct": 11.3,
+          "direction": "surge",
+          "reliability": 1.0,
+          "pressure": 18.0,
+          "observations": 42,
+          "latest": "2026-08-23"
+        },
+        {
+          "id": "port16",
+          "name": "Aktau Port",
+          "country": "Kazakhstan",
+          "basin": "Caspian Sea",
+          "lat": 43.6024,
+          "lon": 51.2286,
+          "recent_mean": 4.4,
+          "baseline_mean": 4.0,
+          "change_pct": 10.7,
+          "direction": "surge",
+          "reliability": 1.0,
+          "pressure": 16.3,
+          "observations": 42,
+          "latest": "2026-08-21"
+        },
+        {
+          "id": "port1283",
+          "name": "Temryuk",
+          "country": "Russia",
+          "basin": "Black Sea",
+          "lat": 45.3242,
+          "lon": 37.3762,
+          "recent_mean": 0.0,
+          "baseline_mean": 0.0,
+          "change_pct": 0.0,
+          "direction": "insufficient",
+          "reliability": 0.0,
+          "pressure": 0.0,
+          "observations": 42,
+          "latest": "2026-08-21"
+        },
+        {
+          "id": "port1413",
+          "name": "Yeysk",
+          "country": "Russia",
+          "basin": "Black Sea",
+          "lat": 46.7276,
+          "lon": 38.2738,
+          "recent_mean": 0.0,
+          "baseline_mean": 0.0,
+          "change_pct": 0.0,
+          "direction": "insufficient",
+          "reliability": 0.0,
+          "pressure": 0.0,
+          "observations": 42,
+          "latest": "2026-08-21"
+        }
+      ]
     },
-    {
-      "label": "News Domains",
-      "value": "29",
-      "delta": "deduplicated"
+    "nato_posture": {
+      "key": "nato_posture",
+      "score": 0.0,
+      "status": "BASELINE",
+      "weight": 0.25,
+      "available": true,
+      "retained": false,
+      "coverage": 25,
+      "current_14d_weekly_equivalent": 0.0,
+      "baseline_weekly_median": 1.5,
+      "anomaly_z": -0.67,
+      "method": "Regional NATO publication-title term weight over 14 days versus 12 prior weeks.",
+      "evidence": [
+        {
+          "date": "2026-08-12",
+          "title": "Request For Assistance By The State Emergency Service Of Ukraine Emergency Response",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/08/12/request-for-assistance-by-the-state-emergency-service-of-ukraine-emergency-response",
+          "region_terms": [
+            "ukraine"
+          ],
+          "posture_terms": [],
+          "weight": 1.0,
+          "age_days": 15
+        },
+        {
+          "date": "2026-08-04",
+          "title": "Change Of Command At Nato Security Assistance Training For Ukraine Nsatu",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/08/04/change-of-command-at-nato-security-assistance--training-for-ukraine-nsatu",
+          "region_terms": [
+            "ukraine"
+          ],
+          "posture_terms": [
+            "security"
+          ],
+          "weight": 1.75,
+          "age_days": 23
+        },
+        {
+          "date": "2026-08-04",
+          "title": "Change Of Command At Nato Security Assistance Training For Ukraine Nsatu",
+          "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/08/04/change-of-command-at-nato-security-assistance--training-for-ukraine-nsatu",
+          "region_terms": [
+            "ukraine"
+          ],
+          "posture_terms": [
+            "security"
+          ],
+          "weight": 1.75,
+          "age_days": 23
+        }
+      ]
     },
-    {
-      "label": "Tone Index",
-      "value": "50/100 (neutral)",
-      "delta": "news scale"
+    "regional_sanctions": {
+      "key": "regional_sanctions",
+      "score": 38.2,
+      "status": "WATCH",
+      "weight": 0.2,
+      "available": true,
+      "retained": false,
+      "coverage": 33,
+      "current_14d_weekly_equivalent": 23.25,
+      "baseline_weekly_median": 12.0,
+      "anomaly_z": 0.98,
+      "method": "Russia/Iran/region-linked OFAC title intensity over 14 days versus 12 prior weeks.",
+      "evidence": [
+        {
+          "title": "Treasury Takes Action Against Violent Far-Left Terrorist Networks",
+          "action": "Counter Terrorism Designations; Issuance of Counter Terrorism General License; Issuance of Amended Russia-related General License",
+          "date": "2026-08-26",
+          "url": "https://home.treasury.gov/news/press-releases/sb0616/",
+          "region_terms": [
+            "russia"
+          ],
+          "posture_terms": [
+            "designation",
+            "network"
+          ],
+          "weight": 3.5,
+          "age_days": 1
+        },
+        {
+          "title": "Rescission of Syria’s Designation as a State Sponsor of Terrorism",
+          "action": "Removal of Syria's designation as a State Sponsor of Terrorism and Associated Sanctions List Updates; Iran-related Designations; Updates to Iran-related General Licenses",
+          "date": "2026-08-24",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/rescission-of-syrias-designation-as-a-state-sponsor-of-terrorism/",
+          "region_terms": [
+            "iran"
+          ],
+          "posture_terms": [
+            "designation",
+            "sanction"
+          ],
+          "weight": 4.0,
+          "age_days": 3
+        },
+        {
+          "title": "Treasury and State Departments Deliver Additional Sanctions Relief on Syria",
+          "action": "Removal of Syria's designation as a State Sponsor of Terrorism and Associated Sanctions List Updates; Iran-related Designations; Updates to Iran-related General Licenses",
+          "date": "2026-08-24",
+          "url": "https://home.treasury.gov/news/press-releases/sb0612/",
+          "region_terms": [
+            "iran"
+          ],
+          "posture_terms": [
+            "designation",
+            "sanction"
+          ],
+          "weight": 4.0,
+          "age_days": 3
+        },
+        {
+          "title": "United States Implements Operation Economic Outcast with Sanctions Targeting Iran's Military Activities and Procurements, and Petroleum and Petrochemical Product Traders",
+          "action": "Removal of Syria's designation as a State Sponsor of Terrorism and Associated Sanctions List Updates; Iran-related Designations; Updates to Iran-related General Licenses",
+          "date": "2026-08-24",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/United-States-Implements-Operation-Economic-Outcast-with-Sanctions-Targeting-Irans-Military-Activities-and-Procurements-and-Petroleum-and-Petrochemical-Product-Traders-fact-sheet",
+          "region_terms": [
+            "iran"
+          ],
+          "posture_terms": [
+            "designation",
+            "military",
+            "petroleum",
+            "procurement",
+            "sanction",
+            "targeting"
+          ],
+          "weight": 10.5,
+          "age_days": 3
+        },
+        {
+          "title": "Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day",
+          "action": "Removal of Syria's designation as a State Sponsor of Terrorism and Associated Sanctions List Updates; Iran-related Designations; Updates to Iran-related General Licenses",
+          "date": "2026-08-24",
+          "url": "https://home.treasury.gov/news/press-releases/sb0613/",
+          "region_terms": [
+            "iran",
+            "iranian"
+          ],
+          "posture_terms": [
+            "designation",
+            "sanction"
+          ],
+          "weight": 4.0,
+          "age_days": 3
+        },
+        {
+          "title": "Imposing Sanctions on Cuban Regime Actors Associated with Marxist Subversive Networks and Corrupt Economic Dealings",
+          "action": "Counter Narcotics, Counter Terrorism, Cuba-related, and Iran-related Designations; Issuance of Russia-related General License; Issuance of Associated Frequently Asked Questions",
+          "date": "2026-08-20",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/imposing-sanctions-on-cuban-regime-actors-associated-with-marxist-subversive-networks-and-corrupt-economic-dealings-fact-sheet/",
+          "region_terms": [
+            "iran",
+            "russia"
+          ],
+          "posture_terms": [
+            "designation",
+            "network",
+            "sanction"
+          ],
+          "weight": 5.0,
+          "age_days": 7
+        },
+        {
+          "title": "Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah",
+          "action": "Counter Narcotics, Counter Terrorism, Cuba-related, and Iran-related Designations; Issuance of Russia-related General License; Issuance of Associated Frequently Asked Questions",
+          "date": "2026-08-20",
+          "url": "https://home.treasury.gov/news/press-releases/sb0611",
+          "region_terms": [
+            "iran",
+            "russia"
+          ],
+          "posture_terms": [
+            "designation",
+            "network",
+            "sanction",
+            "targets"
+          ],
+          "weight": 7.0,
+          "age_days": 7
+        },
+        {
+          "title": "Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels",
+          "action": "Counter Narcotics, Counter Terrorism, Cuba-related, and Iran-related Designations; Issuance of Russia-related General License; Issuance of Associated Frequently Asked Questions",
+          "date": "2026-08-20",
+          "url": "https://home.treasury.gov/news/press-releases/sb0610",
+          "region_terms": [
+            "iran",
+            "russia"
+          ],
+          "posture_terms": [
+            "designation",
+            "network",
+            "sanction"
+          ],
+          "weight": 5.0,
+          "age_days": 7
+        },
+        {
+          "title": "CHART - Ecuadorian Maritime Cocaine Trafficking Network - August 2026",
+          "action": "Counter Narcotics, Counter Terrorism, Cuba-related, and Iran-related Designations; Issuance of Russia-related General License; Issuance of Associated Frequently Asked Questions",
+          "date": "2026-08-20",
+          "url": "https://ofac.treasury.gov/media/936726/download?inline",
+          "region_terms": [
+            "iran",
+            "maritime",
+            "russia"
+          ],
+          "posture_terms": [
+            "designation",
+            "network"
+          ],
+          "weight": 3.5,
+          "age_days": 7
+        },
+        {
+          "title": "Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC",
+          "action": "Counter Terrorism Designations; Non-Proliferation Designation Update",
+          "date": "2026-07-30",
+          "url": "https://home.treasury.gov/news/press-releases/sb0582",
+          "region_terms": [
+            "iran"
+          ],
+          "posture_terms": [
+            "designation",
+            "network"
+          ],
+          "weight": 3.5,
+          "age_days": 28
+        },
+        {
+          "title": "Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network",
+          "action": "Iran-related Designations",
+          "date": "2026-07-29",
+          "url": "https://home.treasury.gov/news/press-releases/sb0581",
+          "region_terms": [
+            "iran",
+            "iranian"
+          ],
+          "posture_terms": [
+            "designation",
+            "disrupt",
+            "network"
+          ],
+          "weight": 5.5,
+          "age_days": 29
+        }
+      ]
     },
+    "commodity_dislocation": {
+      "key": "commodity_dislocation",
+      "score": 36.1,
+      "status": "WATCH",
+      "weight": 0.15,
+      "available": true,
+      "retained": false,
+      "coverage": 2,
+      "method": "Absolute robust-z dislocation of five-observation Brent and one-month wheat returns.",
+      "evidence": [
+        {
+          "id": "DCOILBRENTEU",
+          "label": "Brent crude",
+          "score": 8.6,
+          "latest_date": "2026-08-25",
+          "latest_value": 88.24,
+          "change_pct": -7.4,
+          "direction": "down",
+          "robust_z": -0.71,
+          "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+        },
+        {
+          "id": "PWHEAMTUSDM",
+          "label": "Global wheat",
+          "score": 87.3,
+          "latest_date": "2026-07-01",
+          "latest_value": 228.74,
+          "change_pct": 14.57,
+          "direction": "up",
+          "robust_z": 2.68,
+          "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM"
+        }
+      ]
+    },
+    "port_weather": {
+      "key": "port_weather",
+      "score": 13.6,
+      "status": "BASELINE",
+      "weight": 0.1,
+      "available": true,
+      "retained": false,
+      "coverage": 8,
+      "method": "Seven-day maximum wind and daily precipitation at eight high-activity basin ports.",
+      "evidence": [
+        {
+          "id": "port833",
+          "name": "Novorossiysk",
+          "country": "Russia",
+          "basin": "Black Sea",
+          "max_wind_ms": 15.7,
+          "max_precip_24h_mm": 2.4,
+          "pressure": 26.4,
+          "valid_to": "2026-09-03T18:00:00Z"
+        },
+        {
+          "id": "port100",
+          "name": "Baku Port",
+          "country": "Azerbaijan",
+          "basin": "Caspian Sea",
+          "max_wind_ms": 14.5,
+          "max_precip_24h_mm": 21.4,
+          "pressure": 17.9,
+          "valid_to": "2026-09-03T18:00:00Z"
+        },
+        {
+          "id": "port1139",
+          "name": "Samsun",
+          "country": "Türkiye",
+          "basin": "Black Sea",
+          "max_wind_ms": 8.5,
+          "max_precip_24h_mm": 37.2,
+          "pressure": 8.0,
+          "valid_to": "2026-09-03T18:00:00Z"
+        },
+        {
+          "id": "port1112",
+          "name": "Rostov-Na-Donu",
+          "country": "Russia",
+          "basin": "Black Sea",
+          "max_wind_ms": 7.1,
+          "max_precip_24h_mm": 0.3,
+          "pressure": 0.0,
+          "valid_to": "2026-09-03T18:00:00Z"
+        },
+        {
+          "id": "port260",
+          "name": "Constanta",
+          "country": "Romania",
+          "basin": "Black Sea",
+          "max_wind_ms": 11.0,
+          "max_precip_24h_mm": 1.5,
+          "pressure": 0.0,
+          "valid_to": "2026-09-03T18:00:00Z"
+        },
+        {
+          "id": "port16",
+          "name": "Aktau Port",
+          "country": "Kazakhstan",
+          "basin": "Caspian Sea",
+          "max_wind_ms": 10.9,
+          "max_precip_24h_mm": 0.7,
+          "pressure": 0.0,
+          "valid_to": "2026-09-03T18:00:00Z"
+        },
+        {
+          "id": "port76",
+          "name": "Astrakhan Port",
+          "country": "Russia",
+          "basin": "Caspian Sea",
+          "max_wind_ms": 6.1,
+          "max_precip_24h_mm": 0.0,
+          "pressure": 0.0,
+          "valid_to": "2026-09-03T18:00:00Z"
+        },
+        {
+          "id": "port1330",
+          "name": "Turkmenbashi Port",
+          "country": "Turkmenistan",
+          "basin": "Caspian Sea",
+          "max_wind_ms": 9.3,
+          "max_precip_24h_mm": 5.3,
+          "pressure": 0.0,
+          "valid_to": "2026-09-03T18:00:00Z"
+        }
+      ]
+    }
+  },
+  "history": [
     {
-      "label": "Live Feeds",
-      "value": "2",
-      "delta": "connected"
+      "generated": "2026-08-27T22:38:52.735731+00:00",
+      "score": 29.5,
+      "status": "WATCH"
     }
   ],
-  "live_data": {
-    "news_articles": [
-      {
-        "title": "When lakes decline, can they recover?",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9STUNXS290S1o4M0NuWXRGVFVmcWM0aHczWm03dXg1dUtrajQ5WFhQNXNjNDhhS0NsWER6Vzg0NG5MczVzSlRTRXkxd2FTQmxPWTVmZWpZamo0ZWllZVJ1VzZFWENBS0tnVFcycE9vdVlmZUJFTkw0?oc=5",
-        "domain": "dw.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T122624Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A court in Odesa ordered the seizure of the former director’s shares in five of the country’s water utilities",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMXU1SUc2cGd2bmJPNXNDTGdXSmZVTUVmODNIY1ZMUmlza3JyWEdzOGxwV3JBOWczYzR3RjNNWEQyYUJ4Mk8wbGVScHJ4QmhKV2EtRnJmZThjd1c2MVVQaUxXLTNFOHphSXYzVlo4aURqVW9fUmFpaHEzMklfWFVnLXB4aER4bkdHQ1RGNGNqRG5NYWdmbG96Y3hCQUoxYlY1dlhXclc4cGstVFQyRkptNWM2RnBueGhydVZlanVDY3pEM2VQRFE1c2tHRTZHOU1McEpDTlFHRFZjMFMtczVST0FB?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T194112Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russian attack damages infrastructure, educational institution and apartment building in Odesa",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVUlxVWJOREtHOExfakt3Yy1KdE9NRTVrdTZ2TWo4VDBtRldUeWVLMDFybERoVkJHRnZ3UXhNRElFTXJIeDdFTHA0bngxSjlMQVVoT2JsRDFJd24yUjVOdy1qSDJDZWFSSGpNVEd5MGc3MENvajl1X1Y0cDBaWHVCUHVsSHlvWVhjT2otYWZMOXQ4bnZSdFJ2ZlFMOUpUdUlCdURuVUx2UklMSWtiVHRCX0JIS1ZNM0xuZnAwdlR5bTl2Mng0Rm5DRy1CRHJLcXBDUzk0cVFkUjhWNFRBS2JMdtIB4AFBVV95cUxQVUlxVWJOREtHOExfakt3Yy1KdE9NRTVrdTZ2TWo4VDBtRldUeWVLMDFybERoVkJHRnZ3UXhNRElFTXJIeDdFTHA0bngxSjlMQVVoT2JsRDFJd24yUjVOdy1qSDJDZWFSSGpNVEd5MGc3MENvajl1X1Y0cDBaWHVCUHVsSHlvWVhjT2otYWZMOXQ4bnZSdFJ2ZlFMOUpUdUlCdURuVUx2UklMSWtiVHRCX0JIS1ZNM0xuZnAwdlR5bTl2Mng0Rm5DRy1CRHJLcXBDUzk0cVFkUjhWNFRBS2JMdg?oc=5",
-        "domain": "ukrinform",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T052000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Odesa under attack: Russia is cutting Ukraine off from the Black Sea",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHBNSUFHQlBENzhXTDBZWHphUVowSTMxNUZqeDZtcmdybWlaenJJQUdFQ3dzeExrd0lDYTcxbm5yV1cyaE5LbktyUnFLSl80VzEybDlJMmsyZE04VFBud2lUOGFKZjZhRVRGTzM4R2lRaG5WWmxjU0dBMUh3azVqQ3BXSGIySjk2N2xYOVlvLXp5ZFFCT3hMUmpuU1gyOGwwbHQ2RE1nSEdXdFRUbzhZQzhhM0t3SnBhN1ow?oc=5",
-        "domain": "atlanticcouncil",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260818T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "‘Hitler tried to kill me because I’m Jewish. Now Putin wants to kill me because I’m Ukrainian’",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZjNwRFBoTWN5ZC1OOVFmblFISGlObHZEa25KeTQ0WEp3c0E0SXpkUTJQTzJhWDV1ZkRRZjVkLVh1QVNGV1lPRmFvckdDWUszdEx4Q1VJeGJLWUktZEZRcmgwOGg1WDgxSGJWUFNscWRadVNxUTYxZnlaLWJ2dHVtbUJIRDBKVGN0RWw3N0h1QmFWN2J4N2thRFJ6YTJjRVpBcVdxazhIbjFKM1AxY3NmZUpFWkZmUXRJYWlscmk1cVpENHQzS2dJNTBwdw?oc=5",
-        "domain": "thejewishchronicle",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T172333Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Odesa under Russian attack for almost the entire night: homes, educational facility and infrastructure damaged",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXM4bFh2QUZhcjI2Y3NFMHBjNXVkaEVUNnJsSGNFNzdmUUloYVMzdG5wTXM5SFVyVkJCQUR2bDZ3WnBiNUlPSDNVbnNjbDN4UTl2LWlmVnF2MFRoYmpQdzZBU3pPYXhQc25YVXlYR21KelNZZzFwUktFWFU2YUdrQTkyQ1JCSWtLUnpQeVZ5cmU0Rnlz?oc=5",
-        "domain": "yahoo",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T041200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "In the Odesa region, two teenagers lost consciousness in a sewer; one died",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1J4UHFQZTZRRWZRS1dfcDJFakV2THJKX2ttX2lyQ0hwWGs3amdHNGJORHZrMFBBTEhhYmFSMS1aU2NTTlExU1l2cWdRa29Zampsa3A0MWtPX3FMQ21kaEZhUnhZWTg5NDg1LUx1MkNCV3NQdzA2Xy1zTFNLSHFjNFZYQURQNTFFMUtKMUhpSFl2elBtZmhRLW54dWdxSDBkMlBFSQ?oc=5",
-        "domain": "ua.news",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T190402Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Caspianization of Iran’s Security Environment",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORmwtRnQ3eWhEcU8tbG1heG4zVi1aVFdZejVNRmJqenlsYy10ZjFGQmJVbHVqVlA1OW9jcEtPNEFiLUV0dWZCVnVFX1NOcEhZUzlGUEFDSEhUbFhGSG91Q1JXbkhKay1NekhEOHNfcmkwTURydERES0Y0Tno1Zk1KV05oZnQ?oc=5",
-        "domain": "stimsoncenter",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T171257Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Dark Waters: How Russia and Iran Weaponized the Caspian Sea",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZzhsMHltdElvWFJSYjdCdHFEWXpuSjAyQmdKS1ZpNW0xYy1ibnlyWTZhNTU2OU54LTZNWTBud2Rvb1dYREpwclBOYzdOcUpYNlVKOVlwOHd3emoyR2JBUHhMMF9idWJaX3V2bkZxNExoTmFaSXNfZFUteEZBY2FZOFRR?oc=5",
-        "domain": "jerusalemcenterforsecurityandforeignaffairs",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260826T210955Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bulgarian Delegation Caught in Odesa During Russian Strikes",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1RMQ05JdHE3bTdiaG1nWHNTcGY4YzZpdW9VWFh2RDhXZHFmSTY1czFYVktYWlBBOG9wdS01V0NGeUpjNGs5RC1keFg0R3UxSlNoUDZ5Q2lGNC1zZUg4akNRNkZiMDNWblNpeXhtYW9BMkVJbUR0TWxSalF5REY4c0RDNEM0OW8xajNTclpqcmhRNjZ1VHhKbURZRlZ4MFZPOEE?oc=5",
-        "domain": "novinite.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T122206Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Pirates of the Caspian: How to plug Iran’s northern supply loophole",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObEFaN0YtMEFnM1h4S0pZeGpQN0dYOEtGa1hXVVhiLVZQZHNBaHc3MVFNZE45UUh3TmJFX0ZpeXI2d3l4Q3VzSDJ1aGF5R1lmQzR1LWZ5SXpSYXpSYUJXNEl5cVpad3pBMG9nZDRXY0dEcTFPRUtya0xJOTBhd09uM0hlN2F6eUxDbTFV?oc=5",
-        "domain": "washingtonexaminer",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260826T110000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Odesa Takes Center Stage in Fiction Abroad",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KbGF3ZUM1ME5ZZVRLNF81NG1NMGhubldBT1FoY0NZTFVYTmJEUk5IMmVfN0JpNi1KRFBlemxtb2hZN3I0bV9wRW85OA?oc=5",
-        "domain": "kyivpost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T115706Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ukraine War Bleeds Into the Caspian",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XdVFtRmZ5SkpXdkhPMkhzUVhiU0tOTVpzYlFQVmJMMk0wUWlRVWdvODhPUEJUTVdVMlF0S1EwUEdJdmpvWkRReTljZkNJbElta3J3SVU1ZGphbHA1cnlwa1VZMF9fTWxYNTJFVm5R?oc=5",
-        "domain": "centerforeuropeanpolicyanalysiscepa",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260814T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Azerbaijan’s Sabah FC Make UEFA Champions League History",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3RXTXgwc0szY2stMENILXFsaTRHU1VEa2pCNVlvUFRUaUxUN28wLVh1YlZEbHAySGQ4cklTTVFObGRiNk5OcmhWY25uZXd1RXdlSUswcWl1ejFPdGY5ZVZJb3c2Yk1iNThEcE5meDI4UVR4cXhsZGJFY1lXX3hieVUtYkNzdTIyMDIySWxuS2JGUGJ3S25CZVlYRTN6TTZfa2Nod1FmZ08?oc=5",
-        "domain": "caspiannews.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T214408Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A soldier who opened fire with an assault rifle was detained in the Odesa region",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdk02WV9fOG5MY1J3NFpXQkpTMmpBbXE1bjN5M3J4eVJIN290TXQ3blNPU0M3c1BzTUY3ek5aYmw2Q0JBakdjRzNSSEt0LXA3VEh2LUlmWjV4WVVad1l4NkxNNU56RU0teFo5WWttM1VhVDdlWTBmdG1jTlN4Z1E4aFhqNlJiUWNsZkZpTkpLVXU5dTVWWjZDaWpZWEpkSkk4d1NEMGgxelZteTAyMkxkLVJ6U0M4Nk1QZ1ZaWFpR?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T084300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russians attack power facility in Odesa region",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQXzVfYTFocTV1MllUdHV5VWtscUxESFU0U0JHUW96Z1hFdFQ0MG9Wc042dXJ2czI2UU05eW1hTU1Edzg5ekRvRWNOS2ZSYUpoU3o5QUlKWWxkNGQtbDh3bXhheGdBWDIweGVLM0ktUVdscUNiajVOQVNSMDZBME9XeWdtOUpDYnBDbGFFN1dob1BIS290bXNPMXpNTHnSAaIBQVVfeXFMUHRHZERIQWtmZ28yeHI1WWd6Q21OR1FWU3h2eTRDNEVuY0pMWEVTNkY1eWZjUWo0Vi11WC1mSTF4WW1WdUxFbDJHaV9saVJlTlRYRTc2MmV3WUhXQVh5V053WkhFMm1YTkpUUnVObm0xOUM4b1NRRUd4MmFCcjJfbUNfV0J2bzdBWWpLZUV5ODFRWXFDWnJ1UktpWFc5bFlFUi1n?oc=5",
-        "domain": "ukrinform",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T122800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The enemy damaged an educational institution in Odesa",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcE5yblJkTGNjbE5DSFU0NnotdzJvV2JramtVcFduSVBlYURMMWxtM19TU3hZa0NxeVgtdGltQzRzS0UtVDFXdURTN05pUzVXeC1sQnVfd1lCRWtjMU92azZhaDVrbEhXWmRlUXBYZ0JINWxYdmNFT0JOMUlFS2RMYXBZVEpjN09rcXF5bmRSQUVuMS1hUVdz?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T050300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Yuriy Lutsenko presented his first book about the war in Odesa",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZURrRDlKRG94ZzljeHVTVjI2X210djdPeGdqcmxvdUZ3ZnhPdVYtTmU5TXR4N09WS1pXT21jalpNTDF5MmZELVU4eGUyRzRKRzdVcTNNZURYdDBxeXNqRkNIaVNnOVpad3VfMGJTSUhPUllsRFZaS0dtTzR1Ukdwc2U4SXFOOE83YVY4aE9kc21TUUVyVjBrS2NEbXp4T1F5LTdTV0cwMno?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T173152Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A first-grader's school supplies will cost Odessa residents more than half their salary",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdy0xNkxxTTVEMVhmZGZLUDUtd290UHlWVzNLeHVYeTRMSld1a20xeVhIeVJpV0FramFQX05VSzBnMUg0SVQyRzZhWXZTYW01N2hPcXpFcmZYVmJpSDE1WHVyRXRYWEZtSjMtTWs0OWNHU2VwMWtOTkhHRVZDWDRwbUZYcGl5TXB0SWlaYV9mT1l3WERPU3cyUTBkMTVWdUVfQXR0aDJPZjhLeDNkaERxalcxMkpjOUd0TjJQaEFXeEphamhYWUxYVXhTR0QzMkctMWJRcm1CQQ?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T115400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russian forces hit construction hypermarket in Odesa, sparking massive fire",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSjlKWUhYQVA4ZDVfUWVhZ0lBX01lM0duRjd0UmZfQ0lhdVdJNlV0dFhrUkM5dTRCRmxrcXc5Y1FhT2NvX3lnT3UwdkQ5NkJIU3RnQTU3RkZIV0JKVzFfbGk3NkswRGVTYm9rNXJ1Z29Vd3B4bm5TOHJIcm14U0syY21xT1dzaEhBNlMyMTVzdHZsUi1DVlk2WVRlNzBfMXc0Y1VWWmVpV1ljRlN0UGdhLWUxWndaV3VoaHdscy0zdlNmdw?oc=5",
-        "domain": "ukrinform",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T075500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Two DIY hypermarkets damaged in Russian attack on Odesa",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjM1ZUZ2clY1NmRXNDlZWV9mZmVZZGI3cUhyMG5PMHlsczBUVmk3VGd5QlpHcGVnMkZVbnpJZW1SekdRalZBdk9zYW1abXl0ZmM1c01PODk1OTdwUi1FQ3M4WFl6ekZvNmZfRnQ2TVZ6eVo0TEFlLVVoaVoycEl0V1dHV2FlTWFFNzNTdXp2Qmx3a0Zzc1ZFUE9LWTRYaGJuRUtLWlQ5N3XSAa4BQVVfeXFMUFpJRnk3Z3l1d0R2T1Z6SFNrU09KSk1zTzVCUXYyQURLZldyZ3Z2VkRwS2E5bWxmVDlLQWRWME1pb0NtUHhFWXZVNi04QzlyZzhoaFBKREVqdExhbXVfMlgydDdhdUp5WjMzSjVCc1VLekZjQ01fS2lGNjFGRjBuMmpKMmdsTDM3MU9VaFlyWkdzNFJJZ1JQclN5VHBnNENISTNRaTZrYzVCUzNjMWNn?oc=5",
-        "domain": "ukrinform",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T091800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Caspian Sea hits 200-year low as Iran debates the treaty meant to divide it",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EX1gtVVN1QllsdEg1eEJiVmNVanlwaDhDWjNlOTdXaGZRU0JFU1lkeU5MYmQwRzdVdG9yc0Z3cFNXQm9zTzc5QTZYVl91NFROUXc?oc=5",
-        "domain": "iraninternational",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260813T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Is Putin's 'Caspian Express' A New Lifeline Between Russia And Iran?",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcVl2dFF3am1sbU1FQm1oTXU3UzU2Szl1eERfTk9mYnVSR0g3aXVFRXNQOXJpdFE1Sjhwdy04RHVxZzloQktoUWtkclF4el91TGdiV00wRmFSVTNKcVNSNjg4V3ZTUzJEUm1pUDRtUHI0R2lEa3lEa1c5eUNieUhJMmlQdW1GOThoWXg40gGOAUFVX3lxTE0tTy1XZmlNakVra1JIcnBQalhqZ3JmVzdYZVFlOFFId0xzQWg3bjFBZzMzZnpIOUVRN3NTZkt4R1RQcXR1aFZuMW9kbHl5UWtOYTd6MjhRd2xiRzFuVEhmeHk0Ujl5VWZyazA4aUNQa0xESmVZSVlxR3pneVphQnRxa2hyeHRsTDRzWHZDWnc?oc=5",
-        "domain": "radiofreeeuroperadioliberty",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260819T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The High Anti-Corruption Court has set a date for a hea…",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNaEVMRUFGY1B6OFdwankzYUJxS3l4QU9CS1p2Nm9MeEpjZFV0WFZ2MV9Bd2hRSkRKdUV6M1hUb1ZsY2lGb1V5RmFhZXc5SDhlVkxXU1ZJZHNDc3BPSE1ndzBVSjNTejZ5azhaRHpPdDZuekczc25kMFgyLW5LaHJTSUVtTlhfaHk2cTFtenNwMUYxbEJzY0Z5eGs4enZ0ckczbENIbWMzelB6M1VHRFRWS2VZOHBwQzFMdXpCazMwV25rTng4RG5wcHpHWEN4cmFhenJEaThaSm1YNDVVTm1RVXNKbC0tRmJpUWpkRG1ackNFZEotMEF4ZXRCWmlfc2YzNU5PSHpSNnlvbG1G?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T111400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Six Detained in Armenia Corruption Case, Including Former President Kocharyan",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYnE5Q2I0RWRaWjZNd1c3WkhLejAyUk5GX2lGTWVQYTNpMWYtRmxXMFpvVGxUaF9WM2tCNU9KbWFiNVdTVFhSR1FjVHZTMjBqVjBjazFzU0tIWkt3eVUydG02R2Jna2I3NDc2dGtMY2ZvZ0lKSHpRZHI2SXdrRGZUcFg4Tmd1bXVqM2taMG9iRzBHcmdDczA4ZTNhdVNEYUtRdXZ4UlhUS0VfbkNsZUREbVNjUHdBMk9JN1VHOFMzTW01ek01?oc=5",
-        "domain": "caspiannews.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T040317Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Vynohradivka–Vulcănești border crossing damaged in Russian attack in Odesa region",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdUkxOExFSlp0OFBkUFQwSmlJQjRpSFh1YlBFTUw0aEV3Q3l5NmlsWXo2ZTNOY1FrT0ozVDBKNC1FbXk4UUV3NnRycUthSE54SWRFa20yRW9RclRnaVZ4N3kzTVlMbGZLSWlOUEl0Uzh1NjgxLW5faEpTbFpTcnlsY1ZhQmhFMTBpLWJvenRpZFUtdzVnUzF1OVBxYXJBRm9xNjdXVFJqMG5zMnBNWGdzUG9yX19Zc1JDR2Z2LWRKelJQLTlKa29JMV9R0gHPAUFVX3lxTFB4UzVDZVp0OGJlSkZjTnN2RTBQd296aklSaHZabzZCNkFwUTZtMW5Ub0tEXzVkM3RIYlJkS2ZoNVV2eUpYdXYxRmJ4NUtST0d1VkxseDR4NXBLTzdPUkJlYjlLWVdqaWJ2MVdTbzlKemVSZ25iRFo1bjk2ZlVlUVJyc2ExQkRhOXZkRHJGMVlqcXA4YzlrMXVKZlAxMUNndUtkcUpXb2JQY3RRVVZvUHhwNWJKbUZfY1ZSaTNRUTBkMHpPNEpsa0lVVGktcW9vbw?oc=5",
-        "domain": "ukrinform",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T052700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Caspian Is Ceasing to Be a Barrier Between Central Asia and Europe – Alona Lebedieva",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1V3NDJhRWpYT2YzQXpZdDc5ZFpmTGw1dG5NX0JzMnFMV25VWnZGRVZnXzhuOGxBWkNtMGoyZWVhUm9UZWswbXJ3bGFMeHZodW5iZmJFRnQ2Y0t0Z3FIUHVoYm1WSloxNlJqcGZ0U0V0eThXWlZGcDIwSVQ1Sklieng0SVRmaThiUk1vWlNkaXBYbnNZRGR5WHlsUmRtem1DbjRoUVhtNFk5YUg4ZWVNdHI3RDg?oc=5",
-        "domain": "thenationallawreview",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260826T175626Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ukrainian soldier recruited by Russia to coordinate strikes exposed in Odesa region",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeW9nZU5ndFdBb3BDNVRkc05seWNBTUU5aG1WX1BHeENsWUpkVEx3cFp6LUJsUTNOenhGSFdqU3YyOHhxZXpiZEpWbWlSMXRNUGJJbEFSUkpWMDlWb3FOMFNndm02ZmpYdm42dXpiSFBwRTBCNEprcjVtNnFDdHE1YlpBenl4THZYN0p5WHhBOGVfRGR1T0R0dUttVzd3UURvc2JWSWNKQUpReHhlY0hVRmdkeVg1N2hZMkl3eVZYWTFDZEZZN2lOaUR6QlAxOFhs0gHWAUFVX3lxTE45YVF0b3RGRjgwSWUxd181TGJhVG14VDN2VTJCb1RTRU1uS3diajFMakIxVGZqSFBHajRsaTNSSkVmLV9nUW5VbUQxX2F1dEFkbnN0ejV2X0Q2Zy02Z1MwckZlUVJ2QVFwUDZJRW1KcDY2ZzU3Tkx4SW1RNEM0cm1IQWNfUWxyZXFJZG5YMWxfNXZMaFdsbmNONExKZVVObC02NzZzQVd2ZzFlV25uRzBFazRncmd3a0FFYWRSUHVDQjdENnFXd0IwQnhMd25uSjRnTy1fb2c?oc=5",
-        "domain": "ukrinform",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260826T215200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russian attack on Odesa leaves three injured",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45X2k1VHVLVkRpRDNUWmxwRzBIbFB6UHpmSlZ5bmwya2dNUzJBalFlNWs2Z0h4YkozdWlwMzlXTjBjWDZFZjdXUGxrbzBBTHEwM0gwVlYxMnRwWThITDB1bnpVTzNEQXByX0ZoVXdMbWZwRmpsYkHSAXRBVV95cUxQa1lqVDhPbzR4S0xEWkg3a1V3ZnFUWGhlY01xZk9kRjNFbTZjSEdFTnBTNEJuVzAyNHl5YXRIUlFoWU83UFhrOU1tZjZtNlI2eE5pR1JSQkJVYzhGdjFYQjJrdUtxR0h3d3h2WnpnaXFtMVJuYQ?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T065928Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Authorities Detain Ukrainian Serviceman After Alleged Drunken Shooting in Odesa Region",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CWmFac0dKMGNEbU1HMXNRYnExdE1IcE53TEdEZGdUVjBDdXFqWllzWkJ6YUhoeWtoSm52cjdSWWtWemFKejZ2WEVXQWRLM0FHVllEZ1R1WkhsZXBJNm9mVE1mN2g5ZTVRZ0dXcU9qd05GanAx?oc=5",
-        "domain": "..",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T073609Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russian drone attack strikes second passenger train in Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY2pEZk1hQ1FzekQxb1Z1S3lRTzVDN2hreGJWWG15RVpfLU1xcTg4UW1fUU9jSThmSXZJeTVVaHNHdnZhX3lRVXZQZU14ME84M1BoRUdXOFV4VEJmRHpDLUtZTk9lbF9zaFB4ZVU3Vkc2UGZPdU5ReXFmdnhVN0hfd2p5dXFIRU5JMkREang5RnJOLUZHQWR4WnVEcENaY3FpUkQwRkJfbDFnNUU5MUpFbldwTUdKSzdCc3BWRFVLTkdvNkNIMnc?oc=5",
-        "domain": "euronews.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260813T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia’s Overnight Attack on Odesa Injures Three Men",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IWE12cHcxZmlJaFNKSEVhaEVjTUxxYnRtQllNR0pwR2kyaXhwYjJOUnlLdGs3eWgxNGRieTJjMjVVX01RWDNGY1NTdG1oLVVQN25uUS1NTnJqak5sai1JMFBlVzVJRVRuR0R3NjFXTVI?oc=5",
-        "domain": "..",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T081214Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia attacked the Odesa region for over seven hours: homes and educational establishments were damaged",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzbDdQMXd4NS02LWZmQllBY2puQVd3MjRfSjhXZzYyREl4bmJVMnp4akotbGtSVVlZUk45T0dnb1FhUV95bV9vZ1o2Q3RabWZSZVJxOUNvMXpVdG5tSnlvLUR2Y05OV1B6LWlmOElVcmJ5V3VnclNF?oc=5",
-        "domain": "ukrmedianews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T061917Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Uzbekistan and Azerbaijan deepen trade and Trans-Caspian ties",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWw1VS1LUEN6bXBxZG1fVXhNdUFGeWotWGllTzVmM3lOSDNCQ01JUUFTcDJrVFFlSWw4bmEtQTNZVW5CYVJuNlJpbWtOZy1sZzVWYlJSNmNlTDJqZlJhMWVCS1V1V21Cc013cktQVWJNNnNuaDNWTF9hbDJMdDBpcG5hVU5BSG1pbHVWdE9VRXVEb003N0t1Umx4VnZndVlZMWk0S0RCQ21xYzUwZ1d1YzV3V3lDZk8xWjlHOEpVdmxqMzlE?oc=5",
-        "domain": "euronews.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T195941Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Caspian Pipeline crude shipments face drone, weather risks in September",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcXlZLXhLWWxJSVp3eE95RW1xRV9FQmw1enFwcmltRFVWcTJ3TnRyTlVPbmx6b0xEUnFFNl96NnppaXdBR3FWQm9pcGFCMUpvbHlNc0hBN1k1SXJWVEdVMEN3RS1iRnNUbnk1WTRVWjB2VXc4V0lZRHdvVmpQRFpBNi1yMXFSOUQ3SDEweW1iNkpUQXNEaEZjR25UNnlKNUNLTHRTSjY3eXRkWmswUmpMYjJybWRlNFZN0gHGAUFVX3lxTFBEY0VveV9kcEx4b18taElYRjhDM2ZDQVFSX1g4ZDVXbEoxRXp2X3hFS0lMLXZ0dGNianRnUmNkdzdtQlkwMUQ3MTE0bVVkT2RaSFMtVDg3NGdVRFBVTnNzbWNDdk5PRU1nOFR2OFF0V2JVeEwxZXlxdHNPNWU3M01BWmJZUkZOU2tMOTE3SG1PNGVfRklGY1llM25hNU1hemRXVGtmR216UmNMTEZCRDQ2d1ZPU3d2Zl92RV9MTHVwanhOSUF4UQ?oc=5",
-        "domain": "bairdmaritime",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260826T181136Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A Joint Azerbaijan-Uzbekistan Caspian Fleet: The Key to Expanding the Middle Corridor",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbDIwQk15MEJ3M2NrWDlDSllMUmhNbHdXb1NkcmlVQzdXbGNQTUhXcGdId1h0R1FkZHNfVUFHQkpQbkpJRXpjbk5aZndDVHluOFUzaWIyZHBzQ2dzenVlM1UxVnZ4aTNYRHRzQzhzeUZQenAyYjNrc0FldUt6WVA3Q2dXYkQ0M000NHlfR25RYTMxck9aSzFUSTg1bjRhMEdKM1RTcF9XZFptQncyN1R6Y3ZZRGdhdjA1MEFETlM5MjhoMUEyNGxGSXVxTlpxS1FkbUUwLQ?oc=5",
-        "domain": "caspianpost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T095720Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russian Drone Hits Passenger Train in Odesa, Evacuation Prevents Casualties",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNWV2dmlnTGlJUi03VE02dHJpY0VLdnp3YVk3T1RoLXI3NjdkYkpZbFZKbzQtOF9XYVhvTWhYYnlxVG5pRWRPb0Y5UQ?oc=5",
-        "domain": "kyivpost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T132746Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russians launch combined attack on food warehouses and energy infrastructure in Odesa region",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdHdQMVFnU0JSV3dHLVNOZzROV1lRNlZXbV9JTEVfbUlGVW9GM1F4c0txRkh0SndnYWhTRHpfNG15NlZEWWpxZmNiZkU2MEd0d2tBMkVCeG1jb3RDcThyRTc4bVM3T0YzaU9hVFhoeTZWaEJzcHY4UUxJbmkyN1VVd0pDcEVBaXF4TXBxODRCeERvX1drNUo0SHNUVi1POGhNQXp6REg1czRSV3EtQVFkT0x4THgzVDllZ0VROUIyeG5nRVJOMDNqVUY5c2pERTdITlVubDJiYTFqZ9IB3wFBVV95cUxNLVFuZUk1a0V2X21UZ2xYN3dKN0dZVGRGOFpYQ3RzU181ZHBmOXJJNElseVJhR0lUMndxNVVNYzdJZlc5WDVSRERhWnVNUGQ3c0R0anNVYkdwMzJacnVqcHhJNUVLOEVNOGNSbWZfVU5CcHVsNzd2T0h2T3o5eUwwTVlXdDl6dHBmRWNGV0s2Szk4YUxjWEpSNzVLeVRCVnBCTHl4UWU5aDlHRE5NNkNjRmNWS0t2X0lNODFqZ05wd21qRjZ6OVZ6MWZGNTVpWjBRdnJiS1RnNTJsS01OM01n?oc=5",
-        "domain": "ukrinform",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T065500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Two DIY superstores ablaze in Odesa following Russian attack – video | Ukrainska Pravda",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TVEZ3dmxjQzZNNU1xb3UyVndSSFlvdlhXeF9wWlBfUjM5SGZmNEQwSktwN0JONUhZQ3Q3UE9tVFNvdG1GR3lkdk1iNUNmbUJ1amZ3WDNPd2R3eHc5SmxGYll1UTY?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T060900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Sun, sea and bombs in Odesa",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGliSUVaVUtCNjVyZGpJWWJKMUpKbXBuM3IxYXB0cVFGRm42QUdLY05HVVV2SVZrLXppejZ2NS1Eb3F4SW55clNTZVhrN3FFZExRNUVKRVZQM0ctejZLUkZTOU1mY0lScFFDZm95dW5tYXBhVU9OSHFNTnUzX1FzZVV2Z2g?oc=5",
-        "domain": "financialtimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260813T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russian strike injures four in Odesa",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMS1tVzctbWtZSVFYWHlzbGJpT1Ntd2JCTFRlWjRSV0dmcXpvejVlOUw1RExfREVHaHp4enJWRzhOUWRIOVJFeVlSWHZ0YXA5NU5xX29zVU45VERQY0szMFF0ZE5Uc1R6dkRheDVIYThzby1MLW95SzVlRWZJTzhXczROSlRHdjJhSy1IWV9GVXVwS3oxWG9OUVJR?oc=5",
-        "domain": "apnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T072300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Caspian Sea Security",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVJhTzRpb0ZEUldaVVE5VjNnZDg4RVJZcF9yS3FUejhuVFJBQk95bFNaZmlwOF9mVmJKWFJtVGdnUzUzRzFDZVluS3FjMHEtVXJhSlM4UnY5Q0l5ZlBieldaXzlIN1F1UkVLdUJOUFBPX09fN1Vhd3o2QU5VaWF3RktXYWZ4M3hL?oc=5",
-        "domain": "hudsoninstitute",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260803T182442Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia Says It Struck 4 Vessels At Black Sea Port Of Pivdennyi And One At Odesa",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3N0ZzY3MmlxTHRkZjUxbXlyNHZWQXB5X2ZiX29RNnozRnJDSGdhNkdoVmhlZzUyRkdaNXhtUjY1eHp0dTN6X0dmS1BvRnlRb3pvbGdlNlV5LTFIcFdYUTJXdUlfeEIxMi1paHZsc3lOdy1zVVdZeXFRc0ItNDlLWXdwODdUbWYwa0pFWlV2Q1FSRHB2LUpidkJ0Mmp0T0JpM3hsaTVOTVIyRzhvT21N?oc=5",
-        "domain": "marineinsight",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260826T131503Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran Parliament Begins Review of Caspian Sea Convention",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeFVPNFByYjdCZkNGc3h2SzgxX3g3RDIzVHZWcnhPS2Z4MElvRHNpR3V1eS1OcnM0dWE3NzFPbUFRbHhJbTg0eF8xVjdSNjhYTktQOW5RM2ZYSW9oQTNMSXhaNnZpMFBJVUZKZzJXd3NZZVp4NmxiVzRiYzNMR0VOcmNMS3lpTFhmcE5LeWtpUm1nQ0hMeFRN?oc=5",
-        "domain": "iranwire",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260806T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Odesa region generated the most revenue from parking fees in Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNnM2aXcwWDdRaFo5QVZBUy10amtaTkxRYXZmUmZqdm5LaEVBYlBRNW84S3oyLUtOclNLNXRJbEdfY3BNQ0hDU2R1dzJGbGxQaG1DS3pCS29ERGtDUHJEdlNLWG9ORGhkYlRsUnR3Y2h0NS1zVjE0QzJncE1pUTF4bEo4TERpdERPNnkzQkdNREhDYkVFNGg0bE9UVVB2Y2VSYTVKeWxiT25qUzRJVFZoZzFIZ2pWQQ?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260826T124123Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Odesa region has made it into the top 5 producers of prepared foods in Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS0Z1SkdkV2hwVGpuM3lBQUtCWWt4ZXdNN3hudmpRaGNOSGZ4bnc3Yng5M0V2b1FUZnZ0ZUNsLWstZ0YzVVR0NnV0WmVhRG1iMmN0UVpfTlVUUW1pRFNqM0dTRktlOEdsNE93ZDhtdmdhUEMwYWI0ejIzajFpSExheW44TTdKSWJHUkhBdk16dk1CQUg4MDFUd1ctTTBrSC1zNUc5QkxpZ2kxemJaRHRjblRpR1R3bkpUd0FoazdaYUdSODR1MU94WDZ0S0ZQSkpW?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260826T182210Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran Launches Largest Solar Power Plants",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcEdUbFRaM3R1N2w5NFhoZmQ4Vy1VZ3BoMTNoZWJnTnhCNml1dFVNaEczWE1wRndPRFd3QUxQb25RUDA0SVlzSUtiTTdSRmNDRW9LUU1pMktGWkNadDVVamZFNXFSVGJ0ejV3dHFQbTRsbkdNWUVlUGYxWnMtWEoyTUxUbFk5d2hBdF8zbDFOY1kwb2V0?oc=5",
-        "domain": "caspiannews.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T021811Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkNMLVhYYm1zdG9veTFxQlIxY3IzNHpyOFZGMzAzWVZVWU9xU0xTUzdGMUplZmlzZTlPbEZCV3Fsb3pPa1J2MWhuU0Vhc0xoSDhsZXpLWUh6ektRLUItdUVUd2g4Q1lTSmtLZWlNd1p4ZnhhYUxlRFdCVjZlOUtQaU5qX1U4Ql9DRUtvNWZOVnRJMjNOOHJMSmFkQzNqTThMY2ZFamxQV0dqemsyRlhmaGFHZHgzLXd0b081dDZKRVRfTE9PeVhj?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260810T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Odesa : UNESCO condemns renewed attack on World Heritage property",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUFZVER4RTNJSXFYOUNjaUNHbDlPOGQ2UWtFSE1XY2F4eGJCcm1lTnp1MTV0LWJKUUpyZUZ5c3pDdHFWZm0xWTNuOHNRTUxWaG1iMVc5TjNKY25UQXI2S2tLWWM4QUN3Sld2Yk1BRzl2aDF5SUU1dEdRcVpHRExEVXhLNFJ2eFRmLVVaZ3R5ZlM4Y0NmZWM5SU9YUQ?oc=5",
-        "domain": "unesco",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260815T214025Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Odesa region was under attack by the Russian Federation for more than 7 hours: a high-rise building and infrastructure were damaged",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOanZiZTlBRGtrb01BNmZTWEJkbTczaVhncW1nSjhzT1YyMWdxWXU4SUxGU3BTeldNNURSMGJNTFRiUnhBY0V0UnZzdVlyNVQ0ejYxUE5kVTNNX05zamFwMkFOcXc0ZnVJekp2UmFHeTIyRktMSC0weV9TRHRoOEhhRkM2S1B0QjVxRWlMUGJBZmE3bzFlaC00UzY1RGNoREd1RzUzWEdmMTlhXzBTUnBxYlhkUnhIY1hzQWV6NHJQcDM2bkRnM0xkTUU4X0FmcnVOZ2xrYW1Cb1ZoUjRXSl9WdzdPTVc3Tmx30gHnAUFVX3lxTE0xSlNmMWF6cnQ2cWVmMWhyd2RrbnRwb0xYZ0hVbW14ekR0dWtORDU5ZHAwLW00YVJOTER5WjBkdm1XVmV3WEVhREQyTXpkWWtjaWFoZWxrSllWdF9tLTRkenBuRENUQTAxZnlrOGpQM1VlQWloNnU4ZDFnZDhGSXVjRTY5MjYxRHRSNFN2YlVlbXMtenE3UjdWWVJBa2MwM2w5ZElHdy1GYVFYRjUzSm1CcFBxc0stdXpyczFraC1SdS03YURHWWxIOXpveU9DR1JfR1hLQzBrMGFrV01CUkZ3SjBlSDhkTQ?oc=5",
-        "domain": "news.google.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T053310Z",
-        "source": "GoogleNews"
-      }
-    ],
-    "exchange_rates": [
-      {
-        "currency": "USD",
-        "rate": 1
-      },
-      {
-        "currency": "AED",
-        "rate": 3.67
-      },
-      {
-        "currency": "AFN",
-        "rate": 65.14
-      },
-      {
-        "currency": "ALL",
-        "rate": 79.04
-      },
-      {
-        "currency": "AMD",
-        "rate": 364.34
-      },
-      {
-        "currency": "ANG",
-        "rate": 1.79
-      },
-      {
-        "currency": "AOA",
-        "rate": 924.72
-      },
-      {
-        "currency": "ARS",
-        "rate": 1514.16
-      },
-      {
-        "currency": "AUD",
-        "rate": 1.39
-      },
-      {
-        "currency": "AWG",
-        "rate": 1.79
-      },
-      {
-        "currency": "AZN",
-        "rate": 1.7
-      },
-      {
-        "currency": "BAM",
-        "rate": 1.68
-      },
-      {
-        "currency": "BBD",
-        "rate": 2
-      },
-      {
-        "currency": "BDT",
-        "rate": 122.83
-      },
-      {
-        "currency": "BGN",
-        "rate": 1.68
-      },
-      {
-        "currency": "BHD",
-        "rate": 0.376
-      },
-      {
-        "currency": "BIF",
-        "rate": 2989.96
-      },
-      {
-        "currency": "BMD",
-        "rate": 1
-      },
-      {
-        "currency": "BND",
-        "rate": 1.27
-      },
-      {
-        "currency": "BOB",
-        "rate": 11.53
-      }
-    ]
-  },
-  "entities": [],
-  "events": [
+  "sources": [
     {
-      "title": "When lakes decline, can they recover?",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9STUNXS290S1o4M0NuWXRGVFVmcWM0aHczWm03dXg1dUtrajQ5WFhQNXNjNDhhS0NsWER6Vzg0NG5MczVzSlRTRXkxd2FTQmxPWTVmZWpZamo0ZWllZVJ1VzZFWENBS0tnVFcycE9vdVlmZUJFTkw0?oc=5",
-      "domain": "dw.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T122624Z",
-      "source": "GoogleNews"
+      "name": "IMF PortWatch",
+      "url": "https://portwatch.imf.org/",
+      "role": "Regional AIS-derived port and Bosporus activity"
     },
     {
-      "title": "A court in Odesa ordered the seizure of the former director’s shares in five of the country’s water utilities",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMXU1SUc2cGd2bmJPNXNDTGdXSmZVTUVmODNIY1ZMUmlza3JyWEdzOGxwV3JBOWczYzR3RjNNWEQyYUJ4Mk8wbGVScHJ4QmhKV2EtRnJmZThjd1c2MVVQaUxXLTNFOHphSXYzVlo4aURqVW9fUmFpaHEzMklfWFVnLXB4aER4bkdHQ1RGNGNqRG5NYWdmbG96Y3hCQUoxYlY1dlhXclc4cGstVFQyRkptNWM2RnBueGhydVZlanVDY3pEM2VQRFE1c2tHRTZHOU1McEpDTlFHRFZjMFMtczVST0FB?oc=5",
-      "domain": "news.google.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T194112Z",
-      "source": "GoogleNews"
+      "name": "NATO official sitemap",
+      "url": "https://www.nato.int/sitemap.xml",
+      "role": "Dated official publication-title vocabulary"
     },
     {
-      "title": "Russian attack damages infrastructure, educational institution and apartment building in Odesa",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVUlxVWJOREtHOExfakt3Yy1KdE9NRTVrdTZ2TWo4VDBtRldUeWVLMDFybERoVkJHRnZ3UXhNRElFTXJIeDdFTHA0bngxSjlMQVVoT2JsRDFJd24yUjVOdy1qSDJDZWFSSGpNVEd5MGc3MENvajl1X1Y0cDBaWHVCUHVsSHlvWVhjT2otYWZMOXQ4bnZSdFJ2ZlFMOUpUdUlCdURuVUx2UklMSWtiVHRCX0JIS1ZNM0xuZnAwdlR5bTl2Mng0Rm5DRy1CRHJLcXBDUzk0cVFkUjhWNFRBS2JMdtIB4AFBVV95cUxQVUlxVWJOREtHOExfakt3Yy1KdE9NRTVrdTZ2TWo4VDBtRldUeWVLMDFybERoVkJHRnZ3UXhNRElFTXJIeDdFTHA0bngxSjlMQVVoT2JsRDFJd24yUjVOdy1qSDJDZWFSSGpNVEd5MGc3MENvajl1X1Y0cDBaWHVCUHVsSHlvWVhjT2otYWZMOXQ4bnZSdFJ2ZlFMOUpUdUlCdURuVUx2UklMSWtiVHRCX0JIS1ZNM0xuZnAwdlR5bTl2Mng0Rm5DRy1CRHJLcXBDUzk0cVFkUjhWNFRBS2JMdg?oc=5",
-      "domain": "ukrinform",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T052000Z",
-      "source": "GoogleNews"
+      "name": "U.S. Treasury OFAC",
+      "url": "https://ofac.treasury.gov/press-releases",
+      "role": "Russia/Iran-linked official action velocity"
     },
     {
-      "title": "Odesa under attack: Russia is cutting Ukraine off from the Black Sea",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHBNSUFHQlBENzhXTDBZWHphUVowSTMxNUZqeDZtcmdybWlaenJJQUdFQ3dzeExrd0lDYTcxbm5yV1cyaE5LbktyUnFLSl80VzEybDlJMmsyZE04VFBud2lUOGFKZjZhRVRGTzM4R2lRaG5WWmxjU0dBMUh3azVqQ3BXSGIySjk2N2xYOVlvLXp5ZFFCT3hMUmpuU1gyOGwwbHQ2RE1nSEdXdFRUbzhZQzhhM0t3SnBhN1ow?oc=5",
-      "domain": "atlanticcouncil",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260818T070000Z",
-      "source": "GoogleNews"
+      "name": "FRED / EIA and IMF",
+      "url": "https://fred.stlouisfed.org/",
+      "role": "Brent crude and global wheat price dislocation"
     },
     {
-      "title": "‘Hitler tried to kill me because I’m Jewish. Now Putin wants to kill me because I’m Ukrainian’",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZjNwRFBoTWN5ZC1OOVFmblFISGlObHZEa25KeTQ0WEp3c0E0SXpkUTJQTzJhWDV1ZkRRZjVkLVh1QVNGV1lPRmFvckdDWUszdEx4Q1VJeGJLWUktZEZRcmgwOGg1WDgxSGJWUFNscWRadVNxUTYxZnlaLWJ2dHVtbUJIRDBKVGN0RWw3N0h1QmFWN2J4N2thRFJ6YTJjRVpBcVdxazhIbjFKM1AxY3NmZUpFWkZmUXRJYWlscmk1cVpENHQzS2dJNTBwdw?oc=5",
-      "domain": "thejewishchronicle",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T172333Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Odesa under Russian attack for almost the entire night: homes, educational facility and infrastructure damaged",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXM4bFh2QUZhcjI2Y3NFMHBjNXVkaEVUNnJsSGNFNzdmUUloYVMzdG5wTXM5SFVyVkJCQUR2bDZ3WnBiNUlPSDNVbnNjbDN4UTl2LWlmVnF2MFRoYmpQdzZBU3pPYXhQc25YVXlYR21KelNZZzFwUktFWFU2YUdrQTkyQ1JCSWtLUnpQeVZ5cmU0Rnlz?oc=5",
-      "domain": "yahoo",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T041200Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "In the Odesa region, two teenagers lost consciousness in a sewer; one died",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1J4UHFQZTZRRWZRS1dfcDJFakV2THJKX2ttX2lyQ0hwWGs3amdHNGJORHZrMFBBTEhhYmFSMS1aU2NTTlExU1l2cWdRa29Zampsa3A0MWtPX3FMQ21kaEZhUnhZWTg5NDg1LUx1MkNCV3NQdzA2Xy1zTFNLSHFjNFZYQURQNTFFMUtKMUhpSFl2elBtZmhRLW54dWdxSDBkMlBFSQ?oc=5",
-      "domain": "ua.news",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T190402Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "The Caspianization of Iran’s Security Environment",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORmwtRnQ3eWhEcU8tbG1heG4zVi1aVFdZejVNRmJqenlsYy10ZjFGQmJVbHVqVlA1OW9jcEtPNEFiLUV0dWZCVnVFX1NOcEhZUzlGUEFDSEhUbFhGSG91Q1JXbkhKay1NekhEOHNfcmkwTURydERES0Y0Tno1Zk1KV05oZnQ?oc=5",
-      "domain": "stimsoncenter",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260825T171257Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Dark Waters: How Russia and Iran Weaponized the Caspian Sea",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZzhsMHltdElvWFJSYjdCdHFEWXpuSjAyQmdKS1ZpNW0xYy1ibnlyWTZhNTU2OU54LTZNWTBud2Rvb1dYREpwclBOYzdOcUpYNlVKOVlwOHd3emoyR2JBUHhMMF9idWJaX3V2bkZxNExoTmFaSXNfZFUteEZBY2FZOFRR?oc=5",
-      "domain": "jerusalemcenterforsecurityandforeignaffairs",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260826T210955Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Bulgarian Delegation Caught in Odesa During Russian Strikes",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1RMQ05JdHE3bTdiaG1nWHNTcGY4YzZpdW9VWFh2RDhXZHFmSTY1czFYVktYWlBBOG9wdS01V0NGeUpjNGs5RC1keFg0R3UxSlNoUDZ5Q2lGNC1zZUg4akNRNkZiMDNWblNpeXhtYW9BMkVJbUR0TWxSalF5REY4c0RDNEM0OW8xajNTclpqcmhRNjZ1VHhKbURZRlZ4MFZPOEE?oc=5",
-      "domain": "novinite.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T122206Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Pirates of the Caspian: How to plug Iran’s northern supply loophole",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObEFaN0YtMEFnM1h4S0pZeGpQN0dYOEtGa1hXVVhiLVZQZHNBaHc3MVFNZE45UUh3TmJFX0ZpeXI2d3l4Q3VzSDJ1aGF5R1lmQzR1LWZ5SXpSYXpSYUJXNEl5cVpad3pBMG9nZDRXY0dEcTFPRUtya0xJOTBhd09uM0hlN2F6eUxDbTFV?oc=5",
-      "domain": "washingtonexaminer",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260826T110000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Odesa Takes Center Stage in Fiction Abroad",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KbGF3ZUM1ME5ZZVRLNF81NG1NMGhubldBT1FoY0NZTFVYTmJEUk5IMmVfN0JpNi1KRFBlemxtb2hZN3I0bV9wRW85OA?oc=5",
-      "domain": "kyivpost",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260823T115706Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Ukraine War Bleeds Into the Caspian",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XdVFtRmZ5SkpXdkhPMkhzUVhiU0tOTVpzYlFQVmJMMk0wUWlRVWdvODhPUEJUTVdVMlF0S1EwUEdJdmpvWkRReTljZkNJbElta3J3SVU1ZGphbHA1cnlwa1VZMF9fTWxYNTJFVm5R?oc=5",
-      "domain": "centerforeuropeanpolicyanalysiscepa",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260814T070000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Azerbaijan’s Sabah FC Make UEFA Champions League History",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3RXTXgwc0szY2stMENILXFsaTRHU1VEa2pCNVlvUFRUaUxUN28wLVh1YlZEbHAySGQ4cklTTVFObGRiNk5OcmhWY25uZXd1RXdlSUswcWl1ejFPdGY5ZVZJb3c2Yk1iNThEcE5meDI4UVR4cXhsZGJFY1lXX3hieVUtYkNzdTIyMDIySWxuS2JGUGJ3S25CZVlYRTN6TTZfa2Nod1FmZ08?oc=5",
-      "domain": "caspiannews.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T214408Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "A soldier who opened fire with an assault rifle was detained in the Odesa region",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdk02WV9fOG5MY1J3NFpXQkpTMmpBbXE1bjN5M3J4eVJIN290TXQ3blNPU0M3c1BzTUY3ek5aYmw2Q0JBakdjRzNSSEt0LXA3VEh2LUlmWjV4WVVad1l4NkxNNU56RU0teFo5WWttM1VhVDdlWTBmdG1jTlN4Z1E4aFhqNlJiUWNsZkZpTkpLVXU5dTVWWjZDaWpZWEpkSkk4d1NEMGgxelZteTAyMkxkLVJ6U0M4Nk1QZ1ZaWFpR?oc=5",
-      "domain": "news.google.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T084300Z",
-      "source": "GoogleNews"
+      "name": "MET Norway Locationforecast",
+      "url": "https://api.met.no/weatherapi/locationforecast/2.0/documentation",
+      "role": "Seven-day ECMWF-based port weather forecast"
     }
   ],
-  "timeseries": [],
-  "llm_summary": ""
+  "methodology": {
+    "weights": {
+      "maritime_flow": 0.3,
+      "nato_posture": 0.25,
+      "regional_sanctions": 0.2,
+      "commodity_dislocation": 0.15,
+      "port_weather": 0.1
+    },
+    "fallback_hours": 72,
+    "flow_window": "7-day mean versus preceding 28 days",
+    "institutional_window": "current 14 days expressed weekly versus 12 prior weeks",
+    "concurrence_rule": "+5 only when NATO/OFAC ≥45 and AIS/market/weather ≥40"
+  }
 }
