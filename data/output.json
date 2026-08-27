@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-27T22:38:52.735731+00:00",
+    "generated": "2026-08-27T22:41:02.934362+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -650,6 +650,11 @@
   "history": [
     {
       "generated": "2026-08-27T22:38:52.735731+00:00",
+      "score": 29.5,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-08-27T22:41:02.934362+00:00",
       "score": 29.5,
       "status": "WATCH"
     }
