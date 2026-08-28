@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-08-28T11:13:37.850919+00:00",
+    "generated": "2026-08-28T22:12:57.497046+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 30.6,
-    "raw_score": 30.6,
+    "score": 31.1,
+    "raw_score": 31.1,
     "concurrence_bonus": 0.0,
     "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 30.6/100.",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 31.1/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -422,17 +422,31 @@
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
-      "score": 38.8,
+      "score": 40.0,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 33,
-      "current_14d_weekly_equivalent": 23.25,
+      "coverage": 35,
+      "current_14d_weekly_equivalent": 24.5,
       "baseline_weekly_median": 11.5,
-      "anomaly_z": 1.06,
+      "anomaly_z": 1.21,
       "method": "Russia/Iran/region-linked OFAC title intensity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "title": "Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast",
+          "action": "Iran-related and Counter Terrorism Designations",
+          "date": "2026-08-28",
+          "url": "https://home.treasury.gov/news/press-releases/sb0617/",
+          "region_terms": [
+            "iran"
+          ],
+          "posture_terms": [
+            "designation"
+          ],
+          "weight": 2.5,
+          "age_days": 0
+        },
         {
           "title": "Treasury Takes Action Against Violent Far-Left Terrorist Networks",
           "action": "Counter Terrorism Designations; Issuance of Counter Terrorism General License; Issuance of Amended Russia-related General License",
@@ -583,6 +597,21 @@
           "age_days": 8
         },
         {
+          "title": "Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance",
+          "action": "Counter Terrorism and Iran-related Designations; Counter Narcotics Designations Removals; Issuance of Amended Iran-related Frequently Asked Question",
+          "date": "2026-08-07",
+          "url": "https://home.treasury.gov/news/press-releases/sb0598/",
+          "region_terms": [
+            "iran"
+          ],
+          "posture_terms": [
+            "designation",
+            "sanction"
+          ],
+          "weight": 4.0,
+          "age_days": 21
+        },
+        {
           "title": "Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC",
           "action": "Counter Terrorism Designations; Non-Proliferation Designation Update",
           "date": "2026-07-30",
@@ -596,23 +625,6 @@
           ],
           "weight": 3.5,
           "age_days": 29
-        },
-        {
-          "title": "Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network",
-          "action": "Iran-related Designations",
-          "date": "2026-07-29",
-          "url": "https://home.treasury.gov/news/press-releases/sb0581",
-          "region_terms": [
-            "iran",
-            "iranian"
-          ],
-          "posture_terms": [
-            "designation",
-            "disrupt",
-            "network"
-          ],
-          "weight": 5.5,
-          "age_days": 30
         }
       ]
     },
@@ -652,7 +664,7 @@
     },
     "port_weather": {
       "key": "port_weather",
-      "score": 11.1,
+      "score": 13.6,
       "status": "BASELINE",
       "weight": 0.1,
       "available": true,
@@ -661,84 +673,84 @@
       "method": "Seven-day maximum wind and daily precipitation at eight high-activity basin ports.",
       "evidence": [
         {
-          "id": "port833",
-          "name": "Novorossiysk",
-          "country": "Russia",
-          "basin": "Black Sea",
-          "max_wind_ms": 15.6,
-          "max_precip_24h_mm": 2.2,
-          "pressure": 25.7,
-          "valid_to": "2026-09-04T06:00:00Z"
-        },
-        {
           "id": "port100",
           "name": "Baku Port",
           "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 13.6,
-          "max_precip_24h_mm": 26.2,
-          "pressure": 11.4,
-          "valid_to": "2026-09-04T06:00:00Z"
+          "max_wind_ms": 15.1,
+          "max_precip_24h_mm": 52.1,
+          "pressure": 24.6,
+          "valid_to": "2026-09-04T18:00:00Z"
         },
         {
-          "id": "port1139",
-          "name": "Samsun",
-          "country": "Türkiye",
-          "basin": "Black Sea",
-          "max_wind_ms": 8.9,
-          "max_precip_24h_mm": 35.1,
-          "pressure": 5.7,
-          "valid_to": "2026-09-04T06:00:00Z"
-        },
-        {
-          "id": "port1112",
-          "name": "Rostov-Na-Donu",
+          "id": "port833",
+          "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 6.8,
-          "max_precip_24h_mm": 1.2,
-          "pressure": 0.0,
-          "valid_to": "2026-09-04T06:00:00Z"
-        },
-        {
-          "id": "port260",
-          "name": "Constanta",
-          "country": "Romania",
-          "basin": "Black Sea",
-          "max_wind_ms": 10.9,
-          "max_precip_24h_mm": 1.3,
-          "pressure": 0.0,
-          "valid_to": "2026-09-04T06:00:00Z"
-        },
-        {
-          "id": "port16",
-          "name": "Aktau Port",
-          "country": "Kazakhstan",
-          "basin": "Caspian Sea",
-          "max_wind_ms": 9.7,
-          "max_precip_24h_mm": 3.2,
-          "pressure": 0.0,
-          "valid_to": "2026-09-04T06:00:00Z"
-        },
-        {
-          "id": "port76",
-          "name": "Astrakhan Port",
-          "country": "Russia",
-          "basin": "Caspian Sea",
-          "max_wind_ms": 5.9,
+          "max_wind_ms": 15.1,
           "max_precip_24h_mm": 0.0,
-          "pressure": 0.0,
-          "valid_to": "2026-09-04T06:00:00Z"
+          "pressure": 22.1,
+          "valid_to": "2026-09-04T18:00:00Z"
         },
         {
           "id": "port1330",
           "name": "Turkmenbashi Port",
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 9.5,
-          "max_precip_24h_mm": 3.4,
+          "max_wind_ms": 12.8,
+          "max_precip_24h_mm": 4.6,
+          "pressure": 5.7,
+          "valid_to": "2026-09-04T18:00:00Z"
+        },
+        {
+          "id": "port1112",
+          "name": "Rostov-Na-Donu",
+          "country": "Russia",
+          "basin": "Black Sea",
+          "max_wind_ms": 6.6,
+          "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-04T06:00:00Z"
+          "valid_to": "2026-09-04T18:00:00Z"
+        },
+        {
+          "id": "port260",
+          "name": "Constanta",
+          "country": "Romania",
+          "basin": "Black Sea",
+          "max_wind_ms": 7.2,
+          "max_precip_24h_mm": 0.0,
+          "pressure": 0.0,
+          "valid_to": "2026-09-04T18:00:00Z"
+        },
+        {
+          "id": "port1139",
+          "name": "Samsun",
+          "country": "Türkiye",
+          "basin": "Black Sea",
+          "max_wind_ms": 8.3,
+          "max_precip_24h_mm": 22.0,
+          "pressure": 0.0,
+          "valid_to": "2026-09-04T18:00:00Z"
+        },
+        {
+          "id": "port16",
+          "name": "Aktau Port",
+          "country": "Kazakhstan",
+          "basin": "Caspian Sea",
+          "max_wind_ms": 10.8,
+          "max_precip_24h_mm": 2.1,
+          "pressure": 0.0,
+          "valid_to": "2026-09-04T18:00:00Z"
+        },
+        {
+          "id": "port76",
+          "name": "Astrakhan Port",
+          "country": "Russia",
+          "basin": "Caspian Sea",
+          "max_wind_ms": 6.3,
+          "max_precip_24h_mm": 0.0,
+          "pressure": 0.0,
+          "valid_to": "2026-09-04T18:00:00Z"
         }
       ]
     }
@@ -757,6 +769,11 @@
     {
       "generated": "2026-08-28T11:13:37.850919+00:00",
       "score": 30.6,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-08-28T22:12:57.497046+00:00",
+      "score": 31.1,
       "status": "WATCH"
     }
   ],
