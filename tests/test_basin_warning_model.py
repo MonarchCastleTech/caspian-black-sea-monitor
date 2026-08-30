@@ -3,6 +3,7 @@ from datetime import datetime, timedelta, timezone
 from pipeline.basin_warning_model import (
     band,
     composite,
+    fallback,
     flow_pressure,
     previous_is_valid,
     robust_z,
@@ -64,6 +65,19 @@ def test_fallback_expiry():
     stale = {"meta": {"generated": (now - timedelta(hours=73)).isoformat()}}
     assert previous_is_valid(recent, now)
     assert not previous_is_valid(stale, now)
+
+
+def test_recent_component_fallback_is_keyless_and_non_mutating():
+    now = datetime.now(timezone.utc)
+    original = component("maritime_flow", 47, .30)
+    original["available"] = True
+    previous = {
+        "meta": {"generated": (now - timedelta(hours=2)).isoformat()},
+        "components": {"maritime_flow": original},
+    }
+    retained = fallback(previous, "maritime_flow", now, RuntimeError("offline"))
+    assert retained["score"] == 47 and retained["retained"] is True
+    assert original.get("retained") is None
 
 
 def test_band_boundaries():
