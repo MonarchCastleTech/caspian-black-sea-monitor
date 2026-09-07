@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-09-06T20:20:13.741092+00:00",
+    "generated": "2026-09-07T04:24:03.411689+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 26.3,
-    "raw_score": 26.3,
+    "score": 23.5,
+    "raw_score": 23.5,
     "concurrence_bonus": 0.0,
-    "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 26.3/100.",
+    "status": "BASELINE",
+    "headline": "Caspian–Black Sea escalation pressure is baseline at 23.5/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -377,7 +377,7 @@
       "retained": false,
       "coverage": 22,
       "current_14d_weekly_equivalent": 0.0,
-      "baseline_weekly_median": 1.0,
+      "baseline_weekly_median": 1.5,
       "anomaly_z": -0.67,
       "method": "Regional NATO publication-title term weight over 14 days versus 12 prior weeks.",
       "evidence": [
@@ -390,7 +390,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 25
+          "age_days": 26
         },
         {
           "date": "2026-08-12",
@@ -401,7 +401,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 25
+          "age_days": 26
         },
         {
           "date": "2026-08-04",
@@ -414,7 +414,7 @@
             "security"
           ],
           "weight": 1.75,
-          "age_days": 33
+          "age_days": 34
         },
         {
           "date": "2026-08-04",
@@ -427,21 +427,21 @@
             "security"
           ],
           "weight": 1.75,
-          "age_days": 33
+          "age_days": 34
         }
       ]
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
-      "score": 34.8,
-      "status": "WATCH",
+      "score": 20.6,
+      "status": "BASELINE",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 34,
-      "current_14d_weekly_equivalent": 17.5,
+      "current_14d_weekly_equivalent": 6.25,
       "baseline_weekly_median": 11.5,
-      "anomaly_z": 0.56,
+      "anomaly_z": -0.49,
       "method": "Russia/Iran/region-linked OFAC title intensity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
@@ -457,7 +457,7 @@
             "designation"
           ],
           "weight": 2.5,
-          "age_days": 2
+          "age_days": 3
         },
         {
           "title": "Further Sanctions on Cuba’s Elites, Financial Channels, and Resource Exploitation Apparatus",
@@ -472,7 +472,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 3
+          "age_days": 4
         },
         {
           "title": "Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast",
@@ -486,7 +486,7 @@
             "designation"
           ],
           "weight": 2.5,
-          "age_days": 9
+          "age_days": 10
         },
         {
           "title": "Treasury Takes Action Against Violent Far-Left Terrorist Networks",
@@ -501,7 +501,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 11
+          "age_days": 12
         },
         {
           "title": "Rescission of Syria’s Designation as a State Sponsor of Terrorism",
@@ -516,7 +516,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 13
+          "age_days": 14
         },
         {
           "title": "Treasury and State Departments Deliver Additional Sanctions Relief on Syria",
@@ -531,7 +531,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 13
+          "age_days": 14
         },
         {
           "title": "United States Implements Operation Economic Outcast with Sanctions Targeting Iran's Military Activities and Procurements, and Petroleum and Petrochemical Product Traders",
@@ -550,7 +550,7 @@
             "targeting"
           ],
           "weight": 10.5,
-          "age_days": 13
+          "age_days": 14
         },
         {
           "title": "Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day",
@@ -566,7 +566,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 13
+          "age_days": 14
         },
         {
           "title": "Imposing Sanctions on Cuban Regime Actors Associated with Marxist Subversive Networks and Corrupt Economic Dealings",
@@ -583,7 +583,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 17
+          "age_days": 18
         },
         {
           "title": "Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah",
@@ -601,7 +601,7 @@
             "targets"
           ],
           "weight": 7.0,
-          "age_days": 17
+          "age_days": 18
         },
         {
           "title": "Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels",
@@ -618,7 +618,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 17
+          "age_days": 18
         },
         {
           "title": "CHART - Ecuadorian Maritime Cocaine Trafficking Network - August 2026",
@@ -635,7 +635,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 17
+          "age_days": 18
         }
       ]
     },
@@ -675,7 +675,7 @@
     },
     "port_weather": {
       "key": "port_weather",
-      "score": 22.0,
+      "score": 22.3,
       "status": "BASELINE",
       "weight": 0.1,
       "available": true,
@@ -688,70 +688,70 @@
           "name": "Baku Port",
           "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 16.9,
-          "max_precip_24h_mm": 4.3,
-          "pressure": 35.0,
-          "valid_to": "2026-09-13T18:00:00Z"
+          "max_wind_ms": 17.7,
+          "max_precip_24h_mm": 3.8,
+          "pressure": 40.7,
+          "valid_to": "2026-09-14T00:00:00Z"
         },
         {
           "id": "port16",
           "name": "Aktau Port",
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 15.6,
-          "max_precip_24h_mm": 3.3,
-          "pressure": 25.7,
-          "valid_to": "2026-09-13T18:00:00Z"
+          "max_wind_ms": 15.4,
+          "max_precip_24h_mm": 2.9,
+          "pressure": 24.3,
+          "valid_to": "2026-09-14T00:00:00Z"
         },
         {
           "id": "port1330",
           "name": "Turkmenbashi Port",
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 15.3,
-          "max_precip_24h_mm": 2.6,
-          "pressure": 23.6,
-          "valid_to": "2026-09-13T18:00:00Z"
+          "max_wind_ms": 14.9,
+          "max_precip_24h_mm": 7.2,
+          "pressure": 20.7,
+          "valid_to": "2026-09-14T00:00:00Z"
         },
         {
           "id": "port1112",
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 6.0,
-          "max_precip_24h_mm": 1.6,
+          "max_wind_ms": 6.3,
+          "max_precip_24h_mm": 1.3,
           "pressure": 0.0,
-          "valid_to": "2026-09-13T18:00:00Z"
+          "valid_to": "2026-09-14T00:00:00Z"
         },
         {
           "id": "port833",
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 8.6,
-          "max_precip_24h_mm": 0.0,
+          "max_wind_ms": 8.8,
+          "max_precip_24h_mm": 0.2,
           "pressure": 0.0,
-          "valid_to": "2026-09-13T18:00:00Z"
+          "valid_to": "2026-09-14T00:00:00Z"
         },
         {
           "id": "port260",
           "name": "Constanta",
           "country": "Romania",
           "basin": "Black Sea",
-          "max_wind_ms": 6.6,
+          "max_wind_ms": 6.4,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-13T18:00:00Z"
+          "valid_to": "2026-09-14T00:00:00Z"
         },
         {
           "id": "port1139",
           "name": "Samsun",
           "country": "Türkiye",
           "basin": "Black Sea",
-          "max_wind_ms": 8.8,
-          "max_precip_24h_mm": 2.3,
+          "max_wind_ms": 7.2,
+          "max_precip_24h_mm": 2.2,
           "pressure": 0.0,
-          "valid_to": "2026-09-13T18:00:00Z"
+          "valid_to": "2026-09-14T00:00:00Z"
         },
         {
           "id": "port76",
@@ -759,9 +759,9 @@
           "country": "Russia",
           "basin": "Caspian Sea",
           "max_wind_ms": 7.8,
-          "max_precip_24h_mm": 9.3,
+          "max_precip_24h_mm": 8.9,
           "pressure": 0.0,
-          "valid_to": "2026-09-13T18:00:00Z"
+          "valid_to": "2026-09-14T00:00:00Z"
         }
       ]
     }
@@ -956,6 +956,11 @@
       "generated": "2026-09-06T20:20:13.741092+00:00",
       "score": 26.3,
       "status": "WATCH"
+    },
+    {
+      "generated": "2026-09-07T04:24:03.411689+00:00",
+      "score": 23.5,
+      "status": "BASELINE"
     }
   ],
   "sources": [
