@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-09-08T11:08:07.450870+00:00",
+    "generated": "2026-09-08T16:32:59.472022+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 21.3,
-    "raw_score": 21.3,
+    "score": 22.6,
+    "raw_score": 22.6,
     "concurrence_bonus": 0.0,
     "status": "BASELINE",
-    "headline": "Caspian–Black Sea escalation pressure is baseline at 21.3/100.",
+    "headline": "Caspian–Black Sea escalation pressure is baseline at 22.6/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -407,17 +407,33 @@
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
-      "score": 20.6,
-      "status": "BASELINE",
+      "score": 27.2,
+      "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 32,
-      "current_14d_weekly_equivalent": 6.25,
+      "coverage": 33,
+      "current_14d_weekly_equivalent": 8.25,
       "baseline_weekly_median": 9.25,
-      "anomaly_z": -0.45,
+      "anomaly_z": -0.15,
       "method": "Russia/Iran/region-linked OFAC title intensity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "title": "Treasury Grounds Iranian Airlines with Sweeping Sanctions Action",
+          "action": "Iran-related Designations; Counter Terrorism Designations; Updates to Iran-related General Licenses; Issuance of Counter Terrorism General License",
+          "date": "2026-09-08",
+          "url": "https://home.treasury.gov/news/press-releases/sb0623/",
+          "region_terms": [
+            "iran",
+            "iranian"
+          ],
+          "posture_terms": [
+            "designation",
+            "sanction"
+          ],
+          "weight": 4.0,
+          "age_days": 0
+        },
         {
           "title": "Treasury Severs Iranian Regime's Financial Lifelines in Türkiye",
           "action": "Iran-related Designations; Issuance of Iran-related General License",
@@ -593,23 +609,6 @@
           ],
           "weight": 5.0,
           "age_days": 19
-        },
-        {
-          "title": "CHART - Ecuadorian Maritime Cocaine Trafficking Network - August 2026",
-          "action": "Counter Narcotics, Counter Terrorism, Cuba-related, and Iran-related Designations; Issuance of Russia-related General License; Issuance of Associated Frequently Asked Questions",
-          "date": "2026-08-20",
-          "url": "https://ofac.treasury.gov/media/936726/download?inline",
-          "region_terms": [
-            "iran",
-            "maritime",
-            "russia"
-          ],
-          "posture_terms": [
-            "designation",
-            "network"
-          ],
-          "weight": 3.5,
-          "age_days": 19
         }
       ]
     },
@@ -662,20 +661,20 @@
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 5.5,
+          "max_wind_ms": 5.2,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-15T06:00:00Z"
+          "valid_to": "2026-09-15T12:00:00Z"
         },
         {
           "id": "port833",
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 7.4,
+          "max_wind_ms": 7.1,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-15T06:00:00Z"
+          "valid_to": "2026-09-15T12:00:00Z"
         },
         {
           "id": "port260",
@@ -683,9 +682,9 @@
           "country": "Romania",
           "basin": "Black Sea",
           "max_wind_ms": 5.6,
-          "max_precip_24h_mm": 0.0,
+          "max_precip_24h_mm": 2.1,
           "pressure": 0.0,
-          "valid_to": "2026-09-15T06:00:00Z"
+          "valid_to": "2026-09-15T12:00:00Z"
         },
         {
           "id": "port1139",
@@ -693,49 +692,49 @@
           "country": "Türkiye",
           "basin": "Black Sea",
           "max_wind_ms": 5.0,
-          "max_precip_24h_mm": 0.1,
+          "max_precip_24h_mm": 0.5,
           "pressure": 0.0,
-          "valid_to": "2026-09-15T06:00:00Z"
+          "valid_to": "2026-09-15T12:00:00Z"
         },
         {
           "id": "port100",
           "name": "Baku Port",
           "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 5.5,
-          "max_precip_24h_mm": 0.8,
+          "max_wind_ms": 5.9,
+          "max_precip_24h_mm": 1.5,
           "pressure": 0.0,
-          "valid_to": "2026-09-15T06:00:00Z"
+          "valid_to": "2026-09-15T12:00:00Z"
         },
         {
           "id": "port16",
           "name": "Aktau Port",
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 7.5,
-          "max_precip_24h_mm": 1.1,
+          "max_wind_ms": 8.4,
+          "max_precip_24h_mm": 1.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-15T06:00:00Z"
+          "valid_to": "2026-09-15T12:00:00Z"
         },
         {
           "id": "port76",
           "name": "Astrakhan Port",
           "country": "Russia",
           "basin": "Caspian Sea",
-          "max_wind_ms": 8.4,
-          "max_precip_24h_mm": 2.5,
+          "max_wind_ms": 6.9,
+          "max_precip_24h_mm": 1.5,
           "pressure": 0.0,
-          "valid_to": "2026-09-15T06:00:00Z"
+          "valid_to": "2026-09-15T12:00:00Z"
         },
         {
           "id": "port1330",
           "name": "Turkmenbashi Port",
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 6.4,
-          "max_precip_24h_mm": 1.4,
+          "max_wind_ms": 6.5,
+          "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-15T06:00:00Z"
+          "valid_to": "2026-09-15T12:00:00Z"
         }
       ]
     }
@@ -954,6 +953,11 @@
     {
       "generated": "2026-09-08T11:08:07.450870+00:00",
       "score": 21.3,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-09-08T16:32:59.472022+00:00",
+      "score": 22.6,
       "status": "BASELINE"
     }
   ],
