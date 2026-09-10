@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-09-10T11:08:50.527076+00:00",
+    "generated": "2026-09-10T16:18:15.097624+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -460,7 +460,7 @@
           "title": "Treasury Severs Iranian Regime's Financial Lifelines in Türkiye",
           "action": "Iran-related Designations; Issuance of Iran-related General License",
           "date": "2026-09-04",
-          "url": "https://home.treasury.gov/news/press-releases/treasury-severs-iranian-regime-s-financial-lifelines-turkiye/",
+          "url": "https://home.treasury.gov/news/press-releases/sb0622/",
           "region_terms": [
             "iran",
             "iranian"
@@ -581,23 +581,6 @@
           "age_days": 17
         },
         {
-          "title": "CHART - Ecuadorian Maritime Cocaine Trafficking Network - August 2026",
-          "action": "Counter Narcotics, Counter Terrorism, Cuba-related, and Iran-related Designations; Issuance of Russia-related General License; Issuance of Associated Frequently Asked Questions",
-          "date": "2026-08-20",
-          "url": "https://ofac.treasury.gov/media/936726/download?inline",
-          "region_terms": [
-            "iran",
-            "maritime",
-            "russia"
-          ],
-          "posture_terms": [
-            "designation",
-            "network"
-          ],
-          "weight": 3.5,
-          "age_days": 21
-        },
-        {
           "title": "Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels",
           "action": "Counter Narcotics, Counter Terrorism, Cuba-related, and Iran-related Designations; Issuance of Russia-related General License; Issuance of Associated Frequently Asked Questions",
           "date": "2026-08-20",
@@ -615,10 +598,27 @@
           "age_days": 21
         },
         {
-          "title": "Imposing Sanctions on Cuban Regime Actors Associated with Marxist Subversive Networks and Corrupt Economic Dealings",
+          "title": "CHART - Ecuadorian Maritime Cocaine Trafficking Network - August 2026",
           "action": "Counter Narcotics, Counter Terrorism, Cuba-related, and Iran-related Designations; Issuance of Russia-related General License; Issuance of Associated Frequently Asked Questions",
           "date": "2026-08-20",
-          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/imposing-sanctions-on-cuban-regime-actors-associated-with-marxist-subversive-networks-and-corrupt-economic-dealings-fact-sheet/",
+          "url": "https://ofac.treasury.gov/media/936726/download?inline",
+          "region_terms": [
+            "iran",
+            "maritime",
+            "russia"
+          ],
+          "posture_terms": [
+            "designation",
+            "network"
+          ],
+          "weight": 3.5,
+          "age_days": 21
+        },
+        {
+          "title": "Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah",
+          "action": "Counter Narcotics, Counter Terrorism, Cuba-related, and Iran-related Designations; Issuance of Russia-related General License; Issuance of Associated Frequently Asked Questions",
+          "date": "2026-08-20",
+          "url": "https://home.treasury.gov/news/press-releases/sb0611",
           "region_terms": [
             "iran",
             "russia"
@@ -626,9 +626,10 @@
           "posture_terms": [
             "designation",
             "network",
-            "sanction"
+            "sanction",
+            "targets"
           ],
-          "weight": 5.0,
+          "weight": 7.0,
           "age_days": 21
         }
       ]
@@ -678,54 +679,54 @@
       "method": "Seven-day maximum wind and daily precipitation at eight high-activity basin ports.",
       "evidence": [
         {
+          "id": "port1139",
+          "name": "Samsun",
+          "country": "Türkiye",
+          "basin": "Black Sea",
+          "max_wind_ms": 4.9,
+          "max_precip_24h_mm": 30.1,
+          "pressure": 0.1,
+          "valid_to": "2026-09-17T12:00:00Z"
+        },
+        {
           "id": "port1112",
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 4.6,
-          "max_precip_24h_mm": 7.2,
+          "max_wind_ms": 5.0,
+          "max_precip_24h_mm": 6.5,
           "pressure": 0.0,
-          "valid_to": "2026-09-17T06:00:00Z"
+          "valid_to": "2026-09-17T12:00:00Z"
         },
         {
           "id": "port833",
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 6.5,
-          "max_precip_24h_mm": 5.1,
+          "max_wind_ms": 6.4,
+          "max_precip_24h_mm": 11.3,
           "pressure": 0.0,
-          "valid_to": "2026-09-17T06:00:00Z"
+          "valid_to": "2026-09-17T12:00:00Z"
         },
         {
           "id": "port260",
           "name": "Constanta",
           "country": "Romania",
           "basin": "Black Sea",
-          "max_wind_ms": 5.5,
-          "max_precip_24h_mm": 7.6,
+          "max_wind_ms": 7.6,
+          "max_precip_24h_mm": 18.2,
           "pressure": 0.0,
-          "valid_to": "2026-09-17T06:00:00Z"
-        },
-        {
-          "id": "port1139",
-          "name": "Samsun",
-          "country": "Türkiye",
-          "basin": "Black Sea",
-          "max_wind_ms": 4.9,
-          "max_precip_24h_mm": 2.0,
-          "pressure": 0.0,
-          "valid_to": "2026-09-17T06:00:00Z"
+          "valid_to": "2026-09-17T12:00:00Z"
         },
         {
           "id": "port100",
           "name": "Baku Port",
           "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 6.2,
-          "max_precip_24h_mm": 0.3,
+          "max_wind_ms": 6.1,
+          "max_precip_24h_mm": 0.5,
           "pressure": 0.0,
-          "valid_to": "2026-09-17T06:00:00Z"
+          "valid_to": "2026-09-17T12:00:00Z"
         },
         {
           "id": "port16",
@@ -735,27 +736,27 @@
           "max_wind_ms": 7.6,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-17T06:00:00Z"
+          "valid_to": "2026-09-17T12:00:00Z"
         },
         {
           "id": "port76",
           "name": "Astrakhan Port",
           "country": "Russia",
           "basin": "Caspian Sea",
-          "max_wind_ms": 6.3,
+          "max_wind_ms": 4.5,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-17T06:00:00Z"
+          "valid_to": "2026-09-17T12:00:00Z"
         },
         {
           "id": "port1330",
           "name": "Turkmenbashi Port",
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 6.7,
-          "max_precip_24h_mm": 0.0,
+          "max_wind_ms": 7.8,
+          "max_precip_24h_mm": 0.2,
           "pressure": 0.0,
-          "valid_to": "2026-09-17T06:00:00Z"
+          "valid_to": "2026-09-17T12:00:00Z"
         }
       ]
     }
@@ -1013,6 +1014,11 @@
     },
     {
       "generated": "2026-09-10T11:08:50.527076+00:00",
+      "score": 31.5,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-09-10T16:18:15.097624+00:00",
       "score": 31.5,
       "status": "WATCH"
     }
