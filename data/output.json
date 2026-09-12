@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-09-11T20:54:01.831625+00:00",
+    "generated": "2026-09-12T04:24:36.068636+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -390,7 +390,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 3
+          "age_days": 4
         },
         {
           "date": "2026-09-08",
@@ -401,7 +401,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 3
+          "age_days": 4
         },
         {
           "date": "2026-08-12",
@@ -412,7 +412,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 30
+          "age_days": 31
         },
         {
           "date": "2026-08-12",
@@ -423,7 +423,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 30
+          "age_days": 31
         }
       ]
     },
@@ -453,7 +453,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 1
+          "age_days": 2
         },
         {
           "title": "Treasury Grounds Iranian Airlines with Sweeping Sanctions Action",
@@ -469,7 +469,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 3
+          "age_days": 4
         },
         {
           "title": "Treasury Severs Iranian Regime's Financial Lifelines in Türkiye",
@@ -484,7 +484,7 @@
             "designation"
           ],
           "weight": 2.5,
-          "age_days": 7
+          "age_days": 8
         },
         {
           "title": "Further Sanctions on Cuba's Elites, Financial Channels, and Resource Exploitation Apparatus",
@@ -499,7 +499,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 8
+          "age_days": 9
         },
         {
           "title": "Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast",
@@ -513,7 +513,7 @@
             "designation"
           ],
           "weight": 2.5,
-          "age_days": 14
+          "age_days": 15
         },
         {
           "title": "Treasury Takes Action Against Violent Far-Left Terrorist Networks",
@@ -528,7 +528,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 16
+          "age_days": 17
         },
         {
           "title": "Rescission of Syria’s Designation as a State Sponsor of Terrorism",
@@ -543,7 +543,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 18
+          "age_days": 19
         },
         {
           "title": "Treasury and State Departments Deliver Additional Sanctions Relief on Syria",
@@ -558,7 +558,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 18
+          "age_days": 19
         },
         {
           "title": "United States Implements Operation Economic Outcast with Sanctions Targeting Iran's Military Activities and Procurements, and Petroleum and Petrochemical Product Traders",
@@ -577,7 +577,7 @@
             "targeting"
           ],
           "weight": 10.5,
-          "age_days": 18
+          "age_days": 19
         },
         {
           "title": "Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day",
@@ -593,7 +593,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 18
+          "age_days": 19
         },
         {
           "title": "Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels",
@@ -610,7 +610,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 22
+          "age_days": 23
         },
         {
           "title": "CHART - Ecuadorian Maritime Cocaine Trafficking Network - August 2026",
@@ -627,7 +627,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 22
+          "age_days": 23
         }
       ]
     },
@@ -667,7 +667,7 @@
     },
     "port_weather": {
       "key": "port_weather",
-      "score": 1.4,
+      "score": 2.1,
       "status": "BASELINE",
       "weight": 0.1,
       "available": true,
@@ -676,84 +676,84 @@
       "method": "Seven-day maximum wind and daily precipitation at eight high-activity basin ports.",
       "evidence": [
         {
-          "id": "port1139",
-          "name": "Samsun",
-          "country": "Türkiye",
-          "basin": "Black Sea",
-          "max_wind_ms": 5.8,
-          "max_precip_24h_mm": 34.8,
-          "pressure": 5.3,
-          "valid_to": "2026-09-18T18:00:00Z"
+          "id": "port100",
+          "name": "Baku Port",
+          "country": "Azerbaijan",
+          "basin": "Caspian Sea",
+          "max_wind_ms": 13.1,
+          "max_precip_24h_mm": 8.0,
+          "pressure": 7.9,
+          "valid_to": "2026-09-19T00:00:00Z"
         },
         {
           "id": "port1112",
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 5.5,
-          "max_precip_24h_mm": 8.4,
+          "max_wind_ms": 5.2,
+          "max_precip_24h_mm": 3.5,
           "pressure": 0.0,
-          "valid_to": "2026-09-18T18:00:00Z"
+          "valid_to": "2026-09-19T00:00:00Z"
         },
         {
           "id": "port833",
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 5.9,
-          "max_precip_24h_mm": 2.0,
+          "max_wind_ms": 7.1,
+          "max_precip_24h_mm": 2.8,
           "pressure": 0.0,
-          "valid_to": "2026-09-18T18:00:00Z"
+          "valid_to": "2026-09-19T00:00:00Z"
         },
         {
           "id": "port260",
           "name": "Constanta",
           "country": "Romania",
           "basin": "Black Sea",
-          "max_wind_ms": 8.2,
-          "max_precip_24h_mm": 7.6,
+          "max_wind_ms": 7.8,
+          "max_precip_24h_mm": 7.9,
           "pressure": 0.0,
-          "valid_to": "2026-09-18T18:00:00Z"
+          "valid_to": "2026-09-19T00:00:00Z"
         },
         {
-          "id": "port100",
-          "name": "Baku Port",
-          "country": "Azerbaijan",
-          "basin": "Caspian Sea",
-          "max_wind_ms": 10.7,
-          "max_precip_24h_mm": 0.0,
+          "id": "port1139",
+          "name": "Samsun",
+          "country": "Türkiye",
+          "basin": "Black Sea",
+          "max_wind_ms": 6.5,
+          "max_precip_24h_mm": 29.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-18T18:00:00Z"
+          "valid_to": "2026-09-19T00:00:00Z"
         },
         {
           "id": "port16",
           "name": "Aktau Port",
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 7.4,
-          "max_precip_24h_mm": 0.3,
+          "max_wind_ms": 8.9,
+          "max_precip_24h_mm": 6.6,
           "pressure": 0.0,
-          "valid_to": "2026-09-18T18:00:00Z"
+          "valid_to": "2026-09-19T00:00:00Z"
         },
         {
           "id": "port76",
           "name": "Astrakhan Port",
           "country": "Russia",
           "basin": "Caspian Sea",
-          "max_wind_ms": 6.3,
-          "max_precip_24h_mm": 7.6,
+          "max_wind_ms": 5.8,
+          "max_precip_24h_mm": 9.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-18T18:00:00Z"
+          "valid_to": "2026-09-19T00:00:00Z"
         },
         {
           "id": "port1330",
           "name": "Turkmenbashi Port",
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 8.8,
-          "max_precip_24h_mm": 0.0,
+          "max_wind_ms": 9.6,
+          "max_precip_24h_mm": 0.3,
           "pressure": 0.0,
-          "valid_to": "2026-09-18T18:00:00Z"
+          "valid_to": "2026-09-19T00:00:00Z"
         }
       ]
     }
@@ -1041,6 +1041,11 @@
     },
     {
       "generated": "2026-09-11T20:54:01.831625+00:00",
+      "score": 33.8,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-09-12T04:24:36.068636+00:00",
       "score": 33.8,
       "status": "WATCH"
     }
