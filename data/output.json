@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-09-15T11:36:24.823460+00:00",
+    "generated": "2026-09-15T16:50:23.587420+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -11,25 +11,41 @@
     "source_notes": []
   },
   "warning": {
-    "score": 37.1,
-    "raw_score": 37.1,
+    "score": 33.5,
+    "raw_score": 33.5,
     "concurrence_bonus": 0.0,
     "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 37.1/100.",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 33.5/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
     "maritime_flow": {
       "key": "maritime_flow",
-      "score": 64.0,
+      "score": 51.3,
       "status": "ELEVATED",
       "weight": 0.3,
       "available": true,
       "retained": false,
       "coverage": 21,
-      "latest_observation": "2026-09-06",
+      "latest_observation": "2026-09-13",
       "method": "Seven-day mean versus preceding 28-day mean; low-volume port anomalies are reliability-shrunk.",
       "evidence": [
+        {
+          "id": "port58",
+          "name": "Anzali Port",
+          "country": "Iran, Islamic Republic of",
+          "basin": "Caspian Sea",
+          "lat": 37.4752,
+          "lon": 49.47,
+          "recent_mean": 2.6,
+          "baseline_mean": 1.8,
+          "change_pct": 41.2,
+          "direction": "surge",
+          "reliability": 0.95,
+          "pressure": 95.4,
+          "observations": 42,
+          "latest": "2026-09-11"
+        },
         {
           "id": "port833",
           "name": "Novorossiysk",
@@ -37,94 +53,46 @@
           "basin": "Black Sea",
           "lat": 44.7235,
           "lon": 37.8087,
-          "recent_mean": 1.3,
-          "baseline_mean": 2.8,
-          "change_pct": -54.4,
+          "recent_mean": 1.4,
+          "baseline_mean": 2.2,
+          "change_pct": -35.5,
           "direction": "shortfall",
           "reliability": 1.0,
-          "pressure": 100.0,
+          "pressure": 87.1,
           "observations": 42,
-          "latest": "2026-09-04"
+          "latest": "2026-09-11"
         },
         {
-          "id": "port1139",
-          "name": "Samsun",
-          "country": "Türkiye",
-          "basin": "Black Sea",
-          "lat": 41.2609,
-          "lon": 36.4153,
-          "recent_mean": 1.9,
-          "baseline_mean": 3.5,
-          "change_pct": -47.5,
-          "direction": "shortfall",
-          "reliability": 1.0,
-          "pressure": 100.0,
-          "observations": 42,
-          "latest": "2026-09-04"
-        },
-        {
-          "id": "port1330",
-          "name": "Turkmenbashi Port",
-          "country": "Turkmenistan",
-          "basin": "Caspian Sea",
-          "lat": 40.0096,
-          "lon": 53.0062,
-          "recent_mean": 1.6,
-          "baseline_mean": 2.6,
-          "change_pct": -39.7,
-          "direction": "shortfall",
-          "reliability": 1.0,
-          "pressure": 99.2,
-          "observations": 42,
-          "latest": "2026-09-04"
-        },
-        {
-          "id": "port16",
-          "name": "Aktau Port",
-          "country": "Kazakhstan",
-          "basin": "Caspian Sea",
-          "lat": 43.6024,
-          "lon": 51.2286,
-          "recent_mean": 2.7,
-          "baseline_mean": 4.1,
-          "change_pct": -34.5,
-          "direction": "shortfall",
-          "reliability": 1.0,
-          "pressure": 84.2,
-          "observations": 42,
-          "latest": "2026-09-04"
-        },
-        {
-          "id": "port100",
-          "name": "Baku Port",
-          "country": "Azerbaijan",
-          "basin": "Caspian Sea",
-          "lat": 40.2846,
-          "lon": 49.7325,
-          "recent_mean": 4.9,
-          "baseline_mean": 7.2,
-          "change_pct": -33.0,
-          "direction": "shortfall",
-          "reliability": 1.0,
-          "pressure": 80.0,
-          "observations": 42,
-          "latest": "2026-09-04"
-        },
-        {
-          "id": "port43",
-          "name": "Amirabad Port",
+          "id": "port834",
+          "name": "Nowshahr Port",
           "country": "Iran, Islamic Republic of",
           "basin": "Caspian Sea",
-          "lat": 36.8507,
-          "lon": 53.3653,
-          "recent_mean": 1.9,
-          "baseline_mean": 2.7,
-          "change_pct": -30.7,
-          "direction": "shortfall",
-          "reliability": 1.0,
-          "pressure": 73.3,
+          "lat": 36.6551,
+          "lon": 51.5086,
+          "recent_mean": 2.0,
+          "baseline_mean": 1.4,
+          "change_pct": 47.4,
+          "direction": "surge",
+          "reliability": 0.82,
+          "pressure": 82.4,
           "observations": 42,
-          "latest": "2026-09-04"
+          "latest": "2026-09-11"
+        },
+        {
+          "id": "port76",
+          "name": "Astrakhan Port",
+          "country": "Russia",
+          "basin": "Caspian Sea",
+          "lat": 46.3847,
+          "lon": 48.0216,
+          "recent_mean": 0.4,
+          "baseline_mean": 1.0,
+          "change_pct": -58.6,
+          "direction": "shortfall",
+          "reliability": 0.72,
+          "pressure": 72.0,
+          "observations": 42,
+          "latest": "2026-09-11"
         },
         {
           "id": "port684",
@@ -134,29 +102,45 @@
           "lat": 43.0081,
           "lon": 47.4726,
           "recent_mean": 0.0,
-          "baseline_mean": 0.8,
+          "baseline_mean": 0.5,
           "change_pct": -100.0,
           "direction": "shortfall",
-          "reliability": 0.61,
-          "pressure": 61.2,
+          "reliability": 0.52,
+          "pressure": 51.8,
           "observations": 42,
-          "latest": "2026-09-04"
+          "latest": "2026-09-11"
         },
         {
-          "id": "port58",
-          "name": "Anzali Port",
-          "country": "Iran, Islamic Republic of",
+          "id": "port100",
+          "name": "Baku Port",
+          "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "lat": 37.4752,
-          "lon": 49.47,
-          "recent_mean": 2.1,
-          "baseline_mean": 1.8,
-          "change_pct": 22.4,
+          "lat": 40.2846,
+          "lon": 49.7325,
+          "recent_mean": 8.0,
+          "baseline_mean": 6.5,
+          "change_pct": 23.1,
           "direction": "surge",
-          "reliability": 0.94,
-          "pressure": 46.6,
+          "reliability": 1.0,
+          "pressure": 51.6,
           "observations": 42,
-          "latest": "2026-09-04"
+          "latest": "2026-09-11"
+        },
+        {
+          "id": "port1112",
+          "name": "Rostov-Na-Donu",
+          "country": "Russia",
+          "basin": "Black Sea",
+          "lat": 47.1948,
+          "lon": 39.6794,
+          "recent_mean": 0.1,
+          "baseline_mean": 0.5,
+          "change_pct": -69.2,
+          "direction": "shortfall",
+          "reliability": 0.48,
+          "pressure": 48.2,
+          "observations": 42,
+          "latest": "2026-09-11"
         },
         {
           "id": "port1326",
@@ -166,13 +150,13 @@
           "lat": 44.0993,
           "lon": 39.0851,
           "recent_mean": 0.0,
-          "baseline_mean": 0.2,
+          "baseline_mean": 0.1,
           "change_pct": -100.0,
           "direction": "shortfall",
-          "reliability": 0.3,
-          "pressure": 29.9,
+          "reliability": 0.23,
+          "pressure": 23.1,
           "observations": 42,
-          "latest": "2026-09-04"
+          "latest": "2026-09-11"
         },
         {
           "id": "chokepoint3",
@@ -181,30 +165,46 @@
           "basin": "Black Sea gateway",
           "lat": null,
           "lon": null,
-          "recent_mean": 53.1,
-          "baseline_mean": 61.7,
-          "change_pct": -13.9,
+          "recent_mean": 52.3,
+          "baseline_mean": 59.2,
+          "change_pct": -11.8,
           "direction": "shortfall",
           "reliability": 1.0,
-          "pressure": 25.4,
+          "pressure": 19.3,
           "observations": 42,
-          "latest": "2026-09-06"
+          "latest": "2026-09-13"
         },
         {
-          "id": "port260",
-          "name": "Constanta",
-          "country": "Romania",
-          "basin": "Black Sea",
-          "lat": 44.1317,
-          "lon": 28.6484,
-          "recent_mean": 8.6,
-          "baseline_mean": 9.5,
-          "change_pct": -10.1,
-          "direction": "shortfall",
+          "id": "port16",
+          "name": "Aktau Port",
+          "country": "Kazakhstan",
+          "basin": "Caspian Sea",
+          "lat": 43.6024,
+          "lon": 51.2286,
+          "recent_mean": 4.1,
+          "baseline_mean": 3.7,
+          "change_pct": 11.5,
+          "direction": "surge",
           "reliability": 1.0,
-          "pressure": 14.6,
+          "pressure": 18.7,
           "observations": 42,
-          "latest": "2026-09-04"
+          "latest": "2026-09-11"
+        },
+        {
+          "id": "port43",
+          "name": "Amirabad Port",
+          "country": "Iran, Islamic Republic of",
+          "basin": "Caspian Sea",
+          "lat": 36.8507,
+          "lon": 53.3653,
+          "recent_mean": 2.7,
+          "baseline_mean": 2.5,
+          "change_pct": 10.1,
+          "direction": "surge",
+          "reliability": 1.0,
+          "pressure": 14.7,
+          "observations": 42,
+          "latest": "2026-09-11"
         },
         {
           "id": "port1016",
@@ -213,46 +213,62 @@
           "basin": "Black Sea",
           "lat": 42.1593,
           "lon": 41.6571,
-          "recent_mean": 2.7,
+          "recent_mean": 2.3,
           "baseline_mean": 2.5,
-          "change_pct": 8.6,
-          "direction": "surge",
-          "reliability": 1.0,
-          "pressure": 10.2,
-          "observations": 42,
-          "latest": "2026-09-04"
-        },
-        {
-          "id": "port76",
-          "name": "Astrakhan Port",
-          "country": "Russia",
-          "basin": "Caspian Sea",
-          "lat": 46.3847,
-          "lon": 48.0216,
-          "recent_mean": 1.0,
-          "baseline_mean": 1.1,
-          "change_pct": -6.7,
+          "change_pct": -7.2,
           "direction": "shortfall",
-          "reliability": 0.73,
-          "pressure": 3.5,
+          "reliability": 1.0,
+          "pressure": 6.4,
           "observations": 42,
-          "latest": "2026-09-04"
+          "latest": "2026-09-11"
         },
         {
-          "id": "port1112",
-          "name": "Rostov-Na-Donu",
-          "country": "Russia",
+          "id": "port1330",
+          "name": "Turkmenbashi Port",
+          "country": "Turkmenistan",
+          "basin": "Caspian Sea",
+          "lat": 40.0096,
+          "lon": 53.0062,
+          "recent_mean": 2.0,
+          "baseline_mean": 2.1,
+          "change_pct": -5.1,
+          "direction": "shortfall",
+          "reliability": 1.0,
+          "pressure": 0.2,
+          "observations": 42,
+          "latest": "2026-09-11"
+        },
+        {
+          "id": "port260",
+          "name": "Constanta",
+          "country": "Romania",
           "basin": "Black Sea",
-          "lat": 47.1948,
-          "lon": 39.6794,
-          "recent_mean": 0.6,
-          "baseline_mean": 0.6,
-          "change_pct": 0.0,
-          "direction": "surge",
-          "reliability": 0.53,
+          "lat": 44.1317,
+          "lon": 28.6484,
+          "recent_mean": 9.6,
+          "baseline_mean": 9.7,
+          "change_pct": -1.1,
+          "direction": "shortfall",
+          "reliability": 1.0,
           "pressure": 0.0,
           "observations": 42,
-          "latest": "2026-09-04"
+          "latest": "2026-09-11"
+        },
+        {
+          "id": "port1139",
+          "name": "Samsun",
+          "country": "Türkiye",
+          "basin": "Black Sea",
+          "lat": 41.2609,
+          "lon": 36.4153,
+          "recent_mean": 3.1,
+          "baseline_mean": 3.1,
+          "change_pct": 1.1,
+          "direction": "surge",
+          "reliability": 1.0,
+          "pressure": 0.0,
+          "observations": 42,
+          "latest": "2026-09-11"
         },
         {
           "id": "port193",
@@ -261,14 +277,14 @@
           "basin": "Black Sea",
           "lat": 42.4695,
           "lon": 27.4823,
-          "recent_mean": 4.0,
-          "baseline_mean": 4.0,
-          "change_pct": 0.0,
+          "recent_mean": 4.1,
+          "baseline_mean": 4.1,
+          "change_pct": 1.8,
           "direction": "surge",
           "reliability": 1.0,
           "pressure": 0.0,
           "observations": 42,
-          "latest": "2026-09-04"
+          "latest": "2026-09-11"
         },
         {
           "id": "port843",
@@ -284,7 +300,7 @@
           "reliability": 0.0,
           "pressure": 0.0,
           "observations": 42,
-          "latest": "2026-09-04"
+          "latest": "2026-09-11"
         },
         {
           "id": "port489",
@@ -300,7 +316,7 @@
           "reliability": 0.0,
           "pressure": 0.0,
           "observations": 42,
-          "latest": "2026-09-04"
+          "latest": "2026-09-11"
         },
         {
           "id": "port1419",
@@ -316,7 +332,7 @@
           "reliability": 0.0,
           "pressure": 0.0,
           "observations": 42,
-          "latest": "2026-09-04"
+          "latest": "2026-09-11"
         },
         {
           "id": "port1283",
@@ -332,7 +348,7 @@
           "reliability": 0.0,
           "pressure": 0.0,
           "observations": 42,
-          "latest": "2026-09-04"
+          "latest": "2026-09-11"
         },
         {
           "id": "port1413",
@@ -348,23 +364,7 @@
           "reliability": 0.0,
           "pressure": 0.0,
           "observations": 42,
-          "latest": "2026-09-04"
-        },
-        {
-          "id": "port834",
-          "name": "Nowshahr Port",
-          "country": "Iran, Islamic Republic of",
-          "basin": "Caspian Sea",
-          "lat": 36.6551,
-          "lon": 51.5086,
-          "recent_mean": 1.3,
-          "baseline_mean": 1.2,
-          "change_pct": 2.9,
-          "direction": "surge",
-          "reliability": 0.79,
-          "pressure": 0.0,
-          "observations": 42,
-          "latest": "2026-09-04"
+          "latest": "2026-09-11"
         }
       ]
     },
@@ -687,7 +687,7 @@
     },
     "port_weather": {
       "key": "port_weather",
-      "score": 1.1,
+      "score": 3.1,
       "status": "BASELINE",
       "weight": 0.1,
       "available": true,
@@ -700,90 +700,85 @@
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 8.1,
-          "max_precip_24h_mm": 33.9,
-          "pressure": 4.3,
-          "valid_to": "2026-09-22T06:00:00Z"
+          "max_wind_ms": 7.8,
+          "max_precip_24h_mm": 40.8,
+          "pressure": 12.0,
+          "valid_to": "2026-09-22T12:00:00Z"
         },
         {
           "id": "port1112",
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 7.6,
-          "max_precip_24h_mm": 3.4,
+          "max_wind_ms": 5.1,
+          "max_precip_24h_mm": 8.1,
           "pressure": 0.0,
-          "valid_to": "2026-09-22T06:00:00Z"
+          "valid_to": "2026-09-22T12:00:00Z"
         },
         {
           "id": "port260",
           "name": "Constanta",
           "country": "Romania",
           "basin": "Black Sea",
-          "max_wind_ms": 5.8,
-          "max_precip_24h_mm": 0.8,
+          "max_wind_ms": 6.8,
+          "max_precip_24h_mm": 1.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-22T06:00:00Z"
+          "valid_to": "2026-09-22T12:00:00Z"
         },
         {
           "id": "port1139",
           "name": "Samsun",
           "country": "Türkiye",
           "basin": "Black Sea",
-          "max_wind_ms": 5.2,
-          "max_precip_24h_mm": 9.7,
+          "max_wind_ms": 4.5,
+          "max_precip_24h_mm": 14.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-22T06:00:00Z"
+          "valid_to": "2026-09-22T12:00:00Z"
         },
         {
           "id": "port100",
           "name": "Baku Port",
           "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 7.9,
+          "max_wind_ms": 8.9,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-22T06:00:00Z"
+          "valid_to": "2026-09-22T12:00:00Z"
         },
         {
           "id": "port16",
           "name": "Aktau Port",
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 9.9,
+          "max_wind_ms": 9.1,
           "max_precip_24h_mm": 0.6,
           "pressure": 0.0,
-          "valid_to": "2026-09-22T06:00:00Z"
+          "valid_to": "2026-09-22T12:00:00Z"
         },
         {
           "id": "port76",
           "name": "Astrakhan Port",
           "country": "Russia",
           "basin": "Caspian Sea",
-          "max_wind_ms": 4.7,
-          "max_precip_24h_mm": 2.3,
+          "max_wind_ms": 4.8,
+          "max_precip_24h_mm": 0.2,
           "pressure": 0.0,
-          "valid_to": "2026-09-22T06:00:00Z"
+          "valid_to": "2026-09-22T12:00:00Z"
         },
         {
           "id": "port1330",
           "name": "Turkmenbashi Port",
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 6.7,
+          "max_wind_ms": 6.9,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-22T06:00:00Z"
+          "valid_to": "2026-09-22T12:00:00Z"
         }
       ]
     }
   },
   "history": [
-    {
-      "generated": "2026-08-30T20:57:58.915327+00:00",
-      "score": 30.1,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-08-31T05:21:35.903050+00:00",
       "score": 29.7,
@@ -1077,6 +1072,11 @@
     {
       "generated": "2026-09-15T11:36:24.823460+00:00",
       "score": 37.1,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-09-15T16:50:23.587420+00:00",
+      "score": 33.5,
       "status": "WATCH"
     }
   ],
