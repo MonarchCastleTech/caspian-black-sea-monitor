@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-09-16T16:44:18.640014+00:00",
+    "generated": "2026-09-16T21:13:35.787462+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 34.6,
-    "raw_score": 34.6,
+    "score": 37.3,
+    "raw_score": 37.3,
     "concurrence_bonus": 0.0,
     "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 34.6/100.",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 37.3/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -631,8 +631,8 @@
     },
     "commodity_dislocation": {
       "key": "commodity_dislocation",
-      "score": 42.6,
-      "status": "WATCH",
+      "score": 60.6,
+      "status": "ELEVATED",
       "weight": 0.15,
       "available": true,
       "retained": false,
@@ -642,12 +642,12 @@
         {
           "id": "DCOILBRENTEU",
           "label": "Brent crude",
-          "score": 18.5,
-          "latest_date": "2026-09-09",
-          "latest_value": 109.51,
-          "change_pct": 12.21,
+          "score": 46.2,
+          "latest_date": "2026-09-15",
+          "latest_value": 130.8,
+          "change_pct": 23.26,
           "direction": "up",
-          "robust_z": 0.96,
+          "robust_z": 1.66,
           "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
         },
         {
@@ -678,10 +678,10 @@
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 3.9,
-          "max_precip_24h_mm": 2.0,
+          "max_wind_ms": 4.6,
+          "max_precip_24h_mm": 2.9,
           "pressure": 0.0,
-          "valid_to": "2026-09-23T12:00:00Z"
+          "valid_to": "2026-09-23T18:00:00Z"
         },
         {
           "id": "port833",
@@ -689,9 +689,9 @@
           "country": "Russia",
           "basin": "Black Sea",
           "max_wind_ms": 8.5,
-          "max_precip_24h_mm": 1.4,
+          "max_precip_24h_mm": 7.2,
           "pressure": 0.0,
-          "valid_to": "2026-09-23T12:00:00Z"
+          "valid_to": "2026-09-23T18:00:00Z"
         },
         {
           "id": "port260",
@@ -701,17 +701,17 @@
           "max_wind_ms": 7.2,
           "max_precip_24h_mm": 12.6,
           "pressure": 0.0,
-          "valid_to": "2026-09-23T12:00:00Z"
+          "valid_to": "2026-09-23T18:00:00Z"
         },
         {
           "id": "port1139",
           "name": "Samsun",
           "country": "Türkiye",
           "basin": "Black Sea",
-          "max_wind_ms": 5.0,
+          "max_wind_ms": 5.8,
           "max_precip_24h_mm": 7.8,
           "pressure": 0.0,
-          "valid_to": "2026-09-23T12:00:00Z"
+          "valid_to": "2026-09-23T18:00:00Z"
         },
         {
           "id": "port100",
@@ -721,7 +721,7 @@
           "max_wind_ms": 9.3,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-23T12:00:00Z"
+          "valid_to": "2026-09-23T18:00:00Z"
         },
         {
           "id": "port16",
@@ -731,7 +731,7 @@
           "max_wind_ms": 9.5,
           "max_precip_24h_mm": 1.2,
           "pressure": 0.0,
-          "valid_to": "2026-09-23T12:00:00Z"
+          "valid_to": "2026-09-23T18:00:00Z"
         },
         {
           "id": "port76",
@@ -741,7 +741,7 @@
           "max_wind_ms": 5.1,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-23T12:00:00Z"
+          "valid_to": "2026-09-23T18:00:00Z"
         },
         {
           "id": "port1330",
@@ -751,17 +751,12 @@
           "max_wind_ms": 7.1,
           "max_precip_24h_mm": 0.4,
           "pressure": 0.0,
-          "valid_to": "2026-09-23T12:00:00Z"
+          "valid_to": "2026-09-23T18:00:00Z"
         }
       ]
     }
   },
   "history": [
-    {
-      "generated": "2026-09-01T11:33:18.685133+00:00",
-      "score": 36.5,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-09-01T16:31:30.959593+00:00",
       "score": 36.5,
@@ -1055,6 +1050,11 @@
     {
       "generated": "2026-09-16T16:44:18.640014+00:00",
       "score": 34.6,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-09-16T21:13:35.787462+00:00",
+      "score": 37.3,
       "status": "WATCH"
     }
   ],
