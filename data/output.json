@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-09-17T04:43:52.871484+00:00",
+    "generated": "2026-09-17T11:31:36.532387+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 35.3,
-    "raw_score": 35.3,
+    "score": 35.0,
+    "raw_score": 35.0,
     "concurrence_bonus": 0.0,
     "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 35.3/100.",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 35.0/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -665,7 +665,7 @@
     },
     "port_weather": {
       "key": "port_weather",
-      "score": 3.7,
+      "score": 0.0,
       "status": "BASELINE",
       "weight": 0.1,
       "available": true,
@@ -674,24 +674,14 @@
       "method": "Seven-day maximum wind and daily precipitation at eight high-activity basin ports.",
       "evidence": [
         {
-          "id": "port260",
-          "name": "Constanta",
-          "country": "Romania",
-          "basin": "Black Sea",
-          "max_wind_ms": 11.9,
-          "max_precip_24h_mm": 42.8,
-          "pressure": 14.2,
-          "valid_to": "2026-09-24T00:00:00Z"
-        },
-        {
           "id": "port1112",
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 6.0,
-          "max_precip_24h_mm": 0.6,
+          "max_wind_ms": 4.1,
+          "max_precip_24h_mm": 2.4,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T00:00:00Z"
+          "valid_to": "2026-09-24T06:00:00Z"
         },
         {
           "id": "port833",
@@ -699,69 +689,74 @@
           "country": "Russia",
           "basin": "Black Sea",
           "max_wind_ms": 8.3,
-          "max_precip_24h_mm": 7.4,
+          "max_precip_24h_mm": 11.6,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T00:00:00Z"
+          "valid_to": "2026-09-24T06:00:00Z"
+        },
+        {
+          "id": "port260",
+          "name": "Constanta",
+          "country": "Romania",
+          "basin": "Black Sea",
+          "max_wind_ms": 5.8,
+          "max_precip_24h_mm": 21.8,
+          "pressure": 0.0,
+          "valid_to": "2026-09-24T06:00:00Z"
         },
         {
           "id": "port1139",
           "name": "Samsun",
           "country": "Türkiye",
           "basin": "Black Sea",
-          "max_wind_ms": 5.6,
-          "max_precip_24h_mm": 6.2,
+          "max_wind_ms": 6.1,
+          "max_precip_24h_mm": 13.4,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T00:00:00Z"
+          "valid_to": "2026-09-24T06:00:00Z"
         },
         {
           "id": "port100",
           "name": "Baku Port",
           "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 8.7,
-          "max_precip_24h_mm": 0.0,
+          "max_wind_ms": 9.3,
+          "max_precip_24h_mm": 0.1,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T00:00:00Z"
+          "valid_to": "2026-09-24T06:00:00Z"
         },
         {
           "id": "port16",
           "name": "Aktau Port",
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 9.6,
-          "max_precip_24h_mm": 0.5,
+          "max_wind_ms": 9.3,
+          "max_precip_24h_mm": 0.3,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T00:00:00Z"
+          "valid_to": "2026-09-24T06:00:00Z"
         },
         {
           "id": "port76",
           "name": "Astrakhan Port",
           "country": "Russia",
           "basin": "Caspian Sea",
-          "max_wind_ms": 5.8,
+          "max_wind_ms": 5.1,
           "max_precip_24h_mm": 0.4,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T00:00:00Z"
+          "valid_to": "2026-09-24T06:00:00Z"
         },
         {
           "id": "port1330",
           "name": "Turkmenbashi Port",
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 7.3,
-          "max_precip_24h_mm": 0.0,
+          "max_wind_ms": 8.5,
+          "max_precip_24h_mm": 0.1,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T00:00:00Z"
+          "valid_to": "2026-09-24T06:00:00Z"
         }
       ]
     }
   },
   "history": [
-    {
-      "generated": "2026-09-01T20:57:29.615139+00:00",
-      "score": 36.5,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-09-02T04:18:11.487131+00:00",
       "score": 23.6,
@@ -1055,6 +1050,11 @@
     {
       "generated": "2026-09-17T04:43:52.871484+00:00",
       "score": 35.3,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-09-17T11:31:36.532387+00:00",
+      "score": 35.0,
       "status": "WATCH"
     }
   ],
