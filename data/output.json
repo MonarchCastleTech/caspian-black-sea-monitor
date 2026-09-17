@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-09-17T16:51:12.752888+00:00",
+    "generated": "2026-09-17T21:16:36.580573+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 35.0,
-    "raw_score": 35.0,
+    "score": 36.7,
+    "raw_score": 36.7,
     "concurrence_bonus": 0.0,
     "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 35.0/100.",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 36.7/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -429,17 +429,51 @@
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
-      "score": 23.1,
-      "status": "BASELINE",
+      "score": 31.7,
+      "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 30,
-      "current_14d_weekly_equivalent": 7.0,
+      "coverage": 33,
+      "current_14d_weekly_equivalent": 12.0,
       "baseline_weekly_median": 9.5,
-      "anomaly_z": -0.18,
+      "anomaly_z": 0.18,
       "method": "Russia/Iran/region-linked OFAC title intensity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "title": "Further Sanctions on Cuba's Mineral Wealth and Military Modernization Apparatus",
+          "action": "Iran-related Designations; Cuba Designations; Belarus-related Designations Removals",
+          "date": "2026-09-17",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/further-sanctions-on-cubas-mineral-wealth-and-military-modernization-apparatus-fact-sheet/",
+          "region_terms": [
+            "belarus",
+            "iran"
+          ],
+          "posture_terms": [
+            "designation",
+            "military",
+            "sanction"
+          ],
+          "weight": 5.5,
+          "age_days": 0
+        },
+        {
+          "title": "Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime",
+          "action": "Iran-related Designations; Cuba Designations; Belarus-related Designations Removals",
+          "date": "2026-09-17",
+          "url": "https://home.treasury.gov/news/press-releases/sb0632/",
+          "region_terms": [
+            "belarus",
+            "iran",
+            "iranian"
+          ],
+          "posture_terms": [
+            "designation",
+            "disrupt"
+          ],
+          "weight": 4.5,
+          "age_days": 0
+        },
         {
           "title": "Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions",
           "action": "Iran-related Designation; Issuance of Amended Venezuela-related General License and Frequently Asked Question",
@@ -546,27 +580,13 @@
           "age_days": 22
         },
         {
-          "title": "Rescission of Syria’s Designation as a State Sponsor of Terrorism",
+          "title": "Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day",
           "action": "Removal of Syria's designation as a State Sponsor of Terrorism and Associated Sanctions List Updates; Iran-related Designations; Updates to Iran-related General Licenses",
           "date": "2026-08-24",
-          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/rescission-of-syrias-designation-as-a-state-sponsor-of-terrorism/",
+          "url": "https://home.treasury.gov/news/press-releases/sb0613/",
           "region_terms": [
-            "iran"
-          ],
-          "posture_terms": [
-            "designation",
-            "sanction"
-          ],
-          "weight": 4.0,
-          "age_days": 24
-        },
-        {
-          "title": "Treasury and State Departments Deliver Additional Sanctions Relief on Syria",
-          "action": "Removal of Syria's designation as a State Sponsor of Terrorism and Associated Sanctions List Updates; Iran-related Designations; Updates to Iran-related General Licenses",
-          "date": "2026-08-24",
-          "url": "https://home.treasury.gov/news/press-releases/sb0612/",
-          "region_terms": [
-            "iran"
+            "iran",
+            "iranian"
           ],
           "posture_terms": [
             "designation",
@@ -595,13 +615,12 @@
           "age_days": 24
         },
         {
-          "title": "Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day",
+          "title": "Rescission of Syria’s Designation as a State Sponsor of Terrorism",
           "action": "Removal of Syria's designation as a State Sponsor of Terrorism and Associated Sanctions List Updates; Iran-related Designations; Updates to Iran-related General Licenses",
           "date": "2026-08-24",
-          "url": "https://home.treasury.gov/news/press-releases/sb0613/",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/rescission-of-syrias-designation-as-a-state-sponsor-of-terrorism/",
           "region_terms": [
-            "iran",
-            "iranian"
+            "iran"
           ],
           "posture_terms": [
             "designation",
@@ -609,23 +628,6 @@
           ],
           "weight": 4.0,
           "age_days": 24
-        },
-        {
-          "title": "Imposing Sanctions on Cuban Regime Actors Associated with Marxist Subversive Networks and Corrupt Economic Dealings",
-          "action": "Counter Narcotics, Counter Terrorism, Cuba-related, and Iran-related Designations; Issuance of Russia-related General License; Issuance of Associated Frequently Asked Questions",
-          "date": "2026-08-20",
-          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/imposing-sanctions-on-cuban-regime-actors-associated-with-marxist-subversive-networks-and-corrupt-economic-dealings-fact-sheet/",
-          "region_terms": [
-            "iran",
-            "russia"
-          ],
-          "posture_terms": [
-            "designation",
-            "network",
-            "sanction"
-          ],
-          "weight": 5.0,
-          "age_days": 28
         }
       ]
     },
@@ -678,20 +680,20 @@
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 3.9,
+          "max_wind_ms": 3.7,
           "max_precip_24h_mm": 2.4,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T12:00:00Z"
+          "valid_to": "2026-09-24T18:00:00Z"
         },
         {
           "id": "port833",
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 8.8,
-          "max_precip_24h_mm": 6.3,
+          "max_wind_ms": 7.9,
+          "max_precip_24h_mm": 6.4,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T12:00:00Z"
+          "valid_to": "2026-09-24T18:00:00Z"
         },
         {
           "id": "port260",
@@ -701,37 +703,37 @@
           "max_wind_ms": 5.8,
           "max_precip_24h_mm": 21.8,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T12:00:00Z"
+          "valid_to": "2026-09-24T18:00:00Z"
         },
         {
           "id": "port1139",
           "name": "Samsun",
           "country": "Türkiye",
           "basin": "Black Sea",
-          "max_wind_ms": 5.6,
-          "max_precip_24h_mm": 23.3,
+          "max_wind_ms": 6.1,
+          "max_precip_24h_mm": 6.3,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T12:00:00Z"
+          "valid_to": "2026-09-24T18:00:00Z"
         },
         {
           "id": "port100",
           "name": "Baku Port",
           "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 9.4,
+          "max_wind_ms": 9.9,
           "max_precip_24h_mm": 0.1,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T12:00:00Z"
+          "valid_to": "2026-09-24T18:00:00Z"
         },
         {
           "id": "port16",
           "name": "Aktau Port",
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 10.0,
+          "max_wind_ms": 8.2,
           "max_precip_24h_mm": 0.3,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T12:00:00Z"
+          "valid_to": "2026-09-24T18:00:00Z"
         },
         {
           "id": "port76",
@@ -739,29 +741,24 @@
           "country": "Russia",
           "basin": "Caspian Sea",
           "max_wind_ms": 5.7,
-          "max_precip_24h_mm": 0.4,
+          "max_precip_24h_mm": 3.2,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T12:00:00Z"
+          "valid_to": "2026-09-24T18:00:00Z"
         },
         {
           "id": "port1330",
           "name": "Turkmenbashi Port",
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 7.6,
+          "max_wind_ms": 8.3,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-24T12:00:00Z"
+          "valid_to": "2026-09-24T18:00:00Z"
         }
       ]
     }
   },
   "history": [
-    {
-      "generated": "2026-09-02T11:09:42.178161+00:00",
-      "score": 22.0,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-02T16:29:15.502726+00:00",
       "score": 26.9,
@@ -1055,6 +1052,11 @@
     {
       "generated": "2026-09-17T16:51:12.752888+00:00",
       "score": 35.0,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-09-17T21:16:36.580573+00:00",
+      "score": 36.7,
       "status": "WATCH"
     }
   ],
