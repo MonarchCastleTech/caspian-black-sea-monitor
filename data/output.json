@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-09-20T04:45:02.035166+00:00",
+    "generated": "2026-09-20T11:12:05.587536+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -681,9 +681,9 @@
           "country": "Russia",
           "basin": "Black Sea",
           "max_wind_ms": 6.1,
-          "max_precip_24h_mm": 3.7,
+          "max_precip_24h_mm": 7.4,
           "pressure": 0.0,
-          "valid_to": "2026-09-27T00:00:00Z"
+          "valid_to": "2026-09-27T06:00:00Z"
         },
         {
           "id": "port833",
@@ -693,27 +693,27 @@
           "max_wind_ms": 8.6,
           "max_precip_24h_mm": 6.4,
           "pressure": 0.0,
-          "valid_to": "2026-09-27T00:00:00Z"
+          "valid_to": "2026-09-27T06:00:00Z"
         },
         {
           "id": "port260",
           "name": "Constanta",
           "country": "Romania",
           "basin": "Black Sea",
-          "max_wind_ms": 7.3,
-          "max_precip_24h_mm": 0.7,
+          "max_wind_ms": 8.2,
+          "max_precip_24h_mm": 2.6,
           "pressure": 0.0,
-          "valid_to": "2026-09-27T00:00:00Z"
+          "valid_to": "2026-09-27T06:00:00Z"
         },
         {
           "id": "port1139",
           "name": "Samsun",
           "country": "Türkiye",
           "basin": "Black Sea",
-          "max_wind_ms": 4.8,
+          "max_wind_ms": 5.2,
           "max_precip_24h_mm": 17.5,
           "pressure": 0.0,
-          "valid_to": "2026-09-27T00:00:00Z"
+          "valid_to": "2026-09-27T06:00:00Z"
         },
         {
           "id": "port100",
@@ -723,7 +723,7 @@
           "max_wind_ms": 11.6,
           "max_precip_24h_mm": 0.1,
           "pressure": 0.0,
-          "valid_to": "2026-09-27T00:00:00Z"
+          "valid_to": "2026-09-27T06:00:00Z"
         },
         {
           "id": "port16",
@@ -731,9 +731,9 @@
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
           "max_wind_ms": 7.7,
-          "max_precip_24h_mm": 1.9,
+          "max_precip_24h_mm": 0.9,
           "pressure": 0.0,
-          "valid_to": "2026-09-27T00:00:00Z"
+          "valid_to": "2026-09-27T06:00:00Z"
         },
         {
           "id": "port76",
@@ -743,7 +743,7 @@
           "max_wind_ms": 6.2,
           "max_precip_24h_mm": 7.1,
           "pressure": 0.0,
-          "valid_to": "2026-09-27T00:00:00Z"
+          "valid_to": "2026-09-27T06:00:00Z"
         },
         {
           "id": "port1330",
@@ -753,17 +753,12 @@
           "max_wind_ms": 7.7,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-09-27T00:00:00Z"
+          "valid_to": "2026-09-27T06:00:00Z"
         }
       ]
     }
   },
   "history": [
-    {
-      "generated": "2026-09-04T20:41:50.681856+00:00",
-      "score": 24.4,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-05T04:15:42.084065+00:00",
       "score": 24.8,
@@ -1056,6 +1051,11 @@
     },
     {
       "generated": "2026-09-20T04:45:02.035166+00:00",
+      "score": 36.3,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-09-20T11:12:05.587536+00:00",
       "score": 36.3,
       "status": "WATCH"
     }
