@@ -472,6 +472,10 @@ def main() -> None:
                         "institutional_window": "current 14 days expressed weekly versus 12 prior weeks",
                         "concurrence_rule": "+5 only when NATO/OFAC ≥45 and AIS/market/weather ≥40"},
     }
+    if coverage == 0:
+        output["warning"].update(score=None, raw_score=None, concurrence_bonus=None, status="UNAVAILABLE",
+                                 headline="No source-backed basin warning score is available.")
+        output["history"] = previous.get("history", [])[-60:]
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(json.dumps(output, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"score={score} status={status} coverage={coverage}/5 confidence={confidence}")
