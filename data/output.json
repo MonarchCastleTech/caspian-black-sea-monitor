@@ -1,21 +1,23 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-09-22T21:12:42.592496+00:00",
-    "mode": "live",
+    "generated": "2026-09-23T04:36:21.607890+00:00",
+    "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–14 days",
     "classification": "basin-escalation-pressure-not-event-probability-or-operational-maritime-picture",
     "coverage": "5/5",
-    "confidence": "HIGH",
-    "source_notes": []
+    "confidence": "MEDIUM",
+    "source_notes": [
+      "port_weather: retained validated snapshot (HTTPError)"
+    ]
   },
   "warning": {
-    "score": 27.9,
-    "raw_score": 27.9,
+    "score": 28.2,
+    "raw_score": 28.2,
     "concurrence_bonus": 0.0,
     "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 27.9/100.",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 28.2/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -390,7 +392,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 8
+          "age_days": 9
         },
         {
           "date": "2026-09-14",
@@ -401,7 +403,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 8
+          "age_days": 9
         },
         {
           "date": "2026-09-08",
@@ -412,7 +414,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 14
+          "age_days": 15
         },
         {
           "date": "2026-09-08",
@@ -423,21 +425,21 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 14
+          "age_days": 15
         }
       ]
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
-      "score": 28.9,
+      "score": 30.5,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 33,
       "current_14d_weekly_equivalent": 8.75,
-      "baseline_weekly_median": 9.25,
-      "anomaly_z": -0.08,
+      "baseline_weekly_median": 6.75,
+      "anomaly_z": 0.2,
       "method": "Russia/Iran/region-linked OFAC title intensity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
@@ -455,7 +457,7 @@
             "sanction"
           ],
           "weight": 5.5,
-          "age_days": 5
+          "age_days": 6
         },
         {
           "title": "Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime",
@@ -472,7 +474,7 @@
             "disrupt"
           ],
           "weight": 4.5,
-          "age_days": 5
+          "age_days": 6
         },
         {
           "title": "Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions",
@@ -487,7 +489,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 8
+          "age_days": 9
         },
         {
           "title": "Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network",
@@ -502,7 +504,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 12
+          "age_days": 13
         },
         {
           "title": "Treasury Grounds Iranian Airlines with Sweeping Sanctions Action",
@@ -518,7 +520,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 14
+          "age_days": 15
         },
         {
           "title": "Treasury Severs Iranian Regime's Financial Lifelines in Türkiye",
@@ -533,7 +535,7 @@
             "designation"
           ],
           "weight": 2.5,
-          "age_days": 18
+          "age_days": 19
         },
         {
           "title": "Further Sanctions on Cuba's Elites, Financial Channels, and Resource Exploitation Apparatus",
@@ -548,7 +550,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 19
+          "age_days": 20
         },
         {
           "title": "Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast",
@@ -562,7 +564,7 @@
             "designation"
           ],
           "weight": 2.5,
-          "age_days": 25
+          "age_days": 26
         },
         {
           "title": "Treasury Takes Action Against Violent Far-Left Terrorist Networks",
@@ -577,7 +579,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 27
+          "age_days": 28
         },
         {
           "title": "Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day",
@@ -593,7 +595,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 29
+          "age_days": 30
         },
         {
           "title": "United States Implements Operation Economic Outcast with Sanctions Targeting Iran's Military Activities and Procurements, and Petroleum and Petrochemical Product Traders",
@@ -612,7 +614,7 @@
             "targeting"
           ],
           "weight": 10.5,
-          "age_days": 29
+          "age_days": 30
         },
         {
           "title": "Rescission of Syria’s Designation as a State Sponsor of Terrorism",
@@ -627,7 +629,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 29
+          "age_days": 30
         }
       ]
     },
@@ -671,7 +673,7 @@
       "status": "BASELINE",
       "weight": 0.1,
       "available": true,
-      "retained": false,
+      "retained": true,
       "coverage": 8,
       "method": "Seven-day maximum wind and daily precipitation at eight high-activity basin ports.",
       "evidence": [
@@ -755,15 +757,11 @@
           "pressure": 0.0,
           "valid_to": "2026-09-29T18:00:00Z"
         }
-      ]
+      ],
+      "retained_reason": "Current fetch failed: HTTPError"
     }
   },
   "history": [
-    {
-      "generated": "2026-09-07T12:19:07.906143+00:00",
-      "score": 23.8,
-      "status": "BASELINE"
-    },
     {
       "generated": "2026-09-07T21:27:16.708192+00:00",
       "score": 21.4,
@@ -1057,6 +1055,11 @@
     {
       "generated": "2026-09-22T21:12:42.592496+00:00",
       "score": 27.9,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-09-23T04:36:21.607890+00:00",
+      "score": 28.2,
       "status": "WATCH"
     }
   ],
