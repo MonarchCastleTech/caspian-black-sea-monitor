@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-09-26T04:47:02.845608+00:00",
+    "generated": "2026-09-26T11:15:32.119684+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -680,20 +680,20 @@
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 8.1,
+          "max_wind_ms": 8.0,
           "max_precip_24h_mm": 0.2,
           "pressure": 0.0,
-          "valid_to": "2026-10-03T00:00:00Z"
+          "valid_to": "2026-10-03T06:00:00Z"
         },
         {
           "id": "port833",
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 10.3,
+          "max_wind_ms": 10.5,
           "max_precip_24h_mm": 11.4,
           "pressure": 0.0,
-          "valid_to": "2026-10-03T00:00:00Z"
+          "valid_to": "2026-10-03T06:00:00Z"
         },
         {
           "id": "port260",
@@ -701,9 +701,9 @@
           "country": "Romania",
           "basin": "Black Sea",
           "max_wind_ms": 10.8,
-          "max_precip_24h_mm": 2.8,
+          "max_precip_24h_mm": 0.9,
           "pressure": 0.0,
-          "valid_to": "2026-10-03T00:00:00Z"
+          "valid_to": "2026-10-03T06:00:00Z"
         },
         {
           "id": "port1139",
@@ -713,7 +713,7 @@
           "max_wind_ms": 5.6,
           "max_precip_24h_mm": 16.5,
           "pressure": 0.0,
-          "valid_to": "2026-10-03T00:00:00Z"
+          "valid_to": "2026-10-03T06:00:00Z"
         },
         {
           "id": "port100",
@@ -723,47 +723,42 @@
           "max_wind_ms": 11.1,
           "max_precip_24h_mm": 12.5,
           "pressure": 0.0,
-          "valid_to": "2026-10-03T00:00:00Z"
+          "valid_to": "2026-10-03T06:00:00Z"
         },
         {
           "id": "port16",
           "name": "Aktau Port",
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 7.5,
+          "max_wind_ms": 8.2,
           "max_precip_24h_mm": 7.6,
           "pressure": 0.0,
-          "valid_to": "2026-10-03T00:00:00Z"
+          "valid_to": "2026-10-03T06:00:00Z"
         },
         {
           "id": "port76",
           "name": "Astrakhan Port",
           "country": "Russia",
           "basin": "Caspian Sea",
-          "max_wind_ms": 6.7,
-          "max_precip_24h_mm": 0.0,
+          "max_wind_ms": 6.5,
+          "max_precip_24h_mm": 5.1,
           "pressure": 0.0,
-          "valid_to": "2026-10-03T00:00:00Z"
+          "valid_to": "2026-10-03T06:00:00Z"
         },
         {
           "id": "port1330",
           "name": "Turkmenbashi Port",
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 8.5,
+          "max_wind_ms": 8.6,
           "max_precip_24h_mm": 0.3,
           "pressure": 0.0,
-          "valid_to": "2026-10-03T00:00:00Z"
+          "valid_to": "2026-10-03T06:00:00Z"
         }
       ]
     }
   },
   "history": [
-    {
-      "generated": "2026-09-10T20:47:34.300260+00:00",
-      "score": 34.5,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-09-11T04:27:29.053511+00:00",
       "score": 33.6,
@@ -1056,6 +1051,11 @@
     },
     {
       "generated": "2026-09-26T04:47:02.845608+00:00",
+      "score": 26.8,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-09-26T11:15:32.119684+00:00",
       "score": 26.8,
       "status": "WATCH"
     }
