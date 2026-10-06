@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-10-05T23:59:19.883490+00:00",
+    "generated": "2026-10-06T06:10:47.003900+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 46.1,
-    "raw_score": 41.1,
+    "score": 47.3,
+    "raw_score": 42.3,
     "concurrence_bonus": 5.0,
     "status": "ELEVATED",
-    "headline": "Caspian–Black Sea escalation pressure is elevated at 46.1/100.",
+    "headline": "Caspian–Black Sea escalation pressure is elevated at 47.3/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -377,8 +377,8 @@
       "retained": false,
       "coverage": 14,
       "current_14d_weekly_equivalent": 4.5,
-      "baseline_weekly_median": 0.0,
-      "anomaly_z": 3.23,
+      "baseline_weekly_median": 0.5,
+      "anomaly_z": 5.4,
       "method": "Regional NATO publication-title term weight over 14 days versus 12 prior weeks.",
       "evidence": [
         {
@@ -390,7 +390,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 4
+          "age_days": 5
         },
         {
           "date": "2026-10-01",
@@ -401,7 +401,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 4
+          "age_days": 5
         },
         {
           "date": "2026-09-29",
@@ -416,7 +416,7 @@
             "drone"
           ],
           "weight": 3.5,
-          "age_days": 6
+          "age_days": 7
         },
         {
           "date": "2026-09-29",
@@ -431,7 +431,7 @@
             "drone"
           ],
           "weight": 3.5,
-          "age_days": 6
+          "age_days": 7
         },
         {
           "date": "2026-09-14",
@@ -442,7 +442,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 21
+          "age_days": 22
         },
         {
           "date": "2026-09-14",
@@ -453,7 +453,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 21
+          "age_days": 22
         },
         {
           "date": "2026-09-08",
@@ -464,7 +464,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 27
+          "age_days": 28
         },
         {
           "date": "2026-09-08",
@@ -475,21 +475,21 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 27
+          "age_days": 28
         }
       ]
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
-      "score": 41.8,
-      "status": "WATCH",
+      "score": 47.5,
+      "status": "ELEVATED",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 37,
+      "coverage": 35,
       "current_14d_weekly_equivalent": 18.5,
-      "baseline_weekly_median": 9.5,
-      "anomaly_z": 1.43,
+      "baseline_weekly_median": 8.25,
+      "anomaly_z": 2.13,
       "method": "Russia/Iran/region-linked OFAC title intensity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
@@ -505,7 +505,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 0
+          "age_days": 1
         },
         {
           "title": "Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines",
@@ -520,7 +520,7 @@
             "targets"
           ],
           "weight": 4.5,
-          "age_days": 4
+          "age_days": 5
         },
         {
           "title": "Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran",
@@ -537,7 +537,7 @@
             "sanction"
           ],
           "weight": 6.5,
-          "age_days": 4
+          "age_days": 5
         },
         {
           "title": "Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks",
@@ -553,7 +553,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 5
+          "age_days": 6
         },
         {
           "title": "Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks",
@@ -569,7 +569,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 6
+          "age_days": 7
         },
         {
           "title": "Operation Economic Outcast Takes Down Iranian Military Procurement Networks",
@@ -587,7 +587,7 @@
             "procurement"
           ],
           "weight": 7.0,
-          "age_days": 6
+          "age_days": 7
         },
         {
           "title": "CHART - Los Mayos Narco-Corruption in Baja California - September 2026",
@@ -601,7 +601,7 @@
             "designation"
           ],
           "weight": 2.5,
-          "age_days": 6
+          "age_days": 7
         },
         {
           "title": "CHART - The Sinaloa Cartel's Los Mayos Faction - September 2026",
@@ -615,7 +615,7 @@
             "designation"
           ],
           "weight": 2.5,
-          "age_days": 6
+          "age_days": 7
         },
         {
           "title": "Further Sanctions on Cuba's Mineral Wealth and Military Modernization Apparatus",
@@ -632,7 +632,7 @@
             "sanction"
           ],
           "weight": 5.5,
-          "age_days": 18
+          "age_days": 19
         },
         {
           "title": "Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime",
@@ -649,7 +649,7 @@
             "disrupt"
           ],
           "weight": 4.5,
-          "age_days": 18
+          "age_days": 19
         },
         {
           "title": "Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions",
@@ -664,7 +664,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 21
+          "age_days": 22
         },
         {
           "title": "Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network",
@@ -679,7 +679,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 25
+          "age_days": 26
         }
       ]
     },
@@ -732,60 +732,60 @@
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 4.7,
-          "max_precip_24h_mm": 0.0,
+          "max_wind_ms": 5.0,
+          "max_precip_24h_mm": 8.9,
           "pressure": 0.0,
-          "valid_to": "2026-10-12T18:00:00Z"
+          "valid_to": "2026-10-13T06:00:00Z"
         },
         {
           "id": "port833",
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 5.9,
-          "max_precip_24h_mm": 0.8,
+          "max_wind_ms": 6.5,
+          "max_precip_24h_mm": 5.0,
           "pressure": 0.0,
-          "valid_to": "2026-10-12T18:00:00Z"
+          "valid_to": "2026-10-13T06:00:00Z"
         },
         {
           "id": "port260",
           "name": "Constanta",
           "country": "Romania",
           "basin": "Black Sea",
-          "max_wind_ms": 7.7,
+          "max_wind_ms": 7.9,
           "max_precip_24h_mm": 0.1,
           "pressure": 0.0,
-          "valid_to": "2026-10-12T18:00:00Z"
+          "valid_to": "2026-10-13T06:00:00Z"
         },
         {
           "id": "port1139",
           "name": "Samsun",
           "country": "Türkiye",
           "basin": "Black Sea",
-          "max_wind_ms": 4.6,
-          "max_precip_24h_mm": 2.8,
+          "max_wind_ms": 4.7,
+          "max_precip_24h_mm": 6.7,
           "pressure": 0.0,
-          "valid_to": "2026-10-12T18:00:00Z"
+          "valid_to": "2026-10-13T06:00:00Z"
         },
         {
           "id": "port100",
           "name": "Baku Port",
           "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 7.3,
-          "max_precip_24h_mm": 11.6,
+          "max_wind_ms": 7.2,
+          "max_precip_24h_mm": 5.9,
           "pressure": 0.0,
-          "valid_to": "2026-10-12T18:00:00Z"
+          "valid_to": "2026-10-13T06:00:00Z"
         },
         {
           "id": "port16",
           "name": "Aktau Port",
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 7.6,
-          "max_precip_24h_mm": 0.3,
+          "max_wind_ms": 8.9,
+          "max_precip_24h_mm": 2.6,
           "pressure": 0.0,
-          "valid_to": "2026-10-12T18:00:00Z"
+          "valid_to": "2026-10-13T06:00:00Z"
         },
         {
           "id": "port76",
@@ -795,27 +795,22 @@
           "max_wind_ms": 5.7,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-10-12T18:00:00Z"
+          "valid_to": "2026-10-13T06:00:00Z"
         },
         {
           "id": "port1330",
           "name": "Turkmenbashi Port",
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 6.3,
-          "max_precip_24h_mm": 1.7,
+          "max_wind_ms": 6.2,
+          "max_precip_24h_mm": 2.3,
           "pressure": 0.0,
-          "valid_to": "2026-10-12T18:00:00Z"
+          "valid_to": "2026-10-13T06:00:00Z"
         }
       ]
     }
   },
   "history": [
-    {
-      "generated": "2026-09-18T20:50:16.686289+00:00",
-      "score": 36.6,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-09-19T04:28:17.467768+00:00",
       "score": 36.3,
@@ -1109,6 +1104,11 @@
     {
       "generated": "2026-10-05T23:59:19.883490+00:00",
       "score": 46.1,
+      "status": "ELEVATED"
+    },
+    {
+      "generated": "2026-10-06T06:10:47.003900+00:00",
+      "score": 47.3,
       "status": "ELEVATED"
     }
   ],
