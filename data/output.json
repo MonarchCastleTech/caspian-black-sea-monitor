@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-10-16T11:13:25.689849+00:00",
+    "generated": "2026-10-16T16:31:54.580162+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 33.6,
-    "raw_score": 33.6,
+    "score": 34.0,
+    "raw_score": 34.0,
     "concurrence_bonus": 0.0,
     "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 33.6/100.",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 34.0/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -481,17 +481,48 @@
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
-      "score": 29.7,
+      "score": 31.7,
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 38,
-      "current_14d_weekly_equivalent": 9.0,
+      "coverage": 40,
+      "current_14d_weekly_equivalent": 13.75,
       "baseline_weekly_median": 11.5,
-      "anomaly_z": -0.2,
+      "anomaly_z": 0.18,
       "method": "Russia/Iran/region-linked OFAC title intensity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "title": "Sanctioning Cuban State-Owned Banco Internacional de Comercio, S.A. (BICSA)",
+          "action": "Iran-related Designations; Cuba Designation; Issuance of New and Amended General Licenses and Frequently Asked Questions",
+          "date": "2026-10-15",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/sanctioning-cuban-state-owned-banco-internacional-de-comercio-s-a-bicsa/",
+          "region_terms": [
+            "iran"
+          ],
+          "posture_terms": [
+            "designation",
+            "sanction"
+          ],
+          "weight": 4.0,
+          "age_days": 1
+        },
+        {
+          "title": "Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture",
+          "action": "Iran-related Designations; Cuba Designation; Issuance of New and Amended General Licenses and Frequently Asked Questions",
+          "date": "2026-10-15",
+          "url": "https://home.treasury.gov/news/press-releases/sb0660/",
+          "region_terms": [
+            "iran"
+          ],
+          "posture_terms": [
+            "designation",
+            "network",
+            "targets"
+          ],
+          "weight": 5.5,
+          "age_days": 1
+        },
         {
           "title": "Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks",
           "action": "Iran-related Designations; Cuba Designation; Issuance of New and Amended General Licenses and Frequently Asked Questions",
@@ -651,39 +682,6 @@
           ],
           "weight": 2.5,
           "age_days": 17
-        },
-        {
-          "title": "Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks",
-          "action": "Counter Narcotics, Counter Terrorism, Iran-related, and Non-Proliferation Designations",
-          "date": "2026-09-29",
-          "url": "https://home.treasury.gov/news/press-releases/sb0636/",
-          "region_terms": [
-            "iran"
-          ],
-          "posture_terms": [
-            "designation",
-            "network",
-            "sanction"
-          ],
-          "weight": 5.0,
-          "age_days": 17
-        },
-        {
-          "title": "Further Sanctions on Cuba's Mineral Wealth and Military Modernization Apparatus",
-          "action": "Iran-related Designations; Cuba Designations; Belarus-related Designations Removals",
-          "date": "2026-09-17",
-          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/further-sanctions-on-cubas-mineral-wealth-and-military-modernization-apparatus-fact-sheet/",
-          "region_terms": [
-            "belarus",
-            "iran"
-          ],
-          "posture_terms": [
-            "designation",
-            "military",
-            "sanction"
-          ],
-          "weight": 5.5,
-          "age_days": 29
         }
       ]
     },
@@ -723,7 +721,7 @@
     },
     "port_weather": {
       "key": "port_weather",
-      "score": 2.2,
+      "score": 2.4,
       "status": "BASELINE",
       "weight": 0.1,
       "available": true,
@@ -739,57 +737,57 @@
           "max_wind_ms": 12.7,
           "max_precip_24h_mm": 0.7,
           "pressure": 5.0,
-          "valid_to": "2026-10-23T06:00:00Z"
+          "valid_to": "2026-10-23T12:00:00Z"
         },
         {
           "id": "port833",
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 12.5,
+          "max_wind_ms": 12.6,
           "max_precip_24h_mm": 7.8,
-          "pressure": 3.6,
-          "valid_to": "2026-10-23T06:00:00Z"
+          "pressure": 4.3,
+          "valid_to": "2026-10-23T12:00:00Z"
         },
         {
           "id": "port1112",
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 5.1,
-          "max_precip_24h_mm": 5.9,
+          "max_wind_ms": 4.9,
+          "max_precip_24h_mm": 2.6,
           "pressure": 0.0,
-          "valid_to": "2026-10-23T06:00:00Z"
+          "valid_to": "2026-10-23T12:00:00Z"
         },
         {
           "id": "port260",
           "name": "Constanta",
           "country": "Romania",
           "basin": "Black Sea",
-          "max_wind_ms": 9.1,
+          "max_wind_ms": 8.5,
           "max_precip_24h_mm": 0.3,
           "pressure": 0.0,
-          "valid_to": "2026-10-23T06:00:00Z"
+          "valid_to": "2026-10-23T12:00:00Z"
         },
         {
           "id": "port1139",
           "name": "Samsun",
           "country": "Türkiye",
           "basin": "Black Sea",
-          "max_wind_ms": 8.6,
-          "max_precip_24h_mm": 7.9,
+          "max_wind_ms": 8.3,
+          "max_precip_24h_mm": 7.4,
           "pressure": 0.0,
-          "valid_to": "2026-10-23T06:00:00Z"
+          "valid_to": "2026-10-23T12:00:00Z"
         },
         {
           "id": "port16",
           "name": "Aktau Port",
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 11.3,
+          "max_wind_ms": 11.2,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-10-23T06:00:00Z"
+          "valid_to": "2026-10-23T12:00:00Z"
         },
         {
           "id": "port76",
@@ -799,7 +797,7 @@
           "max_wind_ms": 7.6,
           "max_precip_24h_mm": 2.5,
           "pressure": 0.0,
-          "valid_to": "2026-10-23T06:00:00Z"
+          "valid_to": "2026-10-23T12:00:00Z"
         },
         {
           "id": "port1330",
@@ -809,17 +807,12 @@
           "max_wind_ms": 8.2,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-10-23T06:00:00Z"
+          "valid_to": "2026-10-23T12:00:00Z"
         }
       ]
     }
   },
   "history": [
-    {
-      "generated": "2026-09-27T05:09:44.549248+00:00",
-      "score": 27.2,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-09-27T11:54:49.285087+00:00",
       "score": 26.8,
@@ -1113,6 +1106,11 @@
     {
       "generated": "2026-10-16T11:13:25.689849+00:00",
       "score": 33.6,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-16T16:31:54.580162+00:00",
+      "score": 34.0,
       "status": "WATCH"
     }
   ],
