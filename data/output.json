@@ -1,23 +1,21 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-10-22T04:29:55.186943+00:00",
-    "mode": "partial",
+    "generated": "2026-10-22T11:39:37.309307+00:00",
+    "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
     "classification": "basin-escalation-pressure-not-event-probability-or-operational-maritime-picture",
     "coverage": "5/5",
-    "confidence": "MEDIUM",
-    "source_notes": [
-      "commodity_dislocation: retained validated snapshot (RuntimeError)"
-    ]
+    "confidence": "HIGH",
+    "source_notes": []
   },
   "warning": {
-    "score": 30.2,
-    "raw_score": 30.2,
+    "score": 32.8,
+    "raw_score": 32.8,
     "concurrence_bonus": 0.0,
     "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 30.2/100.",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 32.8/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -673,23 +671,23 @@
     },
     "commodity_dislocation": {
       "key": "commodity_dislocation",
-      "score": 30.6,
-      "status": "WATCH",
+      "score": 47.3,
+      "status": "ELEVATED",
       "weight": 0.15,
       "available": true,
-      "retained": true,
+      "retained": false,
       "coverage": 2,
       "method": "Absolute robust-z dislocation of five-observation Brent and one-month wheat returns.",
       "evidence": [
         {
           "id": "DCOILBRENTEU",
           "label": "Brent crude",
-          "score": 0.0,
-          "latest_date": "2026-10-14",
-          "latest_value": 126.55,
-          "change_pct": 0.44,
-          "direction": "up",
-          "robust_z": -0.21,
+          "score": 25.8,
+          "latest_date": "2026-10-20",
+          "latest_value": 115.22,
+          "change_pct": -8.4,
+          "direction": "down",
+          "robust_z": -1.14,
           "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
         },
         {
@@ -703,8 +701,7 @@
           "robust_z": 2.68,
           "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM"
         }
-      ],
-      "retained_reason": "Current fetch failed: RuntimeError"
+      ]
     },
     "port_weather": {
       "key": "port_weather",
@@ -721,20 +718,20 @@
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 7.0,
-          "max_precip_24h_mm": 0.0,
+          "max_wind_ms": 6.7,
+          "max_precip_24h_mm": 7.3,
           "pressure": 0.0,
-          "valid_to": "2026-10-29T00:00:00Z"
+          "valid_to": "2026-10-29T06:00:00Z"
         },
         {
           "id": "port833",
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 6.0,
-          "max_precip_24h_mm": 0.0,
+          "max_wind_ms": 5.9,
+          "max_precip_24h_mm": 7.5,
           "pressure": 0.0,
-          "valid_to": "2026-10-29T00:00:00Z"
+          "valid_to": "2026-10-29T06:00:00Z"
         },
         {
           "id": "port260",
@@ -742,9 +739,9 @@
           "country": "Romania",
           "basin": "Black Sea",
           "max_wind_ms": 8.5,
-          "max_precip_24h_mm": 6.8,
+          "max_precip_24h_mm": 11.2,
           "pressure": 0.0,
-          "valid_to": "2026-10-29T00:00:00Z"
+          "valid_to": "2026-10-29T06:00:00Z"
         },
         {
           "id": "port1139",
@@ -752,29 +749,29 @@
           "country": "Türkiye",
           "basin": "Black Sea",
           "max_wind_ms": 5.0,
-          "max_precip_24h_mm": 2.9,
+          "max_precip_24h_mm": 16.7,
           "pressure": 0.0,
-          "valid_to": "2026-10-29T00:00:00Z"
+          "valid_to": "2026-10-29T06:00:00Z"
         },
         {
           "id": "port100",
           "name": "Baku Port",
           "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 7.5,
-          "max_precip_24h_mm": 5.3,
+          "max_wind_ms": 7.3,
+          "max_precip_24h_mm": 12.2,
           "pressure": 0.0,
-          "valid_to": "2026-10-29T00:00:00Z"
+          "valid_to": "2026-10-29T06:00:00Z"
         },
         {
           "id": "port16",
           "name": "Aktau Port",
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 9.4,
-          "max_precip_24h_mm": 2.1,
+          "max_wind_ms": 9.6,
+          "max_precip_24h_mm": 1.1,
           "pressure": 0.0,
-          "valid_to": "2026-10-29T00:00:00Z"
+          "valid_to": "2026-10-29T06:00:00Z"
         },
         {
           "id": "port76",
@@ -782,29 +779,24 @@
           "country": "Russia",
           "basin": "Caspian Sea",
           "max_wind_ms": 6.9,
-          "max_precip_24h_mm": 1.0,
+          "max_precip_24h_mm": 0.5,
           "pressure": 0.0,
-          "valid_to": "2026-10-29T00:00:00Z"
+          "valid_to": "2026-10-29T06:00:00Z"
         },
         {
           "id": "port1330",
           "name": "Turkmenbashi Port",
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 8.7,
-          "max_precip_24h_mm": 1.8,
+          "max_wind_ms": 8.6,
+          "max_precip_24h_mm": 7.6,
           "pressure": 0.0,
-          "valid_to": "2026-10-29T00:00:00Z"
+          "valid_to": "2026-10-29T06:00:00Z"
         }
       ]
     }
   },
   "history": [
-    {
-      "generated": "2026-10-03T21:07:21.897367+00:00",
-      "score": 45.3,
-      "status": "ELEVATED"
-    },
     {
       "generated": "2026-10-04T05:41:14.584616+00:00",
       "score": 45.3,
@@ -1098,6 +1090,11 @@
     {
       "generated": "2026-10-22T04:29:55.186943+00:00",
       "score": 30.2,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-22T11:39:37.309307+00:00",
+      "score": 32.8,
       "status": "WATCH"
     }
   ],
