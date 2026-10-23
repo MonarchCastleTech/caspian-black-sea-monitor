@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-10-23T11:28:50.767037+00:00",
+    "generated": "2026-10-23T16:57:24.572035+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 24.9,
-    "raw_score": 24.9,
+    "score": 25.9,
+    "raw_score": 25.9,
     "concurrence_bonus": 0.0,
-    "status": "BASELINE",
-    "headline": "Caspian–Black Sea escalation pressure is baseline at 24.9/100.",
+    "status": "WATCH",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 25.9/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -370,17 +370,28 @@
     },
     "nato_posture": {
       "key": "nato_posture",
-      "score": 0.0,
+      "score": 4.1,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
-      "coverage": 15,
-      "current_14d_weekly_equivalent": 0.0,
+      "coverage": 16,
+      "current_14d_weekly_equivalent": 0.5,
       "baseline_weekly_median": 1.5,
-      "anomaly_z": -0.67,
+      "anomaly_z": -0.45,
       "method": "Regional NATO publication-title term weight over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "date": "2026-10-23",
+          "title": "Nato Officials Visit Ukraine",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/10/23/nato-officials-visit-ukraine",
+          "region_terms": [
+            "ukraine"
+          ],
+          "posture_terms": [],
+          "weight": 1.0,
+          "age_days": 0
+        },
         {
           "date": "2026-10-09",
           "title": "Natos Deputy Secretary General Visits Moldova",
@@ -718,20 +729,20 @@
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 6.9,
+          "max_wind_ms": 7.2,
           "max_precip_24h_mm": 5.4,
           "pressure": 0.0,
-          "valid_to": "2026-10-30T06:00:00Z"
+          "valid_to": "2026-10-30T12:00:00Z"
         },
         {
           "id": "port833",
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 6.3,
+          "max_wind_ms": 5.9,
           "max_precip_24h_mm": 2.1,
           "pressure": 0.0,
-          "valid_to": "2026-10-30T06:00:00Z"
+          "valid_to": "2026-10-30T12:00:00Z"
         },
         {
           "id": "port260",
@@ -739,29 +750,29 @@
           "country": "Romania",
           "basin": "Black Sea",
           "max_wind_ms": 6.9,
-          "max_precip_24h_mm": 0.5,
+          "max_precip_24h_mm": 0.2,
           "pressure": 0.0,
-          "valid_to": "2026-10-30T06:00:00Z"
+          "valid_to": "2026-10-30T12:00:00Z"
         },
         {
           "id": "port1139",
           "name": "Samsun",
           "country": "Türkiye",
           "basin": "Black Sea",
-          "max_wind_ms": 5.2,
+          "max_wind_ms": 4.7,
           "max_precip_24h_mm": 25.3,
           "pressure": 0.0,
-          "valid_to": "2026-10-30T06:00:00Z"
+          "valid_to": "2026-10-30T12:00:00Z"
         },
         {
           "id": "port100",
           "name": "Baku Port",
           "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 6.8,
-          "max_precip_24h_mm": 9.2,
+          "max_wind_ms": 7.7,
+          "max_precip_24h_mm": 14.7,
           "pressure": 0.0,
-          "valid_to": "2026-10-30T06:00:00Z"
+          "valid_to": "2026-10-30T12:00:00Z"
         },
         {
           "id": "port16",
@@ -769,9 +780,9 @@
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
           "max_wind_ms": 9.7,
-          "max_precip_24h_mm": 0.0,
+          "max_precip_24h_mm": 2.1,
           "pressure": 0.0,
-          "valid_to": "2026-10-30T06:00:00Z"
+          "valid_to": "2026-10-30T12:00:00Z"
         },
         {
           "id": "port76",
@@ -779,9 +790,9 @@
           "country": "Russia",
           "basin": "Caspian Sea",
           "max_wind_ms": 7.2,
-          "max_precip_24h_mm": 0.1,
+          "max_precip_24h_mm": 1.3,
           "pressure": 0.0,
-          "valid_to": "2026-10-30T06:00:00Z"
+          "valid_to": "2026-10-30T12:00:00Z"
         },
         {
           "id": "port1330",
@@ -789,19 +800,14 @@
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
           "max_wind_ms": 8.6,
-          "max_precip_24h_mm": 0.5,
+          "max_precip_24h_mm": 1.0,
           "pressure": 0.0,
-          "valid_to": "2026-10-30T06:00:00Z"
+          "valid_to": "2026-10-30T12:00:00Z"
         }
       ]
     }
   },
   "history": [
-    {
-      "generated": "2026-10-05T23:59:19.883490+00:00",
-      "score": 46.1,
-      "status": "ELEVATED"
-    },
     {
       "generated": "2026-10-06T06:10:47.003900+00:00",
       "score": 47.3,
@@ -1096,6 +1102,11 @@
       "generated": "2026-10-23T11:28:50.767037+00:00",
       "score": 24.9,
       "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-23T16:57:24.572035+00:00",
+      "score": 25.9,
+      "status": "WATCH"
     }
   ],
   "sources": [
