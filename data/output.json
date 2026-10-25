@@ -1,16 +1,14 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-10-25T04:28:52.118938+00:00",
-    "mode": "partial",
+    "generated": "2026-10-25T11:13:50.534246+00:00",
+    "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
     "classification": "basin-escalation-pressure-not-event-probability-or-operational-maritime-picture",
     "coverage": "5/5",
-    "confidence": "MEDIUM",
-    "source_notes": [
-      "regional_sanctions: retained validated snapshot (ConnectionError)"
-    ]
+    "confidence": "HIGH",
+    "source_notes": []
   },
   "warning": {
     "score": 25.9,
@@ -476,7 +474,7 @@
       "status": "WATCH",
       "weight": 0.2,
       "available": true,
-      "retained": true,
+      "retained": false,
       "coverage": 39,
       "current_14d_weekly_equivalent": 10.25,
       "baseline_weekly_median": 10.75,
@@ -499,7 +497,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 3
+          "age_days": 4
         },
         {
           "title": "Sanctioning Cuban State-Owned Banco Internacional de Comercio, S.A. (BICSA)",
@@ -514,7 +512,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 9
+          "age_days": 10
         },
         {
           "title": "Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture",
@@ -530,7 +528,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 9
+          "age_days": 10
         },
         {
           "title": "Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks",
@@ -547,7 +545,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 9
+          "age_days": 10
         },
         {
           "title": "Operation Economic Outcast Sanctions on Iran's Shadow Fleet Network",
@@ -564,7 +562,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 16
+          "age_days": 17
         },
         {
           "title": "Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network",
@@ -581,7 +579,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 16
+          "age_days": 17
         },
         {
           "title": "Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative",
@@ -596,7 +594,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 19
+          "age_days": 20
         },
         {
           "title": "Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran",
@@ -613,7 +611,7 @@
             "sanction"
           ],
           "weight": 6.5,
-          "age_days": 23
+          "age_days": 24
         },
         {
           "title": "Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines",
@@ -628,7 +626,7 @@
             "targets"
           ],
           "weight": 4.5,
-          "age_days": 23
+          "age_days": 24
         },
         {
           "title": "Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks",
@@ -644,7 +642,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 24
+          "age_days": 25
         },
         {
           "title": "Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks",
@@ -660,7 +658,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 25
+          "age_days": 26
         },
         {
           "title": "Operation Economic Outcast Takes Down Iranian Military Procurement Networks",
@@ -678,10 +676,9 @@
             "procurement"
           ],
           "weight": 7.0,
-          "age_days": 25
+          "age_days": 26
         }
-      ],
-      "retained_reason": "Current fetch failed: ConnectionError"
+      ]
     },
     "commodity_dislocation": {
       "key": "commodity_dislocation",
@@ -732,60 +729,60 @@
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 7.3,
+          "max_wind_ms": 7.4,
           "max_precip_24h_mm": 4.6,
           "pressure": 0.0,
-          "valid_to": "2026-11-01T00:00:00Z"
+          "valid_to": "2026-11-01T06:00:00Z"
         },
         {
           "id": "port833",
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 8.3,
+          "max_wind_ms": 8.5,
           "max_precip_24h_mm": 6.8,
           "pressure": 0.0,
-          "valid_to": "2026-11-01T00:00:00Z"
+          "valid_to": "2026-11-01T06:00:00Z"
         },
         {
           "id": "port260",
           "name": "Constanta",
           "country": "Romania",
           "basin": "Black Sea",
-          "max_wind_ms": 11.9,
-          "max_precip_24h_mm": 16.3,
+          "max_wind_ms": 11.1,
+          "max_precip_24h_mm": 21.8,
           "pressure": 0.0,
-          "valid_to": "2026-11-01T00:00:00Z"
+          "valid_to": "2026-11-01T06:00:00Z"
         },
         {
           "id": "port1139",
           "name": "Samsun",
           "country": "Türkiye",
           "basin": "Black Sea",
-          "max_wind_ms": 4.7,
+          "max_wind_ms": 5.1,
           "max_precip_24h_mm": 10.0,
           "pressure": 0.0,
-          "valid_to": "2026-11-01T00:00:00Z"
+          "valid_to": "2026-11-01T06:00:00Z"
         },
         {
           "id": "port100",
           "name": "Baku Port",
           "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 7.2,
+          "max_wind_ms": 6.7,
           "max_precip_24h_mm": 9.4,
           "pressure": 0.0,
-          "valid_to": "2026-11-01T00:00:00Z"
+          "valid_to": "2026-11-01T06:00:00Z"
         },
         {
           "id": "port16",
           "name": "Aktau Port",
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 9.4,
+          "max_wind_ms": 8.9,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-11-01T00:00:00Z"
+          "valid_to": "2026-11-01T06:00:00Z"
         },
         {
           "id": "port76",
@@ -795,27 +792,22 @@
           "max_wind_ms": 7.1,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-11-01T00:00:00Z"
+          "valid_to": "2026-11-01T06:00:00Z"
         },
         {
           "id": "port1330",
           "name": "Turkmenbashi Port",
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 7.6,
-          "max_precip_24h_mm": 4.6,
+          "max_wind_ms": 7.8,
+          "max_precip_24h_mm": 3.9,
           "pressure": 0.0,
-          "valid_to": "2026-11-01T00:00:00Z"
+          "valid_to": "2026-11-01T06:00:00Z"
         }
       ]
     }
   },
   "history": [
-    {
-      "generated": "2026-10-08T13:18:08.144890+00:00",
-      "score": 51.7,
-      "status": "ELEVATED"
-    },
     {
       "generated": "2026-10-08T23:15:59.129168+00:00",
       "score": 52.0,
@@ -1108,6 +1100,11 @@
     },
     {
       "generated": "2026-10-25T04:28:52.118938+00:00",
+      "score": 25.9,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-25T11:13:50.534246+00:00",
       "score": 25.9,
       "status": "WATCH"
     }
