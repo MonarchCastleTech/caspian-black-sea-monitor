@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-10-26T12:47:45.086449+00:00",
+    "generated": "2026-10-26T22:35:34.564683+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 26.8,
-    "raw_score": 26.8,
+    "score": 27.0,
+    "raw_score": 27.0,
     "concurrence_bonus": 0.0,
     "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 26.8/100.",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 27.0/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -716,7 +716,7 @@
     },
     "port_weather": {
       "key": "port_weather",
-      "score": 0.1,
+      "score": 2.7,
       "status": "BASELINE",
       "weight": 0.1,
       "available": true,
@@ -730,59 +730,59 @@
           "country": "Romania",
           "basin": "Black Sea",
           "max_wind_ms": 10.4,
-          "max_precip_24h_mm": 30.3,
-          "pressure": 0.3,
-          "valid_to": "2026-11-02T12:00:00Z"
+          "max_precip_24h_mm": 39.4,
+          "pressure": 10.4,
+          "valid_to": "2026-11-02T18:00:00Z"
         },
         {
           "id": "port1112",
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 7.7,
+          "max_wind_ms": 7.9,
           "max_precip_24h_mm": 8.5,
           "pressure": 0.0,
-          "valid_to": "2026-11-02T12:00:00Z"
+          "valid_to": "2026-11-02T18:00:00Z"
         },
         {
           "id": "port833",
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 10.3,
+          "max_wind_ms": 8.9,
           "max_precip_24h_mm": 7.3,
           "pressure": 0.0,
-          "valid_to": "2026-11-02T12:00:00Z"
+          "valid_to": "2026-11-02T18:00:00Z"
         },
         {
           "id": "port1139",
           "name": "Samsun",
           "country": "Türkiye",
           "basin": "Black Sea",
-          "max_wind_ms": 5.8,
+          "max_wind_ms": 5.4,
           "max_precip_24h_mm": 14.3,
           "pressure": 0.0,
-          "valid_to": "2026-11-02T12:00:00Z"
+          "valid_to": "2026-11-02T18:00:00Z"
         },
         {
           "id": "port100",
           "name": "Baku Port",
           "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 7.2,
+          "max_wind_ms": 7.9,
           "max_precip_24h_mm": 2.7,
           "pressure": 0.0,
-          "valid_to": "2026-11-02T12:00:00Z"
+          "valid_to": "2026-11-02T18:00:00Z"
         },
         {
           "id": "port16",
           "name": "Aktau Port",
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 8.4,
+          "max_wind_ms": 8.3,
           "max_precip_24h_mm": 1.7,
           "pressure": 0.0,
-          "valid_to": "2026-11-02T12:00:00Z"
+          "valid_to": "2026-11-02T18:00:00Z"
         },
         {
           "id": "port76",
@@ -792,27 +792,22 @@
           "max_wind_ms": 7.2,
           "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-11-02T12:00:00Z"
+          "valid_to": "2026-11-02T18:00:00Z"
         },
         {
           "id": "port1330",
           "name": "Turkmenbashi Port",
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 7.8,
+          "max_wind_ms": 8.1,
           "max_precip_24h_mm": 0.2,
           "pressure": 0.0,
-          "valid_to": "2026-11-02T12:00:00Z"
+          "valid_to": "2026-11-02T18:00:00Z"
         }
       ]
     }
   },
   "history": [
-    {
-      "generated": "2026-10-10T05:39:45.980881+00:00",
-      "score": 53.6,
-      "status": "ELEVATED"
-    },
     {
       "generated": "2026-10-10T12:21:46.779313+00:00",
       "score": 53.4,
@@ -1106,6 +1101,11 @@
     {
       "generated": "2026-10-26T12:47:45.086449+00:00",
       "score": 26.8,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-26T22:35:34.564683+00:00",
+      "score": 27.0,
       "status": "WATCH"
     }
   ],
