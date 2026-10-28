@@ -402,10 +402,14 @@ def previous_is_valid(previous: dict[str, Any], now: datetime) -> bool:
 
 def fallback(previous: dict[str, Any], key: str, now: datetime, error: Exception) -> dict[str, Any]:
     old = (previous.get("components") or {}).get(key)
-    if previous_is_valid(previous, now) and isinstance(old, dict) and old.get("available"):
+    collected = parse_datetime(old.get("source_collected_at")) if isinstance(old, dict) else None
+    if not collected and isinstance(old, dict) and not old.get("retained"):
+        collected = parse_datetime((previous.get("meta") or {}).get("generated"))
+    if collected and timedelta(0) <= now - collected <= timedelta(hours=FALLBACK_HOURS) and isinstance(old, dict) and old.get("available"):
         retained = json.loads(json.dumps(old))
         retained["retained"] = True
         retained["retained_reason"] = f"Current fetch failed: {type(error).__name__}"
+        retained["source_collected_at"] = collected.isoformat()
         return retained
     return {"key": key, "score": None, "status": "UNAVAILABLE", "weight": WEIGHTS[key], "available": False, "retained": False,
             "coverage": 0, "method": "Source unavailable; excluded and remaining weights renormalized.", "evidence": [], "error": type(error).__name__}
@@ -432,19 +436,33 @@ def update_history(previous: dict[str, Any], generated: str, score: float, statu
 def main() -> None:
     now = datetime.now(timezone.utc)
     previous = load_previous()
-    ports = regional_ports()
+    ports = []
+    port_error = None
+    try:
+        ports = regional_ports()
+        if not ports:
+            raise RuntimeError("Port directory returned no records")
+    except Exception as error:
+        port_error = error
+
+    def require_ports():
+        if port_error is not None:
+            raise port_error
+        return ports
+
     collectors = {
-        "maritime_flow": lambda: collect_maritime_flow(ports),
+        "maritime_flow": lambda: collect_maritime_flow(require_ports()),
         "nato_posture": lambda: collect_nato_posture(now),
         "regional_sanctions": lambda: collect_regional_sanctions(now),
         "commodity_dislocation": lambda: collect_commodity_dislocation(now),
-        "port_weather": lambda: collect_port_weather(ports, now),
+        "port_weather": lambda: collect_port_weather(require_ports(), now),
     }
     components: dict[str, dict[str, Any]] = {}
     notes: list[str] = []
     for key, collector in collectors.items():
         try:
             components[key] = collector()
+            components[key]["source_collected_at"] = now.isoformat()
             print(f"[live] {key}: {components[key]['score']}")
         except Exception as error:  # source isolation is intentional
             components[key] = fallback(previous, key, now, error)

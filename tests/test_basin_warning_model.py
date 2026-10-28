@@ -80,6 +80,35 @@ def test_recent_component_fallback_is_keyless_and_non_mutating():
     assert original.get("retained") is None
 
 
+def test_retained_component_expires_from_original_collection_time():
+    now = datetime.now(timezone.utc)
+    original = {"meta": {"generated": (now - timedelta(hours=71)).isoformat()},
+                "components": {"maritime_flow": component("maritime_flow", 47, .30)}}
+    retained = fallback(original, "maritime_flow", now, RuntimeError("offline"))
+    refreshed = {"meta": {"generated": now.isoformat()}, "components": {"maritime_flow": retained}}
+    assert not fallback(refreshed, "maritime_flow", now + timedelta(hours=2), RuntimeError("offline"))["available"]
+
+
+def test_port_directory_failure_keeps_independent_sources(monkeypatch, tmp_path):
+    import json
+    from pipeline import basin_warning_model as model
+
+    monkeypatch.setattr(model, "OUTPUT", tmp_path / "output.json")
+    def fail():
+        raise RuntimeError("port service unavailable")
+    monkeypatch.setattr(model, "regional_ports", fail)
+    for key, name in [("nato_posture", "collect_nato_posture"),
+                      ("regional_sanctions", "collect_regional_sanctions"),
+                      ("commodity_dislocation", "collect_commodity_dislocation")]:
+        monkeypatch.setattr(model, name, lambda now, key=key: component(key, 20, model.WEIGHTS[key]))
+    model.main()
+    output = json.loads(model.OUTPUT.read_text(encoding="utf-8"))
+    assert output["meta"]["mode"] == "partial" and output["meta"]["coverage"] == "3/5"
+    assert not output["components"]["maritime_flow"]["available"]
+    assert not output["components"]["port_weather"]["available"]
+    assert output["components"]["nato_posture"]["source_collected_at"]
+
+
 def test_band_boundaries():
     assert [band(value) for value in (0, 24.9, 25, 45, 65, 80, 100)] == [
         "BASELINE", "BASELINE", "WATCH", "ELEVATED", "HIGH", "SEVERE", "SEVERE"
