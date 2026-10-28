@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-10-27T04:50:46.009949+00:00",
+    "generated": "2026-10-28T05:25:53.007301+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -11,11 +11,11 @@
     "source_notes": []
   },
   "warning": {
-    "score": 27.5,
-    "raw_score": 27.5,
+    "score": 30.0,
+    "raw_score": 30.0,
     "concurrence_bonus": 0.0,
     "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 27.5/100.",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 30.0/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -370,17 +370,39 @@
     },
     "nato_posture": {
       "key": "nato_posture",
-      "score": 8.2,
+      "score": 16.5,
       "status": "BASELINE",
       "weight": 0.25,
       "available": true,
       "retained": false,
-      "coverage": 16,
-      "current_14d_weekly_equivalent": 1.0,
+      "coverage": 18,
+      "current_14d_weekly_equivalent": 2.0,
       "baseline_weekly_median": 2.0,
-      "anomaly_z": -0.39,
+      "anomaly_z": 0.0,
       "method": "Regional NATO publication-title term weight over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "date": "2026-10-26",
+          "title": "Nato Deputy Secretary General Highlights Continued Support To Ukraine At E5 Meeting",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/10/26/nato-deputy-secretary-general-highlights-continued-support-to-ukraine-at-e5-meeting",
+          "region_terms": [
+            "ukraine"
+          ],
+          "posture_terms": [],
+          "weight": 1.0,
+          "age_days": 2
+        },
+        {
+          "date": "2026-10-26",
+          "title": "Nato Deputy Secretary General Highlights Continued Support To Ukraine At E5 Meeting",
+          "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/10/26/nato-deputy-secretary-general-highlights-continued-support-to-ukraine-at-e5-meeting",
+          "region_terms": [
+            "ukraine"
+          ],
+          "posture_terms": [],
+          "weight": 1.0,
+          "age_days": 2
+        },
         {
           "date": "2026-10-23",
           "title": "Nato Officials Visit Ukraine",
@@ -390,7 +412,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 4
+          "age_days": 5
         },
         {
           "date": "2026-10-23",
@@ -401,7 +423,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 4
+          "age_days": 5
         },
         {
           "date": "2026-10-09",
@@ -412,7 +434,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 18
+          "age_days": 19
         },
         {
           "date": "2026-10-09",
@@ -423,7 +445,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 18
+          "age_days": 19
         },
         {
           "date": "2026-10-01",
@@ -434,7 +456,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 26
+          "age_days": 27
         },
         {
           "date": "2026-10-01",
@@ -445,7 +467,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 26
+          "age_days": 27
         },
         {
           "date": "2026-09-29",
@@ -460,7 +482,7 @@
             "drone"
           ],
           "weight": 3.5,
-          "age_days": 28
+          "age_days": 29
         },
         {
           "date": "2026-09-29",
@@ -475,7 +497,7 @@
             "drone"
           ],
           "weight": 3.5,
-          "age_days": 28
+          "age_days": 29
         }
       ]
     },
@@ -488,8 +510,8 @@
       "retained": false,
       "coverage": 39,
       "current_14d_weekly_equivalent": 10.25,
-      "baseline_weekly_median": 9.5,
-      "anomaly_z": 0.11,
+      "baseline_weekly_median": 9.25,
+      "anomaly_z": 0.12,
       "method": "Russia/Iran/region-linked OFAC title intensity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
@@ -508,7 +530,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 6
+          "age_days": 7
         },
         {
           "title": "Sanctioning Cuban State-Owned Banco Internacional de Comercio, S.A. (BICSA)",
@@ -523,7 +545,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 12
+          "age_days": 13
         },
         {
           "title": "Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture",
@@ -539,7 +561,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 12
+          "age_days": 13
         },
         {
           "title": "Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks",
@@ -556,7 +578,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 12
+          "age_days": 13
         },
         {
           "title": "Operation Economic Outcast Sanctions on Iran's Shadow Fleet Network",
@@ -573,7 +595,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 19
+          "age_days": 20
         },
         {
           "title": "Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network",
@@ -590,7 +612,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 19
+          "age_days": 20
         },
         {
           "title": "Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative",
@@ -605,7 +627,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 22
+          "age_days": 23
         },
         {
           "title": "Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran",
@@ -622,7 +644,7 @@
             "sanction"
           ],
           "weight": 6.5,
-          "age_days": 26
+          "age_days": 27
         },
         {
           "title": "Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines",
@@ -637,7 +659,7 @@
             "targets"
           ],
           "weight": 4.5,
-          "age_days": 26
+          "age_days": 27
         },
         {
           "title": "Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks",
@@ -653,7 +675,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 27
+          "age_days": 28
         },
         {
           "title": "Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks",
@@ -669,7 +691,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 28
+          "age_days": 29
         },
         {
           "title": "Operation Economic Outcast Takes Down Iranian Military Procurement Networks",
@@ -687,7 +709,7 @@
             "procurement"
           ],
           "weight": 7.0,
-          "age_days": 28
+          "age_days": 29
         }
       ]
     },
@@ -727,7 +749,7 @@
     },
     "port_weather": {
       "key": "port_weather",
-      "score": 3.3,
+      "score": 8.3,
       "status": "BASELINE",
       "weight": 0.1,
       "available": true,
@@ -740,70 +762,70 @@
           "name": "Constanta",
           "country": "Romania",
           "basin": "Black Sea",
-          "max_wind_ms": 9.2,
-          "max_precip_24h_mm": 41.5,
-          "pressure": 12.8,
-          "valid_to": "2026-11-03T00:00:00Z"
+          "max_wind_ms": 10.5,
+          "max_precip_24h_mm": 58.8,
+          "pressure": 32.0,
+          "valid_to": "2026-11-04T00:00:00Z"
         },
         {
           "id": "port1112",
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 8.2,
-          "max_precip_24h_mm": 2.3,
+          "max_wind_ms": 7.9,
+          "max_precip_24h_mm": 0.1,
           "pressure": 0.0,
-          "valid_to": "2026-11-03T00:00:00Z"
+          "valid_to": "2026-11-04T00:00:00Z"
         },
         {
           "id": "port833",
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 10.0,
-          "max_precip_24h_mm": 15.9,
+          "max_wind_ms": 10.5,
+          "max_precip_24h_mm": 2.2,
           "pressure": 0.0,
-          "valid_to": "2026-11-03T00:00:00Z"
+          "valid_to": "2026-11-04T00:00:00Z"
         },
         {
           "id": "port1139",
           "name": "Samsun",
           "country": "Türkiye",
           "basin": "Black Sea",
-          "max_wind_ms": 6.0,
-          "max_precip_24h_mm": 11.0,
+          "max_wind_ms": 6.9,
+          "max_precip_24h_mm": 21.9,
           "pressure": 0.0,
-          "valid_to": "2026-11-03T00:00:00Z"
+          "valid_to": "2026-11-04T00:00:00Z"
         },
         {
           "id": "port100",
           "name": "Baku Port",
           "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 10.8,
-          "max_precip_24h_mm": 2.0,
+          "max_wind_ms": 7.4,
+          "max_precip_24h_mm": 1.5,
           "pressure": 0.0,
-          "valid_to": "2026-11-03T00:00:00Z"
+          "valid_to": "2026-11-04T00:00:00Z"
         },
         {
           "id": "port16",
           "name": "Aktau Port",
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 8.2,
-          "max_precip_24h_mm": 0.9,
+          "max_wind_ms": 8.9,
+          "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-11-03T00:00:00Z"
+          "valid_to": "2026-11-04T00:00:00Z"
         },
         {
           "id": "port76",
           "name": "Astrakhan Port",
           "country": "Russia",
           "basin": "Caspian Sea",
-          "max_wind_ms": 7.1,
-          "max_precip_24h_mm": 5.0,
+          "max_wind_ms": 7.3,
+          "max_precip_24h_mm": 0.0,
           "pressure": 0.0,
-          "valid_to": "2026-11-03T00:00:00Z"
+          "valid_to": "2026-11-04T00:00:00Z"
         },
         {
           "id": "port1330",
@@ -811,19 +833,14 @@
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
           "max_wind_ms": 8.0,
-          "max_precip_24h_mm": 1.5,
+          "max_precip_24h_mm": 0.1,
           "pressure": 0.0,
-          "valid_to": "2026-11-03T00:00:00Z"
+          "valid_to": "2026-11-04T00:00:00Z"
         }
       ]
     }
   },
   "history": [
-    {
-      "generated": "2026-10-10T21:32:56.838997+00:00",
-      "score": 52.9,
-      "status": "ELEVATED"
-    },
     {
       "generated": "2026-10-11T05:35:06.091159+00:00",
       "score": 52.9,
@@ -1117,6 +1134,11 @@
     {
       "generated": "2026-10-27T04:50:46.009949+00:00",
       "score": 27.5,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-28T05:25:53.007301+00:00",
+      "score": 30.0,
       "status": "WATCH"
     }
   ],
