@@ -1,21 +1,24 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-10-28T12:40:27.725337+00:00",
-    "mode": "live",
+    "generated": "2026-10-28T22:29:31.551786+00:00",
+    "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–14 days",
     "classification": "basin-escalation-pressure-not-event-probability-or-operational-maritime-picture",
     "coverage": "5/5",
-    "confidence": "HIGH",
-    "source_notes": []
+    "confidence": "MEDIUM",
+    "source_notes": [
+      "maritime_flow: retained validated snapshot (RuntimeError)",
+      "port_weather: retained validated snapshot (RuntimeError)"
+    ]
   },
   "warning": {
-    "score": 26.8,
-    "raw_score": 26.8,
+    "score": 24.8,
+    "raw_score": 24.8,
     "concurrence_bonus": 0.0,
-    "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 26.8/100.",
+    "status": "BASELINE",
+    "headline": "Caspian–Black Sea escalation pressure is baseline at 24.8/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -25,7 +28,7 @@
       "status": "ELEVATED",
       "weight": 0.3,
       "available": true,
-      "retained": false,
+      "retained": true,
       "coverage": 21,
       "latest_observation": "2026-10-25",
       "method": "Seven-day mean versus preceding 28-day mean; low-volume port anomalies are reliability-shrunk.",
@@ -367,7 +370,8 @@
           "latest": "2026-10-23"
         }
       ],
-      "source_collected_at": "2026-10-28T12:40:27.725337+00:00"
+      "source_collected_at": "2026-10-28T12:40:27.725337+00:00",
+      "retained_reason": "Current fetch failed: RuntimeError"
     },
     "nato_posture": {
       "key": "nato_posture",
@@ -501,7 +505,7 @@
           "age_days": 29
         }
       ],
-      "source_collected_at": "2026-10-28T12:40:27.725337+00:00"
+      "source_collected_at": "2026-10-28T22:29:31.551786+00:00"
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
@@ -510,7 +514,7 @@
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 39,
+      "coverage": 38,
       "current_14d_weekly_equivalent": 10.25,
       "baseline_weekly_median": 9.25,
       "anomaly_z": 0.12,
@@ -632,6 +636,21 @@
           "age_days": 23
         },
         {
+          "title": "Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines",
+          "action": "Iran-related Designations and Designations Updates; Transnational Criminal Organizations Designation; Publication of Iran-related Determination; Publication of Amended Iran-related Frequently Asked Question",
+          "date": "2026-10-01",
+          "url": "https://home.treasury.gov/news/press-releases/sb0643/",
+          "region_terms": [
+            "iran"
+          ],
+          "posture_terms": [
+            "designation",
+            "targets"
+          ],
+          "weight": 4.5,
+          "age_days": 27
+        },
+        {
           "title": "Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran",
           "action": "Iran-related Designations and Designations Updates; Transnational Criminal Organizations Designation; Publication of Iran-related Determination; Publication of Amended Iran-related Frequently Asked Question",
           "date": "2026-10-01",
@@ -646,21 +665,6 @@
             "sanction"
           ],
           "weight": 6.5,
-          "age_days": 27
-        },
-        {
-          "title": "Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines",
-          "action": "Iran-related Designations and Designations Updates; Transnational Criminal Organizations Designation; Publication of Iran-related Determination; Publication of Amended Iran-related Frequently Asked Question",
-          "date": "2026-10-01",
-          "url": "https://home.treasury.gov/news/press-releases/sb0643/",
-          "region_terms": [
-            "iran"
-          ],
-          "posture_terms": [
-            "designation",
-            "targets"
-          ],
-          "weight": 4.5,
           "age_days": 27
         },
         {
@@ -714,11 +718,11 @@
           "age_days": 29
         }
       ],
-      "source_collected_at": "2026-10-28T12:40:27.725337+00:00"
+      "source_collected_at": "2026-10-28T22:29:31.551786+00:00"
     },
     "commodity_dislocation": {
       "key": "commodity_dislocation",
-      "score": 17.9,
+      "score": 4.7,
       "status": "BASELINE",
       "weight": 0.15,
       "available": true,
@@ -729,12 +733,12 @@
         {
           "id": "DCOILBRENTEU",
           "label": "Brent crude",
-          "score": 25.8,
-          "latest_date": "2026-10-20",
-          "latest_value": 115.22,
-          "change_pct": -8.4,
-          "direction": "down",
-          "robust_z": -1.14,
+          "score": 5.5,
+          "latest_date": "2026-10-27",
+          "latest_value": 123.1,
+          "change_pct": 6.84,
+          "direction": "up",
+          "robust_z": 0.64,
           "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
         },
         {
@@ -749,7 +753,7 @@
           "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM"
         }
       ],
-      "source_collected_at": "2026-10-28T12:40:27.725337+00:00"
+      "source_collected_at": "2026-10-28T22:29:31.551786+00:00"
     },
     "port_weather": {
       "key": "port_weather",
@@ -757,7 +761,7 @@
       "status": "BASELINE",
       "weight": 0.1,
       "available": true,
-      "retained": false,
+      "retained": true,
       "coverage": 8,
       "method": "Seven-day maximum wind and daily precipitation at eight high-activity basin ports.",
       "evidence": [
@@ -842,15 +846,11 @@
           "valid_to": "2026-11-04T12:00:00Z"
         }
       ],
-      "source_collected_at": "2026-10-28T12:40:27.725337+00:00"
+      "source_collected_at": "2026-10-28T12:40:27.725337+00:00",
+      "retained_reason": "Current fetch failed: RuntimeError"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-11T21:48:30.819939+00:00",
-      "score": 52.9,
-      "status": "ELEVATED"
-    },
     {
       "generated": "2026-10-12T05:45:28.342777+00:00",
       "score": 54.5,
@@ -1145,6 +1145,11 @@
       "generated": "2026-10-28T12:40:27.725337+00:00",
       "score": 26.8,
       "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-28T22:29:31.551786+00:00",
+      "score": 24.8,
+      "status": "BASELINE"
     }
   ],
   "sources": [
