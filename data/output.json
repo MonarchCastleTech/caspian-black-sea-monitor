@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-10-28T22:29:31.551786+00:00",
+    "generated": "2026-10-29T05:35:08.345513+00:00",
     "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -14,11 +14,11 @@
     ]
   },
   "warning": {
-    "score": 24.8,
-    "raw_score": 24.8,
-    "concurrence_bonus": 0.0,
-    "status": "BASELINE",
-    "headline": "Caspian–Black Sea escalation pressure is baseline at 24.8/100.",
+    "score": 33.9,
+    "raw_score": 28.9,
+    "concurrence_bonus": 5.0,
+    "status": "WATCH",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 33.9/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -375,17 +375,47 @@
     },
     "nato_posture": {
       "key": "nato_posture",
-      "score": 16.5,
-      "status": "BASELINE",
+      "score": 50.5,
+      "status": "ELEVATED",
       "weight": 0.25,
       "available": true,
       "retained": false,
-      "coverage": 18,
-      "current_14d_weekly_equivalent": 2.0,
-      "baseline_weekly_median": 2.0,
-      "anomaly_z": 0.0,
+      "coverage": 20,
+      "current_14d_weekly_equivalent": 7.25,
+      "baseline_weekly_median": 1.0,
+      "anomaly_z": 4.22,
       "method": "Regional NATO publication-title term weight over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "date": "2026-10-28",
+          "title": "Nato Deputy Secretary General At The Kyiv Security Forum Stresses Ukraines Urgent Need For More Air Defence",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/10/28/nato-deputy-secretary-general-at-the-kyiv-security-forum-stresses-ukraines-urgent-need-for-more-air-defence",
+          "region_terms": [
+            "ukraine"
+          ],
+          "posture_terms": [
+            "air-defence",
+            "defence",
+            "security"
+          ],
+          "weight": 5.25,
+          "age_days": 1
+        },
+        {
+          "date": "2026-10-28",
+          "title": "Nato Deputy Secretary General At The Kyiv Security Forum Stresses Ukraines Urgent Need For More Air Defence",
+          "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/10/28/nato-deputy-secretary-general-at-the-kyiv-security-forum-stresses-ukraines-urgent-need-for-more-air-defence",
+          "region_terms": [
+            "ukraine"
+          ],
+          "posture_terms": [
+            "air-defence",
+            "defence",
+            "security"
+          ],
+          "weight": 5.25,
+          "age_days": 1
+        },
         {
           "date": "2026-10-26",
           "title": "Nato Deputy Secretary General Highlights Continued Support To Ukraine At E5 Meeting",
@@ -395,7 +425,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 2
+          "age_days": 3
         },
         {
           "date": "2026-10-26",
@@ -406,7 +436,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 2
+          "age_days": 3
         },
         {
           "date": "2026-10-23",
@@ -417,7 +447,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 5
+          "age_days": 6
         },
         {
           "date": "2026-10-23",
@@ -428,7 +458,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 5
+          "age_days": 6
         },
         {
           "date": "2026-10-09",
@@ -439,7 +469,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 19
+          "age_days": 20
         },
         {
           "date": "2026-10-09",
@@ -450,7 +480,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 19
+          "age_days": 20
         },
         {
           "date": "2026-10-01",
@@ -461,7 +491,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 27
+          "age_days": 28
         },
         {
           "date": "2026-10-01",
@@ -472,7 +502,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 27
+          "age_days": 28
         },
         {
           "date": "2026-09-29",
@@ -487,7 +517,7 @@
             "drone"
           ],
           "weight": 3.5,
-          "age_days": 29
+          "age_days": 30
         },
         {
           "date": "2026-09-29",
@@ -502,22 +532,22 @@
             "drone"
           ],
           "weight": 3.5,
-          "age_days": 29
+          "age_days": 30
         }
       ],
-      "source_collected_at": "2026-10-28T22:29:31.551786+00:00"
+      "source_collected_at": "2026-10-29T05:35:08.345513+00:00"
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
-      "score": 31.2,
-      "status": "WATCH",
+      "score": 9.1,
+      "status": "BASELINE",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 38,
-      "current_14d_weekly_equivalent": 10.25,
-      "baseline_weekly_median": 9.25,
-      "anomaly_z": 0.12,
+      "coverage": 34,
+      "current_14d_weekly_equivalent": 2.75,
+      "baseline_weekly_median": 11.25,
+      "anomaly_z": -0.96,
       "method": "Russia/Iran/region-linked OFAC title intensity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
@@ -536,7 +566,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 7
+          "age_days": 8
         },
         {
           "title": "Sanctioning Cuban State-Owned Banco Internacional de Comercio, S.A. (BICSA)",
@@ -551,7 +581,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 13
+          "age_days": 14
         },
         {
           "title": "Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture",
@@ -567,7 +597,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 13
+          "age_days": 14
         },
         {
           "title": "Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks",
@@ -584,7 +614,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 13
+          "age_days": 14
         },
         {
           "title": "Operation Economic Outcast Sanctions on Iran's Shadow Fleet Network",
@@ -601,7 +631,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 20
+          "age_days": 21
         },
         {
           "title": "Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network",
@@ -618,7 +648,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 20
+          "age_days": 21
         },
         {
           "title": "Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative",
@@ -633,7 +663,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 23
+          "age_days": 24
         },
         {
           "title": "Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines",
@@ -648,7 +678,7 @@
             "targets"
           ],
           "weight": 4.5,
-          "age_days": 27
+          "age_days": 28
         },
         {
           "title": "Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran",
@@ -665,7 +695,7 @@
             "sanction"
           ],
           "weight": 6.5,
-          "age_days": 27
+          "age_days": 28
         },
         {
           "title": "Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks",
@@ -681,7 +711,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 28
+          "age_days": 29
         },
         {
           "title": "Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks",
@@ -697,7 +727,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 29
+          "age_days": 30
         },
         {
           "title": "Operation Economic Outcast Takes Down Iranian Military Procurement Networks",
@@ -715,10 +745,10 @@
             "procurement"
           ],
           "weight": 7.0,
-          "age_days": 29
+          "age_days": 30
         }
       ],
-      "source_collected_at": "2026-10-28T22:29:31.551786+00:00"
+      "source_collected_at": "2026-10-29T05:35:08.345513+00:00"
     },
     "commodity_dislocation": {
       "key": "commodity_dislocation",
@@ -753,7 +783,7 @@
           "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM"
         }
       ],
-      "source_collected_at": "2026-10-28T22:29:31.551786+00:00"
+      "source_collected_at": "2026-10-29T05:35:08.345513+00:00"
     },
     "port_weather": {
       "key": "port_weather",
@@ -851,11 +881,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-12T05:45:28.342777+00:00",
-      "score": 54.5,
-      "status": "ELEVATED"
-    },
     {
       "generated": "2026-10-12T15:11:51.221142+00:00",
       "score": 54.5,
@@ -1150,6 +1175,11 @@
       "generated": "2026-10-28T22:29:31.551786+00:00",
       "score": 24.8,
       "status": "BASELINE"
+    },
+    {
+      "generated": "2026-10-29T05:35:08.345513+00:00",
+      "score": 33.9,
+      "status": "WATCH"
     }
   ],
   "sources": [
