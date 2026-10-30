@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-10-30T12:41:48.086158+00:00",
+    "generated": "2026-10-30T22:13:00.534980+00:00",
     "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -380,12 +380,38 @@
       "weight": 0.25,
       "available": true,
       "retained": false,
-      "coverage": 22,
-      "current_14d_weekly_equivalent": 9.25,
+      "coverage": 24,
+      "current_14d_weekly_equivalent": 11.75,
       "baseline_weekly_median": 1.0,
-      "anomaly_z": 5.56,
+      "anomaly_z": 7.25,
       "method": "Regional NATO publication-title term weight over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "date": "2026-10-30",
+          "title": "Bulgaria To Join Natos Initiative Against Lower Level Air Threats",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/10/30/bulgaria-to-join-natos-initiative-against-lower-level-air-threats",
+          "region_terms": [
+            "bulgaria"
+          ],
+          "posture_terms": [
+            "threat"
+          ],
+          "weight": 2.5,
+          "age_days": 0
+        },
+        {
+          "date": "2026-10-30",
+          "title": "Bulgaria To Join Natos Initiative Against Lower Level Air Threats",
+          "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/10/30/bulgaria-to-join-natos-initiative-against-lower-level-air-threats",
+          "region_terms": [
+            "bulgaria"
+          ],
+          "posture_terms": [
+            "threat"
+          ],
+          "weight": 2.5,
+          "age_days": 0
+        },
         {
           "date": "2026-10-29",
           "title": "Natos Diana And Ukraine Strengthen Cooperation On Defence Innovation",
@@ -507,31 +533,9 @@
           "posture_terms": [],
           "weight": 1.0,
           "age_days": 21
-        },
-        {
-          "date": "2026-10-01",
-          "title": "Nato Secretary General In Munster Keep Calm Carry On And Continue Support For Ukraine",
-          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/10/01/nato-secretary-general-in-munster-keep-calm-carry-on-and-continue-support-for-ukraine",
-          "region_terms": [
-            "ukraine"
-          ],
-          "posture_terms": [],
-          "weight": 1.0,
-          "age_days": 29
-        },
-        {
-          "date": "2026-10-01",
-          "title": "Nato Secretary General In Munster Keep Calm Carry On And Continue Support For Ukraine",
-          "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/10/01/nato-secretary-general-in-munster-keep-calm-carry-on-and-continue-support-for-ukraine",
-          "region_terms": [
-            "ukraine"
-          ],
-          "posture_terms": [],
-          "weight": 1.0,
-          "age_days": 29
         }
       ],
-      "source_collected_at": "2026-10-30T12:41:48.086158+00:00"
+      "source_collected_at": "2026-10-30T22:13:00.534980+00:00"
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
@@ -744,7 +748,7 @@
           "age_days": 31
         }
       ],
-      "source_collected_at": "2026-10-30T12:41:48.086158+00:00"
+      "source_collected_at": "2026-10-30T22:13:00.534980+00:00"
     },
     "commodity_dislocation": {
       "key": "commodity_dislocation",
@@ -779,7 +783,7 @@
           "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM"
         }
       ],
-      "source_collected_at": "2026-10-30T12:41:48.086158+00:00"
+      "source_collected_at": "2026-10-30T22:13:00.534980+00:00"
     },
     "port_weather": {
       "key": "port_weather",
@@ -877,11 +881,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-14T04:42:45.847810+00:00",
-      "score": 41.5,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-14T11:41:23.080772+00:00",
       "score": 41.5,
@@ -1174,6 +1173,11 @@
     },
     {
       "generated": "2026-10-30T12:41:48.086158+00:00",
+      "score": 33.9,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-30T22:13:00.534980+00:00",
       "score": 33.9,
       "status": "WATCH"
     }
