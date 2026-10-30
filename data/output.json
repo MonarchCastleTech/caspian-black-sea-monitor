@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-10-29T22:40:58.175888+00:00",
+    "generated": "2026-10-30T05:34:20.456087+00:00",
     "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -9,7 +9,8 @@
     "coverage": "5/5",
     "confidence": "MEDIUM",
     "source_notes": [
-      "maritime_flow: retained validated snapshot (RuntimeError)"
+      "maritime_flow: retained validated snapshot (RuntimeError)",
+      "port_weather: retained validated snapshot (RuntimeError)"
     ]
   },
   "warning": {
@@ -379,12 +380,38 @@
       "weight": 0.25,
       "available": true,
       "retained": false,
-      "coverage": 20,
-      "current_14d_weekly_equivalent": 7.25,
+      "coverage": 22,
+      "current_14d_weekly_equivalent": 9.25,
       "baseline_weekly_median": 1.0,
-      "anomaly_z": 4.22,
+      "anomaly_z": 5.56,
       "method": "Regional NATO publication-title term weight over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "date": "2026-10-29",
+          "title": "Natos Diana And Ukraine Strengthen Cooperation On Defence Innovation",
+          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/10/29/natos-diana-and-ukraine-strengthen-cooperation-on-defence-innovation",
+          "region_terms": [
+            "ukraine"
+          ],
+          "posture_terms": [
+            "defence"
+          ],
+          "weight": 2.0,
+          "age_days": 1
+        },
+        {
+          "date": "2026-10-29",
+          "title": "Natos Diana And Ukraine Strengthen Cooperation On Defence Innovation",
+          "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/10/29/natos-diana-and-ukraine-strengthen-cooperation-on-defence-innovation",
+          "region_terms": [
+            "ukraine"
+          ],
+          "posture_terms": [
+            "defence"
+          ],
+          "weight": 2.0,
+          "age_days": 1
+        },
         {
           "date": "2026-10-28",
           "title": "Nato Deputy Secretary General At The Kyiv Security Forum Stresses Ukraines Urgent Need For More Air Defence",
@@ -398,7 +425,7 @@
             "security"
           ],
           "weight": 5.25,
-          "age_days": 1
+          "age_days": 2
         },
         {
           "date": "2026-10-28",
@@ -413,7 +440,7 @@
             "security"
           ],
           "weight": 5.25,
-          "age_days": 1
+          "age_days": 2
         },
         {
           "date": "2026-10-26",
@@ -424,7 +451,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 3
+          "age_days": 4
         },
         {
           "date": "2026-10-26",
@@ -435,7 +462,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 3
+          "age_days": 4
         },
         {
           "date": "2026-10-23",
@@ -446,7 +473,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 6
+          "age_days": 7
         },
         {
           "date": "2026-10-23",
@@ -457,7 +484,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 6
+          "age_days": 7
         },
         {
           "date": "2026-10-09",
@@ -468,7 +495,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 20
+          "age_days": 21
         },
         {
           "date": "2026-10-09",
@@ -479,7 +506,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 20
+          "age_days": 21
         },
         {
           "date": "2026-10-01",
@@ -490,7 +517,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 28
+          "age_days": 29
         },
         {
           "date": "2026-10-01",
@@ -501,40 +528,10 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 28
-        },
-        {
-          "date": "2026-09-29",
-          "title": "Secretary General And Lithuanian Prime Minister Discuss Eastern Flank Defence Drones And Support For Ukraine",
-          "url": "https://www.nato.int/en/news-and-events/articles/news/2026/09/29/secretary-general-and-lithuanian-prime-minister-discuss-eastern-flank-defence-drones-and-support-for-ukraine",
-          "region_terms": [
-            "eastern-flank",
-            "ukraine"
-          ],
-          "posture_terms": [
-            "defence",
-            "drone"
-          ],
-          "weight": 3.5,
-          "age_days": 30
-        },
-        {
-          "date": "2026-09-29",
-          "title": "Secretary General And Lithuanian Prime Minister Discuss Eastern Flank Defence Drones And Support For Ukraine",
-          "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/09/29/secretary-general-and-lithuanian-prime-minister-discuss-eastern-flank-defence-drones-and-support-for-ukraine",
-          "region_terms": [
-            "eastern-flank",
-            "ukraine"
-          ],
-          "posture_terms": [
-            "defence",
-            "drone"
-          ],
-          "weight": 3.5,
-          "age_days": 30
+          "age_days": 29
         }
       ],
-      "source_collected_at": "2026-10-29T22:40:58.175888+00:00"
+      "source_collected_at": "2026-10-30T05:34:20.456087+00:00"
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
@@ -545,8 +542,8 @@
       "retained": false,
       "coverage": 34,
       "current_14d_weekly_equivalent": 2.75,
-      "baseline_weekly_median": 11.25,
-      "anomaly_z": -0.96,
+      "baseline_weekly_median": 10.75,
+      "anomaly_z": -0.98,
       "method": "Russia/Iran/region-linked OFAC title intensity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
@@ -565,7 +562,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 8
+          "age_days": 9
         },
         {
           "title": "Sanctioning Cuban State-Owned Banco Internacional de Comercio, S.A. (BICSA)",
@@ -580,7 +577,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 14
+          "age_days": 15
         },
         {
           "title": "Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture",
@@ -596,7 +593,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 14
+          "age_days": 15
         },
         {
           "title": "Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks",
@@ -613,7 +610,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 14
+          "age_days": 15
         },
         {
           "title": "Operation Economic Outcast Sanctions on Iran's Shadow Fleet Network",
@@ -630,7 +627,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 21
+          "age_days": 22
         },
         {
           "title": "Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network",
@@ -647,7 +644,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 21
+          "age_days": 22
         },
         {
           "title": "Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative",
@@ -662,7 +659,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 24
+          "age_days": 25
         },
         {
           "title": "Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines",
@@ -677,7 +674,7 @@
             "targets"
           ],
           "weight": 4.5,
-          "age_days": 28
+          "age_days": 29
         },
         {
           "title": "Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran",
@@ -694,7 +691,7 @@
             "sanction"
           ],
           "weight": 6.5,
-          "age_days": 28
+          "age_days": 29
         },
         {
           "title": "Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks",
@@ -710,7 +707,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 29
+          "age_days": 30
         },
         {
           "title": "Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks",
@@ -726,7 +723,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 30
+          "age_days": 31
         },
         {
           "title": "Operation Economic Outcast Takes Down Iranian Military Procurement Networks",
@@ -744,10 +741,10 @@
             "procurement"
           ],
           "weight": 7.0,
-          "age_days": 30
+          "age_days": 31
         }
       ],
-      "source_collected_at": "2026-10-29T22:40:58.175888+00:00"
+      "source_collected_at": "2026-10-30T05:34:20.456087+00:00"
     },
     "commodity_dislocation": {
       "key": "commodity_dislocation",
@@ -782,7 +779,7 @@
           "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM"
         }
       ],
-      "source_collected_at": "2026-10-29T22:40:58.175888+00:00"
+      "source_collected_at": "2026-10-30T05:34:20.456087+00:00"
     },
     "port_weather": {
       "key": "port_weather",
@@ -790,7 +787,7 @@
       "status": "BASELINE",
       "weight": 0.1,
       "available": true,
-      "retained": false,
+      "retained": true,
       "coverage": 8,
       "method": "Seven-day maximum wind and daily precipitation at eight high-activity basin ports.",
       "evidence": [
@@ -875,15 +872,11 @@
           "valid_to": "2026-11-05T18:00:00Z"
         }
       ],
-      "source_collected_at": "2026-10-29T22:40:58.175888+00:00"
+      "source_collected_at": "2026-10-29T22:40:58.175888+00:00",
+      "retained_reason": "Current fetch failed: RuntimeError"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-13T14:03:29.556731+00:00",
-      "score": 43.1,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-13T22:37:00.474279+00:00",
       "score": 43.1,
@@ -1176,6 +1169,11 @@
     },
     {
       "generated": "2026-10-29T22:40:58.175888+00:00",
+      "score": 33.9,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-30T05:34:20.456087+00:00",
       "score": 33.9,
       "status": "WATCH"
     }
