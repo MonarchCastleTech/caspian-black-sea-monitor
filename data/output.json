@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-10-30T22:13:00.534980+00:00",
+    "generated": "2026-10-31T05:22:51.918628+00:00",
     "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -397,7 +397,7 @@
             "threat"
           ],
           "weight": 2.5,
-          "age_days": 0
+          "age_days": 1
         },
         {
           "date": "2026-10-30",
@@ -410,7 +410,7 @@
             "threat"
           ],
           "weight": 2.5,
-          "age_days": 0
+          "age_days": 1
         },
         {
           "date": "2026-10-29",
@@ -423,7 +423,7 @@
             "defence"
           ],
           "weight": 2.0,
-          "age_days": 1
+          "age_days": 2
         },
         {
           "date": "2026-10-29",
@@ -436,7 +436,7 @@
             "defence"
           ],
           "weight": 2.0,
-          "age_days": 1
+          "age_days": 2
         },
         {
           "date": "2026-10-28",
@@ -451,7 +451,7 @@
             "security"
           ],
           "weight": 5.25,
-          "age_days": 2
+          "age_days": 3
         },
         {
           "date": "2026-10-28",
@@ -466,7 +466,7 @@
             "security"
           ],
           "weight": 5.25,
-          "age_days": 2
+          "age_days": 3
         },
         {
           "date": "2026-10-26",
@@ -477,7 +477,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 4
+          "age_days": 5
         },
         {
           "date": "2026-10-26",
@@ -488,7 +488,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 4
+          "age_days": 5
         },
         {
           "date": "2026-10-23",
@@ -499,7 +499,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 7
+          "age_days": 8
         },
         {
           "date": "2026-10-23",
@@ -510,7 +510,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 7
+          "age_days": 8
         },
         {
           "date": "2026-10-09",
@@ -521,7 +521,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 21
+          "age_days": 22
         },
         {
           "date": "2026-10-09",
@@ -532,10 +532,10 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 21
+          "age_days": 22
         }
       ],
-      "source_collected_at": "2026-10-30T22:13:00.534980+00:00"
+      "source_collected_at": "2026-10-31T05:22:51.918628+00:00"
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
@@ -566,7 +566,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 9
+          "age_days": 10
         },
         {
           "title": "Sanctioning Cuban State-Owned Banco Internacional de Comercio, S.A. (BICSA)",
@@ -581,7 +581,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 15
+          "age_days": 16
         },
         {
           "title": "Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture",
@@ -597,7 +597,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 15
+          "age_days": 16
         },
         {
           "title": "Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks",
@@ -614,7 +614,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 15
+          "age_days": 16
         },
         {
           "title": "Operation Economic Outcast Sanctions on Iran's Shadow Fleet Network",
@@ -631,7 +631,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 22
+          "age_days": 23
         },
         {
           "title": "Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network",
@@ -648,7 +648,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 22
+          "age_days": 23
         },
         {
           "title": "Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative",
@@ -663,7 +663,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 25
+          "age_days": 26
         },
         {
           "title": "Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines",
@@ -678,7 +678,7 @@
             "targets"
           ],
           "weight": 4.5,
-          "age_days": 29
+          "age_days": 30
         },
         {
           "title": "Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran",
@@ -695,7 +695,7 @@
             "sanction"
           ],
           "weight": 6.5,
-          "age_days": 29
+          "age_days": 30
         },
         {
           "title": "Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks",
@@ -711,7 +711,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 30
+          "age_days": 31
         },
         {
           "title": "Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks",
@@ -727,7 +727,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 31
+          "age_days": 32
         },
         {
           "title": "Operation Economic Outcast Takes Down Iranian Military Procurement Networks",
@@ -745,10 +745,10 @@
             "procurement"
           ],
           "weight": 7.0,
-          "age_days": 31
+          "age_days": 32
         }
       ],
-      "source_collected_at": "2026-10-30T22:13:00.534980+00:00"
+      "source_collected_at": "2026-10-31T05:22:51.918628+00:00"
     },
     "commodity_dislocation": {
       "key": "commodity_dislocation",
@@ -783,7 +783,7 @@
           "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM"
         }
       ],
-      "source_collected_at": "2026-10-30T22:13:00.534980+00:00"
+      "source_collected_at": "2026-10-31T05:22:51.918628+00:00"
     },
     "port_weather": {
       "key": "port_weather",
@@ -881,11 +881,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-14T11:41:23.080772+00:00",
-      "score": 41.5,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-14T17:02:17.093126+00:00",
       "score": 41.0,
@@ -1178,6 +1173,11 @@
     },
     {
       "generated": "2026-10-30T22:13:00.534980+00:00",
+      "score": 33.9,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-10-31T05:22:51.918628+00:00",
       "score": 33.9,
       "status": "WATCH"
     }
