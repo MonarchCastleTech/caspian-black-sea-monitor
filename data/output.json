@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-11-01T13:10:15.800834+00:00",
+    "generated": "2026-11-01T21:56:50.379859+00:00",
     "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -196,7 +196,7 @@
           "age_days": 23
         }
       ],
-      "source_collected_at": "2026-11-01T13:10:15.800834+00:00"
+      "source_collected_at": "2026-11-01T21:56:50.379859+00:00"
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
@@ -409,7 +409,7 @@
           "age_days": 33
         }
       ],
-      "source_collected_at": "2026-11-01T13:10:15.800834+00:00"
+      "source_collected_at": "2026-11-01T21:56:50.379859+00:00"
     },
     "commodity_dislocation": {
       "key": "commodity_dislocation",
@@ -444,7 +444,7 @@
           "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM"
         }
       ],
-      "source_collected_at": "2026-11-01T13:10:15.800834+00:00"
+      "source_collected_at": "2026-11-01T21:56:50.379859+00:00"
     },
     "port_weather": {
       "key": "port_weather",
@@ -542,11 +542,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-15T16:50:35.138574+00:00",
-      "score": 33.9,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-15T21:16:46.109711+00:00",
       "score": 32.4,
@@ -839,6 +834,11 @@
     },
     {
       "generated": "2026-11-01T13:10:15.800834+00:00",
+      "score": 21.6,
+      "status": "BASELINE"
+    },
+    {
+      "generated": "2026-11-01T21:56:50.379859+00:00",
       "score": 21.6,
       "status": "BASELINE"
     }
