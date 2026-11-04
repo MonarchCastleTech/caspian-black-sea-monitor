@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-11-03T23:13:34.161061+00:00",
+    "generated": "2026-11-04T06:01:50.225179+00:00",
     "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -14,11 +14,11 @@
     ]
   },
   "warning": {
-    "score": 34.7,
-    "raw_score": 29.7,
+    "score": 32.8,
+    "raw_score": 27.8,
     "concurrence_bonus": 5.0,
     "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 34.7/100.",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 32.8/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -397,7 +397,7 @@
             "threat"
           ],
           "weight": 2.5,
-          "age_days": 4
+          "age_days": 5
         },
         {
           "date": "2026-10-30",
@@ -410,7 +410,7 @@
             "threat"
           ],
           "weight": 2.5,
-          "age_days": 4
+          "age_days": 5
         },
         {
           "date": "2026-10-29",
@@ -423,7 +423,7 @@
             "defence"
           ],
           "weight": 2.0,
-          "age_days": 5
+          "age_days": 6
         },
         {
           "date": "2026-10-29",
@@ -436,7 +436,7 @@
             "defence"
           ],
           "weight": 2.0,
-          "age_days": 5
+          "age_days": 6
         },
         {
           "date": "2026-10-28",
@@ -451,7 +451,7 @@
             "security"
           ],
           "weight": 5.25,
-          "age_days": 6
+          "age_days": 7
         },
         {
           "date": "2026-10-28",
@@ -466,7 +466,7 @@
             "security"
           ],
           "weight": 5.25,
-          "age_days": 6
+          "age_days": 7
         },
         {
           "date": "2026-10-26",
@@ -477,7 +477,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 8
+          "age_days": 9
         },
         {
           "date": "2026-10-26",
@@ -488,7 +488,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 8
+          "age_days": 9
         },
         {
           "date": "2026-10-23",
@@ -499,7 +499,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 11
+          "age_days": 12
         },
         {
           "date": "2026-10-23",
@@ -510,7 +510,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 11
+          "age_days": 12
         },
         {
           "date": "2026-10-09",
@@ -521,7 +521,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 25
+          "age_days": 26
         },
         {
           "date": "2026-10-09",
@@ -532,22 +532,22 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 25
+          "age_days": 26
         }
       ],
-      "source_collected_at": "2026-11-03T23:13:34.161061+00:00"
+      "source_collected_at": "2026-11-04T06:01:50.225179+00:00"
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
-      "score": 9.1,
+      "score": 0.0,
       "status": "BASELINE",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 34,
-      "current_14d_weekly_equivalent": 2.75,
-      "baseline_weekly_median": 9.5,
-      "anomaly_z": -1.01,
+      "coverage": 33,
+      "current_14d_weekly_equivalent": 0.0,
+      "baseline_weekly_median": 9.25,
+      "anomaly_z": -1.09,
       "method": "Russia/Iran/region-linked OFAC title intensity over 14 days versus 12 prior weeks.",
       "evidence": [
         {
@@ -566,7 +566,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 13
+          "age_days": 14
         },
         {
           "title": "Sanctioning Cuban State-Owned Banco Internacional de Comercio, S.A. (BICSA)",
@@ -581,7 +581,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 19
+          "age_days": 20
         },
         {
           "title": "Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture",
@@ -597,7 +597,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 19
+          "age_days": 20
         },
         {
           "title": "Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks",
@@ -614,7 +614,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 19
+          "age_days": 20
         },
         {
           "title": "Operation Economic Outcast Sanctions on Iran's Shadow Fleet Network",
@@ -631,7 +631,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 26
+          "age_days": 27
         },
         {
           "title": "Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network",
@@ -648,7 +648,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 26
+          "age_days": 27
         },
         {
           "title": "Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative",
@@ -663,7 +663,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 29
+          "age_days": 30
         },
         {
           "title": "Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines",
@@ -678,7 +678,7 @@
             "targets"
           ],
           "weight": 4.5,
-          "age_days": 33
+          "age_days": 34
         },
         {
           "title": "Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran",
@@ -695,26 +695,10 @@
             "sanction"
           ],
           "weight": 6.5,
-          "age_days": 33
-        },
-        {
-          "title": "Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks",
-          "action": "Counter Terrorism and Transnational Criminal Organizations Designations; Belarus, Counter Narcotics, and Libya Designations Removals",
-          "date": "2026-09-30",
-          "url": "https://home.treasury.gov/news/press-releases/sb0640/",
-          "region_terms": [
-            "belarus"
-          ],
-          "posture_terms": [
-            "designation",
-            "network",
-            "sanction"
-          ],
-          "weight": 5.0,
           "age_days": 34
         }
       ],
-      "source_collected_at": "2026-11-03T23:13:34.161061+00:00"
+      "source_collected_at": "2026-11-04T06:01:50.225179+00:00"
     },
     "commodity_dislocation": {
       "key": "commodity_dislocation",
@@ -749,7 +733,7 @@
           "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM"
         }
       ],
-      "source_collected_at": "2026-11-03T23:13:34.161061+00:00"
+      "source_collected_at": "2026-11-04T06:01:50.225179+00:00"
     },
     "port_weather": {
       "key": "port_weather",
@@ -847,11 +831,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-17T04:12:13.246663+00:00",
-      "score": 34.2,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-17T10:32:15.879193+00:00",
       "score": 34.3,
@@ -1145,6 +1124,11 @@
     {
       "generated": "2026-11-03T23:13:34.161061+00:00",
       "score": 34.7,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-11-04T06:01:50.225179+00:00",
+      "score": 32.8,
       "status": "WATCH"
     }
   ],
