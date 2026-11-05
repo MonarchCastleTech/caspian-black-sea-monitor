@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-11-05T06:29:22.458492+00:00",
+    "generated": "2026-11-05T19:51:14.959291+00:00",
     "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -14,11 +14,11 @@
     ]
   },
   "warning": {
-    "score": 38.2,
-    "raw_score": 33.2,
+    "score": 39.6,
+    "raw_score": 34.6,
     "concurrence_bonus": 5.0,
     "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 38.2/100.",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 39.6/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -535,21 +535,36 @@
           "age_days": 27
         }
       ],
-      "source_collected_at": "2026-11-05T06:29:22.458492+00:00"
+      "source_collected_at": "2026-11-05T19:51:14.959291+00:00"
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
-      "score": 15.7,
+      "score": 23.1,
       "status": "BASELINE",
       "weight": 0.2,
       "available": true,
       "retained": false,
       "coverage": 33,
-      "current_14d_weekly_equivalent": 4.75,
-      "baseline_weekly_median": 9.25,
-      "anomaly_z": -0.55,
+      "current_14d_weekly_equivalent": 7.0,
+      "baseline_weekly_median": 11.25,
+      "anomaly_z": -0.44,
       "method": "Russia/Iran/region-linked OFAC title intensity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "title": "Disrupting Iran's Pursuit of Man-Portable Air-Defense Systems",
+          "action": "Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question",
+          "date": "2026-11-04",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/disrupting-irans-pursuit-of-man-portable-air-defense-systems-fact-sheet/",
+          "region_terms": [
+            "iran"
+          ],
+          "posture_terms": [
+            "designation",
+            "disrupt"
+          ],
+          "weight": 4.5,
+          "age_days": 1
+        },
         {
           "title": "U.S. Sanctions Fraudulent Ship Registries and Aviation Support for Iranian Regime",
           "action": "Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question",
@@ -700,7 +715,7 @@
           "age_days": 31
         }
       ],
-      "source_collected_at": "2026-11-05T06:29:22.458492+00:00"
+      "source_collected_at": "2026-11-05T19:51:14.959291+00:00"
     },
     "commodity_dislocation": {
       "key": "commodity_dislocation",
@@ -735,7 +750,7 @@
           "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM"
         }
       ],
-      "source_collected_at": "2026-11-05T06:29:22.458492+00:00"
+      "source_collected_at": "2026-11-05T19:51:14.959291+00:00"
     },
     "port_weather": {
       "key": "port_weather",
@@ -833,11 +848,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-18T04:18:28.826707+00:00",
-      "score": 34.2,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-18T10:53:47.424382+00:00",
       "score": 34.2,
@@ -1131,6 +1141,11 @@
     {
       "generated": "2026-11-05T06:29:22.458492+00:00",
       "score": 38.2,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-11-05T19:51:14.959291+00:00",
+      "score": 39.6,
       "status": "WATCH"
     }
   ],
