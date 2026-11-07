@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-11-07T12:51:24.677331+00:00",
+    "generated": "2026-11-07T21:43:24.033090+00:00",
     "mode": "live",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -11,23 +11,23 @@
     "source_notes": []
   },
   "warning": {
-    "score": 44.4,
-    "raw_score": 39.4,
+    "score": 43.9,
+    "raw_score": 38.9,
     "concurrence_bonus": 5.0,
     "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 44.4/100.",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 43.9/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
     "maritime_flow": {
       "key": "maritime_flow",
-      "score": 57.0,
+      "score": 55.5,
       "status": "ELEVATED",
       "weight": 0.3,
       "available": true,
       "retained": false,
       "coverage": 21,
-      "latest_observation": "2026-10-30",
+      "latest_observation": "2026-11-01",
       "method": "Seven-day mean versus preceding 28-day mean; low-volume port anomalies are reliability-shrunk.",
       "evidence": [
         {
@@ -181,14 +181,14 @@
           "basin": "Black Sea gateway",
           "lat": null,
           "lon": null,
-          "recent_mean": 53.7,
-          "baseline_mean": 48.2,
-          "change_pct": 11.5,
-          "direction": "surge",
+          "recent_mean": 44.4,
+          "baseline_mean": 49.2,
+          "change_pct": -9.7,
+          "direction": "shortfall",
           "reliability": 1.0,
-          "pressure": 18.5,
+          "pressure": 13.5,
           "observations": 42,
-          "latest": "2026-10-25"
+          "latest": "2026-11-01"
         },
         {
           "id": "port684",
@@ -367,7 +367,7 @@
           "latest": "2026-10-30"
         }
       ],
-      "source_collected_at": "2026-11-07T12:51:24.677331+00:00"
+      "source_collected_at": "2026-11-07T21:43:24.033090+00:00"
     },
     "nato_posture": {
       "key": "nato_posture",
@@ -531,7 +531,7 @@
           "age_days": 29
         }
       ],
-      "source_collected_at": "2026-11-07T12:51:24.677331+00:00"
+      "source_collected_at": "2026-11-07T21:43:24.033090+00:00"
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
@@ -727,7 +727,7 @@
           "age_days": 33
         }
       ],
-      "source_collected_at": "2026-11-07T12:51:24.677331+00:00"
+      "source_collected_at": "2026-11-07T21:43:24.033090+00:00"
     },
     "commodity_dislocation": {
       "key": "commodity_dislocation",
@@ -762,11 +762,11 @@
           "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM"
         }
       ],
-      "source_collected_at": "2026-11-07T12:51:24.677331+00:00"
+      "source_collected_at": "2026-11-07T21:43:24.033090+00:00"
     },
     "port_weather": {
       "key": "port_weather",
-      "score": 8.6,
+      "score": 8.4,
       "status": "BASELINE",
       "weight": 0.1,
       "available": true,
@@ -779,40 +779,40 @@
           "name": "Baku Port",
           "country": "Azerbaijan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 16.6,
+          "max_wind_ms": 16.5,
           "max_precip_24h_mm": 13.2,
-          "pressure": 32.9,
-          "valid_to": "2026-11-14T12:00:00Z"
+          "pressure": 32.1,
+          "valid_to": "2026-11-14T18:00:00Z"
         },
         {
           "id": "port1112",
           "name": "Rostov-Na-Donu",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 4.7,
+          "max_wind_ms": 4.4,
           "max_precip_24h_mm": 10.3,
           "pressure": 0.0,
-          "valid_to": "2026-11-14T12:00:00Z"
+          "valid_to": "2026-11-14T18:00:00Z"
         },
         {
           "id": "port833",
           "name": "Novorossiysk",
           "country": "Russia",
           "basin": "Black Sea",
-          "max_wind_ms": 10.4,
+          "max_wind_ms": 10.3,
           "max_precip_24h_mm": 6.1,
           "pressure": 0.0,
-          "valid_to": "2026-11-14T12:00:00Z"
+          "valid_to": "2026-11-14T18:00:00Z"
         },
         {
           "id": "port260",
           "name": "Constanta",
           "country": "Romania",
           "basin": "Black Sea",
-          "max_wind_ms": 8.9,
+          "max_wind_ms": 6.9,
           "max_precip_24h_mm": 1.1,
           "pressure": 0.0,
-          "valid_to": "2026-11-14T12:00:00Z"
+          "valid_to": "2026-11-14T18:00:00Z"
         },
         {
           "id": "port1139",
@@ -820,19 +820,19 @@
           "country": "Türkiye",
           "basin": "Black Sea",
           "max_wind_ms": 10.1,
-          "max_precip_24h_mm": 1.0,
+          "max_precip_24h_mm": 0.7,
           "pressure": 0.0,
-          "valid_to": "2026-11-14T12:00:00Z"
+          "valid_to": "2026-11-14T18:00:00Z"
         },
         {
           "id": "port16",
           "name": "Aktau Port",
           "country": "Kazakhstan",
           "basin": "Caspian Sea",
-          "max_wind_ms": 11.0,
-          "max_precip_24h_mm": 11.3,
+          "max_wind_ms": 10.1,
+          "max_precip_24h_mm": 3.0,
           "pressure": 0.0,
-          "valid_to": "2026-11-14T12:00:00Z"
+          "valid_to": "2026-11-14T18:00:00Z"
         },
         {
           "id": "port76",
@@ -842,7 +842,7 @@
           "max_wind_ms": 5.8,
           "max_precip_24h_mm": 4.6,
           "pressure": 0.0,
-          "valid_to": "2026-11-14T12:00:00Z"
+          "valid_to": "2026-11-14T18:00:00Z"
         },
         {
           "id": "port1330",
@@ -850,20 +850,15 @@
           "country": "Turkmenistan",
           "basin": "Caspian Sea",
           "max_wind_ms": 10.0,
-          "max_precip_24h_mm": 1.2,
+          "max_precip_24h_mm": 2.6,
           "pressure": 0.0,
-          "valid_to": "2026-11-14T12:00:00Z"
+          "valid_to": "2026-11-14T18:00:00Z"
         }
       ],
-      "source_collected_at": "2026-11-07T12:51:24.677331+00:00"
+      "source_collected_at": "2026-11-07T21:43:24.033090+00:00"
     }
   },
   "history": [
-    {
-      "generated": "2026-10-19T12:56:11.198486+00:00",
-      "score": 33.5,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-19T22:16:19.614195+00:00",
       "score": 33.3,
@@ -1157,6 +1152,11 @@
     {
       "generated": "2026-11-07T12:51:24.677331+00:00",
       "score": 44.4,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-11-07T21:43:24.033090+00:00",
+      "score": 43.9,
       "status": "WATCH"
     }
   ],
