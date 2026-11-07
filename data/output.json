@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "caspian-black-sea-monitor",
-    "generated": "2026-11-06T19:15:54.341565+00:00",
+    "generated": "2026-11-07T05:47:24.675151+00:00",
     "mode": "partial",
     "version": "2.0.0",
     "horizon": "0–14 days",
@@ -14,11 +14,11 @@
     ]
   },
   "warning": {
-    "score": 33.6,
-    "raw_score": 33.6,
+    "score": 35.8,
+    "raw_score": 35.8,
     "concurrence_bonus": 0.0,
     "status": "WATCH",
-    "headline": "Caspian–Black Sea escalation pressure is watch at 33.6/100.",
+    "headline": "Caspian–Black Sea escalation pressure is watch at 35.8/100.",
     "interpretation": "The index combines physical maritime anomalies with independent institutional language, sanctions, commodity, and forward-weather signals. It is a screening warning, not an incident forecast."
   },
   "components": {
@@ -58,7 +58,7 @@
             "threat"
           ],
           "weight": 2.5,
-          "age_days": 7
+          "age_days": 8
         },
         {
           "date": "2026-10-30",
@@ -71,7 +71,7 @@
             "threat"
           ],
           "weight": 2.5,
-          "age_days": 7
+          "age_days": 8
         },
         {
           "date": "2026-10-29",
@@ -84,7 +84,7 @@
             "defence"
           ],
           "weight": 2.0,
-          "age_days": 8
+          "age_days": 9
         },
         {
           "date": "2026-10-29",
@@ -97,7 +97,7 @@
             "defence"
           ],
           "weight": 2.0,
-          "age_days": 8
+          "age_days": 9
         },
         {
           "date": "2026-10-28",
@@ -112,7 +112,7 @@
             "security"
           ],
           "weight": 5.25,
-          "age_days": 9
+          "age_days": 10
         },
         {
           "date": "2026-10-28",
@@ -127,7 +127,7 @@
             "security"
           ],
           "weight": 5.25,
-          "age_days": 9
+          "age_days": 10
         },
         {
           "date": "2026-10-26",
@@ -138,7 +138,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 11
+          "age_days": 12
         },
         {
           "date": "2026-10-26",
@@ -149,7 +149,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 11
+          "age_days": 12
         },
         {
           "date": "2026-10-23",
@@ -160,7 +160,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 14
+          "age_days": 15
         },
         {
           "date": "2026-10-23",
@@ -171,7 +171,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 14
+          "age_days": 15
         },
         {
           "date": "2026-10-09",
@@ -182,7 +182,7 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 28
+          "age_days": 29
         },
         {
           "date": "2026-10-09",
@@ -193,24 +193,40 @@
           ],
           "posture_terms": [],
           "weight": 1.0,
-          "age_days": 28
+          "age_days": 29
         }
       ],
-      "source_collected_at": "2026-11-06T19:15:54.341565+00:00"
+      "source_collected_at": "2026-11-07T05:47:24.675151+00:00"
     },
     "regional_sanctions": {
       "key": "regional_sanctions",
-      "score": 23.1,
-      "status": "BASELINE",
+      "score": 29.7,
+      "status": "WATCH",
       "weight": 0.2,
       "available": true,
       "retained": false,
-      "coverage": 33,
-      "current_14d_weekly_equivalent": 7.0,
+      "coverage": 35,
+      "current_14d_weekly_equivalent": 9.0,
       "baseline_weekly_median": 10.0,
-      "anomaly_z": -0.37,
+      "anomaly_z": -0.12,
       "method": "Russia/Iran/region-linked OFAC title intensity over 14 days versus 12 prior weeks.",
       "evidence": [
+        {
+          "title": "Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime",
+          "action": "Iran-related Designations",
+          "date": "2026-11-06",
+          "url": "https://home.treasury.gov/news/press-releases/sb0686/",
+          "region_terms": [
+            "iran",
+            "iranian"
+          ],
+          "posture_terms": [
+            "designation",
+            "sanction"
+          ],
+          "weight": 4.0,
+          "age_days": 1
+        },
         {
           "title": "Disrupting Iran's Pursuit of Man-Portable Air-Defense Systems",
           "action": "Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question",
@@ -224,7 +240,7 @@
             "disrupt"
           ],
           "weight": 4.5,
-          "age_days": 2
+          "age_days": 3
         },
         {
           "title": "U.S. Sanctions Fraudulent Ship Registries and Aviation Support for Iranian Regime",
@@ -240,7 +256,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 2
+          "age_days": 3
         },
         {
           "title": "Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime",
@@ -258,7 +274,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 2
+          "age_days": 3
         },
         {
           "title": "Operation Economic Outcast Targets Iran's Shadow Fleet Networks",
@@ -276,7 +292,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 16
+          "age_days": 17
         },
         {
           "title": "Sanctioning Cuban State-Owned Banco Internacional de Comercio, S.A. (BICSA)",
@@ -291,7 +307,7 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 22
+          "age_days": 23
         },
         {
           "title": "Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture",
@@ -307,7 +323,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 22
+          "age_days": 23
         },
         {
           "title": "Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks",
@@ -324,7 +340,7 @@
             "targets"
           ],
           "weight": 5.5,
-          "age_days": 22
+          "age_days": 23
         },
         {
           "title": "Operation Economic Outcast Sanctions on Iran's Shadow Fleet Network",
@@ -341,7 +357,7 @@
             "sanction"
           ],
           "weight": 5.0,
-          "age_days": 29
+          "age_days": 30
         },
         {
           "title": "Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network",
@@ -358,7 +374,7 @@
             "network"
           ],
           "weight": 3.5,
-          "age_days": 29
+          "age_days": 30
         },
         {
           "title": "Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative",
@@ -373,10 +389,10 @@
             "sanction"
           ],
           "weight": 4.0,
-          "age_days": 32
+          "age_days": 33
         }
       ],
-      "source_collected_at": "2026-11-06T19:15:54.341565+00:00"
+      "source_collected_at": "2026-11-07T05:47:24.675151+00:00"
     },
     "commodity_dislocation": {
       "key": "commodity_dislocation",
@@ -411,7 +427,7 @@
           "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM"
         }
       ],
-      "source_collected_at": "2026-11-06T19:15:54.341565+00:00"
+      "source_collected_at": "2026-11-07T05:47:24.675151+00:00"
     },
     "port_weather": {
       "key": "port_weather",
@@ -427,11 +443,6 @@
     }
   },
   "history": [
-    {
-      "generated": "2026-10-18T20:31:58.695606+00:00",
-      "score": 34.0,
-      "status": "WATCH"
-    },
     {
       "generated": "2026-10-19T04:28:09.788412+00:00",
       "score": 33.6,
@@ -725,6 +736,11 @@
     {
       "generated": "2026-11-06T19:15:54.341565+00:00",
       "score": 33.6,
+      "status": "WATCH"
+    },
+    {
+      "generated": "2026-11-07T05:47:24.675151+00:00",
+      "score": 35.8,
       "status": "WATCH"
     }
   ],
